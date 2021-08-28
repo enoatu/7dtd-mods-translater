@@ -2,11 +2,11 @@
   "name": "7dtd-localization-japanese",
   "version": "0.0.1",
   "scripts": {
-    "fmt": "prettier --check --write '*.mjs'"
+    "fmt": "prettier --check --write 'src/**/*{.mjs,.js}'"
   },
   "lint-staged": {
     "*": [
-      "prettier --check --write '*.mjs'"
+      "prettier --check --write 'src/**/*{.mjs,.js}'"
     ]
   },
   "dependencies": {
