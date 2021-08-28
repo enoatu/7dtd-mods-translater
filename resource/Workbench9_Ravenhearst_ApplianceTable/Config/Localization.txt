@@ -1,0 +1,4 @@
+﻿Key,Source,Context,English
+applianceTableRH,blocks,Workstation,Appliance Table,,,,,
+applianceTableRHDesc,blocks,Workstation,"Put all of your appliances on this table for ease of access.",,,,,
+

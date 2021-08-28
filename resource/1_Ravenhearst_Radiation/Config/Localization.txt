@@ -1,0 +1,9 @@
+﻿Key,Source,Context,English
+apparelHazmatBootsArmoredRH,items,Clothes,Hazmat Boots (Armored),,,,,
+apparelHazmatPantsArmoredRH,items,Clothes,Hazmat Pants (Armored),,,,,
+apparelHazmatJacketArmoredRH,items,Clothes,Hazmat Jacket (Armored),,,,,
+apparelHazmatGlovesArmoredRH,items,Clothes,Hazmat Gloves (Armored),,,,,
+apparelHazmatMaskArmoredRH,items,Clothes,Hazmat Mask (Armored),,,,,
+apparelHazmatArmoredDesc,items,Clothes,This reinforced hazmat piece not only protects from green radiation smoke but it provides some protection from zombies as well.,,,,,
+apparelHazmatRHSchematic,items,Item,Hazmat Suit Recipe,,,,,
+apparelHazmatArmoredRHSchematic,items,Item,Armored Hazmat Suit Recipe,,,,,

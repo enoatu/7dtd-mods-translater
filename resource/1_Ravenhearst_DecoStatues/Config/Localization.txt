@@ -1,0 +1,11 @@
+﻿Key,Source,Context,English
+statueRHSchematic,items,Item,Statue Schematic,,,,,
+statue01RH,blocks,Block,Gothic Statue 1,,,,,
+statue02RH,blocks,Block,Gothic Statue 2,,,,,
+statue03RH,blocks,Block,Gothic Statue 3,,,,,
+statue04RH,blocks,Block,Gothic Statue 4,,,,,
+statue05RH,blocks,Block,Gothic Statue 5,,,,,
+statue06RH,blocks,Block,Gothic Statue 6,,,,,
+statue07RH,blocks,Block,Gothic Statue 7,,,,,
+lionStatueRH,blocks,Block,Lion Statue,,,,,
+statueBlockVariantHelperRH,blocks,Variant,Gothic Statues Block,,,,,

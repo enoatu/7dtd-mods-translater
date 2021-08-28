@@ -1,0 +1,4 @@
+﻿Key,Source,Context,English
+electricTableRH,blocks,Workstation,Electrician Table,,,,,
+electricTableRHDesc,blocks,Workstation,"The electrician table is used to construct electrical items such as doors and lights.",,,,,
+electricTableRHSchematic,blocks,Workstation,Electrician Table Schematic,,,,,

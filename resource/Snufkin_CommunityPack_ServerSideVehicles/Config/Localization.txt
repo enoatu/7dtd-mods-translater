@@ -1,0 +1,9 @@
+Key,Source,Context,Changes,English
+vehicleHellCarRHSchematic,items,Melee,EnChanged,HellCar Schematic,,,,,
+vehicleHellDogRHSchematic,items,Melee,EnChanged,HellDog Schematic,,,,,
+vehicleHellSpikey4x4RHSchematic,items,Melee,EnChanged,HellSpikey4x4 Schematic,,,,,
+vehicleHellFireRHSchematic,items,Melee,EnChanged,HellFire Schematic,,,,,
+vehicleHellHound4x4RHSchematic,items,Melee,EnChanged,HellHound4x4 Schematic,,,,,
+vehicleHellBeastRHSchematic,items,Melee,EnChanged,HellBeast Schematic,,,,,
+vehicleATVRHSchematic,items,Melee,EnChanged,ATV Schematic,,,,,
+

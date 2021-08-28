@@ -1,0 +1,6 @@
+Key,english,japanese
+
+------------------Blocks---------------------------
+IronBarDoor2x2Block,"[e7a729]2x2 Iron Bar Door[-]","[e7a729]Japanese[-]"
+IronBarDoor2x2BlockDesc,"[e7a729]A 2x2 iron bar door. Both doors will open at the same time. Can be locked and passcoded. Places towards you, unless you rotate it.[-]","[e7a729]Japanese[-]"
+

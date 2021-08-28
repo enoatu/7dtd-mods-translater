@@ -1,0 +1,10 @@
+﻿Key,Source,Context,English
+decoRouletteTableRH,blocks,Block,Roulette Table,,,,,
+decoBlackjackTableRH,blocks,Block,Blackjack Table,,,,,
+casinoDesc,blocks,Block,Step right up everyone and take a game of chance with Mikes Casino! Never mind the tokens and cards in the back pocket of our dealer Dan.,,,,,
+decoMixedBottlesRH,blocks,Block,Liquor Bottles Standing
+decoMixedBottles1RH,blocks,Block,Liquor Bottles Mixed Few
+decoMixedBottles2RH,blocks,Block,Liquor Bottles Mixed Many
+decoMixedBottlesHelperRH,blocks,Block,= Liquor Bottles = Random Helper,,,,,
+decoBottleRH,blocks,Block,Wine Bottle,,,,,
+decoBottlesContainerRH,blocks,Block,Bottle Container,,,,,

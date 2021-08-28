@@ -1,0 +1,11 @@
+﻿Key,Source,Context,English
+decoChildsToysRH,blocks,Block,Childs Toys,,,,,
+decoChildsToysRHDesc,blocks,Block,The sound of the children giggling can still be heard in the whistle of the wind.,,,,,
+decoBabyCribRH,blocks,Block,Baby Crib,,,,,
+decoBabyCribRHDesc,blocks,Block,What would you put in here?,,,,,
+cntOldVanityRH,blocks,Container,Old Vanity (Storage),,,,,
+cntOldVanityRHDesc,blocks,Block,Sitting in front of this please make sure she doesn't catch you looking at her in the mirror. She is very shy.,,,,,
+decoNewBed01RH,blocks,Block,Weathered Bed,,,,,
+decoNewBed01RHDesc,blocks,Block,Someone probably died in this. But sleep is sleep!,,,,,
+decoJackintheBoxRH,blocks,Block,Jack in the Box,,,,,
+decoJackintheBoxRHDesc,blocks,Block,Round and round the handle goes what pops forth no one knows.,,,,,

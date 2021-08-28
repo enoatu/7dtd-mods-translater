@@ -1,0 +1,430 @@
+Key,File,Type,english
+animalFox,entityclasses,Entity,Fox
+animalRobin,entityclasses,Entity,Robin
+animalCrow,entityclasses,Entity,Crow
+animalEagle,entityclasses,Entity,Eagle
+animalAlcatraz,entityclasses,Entity,Alcatraz
+animalBloatfly,entityclasses,Entity,Bloatfly
+animalGuppyInsect,entityclasses,Entity,Giant Bee
+animalPug,entityclasses,Entity,Pug
+animalBeagle,entityclasses,Entity,Beagle
+animalBat,entityclasses,Entity,Bat
+animalBats,entityclasses,Entity,Bats
+animalGoat,entityclasses,Entity,Goat
+animalWolfhound,entityclasses,Entity,Hound
+animalWulf,entityclasses,Entity,White Wolf
+animalBanditWolf,entityclasses,Entity,Bandit Wolf
+animalSpider01,entityclasses,Entity,Young Spider
+animalSpider02,entityclasses,Entity,Spider
+animalSpider03,entityclasses,Entity,Hunter Spider
+animalSnowSwarm_X,entityclasses,Entity,Snow Swarm
+animalSnowTornado_X,entityclasses,Entity,Snow Tornado
+animalBloodFlySwarm_X,entityclasses,Entity,Blood Swarm
+buffSnowSwarm,buffs,Buff,New,"You are inside a snow storm, take cover or you may get frost bite!"
+buffFrostbiteDesc,buffs,Buff,New,"Minor frostbite will reduce your stamina, stay out of snow storms to avoid a severe case of frostbite."
+buffFrostbiteTooltip,buffs,Buff,New,You have minor frostbite.
+buffFrostbite2Desc,buffs,Buff,New,You have severe frostbite!
+buffFrostbite2Tooltip,buffs,Buff,New,"You have severe frostbite, you health gain is reduced by 50%!"
+FoodChangeOT,ui_display,Buff,New,Food Loss Over-Time
+FoodLossPerStaminaPointGained,ui_display,Buff,New,Food Loss Per Stamina Gain
+junkTurretSledge,entityclasses,Entity,Sledge Turret
+junkTurretGun,entityclasses,Entity,Turret
+animalMountainLion,entityclasses,Entity,Mountain Lion
+animalZombieDog,entityclasses,Entity,Infected Dog
+animalCoyote,entityclasses,Entity,Coyote
+animalWolf,entityclasses,Entity,Wolf
+animalDireWolf,entityclasses,Entity,Dire Wolf
+animalSnake,entityclasses,Entity,Snake
+animalBear,entityclasses,Entity,Wild Bear
+animalZombieBear,entityclasses,Entity,Infected Bear
+animalBoar,entityclasses,Entity,Wild Boar
+animalBossGrace,entityclasses,Entity,Radiated Boar
+animalZombieVulture,entityclasses,Entity,Infected Vulture
+animalZombieVultureRadiated,entityclasses,Entity,Radiated Vulture
+zombieJanitor,entityclasses,Entity,Infected Janitor
+zombieJanitorFeral,entityclasses,Entity,Feral Janitor
+zombieJanitorRadiated,entityclasses,Entity,Radiated Janitor
+zombieArleneRadiated,entityclasses,Entity,Radiated Putrid Girl
+zombieBiker,entityclasses,Entity,Infected Biker
+zombieBikerFeral,entityclasses,Entity,Feral Biker
+zombieBikerRadiated,entityclasses,Entity,Radiated Biker
+zombieSkateboarder,entityclasses,Entity,Infected Skater Punk
+zombieSkateboarderFeral,entityclasses,Entity,Feral Skater
+zombieSkateboarderRadiated,entityclasses,Entity,Radiated Punk
+zombieBoeRadiated,entityclasses,Entity,Radiated Infected Survivor
+zombieCheerleader,entityclasses,Entity,Infected Cheerleader
+zombieCheerleaderFeral,entityclasses,Entity,Feral Cheerleader
+zombieCheerleaderRadiated,entityclasses,Entity,Radiated Cheerleader
+zombieDarleneRadiated,entityclasses,Entity,Radiated Decayed Mother
+zombieFemaleFatRadiated,entityclasses,Entity,Radiated Hungry Zombie
+zombieJoeRadiated,entityclasses,Entity,Radiated Cadaver
+zombieMarleneRadiated,entityclasses,Entity,Radiated Woman
+zombieMoeRadiated,entityclasses,Entity,Radiated Bloated Walker
+zombieOldTimerRadiated,entityclasses,Entity,Radiated Zombie Cowboy
+zombieScreamerRadiated,entityclasses,Entity,Radiated Screamer
+zombieSoldierRadiated,entityclasses,Entity,Radiated Soldier
+zombieSpiderRadiated,entityclasses,Entity,Radiated Spider Zombie
+zombieUtilityWorker,entityclasses,Entity,Infected Utility Worker
+zombieUtilityWorkerFeral,entityclasses,Entity,Feral Utility Worker
+zombieYoRadiated,entityclasses,Entity,Radiated Carcass
+zombieDemolition,entityclasses,Entity,The Demolition Man
+zombieWightRadiated,entityclasses,Entity,Radiated Wight
+zombieLab,entityclasses,Entity,Infected Lab Assistant
+zombieLabFeral,entityclasses,Entity,Feral Lab Assistant
+zombieLabRadiated,entityclasses,Entity,Radiated Lab Assistant
+legendaryZombieLab,entityclasses,Entity,Legendary Lab Assistant
+legendaryZombieBusinessMan,entityclasses,Entity,Legendary Business Man
+legendaryZombieUtilityWorker,entityclasses,Entity,Legendary Utility Worker
+zombieArleneV1,entityclasses,Entity,Arlene
+zombieArleneV2,entityclasses,Entity,Arlene
+zombieArleneV3,entityclasses,Entity,Arlene
+zombieArleneV4,entityclasses,Entity,Arlene
+zombieArleneFeralV1,entityclasses,Entity,Feral Arlene
+zombieArleneRadiatedV1,entityclasses,Entity,Radiated Arlene
+zombieBoeV1,entityclasses,Entity,Boe
+zombieBoeV2,entityclasses,Entity,Boe
+zombieBoeV3,entityclasses,Entity,Boe
+zombieBoeV4,entityclasses,Entity,Boe
+zombieBoeFeralV1,entityclasses,Entity,Feral Boe
+zombieBoeRadiatedV1,entityclasses,Entity,Radiated Boe
+zombieSteveCrawlerV1,entityclasses,Entity,Burnt Crawler
+zombieSteveCrawlerV2,entityclasses,Entity,Moldy Crawler
+zombieSteveCrawlerV3,entityclasses,Entity,Mossy Crawler
+zombieSteveCrawlerV4,entityclasses,Entity,Skinned Crawler
+zombieMoeV1,entityclasses,Entity,Moe
+zombieMoeV2,entityclasses,Entity,Moe
+zombieMoeV3,entityclasses,Entity,Moe
+zombieMoeV4,entityclasses,Entity,Moe
+zombieMoeFeralV1,entityclasses,Entity,Feral Moe
+zombieMoeRadiatedV1,entityclasses,Entity,Radiated Moe
+zombieYoV1,entityclasses,Entity,Mr. Yo
+zombieYoV2,entityclasses,Entity,Mr. Yo
+zombieYoV3,entityclasses,Entity,Mr. Yo
+zombieYoV4,entityclasses,Entity,Mr. Yo
+zombieYoFeralV1,entityclasses,Entity,Feral Mr. Yo
+zombieYoRadiatedV1,entityclasses,Entity,Radiated Mr. Yo
+zombieFatMamaHDV1,entityclasses,Entity,Big Mama
+zombieFatMamaHDV2,entityclasses,Entity,Big Mama
+zombieFatMamaHDV3,entityclasses,Entity,Big Mama
+zombieFatMamaHDV4,entityclasses,Entity,Big Mama
+zombieFatMamaHDVFeral,entityclasses,Entity,Feral Big Mama
+zombieFatMamaHDVRadiated,entityclasses,Entity,Radiated Big Mama
+zombieDarleneHDV1,entityclasses,Entity,Darlene
+zombieDarleneHDV2,entityclasses,Entity,Darlene
+zombieDarleneHDV3,entityclasses,Entity,Darlene
+zombieDarleneHDV4,entityclasses,Entity,Darlene
+zombieDarleneHDVFeral,entityclasses,Entity,Feral Darlene
+zombieDarleneHDVRadiated,entityclasses,Entity,Radiated Darlene
+zombieMarleneHDV1,entityclasses,Entity,Marlene
+zombieMarleneHDV2,entityclasses,Entity,Marlene
+zombieMarleneHDV3,entityclasses,Entity,Marlene
+zombieMarleneHDV4,entityclasses,Entity,Marlene
+zombieMarleneHDVFeral,entityclasses,Entity,Feral Marlene
+zombieMarleneHDVRadiated,entityclasses,Entity,Radiated Marlene
+zombieJanitorHDV1,entityclasses,Entity,The Janitor
+zombieJanitorHDV2,entityclasses,Entity,The Janitor
+zombieJanitorHDVFeral,entityclasses,Entity,The Feral Janitor
+zombieJanitorHDVRadiated,entityclasses,Entity,The Radiated Janitor
+zombieSteveHDV1,entityclasses,Entity,Steve
+zombieSteveHDV2,entityclasses,Entity,Steve
+zombieSteveHDV3,entityclasses,Entity,Steve
+zombieSteveHDV4,entityclasses,Entity,Steve
+zombieSteveHDVFeral,entityclasses,Entity,Feral Steve
+zombieSteveHDVRadiated,entityclasses,Entity,Radiated Steve
+zombieJoeHDV1,entityclasses,Entity,Joe
+zombieJoeHDV2,entityclasses,Entity,Joe
+zombieJoeHDV3,entityclasses,Entity,Joe
+zombieJoeHDV4,entityclasses,Entity,Joe
+zombieJoeHDVFeral,entityclasses,Entity,Feral Joe
+zombieJoeHDVRadiated,entityclasses,Entity,Radiated Joe
+zombieBikerHDV1,entityclasses,Entity,Biker
+zombieBikerHDV2,entityclasses,Entity,Biker
+zombieBikerHDV3,entityclasses,Entity,Biker
+zombieBikerHDVFeral,entityclasses,Entity,Feral Biker
+zombieBikerHDVRadiated,entityclasses,Entity,Radiated Biker
+zombieSanta,entityclasses,Entity,Mall Santa
+zombieSantaFeral,entityclasses,Entity,Feral Mall Santa
+zombieNurseTemplate,entityclasses,Entity,Infected Nurse
+zombieNurseTemplateFeral,entityclasses,Entity,Feral Nurse
+zombieFemaleTutorial,entityclasses,Entity,Infected Neighbor
+zombieFemaleTutorialFeral,entityclasses,Entity,Feral Neighbor
+zombieGuppyBlackSoldierMaskHelmet,entityclasses,Entity,Masked Soldier
+zombieGuppyBlackSoldierMaskHelmetFeral,entityclasses,Entity,Feral Masked Soldier
+zombieGuppyBlackSoldierHelmetNoMask,entityclasses,Entity,Infected Soldier
+zombieGuppyBlackSoldierHelmetNoMaskFeral,entityclasses,Entity,Feral Solder
+zombieGuppySoldier01,entityclasses,Entity,Soldier
+zombieGuppySoldier01Feral,entityclasses,Entity,Feral Soldier
+zombieGuppySoldier01Crawler,entityclasses,Entity,Crawler Soldier
+zombieGuppySoldier01CrawlerFeral,entityclasses,Entity,Feral Crawler Soldier
+zombieGuppySoldierFemale01,entityclasses,Entity,Lieutenant
+zombieGuppySoldierFemale01Feral,entityclasses,Entity,Feral Lieutenant
+zombieGuppySoldierFemale01Helmet,entityclasses,Entity,Cadet
+zombieGuppySoldierFemale01HelmetFeral,entityclasses,Entity,Feral Cadet
+zombieGuppySoldierLeader,entityclasses,Entity,Infected General
+zombieGuppySoldierLeaderFeral,entityclasses,Entity,Feral General
+zombieGuppyDoctor01,entityclasses,Entity,Infected Doctor
+zombieGuppyDoctor01Feral,entityclasses,Entity,Feral Doctor
+zombieGuppyDoctor02,entityclasses,Entity,Infected Surgeon
+zombieGuppyDoctor02Feral,entityclasses,Entity,Feral Surgeon
+zombieGuppyDoctor03,entityclasses,Entity,Infected Physician
+zombieGuppyDoctor03Feral,entityclasses,Entity,Feral Physician
+zombieGuppyDoctor04Black,entityclasses,Entity,Assistant Surgeon
+zombieGuppyDoctor04BlackFeral,entityclasses,Entity,Feral Assistant Surgeon
+zombieGuppyDoctorFemale01,entityclasses,Entity,Infected Doctor
+zombieGuppyDoctorFemale01Feral,entityclasses,Entity,Feral Doctor
+zombieGuppyDoctorFemale02,entityclasses,Entity,Infected Surgeon
+zombieGuppyDoctorFemale02Feral,entityclasses,Entity,Feral Surgeon
+zombieHazmatFemale01TSBX,entityclasses,Entity,The Quarantined
+zombieHazmatFemale01TSBXFeral,entityclasses,Entity,Feral Quarantined
+zombieGuppyMalePatient,entityclasses,Entity,Patient Zero
+zombieGuppyProstitute,entityclasses,Entity,Stripper
+zombieGuppyAlma,entityclasses,Entity,Infected Child
+zombieRekt,entityclasses,Entity,Infected Farmer
+zombieRektFeral,entityclasses,Entity,Feral Farmer
+zombieRektRadiated,entityclasses,Entity,Radiated Farmer
+zombieWhiteClown,entityclasses,Entity,Crazed
+zombieHugh,entityclasses,Entity,Frozen Hugh
+zombieHughFeral,entityclasses,Entity,Feral Frozen Hugh
+zombieHughRadiated,entityclasses,Entity,Radiated Frozen Hugh
+zombieGuppyBaldCop,entityclasses,Entity,Infected Cop
+zombieGuppyBaldMan,entityclasses,Entity,Infected
+zombieGuppyBeatCop,entityclasses,Entity,Infected Deputy
+zombieGuppyBelle,entityclasses,Entity,Infected Schoolgirl
+zombieGuppyCarmela,entityclasses,Entity,The Walker
+zombieGuppyLucy,entityclasses,Entity,Hungry Child
+zombieMalacayFCiv01,entityclasses,Entity,Infected Civilian
+zombieGuppyPete,entityclasses,Entity,Pete
+zombieGirl,entityclasses,Entity,Infected Teacher
+zombieGuppyHungryJeff,entityclasses,Entity,Hungry Jeff
+zombieGuppyNurse,entityclasses,Entity,Infected Nurse's Aid
+zombieGuppyOldManZombie,entityclasses,Entity,Infected Hobo
+zombieGuppyPoliceRalph,entityclasses,Entity,Officer Ralph
+zombieGuppySeth,entityclasses,Entity,The Chosen One
+zombieCopSheriffTSBX,entityclasses,Entity,Infected Sheriff
+zombieCopSheriffTSBXFeral,entityclasses,Entity,Feral Sheriff
+zombieCopSwat01TSBX,entityclasses,Entity,Infected Swat Member
+zombieCopSwat01TSBXFeral,entityclasses,Entity,Feral Swat Member
+zombieCopCityFemale01TSBX,entityclasses,Entity,Infected Officer
+zombieCopCityFemale01TSBXFeral,entityclasses,Entity,Feral Officer
+zombieHoly01MUMPFY,entityclasses,Entity,Lost Raver
+zombieHoly01MUMPFYFeral,entityclasses,Entity,Feral Raver
+zombieGuppyPest,entityclasses,Entity,Pest
+zombieGuppyBiomechanicalWight,entityclasses,Entity,Burnt Wight
+zombieGuppyClot,entityclasses,Entity,Clot
+zombieGuppyCreepyCrawly,entityclasses,Entity,Creepy Crawly
+zombieGuppyInfernalDog,entityclasses,Entity,Infernal Dog
+zombieBehemoth,entityclasses,Entity,Behemoth
+zombieGuppyAbonimation,entityclasses,Entity,The Abomination
+zombieJanitorT1,entityclasses,Entity,Infected Janitor
+zombieJanitorFeralT1,entityclasses,Entity,Feral Janitor
+zombieJanitorRadiatedT1,entityclasses,Entity,Radiated Janitor
+zombieArleneRadiatedT1,entityclasses,Entity,Radiated Putrid Girl
+zombieBikerT1,entityclasses,Entity,Infected Biker
+zombieBikerFeralT1,entityclasses,Entity,Feral Biker
+zombieBikerRadiatedT1,entityclasses,Entity,Radiated Biker
+zombieSkateboarderT1,entityclasses,Entity,Infected Skater Punk
+zombieSkateboarderFeralT1,entityclasses,Entity,Feral Skater
+zombieSkateboarderRadiatedT1,entityclasses,Entity,Radiated Punk
+zombieBoeRadiatedT1,entityclasses,Entity,Radiated Infected Survivor
+zombieCheerleaderT1,entityclasses,Entity,Infected Cheerleader
+zombieCheerleaderFeralT1,entityclasses,Entity,Feral Cheerleader
+zombieCheerleaderRadiatedT1,entityclasses,Entity,Radiated Cheerleader
+zombieDarleneRadiatedT1,entityclasses,Entity,Radiated Decayed Mother
+zombieFemaleFatRadiatedT1,entityclasses,Entity,Radiated Hungry Zombie
+zombieJoeRadiatedT1,entityclasses,Entity,Radiated Cadaver
+zombieMarleneRadiatedT1,entityclasses,Entity,Radiated Woman
+zombieMoeRadiatedT1,entityclasses,Entity,Radiated Bloated Walker
+zombieOldTimerRadiatedT1,entityclasses,Entity,Radiated Zombie Cowboy
+zombieScreamerRadiatedT1,entityclasses,Entity,Radiated Screamer
+zombieSoldierRadiatedT1,entityclasses,Entity,Radiated Soldier
+zombieSpiderRadiatedT1,entityclasses,Entity,Radiated Spider Zombie
+zombieUtilityWorkerT1,entityclasses,Entity,Infected Utility Worker
+zombieUtilityWorkerFeralT1,entityclasses,Entity,Feral Utility Worker
+zombieYoRadiatedT1,entityclasses,Entity,Radiated Carcass
+zombieDemolitionT1,entityclasses,Entity,The Demolition Man
+zombieWightRadiatedT1,entityclasses,Entity,Radiated Wight
+zombieLabT1,entityclasses,Entity,Infected Lab Assistant
+zombieLabFeralT1,entityclasses,Entity,Feral Lab Assistant
+zombieJanitorT2,entityclasses,Entity,Infected Janitor
+zombieJanitorFeralT2,entityclasses,Entity,Feral Janitor
+zombieJanitorRadiatedT2,entityclasses,Entity,Radiated Janitor
+zombieArleneRadiatedT2,entityclasses,Entity,Radiated Putrid Girl
+zombieBikerT2,entityclasses,Entity,Infected Biker
+zombieBikerFeralT2,entityclasses,Entity,Feral Biker
+zombieBikerRadiatedT2,entityclasses,Entity,Radiated Biker
+zombieSkateboarderT2,entityclasses,Entity,Infected Skater Punk
+zombieSkateboarderFeralT2,entityclasses,Entity,Feral Skater
+zombieSkateboarderRadiatedT2,entityclasses,Entity,Radiated Punk
+zombieBoeRadiatedT2,entityclasses,Entity,Radiated Infected Survivor
+zombieCheerleaderT2,entityclasses,Entity,Infected Cheerleader
+zombieCheerleaderFeralT2,entityclasses,Entity,Feral Cheerleader
+zombieCheerleaderRadiatedT2,entityclasses,Entity,Radiated Cheerleader
+zombieDarleneRadiatedT2,entityclasses,Entity,Radiated Decayed Mother
+zombieFemaleFatRadiatedT2,entityclasses,Entity,Radiated Hungry Zombie
+zombieJoeRadiatedT2,entityclasses,Entity,Radiated Cadaver
+zombieMarleneRadiatedT2,entityclasses,Entity,Radiated Woman
+zombieMoeRadiatedT2,entityclasses,Entity,Radiated Bloated Walker
+zombieOldTimerRadiatedT2,entityclasses,Entity,Radiated Zombie Cowboy
+zombieScreamerRadiatedT2,entityclasses,Entity,Radiated Screamer
+zombieSoldierRadiatedT2,entityclasses,Entity,Radiated Soldier
+zombieSpiderRadiatedT2,entityclasses,Entity,Radiated Spider Zombie
+zombieUtilityWorkerT2,entityclasses,Entity,Infected Utility Worker
+zombieUtilityWorkerFeralT2,entityclasses,Entity,Feral Utility Worker
+zombieYoRadiatedT2,entityclasses,Entity,Radiated Carcass
+zombieDemolitionT2,entityclasses,Entity,The Demolition Man
+zombieWightRadiatedT2,entityclasses,Entity,Radiated Wight
+zombieLabT2,entityclasses,Entity,Infected Lab Assistant
+zombieLabFeralT2,entityclasses,Entity,Feral Lab Assistant
+zombieJanitorT3,entityclasses,Entity,Infected Janitor
+zombieJanitorFeralT3,entityclasses,Entity,Feral Janitor
+zombieJanitorRadiatedT3,entityclasses,Entity,Radiated Janitor
+zombieArleneRadiatedT3,entityclasses,Entity,Radiated Putrid Girl
+zombieBikerT3,entityclasses,Entity,Infected Biker
+zombieBikerFeralT3,entityclasses,Entity,Feral Biker
+zombieBikerRadiatedT3,entityclasses,Entity,Radiated Biker
+zombieSkateboarderT3,entityclasses,Entity,Infected Skater Punk
+zombieSkateboarderFeralT3,entityclasses,Entity,Feral Skater
+zombieSkateboarderRadiatedT3,entityclasses,Entity,Radiated Punk
+zombieBoeRadiatedT3,entityclasses,Entity,Radiated Infected Survivor
+zombieCheerleaderT3,entityclasses,Entity,Infected Cheerleader
+zombieCheerleaderFeralT3,entityclasses,Entity,Feral Cheerleader
+zombieCheerleaderRadiatedT3,entityclasses,Entity,Radiated Cheerleader
+zombieDarleneRadiatedT3,entityclasses,Entity,Radiated Decayed Mother
+zombieFemaleFatRadiatedT3,entityclasses,Entity,Radiated Hungry Zombie
+zombieJoeRadiatedT3,entityclasses,Entity,Radiated Cadaver
+zombieMarleneRadiatedT3,entityclasses,Entity,Radiated Woman
+zombieMoeRadiatedT3,entityclasses,Entity,Radiated Bloated Walker
+zombieOldTimerRadiatedT3,entityclasses,Entity,Radiated Zombie Cowboy
+zombieScreamerRadiatedT3,entityclasses,Entity,Radiated Screamer
+zombieSoldierRadiatedT3,entityclasses,Entity,Radiated Soldier
+zombieSpiderRadiatedT3,entityclasses,Entity,Radiated Spider Zombie
+zombieUtilityWorkerT3,entityclasses,Entity,Infected Utility Worker
+zombieUtilityWorkerFeralT3,entityclasses,Entity,Feral Utility Worker
+zombieYoRadiatedT3,entityclasses,Entity,Radiated Carcass
+zombieDemolitionT3,entityclasses,Entity,The Demolition Man
+zombieWightRadiatedT3,entityclasses,Entity,Radiated Wight
+zombieLabT3,entityclasses,Entity,Infected Lab Assistant
+zombieLabFeralT3,entityclasses,Entity,Feral Lab Assistant
+zombieJanitorT4,entityclasses,Entity,Infected Janitor
+zombieJanitorFeralT4,entityclasses,Entity,Feral Janitor
+zombieJanitorRadiatedT4,entityclasses,Entity,Radiated Janitor
+zombieArleneRadiatedT4,entityclasses,Entity,Radiated Putrid Girl
+zombieBikerT4,entityclasses,Entity,Infected Biker
+zombieBikerFeralT4,entityclasses,Entity,Feral Biker
+zombieBikerRadiatedT4,entityclasses,Entity,Radiated Biker
+zombieSkateboarderT4,entityclasses,Entity,Infected Skater Punk
+zombieSkateboarderFeralT4,entityclasses,Entity,Feral Skater
+zombieSkateboarderRadiatedT4,entityclasses,Entity,Radiated Punk
+zombieBoeRadiatedT4,entityclasses,Entity,Radiated Infected Survivor
+zombieCheerleaderT4,entityclasses,Entity,Infected Cheerleader
+zombieCheerleaderFeralT4,entityclasses,Entity,Feral Cheerleader
+zombieCheerleaderRadiatedT4,entityclasses,Entity,Radiated Cheerleader
+zombieDarleneRadiatedT4,entityclasses,Entity,Radiated Decayed Mother
+zombieFemaleFatRadiatedT4,entityclasses,Entity,Radiated Hungry Zombie
+zombieJoeRadiatedT4,entityclasses,Entity,Radiated Cadaver
+zombieMarleneRadiatedT4,entityclasses,Entity,Radiated Woman
+zombieMoeRadiatedT4,entityclasses,Entity,Radiated Bloated Walker
+zombieOldTimerRadiatedT4,entityclasses,Entity,Radiated Zombie Cowboy
+zombieScreamerRadiatedT4,entityclasses,Entity,Radiated Screamer
+zombieSoldierRadiatedT4,entityclasses,Entity,Radiated Soldier
+zombieSpiderRadiatedT4,entityclasses,Entity,Radiated Spider Zombie
+zombieUtilityWorkerT4,entityclasses,Entity,Infected Utility Worker
+zombieUtilityWorkerFeralT4,entityclasses,Entity,Feral Utility Worker
+zombieYoRadiatedT4,entityclasses,Entity,Radiated Carcass
+zombieDemolitionT4,entityclasses,Entity,The Demolition Man
+zombieWightRadiatedT4,entityclasses,Entity,Radiated Wight
+zombieLabT4,entityclasses,Entity,Infected Lab Assistant
+zombieLabFeralT4,entityclasses,Entity,Feral Lab Assistant
+zombieJanitorT5,entityclasses,Entity,Infected Janitor
+zombieJanitorFeralT5,entityclasses,Entity,Feral Janitor
+zombieJanitorRadiatedT5,entityclasses,Entity,Radiated Janitor
+zombieArleneRadiatedT5,entityclasses,Entity,Radiated Putrid Girl
+zombieBikerT5,entityclasses,Entity,Infected Biker
+zombieBikerFeralT5,entityclasses,Entity,Feral Biker
+zombieBikerRadiatedT5,entityclasses,Entity,Radiated Biker
+zombieSkateboarderT5,entityclasses,Entity,Infected Skater Punk
+zombieSkateboarderFeralT5,entityclasses,Entity,Feral Skater
+zombieSkateboarderRadiatedT5,entityclasses,Entity,Radiated Punk
+zombieBoeRadiatedT5,entityclasses,Entity,Radiated Infected Survivor
+zombieCheerleaderT5,entityclasses,Entity,Infected Cheerleader
+zombieCheerleaderFeralT5,entityclasses,Entity,Feral Cheerleader
+zombieCheerleaderRadiatedT5,entityclasses,Entity,Radiated Cheerleader
+zombieDarleneRadiatedT5,entityclasses,Entity,Radiated Decayed Mother
+zombieFemaleFatRadiatedT5,entityclasses,Entity,Radiated Hungry Zombie
+zombieJoeRadiatedT5,entityclasses,Entity,Radiated Cadaver
+zombieMarleneRadiatedT5,entityclasses,Entity,Radiated Woman
+zombieMoeRadiatedT5,entityclasses,Entity,Radiated Bloated Walker
+zombieOldTimerRadiatedT5,entityclasses,Entity,Radiated Zombie Cowboy
+zombieScreamerRadiatedT5,entityclasses,Entity,Radiated Screamer
+zombieSoldierRadiatedT5,entityclasses,Entity,Radiated Soldier
+zombieSpiderRadiatedT5,entityclasses,Entity,Radiated Spider Zombie
+zombieUtilityWorkerT5,entityclasses,Entity,Infected Utility Worker
+zombieUtilityWorkerFeralT5,entityclasses,Entity,Feral Utility Worker
+zombieYoRadiatedT5,entityclasses,Entity,Radiated Carcass
+zombieDemolitionT5,entityclasses,Entity,The Demolition Man
+zombieWightRadiatedT5,entityclasses,Entity,Radiated Wight
+zombieLabT5,entityclasses,Entity,Infected Lab Assistant
+zombieLabFeralT5,entityclasses,Entity,Feral Lab Assistant
+zombieJanitorAirDropT1,entityclasses,Entity,Infected Janitor
+zombieJanitorFeralAirDropT1,entityclasses,Entity,Feral Janitor
+zombieJanitorRadiatedAirDropT1,entityclasses,Entity,Radiated Janitor
+zombieArleneRadiatedAirDropT1,entityclasses,Entity,Radiated Putrid Girl
+zombieBikerAirDropT1,entityclasses,Entity,Infected Biker
+zombieBikerFeralAirDropT1,entityclasses,Entity,Feral Biker
+zombieBikerRadiatedAirDropT1,entityclasses,Entity,Radiated Biker
+zombieSkateboarderAirDropT1,entityclasses,Entity,Infected Skater Punk
+zombieSkateboarderFeralAirDropT1,entityclasses,Entity,Feral Skater
+zombieSkateboarderRadiatedAirDropT1,entityclasses,Entity,Radiated Punk
+zombieBoeRadiatedAirDropT1,entityclasses,Entity,Radiated Infected Survivor
+zombieCheerleaderAirDropT1,entityclasses,Entity,Infected Cheerleader
+zombieCheerleaderFeralAirDropT1,entityclasses,Entity,Feral Cheerleader
+zombieCheerleaderRadiatedAirDropT1,entityclasses,Entity,Radiated Cheerleader
+zombieDarleneRadiatedAirDropT1,entityclasses,Entity,Radiated Decayed Mother
+zombieFemaleFatRadiatedAirDropT1,entityclasses,Entity,Radiated Hungry Zombie
+zombieJoeRadiatedAirDropT1,entityclasses,Entity,Radiated Cadaver
+zombieMarleneRadiatedAirDropT1,entityclasses,Entity,Radiated Woman
+zombieMoeRadiatedAirDropT1,entityclasses,Entity,Radiated Bloated Walker
+zombieOldTimerRadiatedAirDropT1,entityclasses,Entity,Radiated Zombie Cowboy
+zombieScreamerRadiatedAirDropT1,entityclasses,Entity,Radiated Screamer
+zombieSoldierRadiatedAirDropT1,entityclasses,Entity,Radiated Soldier
+zombieSpiderRadiatedAirDropT1,entityclasses,Entity,Radiated Spider Zombie
+zombieUtilityWorkerAirDropT1,entityclasses,Entity,Infected Utility Worker
+zombieUtilityWorkerFeralAirDropT1,entityclasses,Entity,Feral Utility Worker
+zombieYoRadiatedAirDropT1,entityclasses,Entity,Radiated Carcass
+zombieDemolitionAirDropT1,entityclasses,Entity,The Demolition Man
+zombieWightRadiatedAirDropT1,entityclasses,Entity,Radiated Wight
+zombieLabAirDropT1,entityclasses,Entity,Infected Lab Assistant
+zombieLabFeralAirDropT1,entityclasses,Entity,Feral Lab Assistant
+zombieJanitorAirDropT2,entityclasses,Entity,Infected Janitor
+zombieJanitorFeralAirDropT2,entityclasses,Entity,Feral Janitor
+zombieJanitorRadiatedAirDropT2,entityclasses,Entity,Radiated Janitor
+zombieArleneRadiatedAirDropT2,entityclasses,Entity,Radiated Putrid Girl
+zombieBikerAirDropT2,entityclasses,Entity,Infected Biker
+zombieBikerFeralAirDropT2,entityclasses,Entity,Feral Biker
+zombieBikerRadiatedAirDropT2,entityclasses,Entity,Radiated Biker
+zombieSkateboarderAirDropT2,entityclasses,Entity,Infected Skater Punk
+zombieSkateboarderFeralAirDropT2,entityclasses,Entity,Feral Skater
+zombieSkateboarderRadiatedAirDropT2,entityclasses,Entity,Radiated Punk
+zombieBoeRadiatedAirDropT2,entityclasses,Entity,Radiated Infected Survivor
+zombieCheerleaderAirDropT2,entityclasses,Entity,Infected Cheerleader
+zombieCheerleaderFeralAirDropT2,entityclasses,Entity,Feral Cheerleader
+zombieCheerleaderRadiatedAirDropT2,entityclasses,Entity,Radiated Cheerleader
+zombieDarleneRadiatedAirDropT2,entityclasses,Entity,Radiated Decayed Mother
+zombieFemaleFatRadiatedAirDropT2,entityclasses,Entity,Radiated Hungry Zombie
+zombieJoeRadiatedAirDropT2,entityclasses,Entity,Radiated Cadaver
+zombieMarleneRadiatedAirDropT2,entityclasses,Entity,Radiated Woman
+zombieMoeRadiatedAirDropT2,entityclasses,Entity,Radiated Bloated Walker
+zombieOldTimerRadiatedAirDropT2,entityclasses,Entity,Radiated Zombie Cowboy
+zombieScreamerRadiatedAirDropT2,entityclasses,Entity,Radiated Screamer
+zombieSoldierRadiatedAirDropT2,entityclasses,Entity,Radiated Soldier
+zombieSpiderRadiatedAirDropT2,entityclasses,Entity,Radiated Spider Zombie
+zombieUtilityWorkerAirDropT2,entityclasses,Entity,Infected Utility Worker
+zombieUtilityWorkerFeralAirDropT2,entityclasses,Entity,Feral Utility Worker
+zombieYoRadiatedAirDropT2,entityclasses,Entity,Radiated Carcass
+zombieDemolitionAirDropT2,entityclasses,Entity,The Demolition Man
+zombieWightRadiatedAirDropT2,entityclasses,Entity,Radiated Wight
+zombieLabAirDropT2,entityclasses,Entity,Infected Lab Assistant
+zombieLabFeralAirDropT2,entityclasses,Entity,Feral Lab Assistant
+zombieWightNightWalkerT1,entityclasses,Entity,Night Walker
+zombieWightNightWalkerT2,entityclasses,Entity,Night Walker
+zombieWightNightWalkerT3,entityclasses,Entity,Night Walker

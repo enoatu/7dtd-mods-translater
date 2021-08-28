@@ -1,0 +1,117 @@
+Key,Source,Context,English
+lblContextActionCrush,UI,Item Context Menu,Crush
+lbliron,UI,XUI,[A6A09E]Iron[-]
+lblbrass,UI,XUI,[EDD079]Brass[-]
+lbllead,UI,XUI,[AEACA8]Lead[-]
+lblglass,UI,XUI,[E5EDEC]Glass[-]
+lblstone,UI,XUI,[BBC2CB]Stone[-]
+lblclay,UI,XUI,[B8C5BE]Clay[-]
+lblcopper,UI,XUI,[E89267]Copper[-]
+lblzinc,UI,XUI,[B3B6BB]Zinc[-]
+forgeInputCopper,UI,Menu,Copper
+forgeInputZinc,UI,Menu,Zinc
+lblcarbon,UI,XUI,[E89267]Carbon[-]
+lblaluminum,UI,XUI,[B3B6BB]Aluminum[-]
+forgeInputCarbon,UI,Menu,Carbon
+forgeInputAluminum,UI,Menu,Aluminum
+lblchromium,UI,XUI,[E89267]Chromium[-]
+lbltungsten,UI,XUI,[B3B6BB]Tungsten[-]
+forgeInputChromium,UI,Menu,Chromium
+forgeInputTungsten,UI,Menu,Tungsten
+
+
+terrOreCopper,blocks,Terrain,Copper Ore
+terrOreZinc,blocks,Terrain,Zinc Ore
+terrOreStoneCopperRandom,blocks,Terrain,= Copper Vein = Helper
+terrOreStoneCopperRandomDesc,blocks,Terrain,Copper / Stone / Sandstone
+
+terrOreCarbon,blocks,Terrain,Carbon Ore
+terrOreStoneCarbonRandom,blocks,Terrain,= Carbon Vein = Helper
+terrOreStoneCarbonRandomDesc,blocks,Terrain,Carbon / Stone / Sandstone
+
+terrOreChromium,blocks,Terrain,Chromium Ore
+terrOreStoneChromiumRandom,blocks,Terrain,= Chromium Vein = Helper
+terrOreStoneChromiumRandomDesc,blocks,Terrain,Chromium / Stone / Sandstone
+
+terrOreAluminum,blocks,Terrain,Aluminum Ore
+terrOreStoneAluminumRandom,blocks,Terrain,= Aluminum Vein = Helper
+terrOreStoneAluminumRandomDesc,blocks,Terrain,Aluminum / Stone / Sandstone
+
+terrOreTungsten,blocks,Terrain,Tungsten Ore
+terrOreStoneTungstenRandom,blocks,Terrain,= Tungsten Vein = Helper
+terrOreStoneTungstenRandomDesc,blocks,Terrain,Tungsten / Stone / Sandstone
+
+terrOreStoneZincRandom,blocks,Terrain,= Zinc Vein = Helper
+terrOreStoneZincRandomDesc,blocks,Terrain,Zinc / Stone / Sandstone
+
+oreCopperBoulder,blocks,Block,Copper Ore Boulder
+oreZincBoulder,blocks,Block,Zinc Ore Boulder
+oreCarbonBoulder,blocks,Block,Carbon Ore Boulder
+oreAluminumBoulder,blocks,Block,Aluminum Ore Boulder
+oreTungstenBoulder,blocks,Block,Tungsten Ore Boulder
+oreChromiumBoulder,blocks,Block,Chromium Ore Boulder
+scrapCopperPile,blocks,Block,Scrap Copper Pile
+resourceCopper,items,Item,Copper
+resourceCopperDesc,items,Item,"Copper is a metal that can be combined with zinc in a forge to produce brass.  As a fantastic conductor of heat, it's often found in air conditioning parts, plumbing, electrical components, and various appliances."
+resourceZinc,items,Item,Zinc
+resourceZincDesc,items,Item,"Zinc is a metal that can be combined with copper in a forge to produce brass.  As galvanized protection against rusting metals, it's often found in air conditioning parts, vehicles, chainlink fences, washing machines, and street lights."
+terrOreSilver,blocks,Terrain,Silver Ore
+terrOreGold,blocks,Terrain,Gold Ore
+terrOreDiamond,blocks,Terrain,Diamond Ore
+resourceLimestoneRH,items,Item,Limestone,,,,,
+resourceLimestoneRHDesc,items,Item,Limestone can be found mining underground and is used in the production of concrete.,,,,,
+resourceCarbon,items,Item,Carbon
+resourceCarbonDesc,items,Item,"Carbon is a metal used in the process of making steel."
+resourceAluminum,items,Item,Aluminum
+resourceAluminumDesc,items,Item,"Aluminum is the third tier of hard metal after steel. It can be used to reinforce tools and weapons to perform better."
+resourceChromium,items,Item,Chromium
+resourceChromiumDesc,items,Item,"Chromium is an ore used to make chrome. Chrome is the fourth tier of metal and strengthens your tools, weapons and arrows."
+resourceTungsten,items,Item,Tungsten
+resourceTungstenDesc,items,Item,"Tungsten is the highest tier of metal and can provide the best tools and weapons as well as arrows and bolts."
+resourceScrapChromium,items,Item,Scrap Chromium
+resourceScrapAluminum,items,Item,Scrap Aluminum
+resourceScrapCarbon,items,Item,Scrap Carbon
+resourceScrapCopper,items,Item,Scrap Copper
+resourceScrapZinc,items,Item,Scrap Zinc
+resourceScrapTungsten,items,Item,Scrap Tungsten
+
+meleeToolAxeT3AluminumAxe,items,Tool,Aluminum Fireaxe
+meleeToolAxeT4ChromeAxe,items,Tool,Chrome Fireaxe
+meleeToolAxeT5TungstenAxe,items,Tool,Tungsten Fireaxe
+meleeToolPickT3AluminumPickaxe,items,Tool,Aluminum Pickaxe
+meleeToolPickT4ChromePickaxe,items,Tool,Chrome Pickaxe
+meleeToolPickT5TungstenPickaxe,items,Tool,Tungsten Pickaxe
+meleeWpnClubT4ChromeClub,items,Melee,Chrome Club
+meleeWpnClubT5TungstenClub,items,Melee,Tungsten Club
+meleeWpnBladeT5TungstenMachete,items,Melee,Tungsten Machete
+meleeWpnBladeT4ChromeMachete,items,Melee,Chrome Machete
+
+meleeToolAxeT3AluminumAxeDesc,items,Tool,Swings heavier but does way more damage.\nRepair with High End Repair Kit.
+meleeToolAxeT4ChromeAxeDesc,items,Tool,Swings heavier but does way more damage.\nRepair with Top Tier Repair Kit.
+meleeToolAxeT5TungstenAxeDesc,items,Tool,Swings heavier but does way more damage.\nRepair with Legendary Repair Kit.
+meleeToolPickT3AluminumPickaxeDesc,items,Tool,Aluminum Pickaxe grants more aluminum as well as opens up the possibilities of mining chromium.\nRepair with High End Repair Kit.
+meleeToolPickT4ChromePickaxeDesc,items,Tool,Chrome Pickaxe grants more chromium as well as opens up the possibilities of mining tungsten.\nRepair with Top Tier Repair Kit.
+meleeToolPickT5TungstenPickaxeDesc,items,Tool,Tungsten Pickaxe grants more tungsten and is the best pickaxe with the most yields of all metals and stones.\nRepair with Legendary Repair Kit.
+meleeWpnClubT4ChromeClubDesc,items,Melee,Swings heavier but does way more damage.\nRepair with Top Tier Repair Kit.
+meleeWpnClubT5TungstenClubDesc,items,Melee,Swings heavier but does way more damage.\nRepair with Legendary Repair Kit.
+meleeWpnBladeT5TungstenMacheteDesc,items,Melee,Swings heavier but does way more damage.\nRepair with Legendary Repair Kit.
+meleeWpnBladeT4ChromeMacheteDesc,items,Melee,Swings heavier but does way more damage.\nRepair with Top Tier Repair Kit.
+
+resourceForgedAluminumDesc,items,Item,Forged metal bar that allows you to process and create items from it.
+resourceForgedCarbonDesc,items,Item,Forged metal bar that allows you to process and create items from it.
+resourceForgedChromiumDesc,items,Item,Forged metal bar that allows you to process and create items from it.
+resourceForgedTungstenDesc,items,Item,Forged metal bar that allows you to process and create items from it.
+
+resourceForgedAluminum,items,Item,Forged Aluminum
+resourceForgedCarbon,items,Item,Forged Carbon
+resourceForgedChromium,items,Item,Forged Chrome
+resourceForgedTungsten,items,Item,Forged Tungsten
+
+resourceArrowHeadChromeAP,items,Item,,,Chrome Arrowhead
+ammoArrowChromeAP,items,Ammo,,,Chrome Arrow (Ammo)
+ammoCrossbowBoltChromeAP,items,Ammo,,,Chrome Crossbow Bolt (Ammo)
+ammoArrowTungstenAP,items,Ammo,,,Tungsten Arrow (Ammo)
+ammoCrossbowBoltTungstenAP,items,Ammo,,,Tungsten Crossbow Bolt (Ammo)
+resourceArrowHeadTungstenAP,items,Item,,,Tungsten Arrowhead
+highEndMetalsRHSchematic,blocks,Workstation,High End Metals Schematic,,,,,
+highEndMetalsRHSchematicDesc,blocks,Workstation,You have in your hands all you need to know to create high end weapons and tools made from tungsten and chrome. Life just got a little more interesting.,,,,,

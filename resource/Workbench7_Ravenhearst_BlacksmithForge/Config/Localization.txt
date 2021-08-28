@@ -1,0 +1,4 @@
+﻿Key,Source,Context,English
+blacksmithForgeRH,blocks,Workstation,Blacksmith Forge,,,,,
+blacksmithForgeRHDesc,blocks,Workstation,"The blacksmith forge is used to melt copper and brass as well as make more complex recipes.",,,,,
+blacksmithForgeRHSchematic,blocks,Workstation,Blacksmith Forge Schematic,,,,,

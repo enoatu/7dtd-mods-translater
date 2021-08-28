@@ -1,0 +1,13 @@
+Key,Source,Context,Changes,English
+vehicleChopperplaceable,vehicles,item,EnChanged,Chopper,,,,,
+vehicleChopperplaceableDesc,vehicles,item,EnChanged,Why walk with the dead when you can ride!,,,,,
+vehicleChopperSchematic,items,Melee,EnChanged,Chopper Schematic,,,,,
+vehicleSportsBikeplaceable,vehicles,item,EnChanged,Sports Bike,,,,,
+vehicleSportsBikeplaceableDesc,vehicles,item,EnChanged,Why walk with the dead when you can ride!,,,,,
+vehicleSportsBikeSchematic,items,Melee,EnChanged,Sports Bike Schematic,,,,,
+vehicleHarleyplaceable,vehicles,item,EnChanged,Harley,,,,,
+vehicleHarleyplaceableDesc,vehicles,item,EnChanged,Why walk with the dead when you can ride!,,,,,
+vehicleHarleySchematic,items,Melee,EnChanged,Harley Schematic,,,,,
+vehicleDirtBike01placeable,vehicles,item,EnChanged,Dirt Rocket,,,,,
+vehicleDirtBike01placeableDesc,vehicles,item,EnChanged,Why walk with the dead when you can ride!,,,,,
+vehicleDirtBikeSchematic,items,Melee,EnChanged,Dirt Rocket Schematic,,,,,

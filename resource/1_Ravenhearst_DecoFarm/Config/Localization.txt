@@ -1,0 +1,7 @@
+﻿Key,Source,Context,English
+
+decoWeatherVaneRH,blocks,Block,Weather Vane,,,,,
+decoParkBenchNaturalRH,blocks,Block,Primitive Bench,,,,,
+decoLargeTargetRH,blocks,Block,Large Target,,,,,
+decoWateringCanRH,blocks,Container,Watering Can,,,,,
+

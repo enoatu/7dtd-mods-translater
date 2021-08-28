@@ -1,0 +1,3 @@
+﻿Key,Source,Context,English
+resourceMortarRH,items,Item,Mortar,,,,,
+resourceMortarRHDesc,items,Tool,"Used in the creation of cobblestone.",,,,,

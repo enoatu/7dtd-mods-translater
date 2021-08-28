@@ -1,0 +1,8 @@
+﻿Key,Source,Context,English
+cntMilitaryCrateT5RH,blocks,Container,Military Chest,,,,,
+cntWeaponCrateT5RH,blocks,Container,Makasin Supply Chest,,,,,
+meleeToolRepairT5NailgunRH,items,Tool,Industrial Nailgun,,,,,
+meleeToolRepairT5NailgunRHDesc,items,Tool,This industrial strength nailgun will repair and upgrade faster than the normal one.,,,,,
+meleeToolRepairT5NailgunRHSchematic,items,Tool,Industrial Nailgun Schematic,,,,,
+cntMilitaryCrateInsecureT5RH,blocks,Container,Military Chest Insecure,,,,,
+cntWeaponCrateInsecureT5RH,blocks,Container,Makasin Supply Chest Insecure,,,,,

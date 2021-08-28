@@ -1,0 +1,5 @@
+﻿Key,Source,Context,English
+coffeeMakerRH,blocks,Block,Coffee Maker (Powered)
+coffeeMakerRHDesc,blocks,Block,"This coffee maker can be placed in your home and used to make coffee and tea."
+coffeeMakerCommercialRH,blocks,Block,Commercial Coffee Maker (Powered)
+coffeeMakerCommercialRHDesc,blocks,Block,"This coffee maker can be placed in your home and used to make coffee and tea."

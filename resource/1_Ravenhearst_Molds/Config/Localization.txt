@@ -1,0 +1,11 @@
+﻿Key,Source,Context,English
+resourceBulletCasingMoldRH,items,Item,Bullet Casing Mold,,,,,
+resourceBulletTipMoldRH,items,Item,Bullet Tip Mold,,,,,
+resourceIronArrowHeadMoldRH,items,Item,Iron Arrowhead Mold,,,,,
+resourceNailMoldRH,items,Item,Nail Mold,,,,,
+resourceScrewsMoldRH,items,Item,Screw Mold,,,,,
+resourceSteelArrowHeadMoldRH,items,Item,Steel Arrowhead Mold,,,,,
+resourcePipeMoldRH,items,Item,Pipe Mold,,,,,
+resourceEmptyJarMoldRH,items,Item,Empty Jar Mold,,,,,
+resourceBlankMoldRH,items,Item,Empty Blank Mold,,,,,
+resourceBlankMoldRHDesc,items,Item,This mold can be used to craft items in the forge. To make one use the resource you wish to make the mold of and some clay and water and craft your mold. You can then place the appropriate mold in the forges and craft your desired item.,,,,,

@@ -1,0 +1,29 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english,spanish
+plantedCannabis1,blocks,Farming,,,Cannabis (Seed),Cannabis (Semilla)
+plantedCannabis1Desc,blocks,Farming,,,"Plant Cannabis seeds in fertilized dirt to grow Cannabis plants.","Planta semillas de Canabis en tierra fertilizada para que crezca una planta de canabis."
+plantedCannabis1Schematic,blocks,Farming,,,Cannabis (Seed) Recipe,Recipe de Cannabis (Semilla)
+plantedCannabis2,blocks,Farming,,,Cannabis (Growing),Cannabis (Creciendo)
+plantedCannabis3Harvest,blocks,Farming,,,Cannabis Plant 3 (POI),Planta de Cannabis 3 (POI)
+plantedCannabis3HarvestDesc,blocks,Farming,,,"Cannabis Plant","Planta de Cannabis"
+plantedCannabis3HarvestPlayerDesc,blocks,Farming,,,"Cannabis Plant","Planta de Cannabis"
+plantedCannabisHarvestRandomHelper,blocks,Farming,,,= Cannabis = Random Helper,
+buffDrugSmokedJointDesc,buffs,Buff,,x,"You got high on cannabis and it made you feel better and also pretty hungry. Gained 15% damage reduction, +1 to Fortitude, and -1 to Perception.","Te has drogado, te sientes mejor y muy ambriento. Obtienes un 15% de reducción de daño, +1 de Fortaleza y -1 de Percepción."
+buffDrugSmokedJointName,buffs,Buff,,x,[9acc8b]Smoked Joint[-],[9acc8b]Porro Fumado[-]
+buffDrugSmokedJointTooltip,buffs,Buff,,x,New,You got high.,Te has drogado.
+buffDrugRippedBongDesc,buffs,Buff,,x,"You got really high on cannabis and it made you feel better and also really hungry. Gained 25% damage reduction, +2 to Fortitude, and -2 to Perception.","Te has drogado mucho con el cannabis y te sientes mejor y mucho más hambriento. Obtienes un 25% de reducción de daño, +2 de Fortaleza y -2 en Percepción"
+buffDrugRippedBongName,buffs,Buff,,x,[9acc8b]Ripped Bong[-],[9acc8b]Cachimba Rasgada[-]
+buffDrugRippedBongTooltip,buffs,Buff,,x,You got really high.,Estás muy drogado.
+resourceCropCannabisBud,items,Farming,,,Cannabis Bud,Brote de Cannabis
+resourceCropCannabisBudDesc,items,Farming,,,"Useful in a variety of 'medicinal' applications from rolling joints to filling bongs.","Útil en una variedad de aplicaciones 'medicinales', desde liar porros hasta llenar cachimbas."
+drugCannabisJointUnrolled,items,Medical,,,Cannabis Joint [ccba8b](Unrolled)[-],Porro de cannabis [ccba8b](Sin liar)[-]
+drugCannabisJointUnrolledDesc,items,Medical,,,"You'll need to spend some time rolling this into a smokable joint. Until then, it's going to take up some space so you don't ruin it.","Tendrás que pasar un tiempo liandote esto en un porro fumable. Hasta entonces, ocupará algo de espacio para que no lo arruines."
+drugCannabisJointRolled,items,Medical,,,Cannabis Joint [9acc8b](Rolled)[-],Porro de cannabis [9acc8b](Liado)[-]
+drugCannabisJointRolledDesc,items,Medical,,,"Smoking this cannabis joint will immediately improve your health and allow you to ignore some pain, but you'll become unfocused and a hungry hungry.","Fumarte el porro de cannabis mejorará inmediatamente tu salud y te permitirá ignorar un poco el dolor, pero perderás la concentración y tendrás hambre."
+toolBong,items,Medical,,,Bong,Cachimba
+toolBongDesc,items,Medical,,,"You can combine this with some cannabis buds to fill it up.","Puedes combinar esto con algunos cogollos de cannabis para llenarlo."
+toolBongDirty,items,Medical,,,Bong [ccba8b](Dirty)[-],Cachimba [ccba8b](Sucia)[-]
+toolBongDirtyDesc,items,Medical,,,"Gross! This needs to be cleaned out before you can use it. Take it to a river or lake?","¡Qué puto asco! Esto necesita ser limpiado antes de que puedas usarlo. ¿Podría ser en un río o lago?"
+toolBongFilled,items,Medical,,,Bong [9acc8b](Filled)[-],Cachimba [9acc8b](Llena)[-]
+toolBongFilledDesc,items,Medical,,,"Ripping this bong will immediately improve your health and allow you to ignore a lot of pain, but you'll become quite unfocused and really hungry.","Romper esta Cachimba mejorará inmediatamente tu salud y te permitirá ignorar mucho dolor, pero perderás la concentración y tendrás mucha hambre."
+toolBongSchematic,items,Tool,,,"Bong Schematic","Esquema de Cachimba"
+toolBongSchematicDesc,items,Tool,,,"Learn how to craft Bongs from existing glassware","Aprende cómo elaborar Cachimbas con cristales"

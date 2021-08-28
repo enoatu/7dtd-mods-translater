@@ -1,0 +1,11 @@
+﻿Key,Source,Context,English
+cntToasterRH,blocks,Block,Toaster (Powered)
+cntToasterRHDesc,blocks,Block,"Nothing starts your day of zombie slaying off better than some nice crunchy toast."
+foodButter,items,Food,Butter
+foodButterDesc,items,Food,"Butter compliments every meal and is a key ingredient in larger dishes."
+foodToastedBread,items,Food,Toasted Bread
+foodToastedBreadDesc,items,Food,"Pop 2 slices of bread and set your toasters to medum."
+foodYuccaJamAndToast,items,Food,Yucca Jam And Toast
+foodYuccaJamAndToastDesc,items,Food,"Jam on toast is as basic as it can get but hell if you do not still love it."
+foodBlueberryJamAndToast,items,Food,Blueberry Jam And Toast
+foodBlueberryJamAndToastDesc,items,Food,"Jam on toast is as basic as it can get but hell if you do not still love it."

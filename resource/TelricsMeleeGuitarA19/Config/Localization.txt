@@ -1,0 +1,5 @@
+Key,English,Japanese
+
+---------------Items----------------------
+meleeGuitar,"[e7a729]Guitar[-]","[e7a729]Japanese[-]"
+meleeGuitarDesc,"[e7a729]An acoustic guitar. Bash brains in with it.\n\nUses club progression perks.[-]","[e7a729]Japanese[-]"

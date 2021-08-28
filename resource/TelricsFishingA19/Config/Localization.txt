@@ -1,0 +1,20 @@
+Key,english,japanese
+fishingPoleWood,"[e7a729]Wood Fishing Pole[-]","[e7a729]木製釣り竿[-]"
+fishingPoleWoodDesc,"[e7a729]A very simple fishing pole. Left click to cast. Over the duration of the cast, you have a chance for a fish to bite. Once you have a bite, rapidly hit the F button to reel the fish in. Getting 100 or more points will allow you to right click to gather the fish you caught.[-]","[e7a729]とてもシンプルな釣り竿。\n「釣りポイント」の釣り竿アイコンの上に立ち、泡のエフェクトに向かって左クリックを押してキャストし、魚がかかるまで待ちます。\n15秒間の間に魚がかからなければ、再度キャストして待ちます。\n魚がかかったら、Fキーを連打し、バフのポイントをためて魚を釣り上げます。\nポイントが100に達すると、右クリックで魚を竿から外すことが出来ます。[-]"
+resourceBlueFish,"[e7a729]Fish[-]","[e7a729]魚[-]"
+resourceBlueFishDesc,"[e7a729]A simple fish with a small brain. It will nibble on anything, which is probably why it was caught.[-]","[e7a729]小さな脳みそを持つシンプルな魚。\n\nあまり賢くないので、何にでも食らいつきます。[-]"
+
+buffFishingPoleWoodCastName,"[e7a729]Fishing[-]","[e7a729]魚釣り[-]"
+buffFishingPoleWoodCastDesc,"[e7a729]Living life in the slow lane.[-]","[e7a729]のんびりしましょう。[-]"
+buffFishingPoleWoodCatchName,"[e7a729]Hooked![-]","[e7a729]かかった！[-]"
+buffFishingPoleWoodCatchDesc,"[e7a729]You have a fish hooked! Reel it in by rapidly hitting the F button![-]","[e7a729]魚がかかりました！　Fボタンを連打して釣り上げましょう！[-]"
+buffFishingPoleWoodCatchTooltip,"[e7a729]You have a bite! Reel it in quickly![-]","[e7a729]You have a bite! Reel it in quickly![-]"
+
+buffbuffFishingPoleWoodCompleteName,"[e7a729]Catch![-]","[e7a729]Catch![-]"
+buffbuffFishingPoleWoodCompleteDesc,"[e7a729]You've caught a fish. Right click with your fishing pole to collect it![-]","[e7a729]Catch![-]"
+
+foodGrilledFishFillet,"[e7a729]Grilled Fish Fillet[-]","[e7a729]焼き魚[-]"
+foodGrilledFishFilletDesc,"[e7a729]Grilled fish. Yum![-]","[e7a729]美味しそうな焼き魚！[-]"
+
+FishableLocation,"[e7a729]Fishable Location[-]","[e7a729]焼き魚[-]"
+FishableLocationDesc,"[e7a729]You can place this on piers so you're able to fish from the docks! Just step where this block is placed to fish.[-]","[e7a729]美味しそうな焼き魚！[-]"

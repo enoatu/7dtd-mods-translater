@@ -1,0 +1,4 @@
+﻿Key,Source,Context,English
+gunBowT3CompoundCrossbowRepeaterRH,items,Melee,Crossbow Repeater,,,,,
+gunBowT3CompoundCrossbowRepeaterRHDesc,items,Melee,,,"A compound crossbow does more damage and arrows fly straighter which makes it easier to aim.\n\nRepair with an Advanced Repair Kit.\nScrap to Bow / Crossbow Parts.",,,,,
+gunBowT3CompoundCrossbowRepeaterRHSchematic,items,Melee,Crossbow Repeater Schematic,,,,,

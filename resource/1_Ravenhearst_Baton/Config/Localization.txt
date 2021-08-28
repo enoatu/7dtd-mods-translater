@@ -1,0 +1,4 @@
+﻿Key,Source,Context,English
+meleeWpnClubT3TelescopicBatonRHSchematic,items,Melee,Telescopic Baton Schematic,,,,,
+meleeWpnClubT3TelescopicBatonRH,items,Melee,Telescopic Baton,,,,,
+meleeWpnClubT3TelescopicBatonRHDesc,items,Melee,Premiere choice for the Ravenhearst Police Department.\n\nRepair with an Advanced Repair Kit.,,,,,

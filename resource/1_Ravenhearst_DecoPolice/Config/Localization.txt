@@ -1,0 +1,9 @@
+﻿Key,Source,Context,English
+
+policeBadge1RH,blocks,Block,Police Badge 1,,,,,
+policeBadge2RH,blocks,Block,Police Badge 2,,,,,
+sheriffBadge1RH,blocks,Block,Sheriff Badge 1,,,,,
+sheriffBadge2RH,blocks,Block,Sheriff Badge 2,,,,,
+sheriffBadge3RH,blocks,Block,Sheriff Badge 3,,,,,
+policeLockerRH,blocks,Container,Police Locker,,,,,
+

@@ -1,0 +1,14 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate 
+
+
+POI_cntToolBoxClosed,blocks,Container,,,Toolbox
+POI_cntRollingToolBoxClosed,blocks,Container,,,Rolling Toolbox
+
+POI_cntBackpack01,blocks,Container,,,Weathered Backpack
+POI_cntBackpack03,blocks,Container,,,Moldy Backpack
+
+note01_LazMans_army_camp_01,items,Quest - Note,,,"Note from Crazy Jake (1 of 2)"
+note01_LazMans_army_camp_01Desc,items,Quest - Note,,,"Hello Recruit, my informant tells me there is an army bunker at these coordinates. Go kill those bastards and take their shit. If those army fucks lock themselves in their bunker, hook up the generator to their powered door like I showed you and teach them not to mess with the Crazy Jake Clan!  -Crazy J"
+
+note02_LazMans_army_camp_01,items,Quest - Note,,,"Note from Crazy Jake (2 of 2)"
+note02_LazMans_army_camp_01Desc,items,Quest - Note,,,"Hello Recruit, don't forget to bring an engine, wiring tool and some gas for the generator.  If you fucks forget, your going to have to search the bunker and hope they have what you need. Don't bother coming back empty handed or you'll find out why they call me Crazy Jake.  -Crazy J"

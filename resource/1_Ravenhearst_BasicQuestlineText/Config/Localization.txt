@@ -1,0 +1,9 @@
+﻿Key,English
+quest_BasicSurvival1a,Basic Survival 5/14
+quest_BasicSurvival1b,Basic Survival 2/14
+quest_BasicSurvival1c,Basic Survival 3/14
+quest_BasicSurvival2a,Basic Survival 6/14
+quest_BasicSurvival2b,Basic Survival 7/14
+quest_BasicSurvival6a,Basic Survival 11/14
+quest_BasicSurvival6c,Basic Survival 8/14
+quest_BasicSurvival6d,Basic Survival 13/14

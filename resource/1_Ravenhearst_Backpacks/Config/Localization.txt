@@ -1,0 +1,13 @@
+﻿Key,Source,Context,English
+backpackRH,items,Item,"Backpack"
+backpackRHDesc,items,Item,"You have found a backpack. Learn this to unlock slots in your inventory. There are 10 backpacks to find. [a0ff94]The last row will remain locked until you open all normal slots. If you craft and read a military backpack BEFORE finding all 10 backpacks first nothing will happen and you will lose your materials.[-]"
+perkBackpack,Quest,Quest Info,Backpack Slots
+perkBackpack_subtitle,Quest,Quest Info,You have unlocked backpack slots
+perkBackpack_description,Quest,Quest Info,This will open up a few backpack slots in your inventory
+perkBackpack_offer,Quest,Quest Info,This will open up a few backpack slots in your inventory
+MilitaryBackpackRH,items,Item,"Military Backpack"
+MilitaryBackpackRHDesc,items,Item,"This backpack is military grade and can support any weight you can throw at it.[a0ff94]If you craft and read a military backpack BEFORE finding all 10 backpacks first nothing will happen and you will lose your materials.[-]"
+perkMilitaryBackpack,Quest,Quest Info,Military Backpack Upgrade
+perkMilitaryBackpack_subtitle,Quest,Quest Info,You have unlocked all backpack slots
+perkMilitaryBackpack_description,Quest,Quest Info,This will open up the final row in your inventory
+perkMilitaryBackpack_offer,Quest,Quest Info,This will open up the final row in your inventory

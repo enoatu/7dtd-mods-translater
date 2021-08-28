@@ -1,0 +1,7 @@
+﻿Key,Source,Context,English
+thrownGlowstickGreenRH,items,Item,GrumStick (Green),,,,,
+thrownGlowstickRedRH,items,Item,GrumStick (Red),,,,,
+thrownGlowstickBlueRH,items,Item,GrumStick (Blue),,,,,
+thrownGlowstickOrangeRH,items,Item,GrumStick (Orange),,,,,
+thrownGlowstickYellowRH,items,Item,GrumStick (Yellow),,,,,
+thrownGlowstickGreenRHDesc,items,Item,"GrumSticks can be used to shine a light in dark places. They can also be thrown into rooms or down hills to provide light ahead of you but be careful, they do burn out over time. Can be picked back up if you are fast enough.",,,,,

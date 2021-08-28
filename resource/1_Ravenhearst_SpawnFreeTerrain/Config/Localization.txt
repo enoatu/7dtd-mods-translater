@@ -1,0 +1,10 @@
+﻿Key,Source,Context,English
+spawnFreeTerrainRHSchematic,items,Item,Spawn Free Terrain Schematic,,,,,
+terrDestroyedStoneSFRH,blocks,Terrain,Destroyed Stone (Spawn Free),,,,,
+terrDirtSFRH,blocks,Terrain,Dirt (Spawn Free),,,,,
+terrTopSoilSFRH,blocks,Terrain,Topsoil (Spawn Free),,,,,
+terrGravelSFRH,blocks,Terrain,Gravel (Spawn Free),,,,,
+terrAsphaltSFRH,blocks,Terrain,Asphalt (Spawn Free),,,,,
+terrStoneSFRH,blocks,Terrain,Stone (Spawn Free),,,,,
+spawnFreeTerrainDesc,blocks,Terrain,"Specially treated ground material that will keep you zombie free on the spot these are placed. Note: This will NOT prevent Blood Moon Spawning.",,,,,
+terrDesertGroundSFRH,blocks,Terrain,Desert Ground (Spawn Free),,,,,

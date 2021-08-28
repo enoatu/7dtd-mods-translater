@@ -1,0 +1,5 @@
+﻿Key,Source,Context,English
+cntTrashPile01RH,blocks,Container,Trash Bag (Storage)
+cntTrashPile01RHDesc,blocks,Container,Trash bag that can be used to store your belongings.
+resourceTrashBagEmptyRH,blocks,Container,Filthy Trash Bag
+resourceTrashBagEmptyRHDesc,blocks,Container,Trash bag that can be combined with other trash bags to make makeshift storage.

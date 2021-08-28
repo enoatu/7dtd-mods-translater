@@ -1,0 +1,5 @@
+﻿Key,Source,Context,English
+smokerRH,blocks,Workstation,Smoker,,,,,
+smokerRHDesc,blocks,Workstation,"The smoker is a good old country boy way of enjoying those meats. Slow cooking but damn good eating.",,,,,
+smokerRHSchematic,blocks,Workstation,Smoker Schematic,,,,,
+

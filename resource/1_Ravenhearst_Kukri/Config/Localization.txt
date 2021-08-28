@@ -1,0 +1,10 @@
+﻿Key,Source,Context,English
+meleeWpnBladeT3KukriRH,items,Melee,Kukri,,,,,
+meleeWpnBladeT3KukriRHDesc,items,Melee,Great for chopping zombies and sometimes trees and gutting animals for meat.\nRegular attacks can cause Bleeding Wounds and power attacks always do.\nRepair with an Advanced Repair Kit.\nScrap to Iron.,,,,,
+meleeWpnBladeT3KukriSchematicRH,items,Melee,Kukri Schematic,,,,,
+meleeWpnBladeT3KukriBlueRH,items,Melee,Kukri (Blue),,,,,
+meleeWpnBladeT3KukriCamoRH,items,Melee,Kukri (Camo),,,,,
+meleeWpnBladeT3KukriGreenRH,items,Melee,Kukri (Green),,,,,
+meleeWpnBladeT3KukriHotRH,items,Melee,Kukri (Hot),,,,,
+meleeWpnBladeT3KukriSkullsRH,items,Melee,Kukri (Skulls),,,,,
+meleeWpnBladeT3KukriRHSchematic,items,Melee,Kukri Schematic,,,,,

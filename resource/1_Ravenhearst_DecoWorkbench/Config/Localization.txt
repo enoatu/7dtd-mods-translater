@@ -1,0 +1,7 @@
+﻿Key,Source,Context,English
+
+decorTableRHSchematic,blocks,Workstation,Decorating Table Schematic,,,,,
+decorTableRH,blocks,Workstation,Decorating Table,,,,,
+decorTableRHDesc,blocks,Workstation,"The decorating table is your base renovating dream come true. In this table you can craft and construct all sorts of new and interesting items to deck out your bachelor pad.",,,,,
+
+

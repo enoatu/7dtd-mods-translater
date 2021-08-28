@@ -1,0 +1,12 @@
+Key,english,japanese
+
+------------------Blocks---------------------------
+IronGateGroupDesc,"[e7a729]Iron Gates come in different sizes. They can be opened and closed as well as locked, like any other secure door. Will place towards you, unless you rotate.[-]","[e7a729]普通のドア同様、開け閉めとロックをかけることが出来る鉄製の門。\n\n設置時に正面が前向きになっています。[-]"
+
+IronGate5x3Block,"[e7a729]Iron Gate: 5x3[-]","[e7a729]アイアンゲート: 5x3[-]"
+IronGate4x3Block,"[e7a729]Iron Gate: 4x3[-]","[e7a729]アイアンゲート: 4x3[-]"
+IronGate4x2Block,"[e7a729]Iron Gate: 4x2[-]","[e7a729]アイアンゲート: 4x2[-]"
+IronGate3x2Block,"[e7a729]Iron Gate: 3x2[-]","[e7a729]アイアンゲート: 3x2[-]"
+IronGate3x1Block,"[e7a729]Iron Gate: 3x1[-]","[e7a729]アイアンゲート: 3x1[-]"
+IronGate2x1Block,"[e7a729]Iron Gate: 2x1[-]","[e7a729]アイアンゲート: 2x1[-]"
+IronGate2x2Block,"[e7a729]Iron Gate: 2x2[-]","[e7a729]アイアンゲート: 2x2[-]"

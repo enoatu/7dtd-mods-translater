@@ -1,0 +1,13 @@
+﻿Key,Source,Context,English
+decoOldArmchairRH,blocks,Block,Old Armchair,,,,,
+decoClassicCouchRH,blocks,Block,Classic Couch,,,,,
+decoClassicChairRH,blocks,Block,Classic Lounge Chair,,,,,
+decoVictorianClockRH,blocks,Block,Victorian Clock,,,,,
+decoVictorianCouch1RH,blocks,Block,Victorian Couch 01,,,,,
+decoVictorianCouch2RH,blocks,Block,Victorian Couch 02,,,,,
+deco80sAtariRH,blocks,Block,1980s Atari,,,,,
+80sAtariDesc,blocks,Block,Fun for the entire family. As long as you are not the one holding controller 2.,,,,,
+deco80sComputerRH,blocks,Block,1980s Computer,,,,,
+80sComputerDesc,blocks,Block,Where it all started for you. Does it have Pong?,,,,,
+deco80sVCRRH,blocks,Block,1980s VCR,,,,,
+80sVCRDesc,blocks,Block,Kick back and enjoy your 9th viewing of Re-Animator. Dont forget to be kind and rewind!,,,,,

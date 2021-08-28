@@ -1,0 +1,5 @@
+Key,Source,Context,English
+resourceBoxNailsRH,items,Item,Box of Nails,,,,,
+resourceBoxNailsRHDesc,items,Item,"A regular box nails. Open it up (with recipe) to get some nails.",,,,,
+resourceNailBentRH,items,Item,Bent Nails,,,,,
+resourceNailBentRHDesc,items,Item,"You have some bent nails, you can probably straighten them out.",,,,,

@@ -1,0 +1,6 @@
+﻿Key,Source,Context,English
+meleeToolSalvageT1Crowbar,items,Tool,Crowbar,,,,,
+meleeToolSalvageT1CrowbarDesc,items,Tool,"The best tool for harvesting vehicle parts from wrecks found in the world.\nRepair with an Advanced Repair Kit.",,,,,
+meleeToolSalvageT2RatchetDesc,items,Tool,"Great for disassembling mechanical devices like cars, air conditioners and more.\n\nUsing a Crowbar on cars nets you more complex parts.\n\nRepair with a Repair Kit.\nScrap to Iron.",,,,,
+meleeToolSalvageT3ImpactDriverDesc,items,Tool,"Great for disassembling mechanical devices like cars, air conditioners and more.\n\nUsing a Crowbar on cars nets you more complex parts.\n\nRepair with a Repair Kit.\nScrap to Motor Tool Parts.",,,,,
+meleeToolSalvageT1WrenchDesc,items,Tool,"Great for disassembling mechanical devices like cars, air conditioners and more.\n\nUsing a Crowbar on cars nets you more complex parts.\n\nRepair with a Repair Kit.\nScrap to Iron.",,,,,

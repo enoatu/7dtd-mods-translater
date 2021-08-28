@@ -1,0 +1,2 @@
+﻿Key,Source,Context,English
+cntHouseRandomTrashHelperRH,blocks,Block,= House Trash = Random Helper,,,,,

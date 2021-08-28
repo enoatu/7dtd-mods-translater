@@ -1,0 +1,10 @@
+Key,Source,Context,Changes,English,French,German,Klingon,Spanish,Polish
+meleeToolAxeT0ScrapAxe,,,,Scrap Axe,,,,,
+meleeToolAxeT0ScrapAxeDesc,,,,The scrap axe is useful for harvesting wood.\n\nRepair with Duct Tape.\nScrap to Iron.,,,,,
+meleeToolPickT0ScrapPickaxe,,,,Scrap Pickaxe,,,,,
+meleeToolPickT0ScrapPickaxeDesc,,,,The scrap pickaxe is useful for breaking stone and harvesting minerals.\n\nRepair with Duct Tape.\nScrap to Iron.,,,,,
+meleeWpnBladeT0ScrapKnife,,,,Scrap Knife,,,,,
+meleeWpnBladeT0ScrapKnifeDesc,,,,The scrap knife is useful for slashing zombies and gutting animals for meat.\nRegular attacks cause 1 Bleeding Wound and power attacks at least 2.\nRepair with Duct Tape.\nScrap to Iron.,,,,,
+meleeToolPickT0ScrapPickaxeDesc,,,,The scrap pickaxe is useful for breaking stone and harvesting minerals.\n\nRepair with Duct Tape.\nScrap to Iron.,,,,,
+meleeToolShovelT0ScrapShovel,,,,Scrap Shovel,,,,,
+meleeToolShovelT0ScrapShovelDesc,,,,"The scrap shovel is useful for digging dirt, sand or snow.\nRepair with Duct Tape.\nScrap to Iron.",,,,,

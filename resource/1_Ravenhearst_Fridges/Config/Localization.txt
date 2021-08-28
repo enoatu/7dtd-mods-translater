@@ -1,0 +1,10 @@
+﻿Key,Source,Context,English
+cntCoolerClosedRH,blocks,Container,Cooler (Storage)
+cntRetroFridgeVer1ClosedRH,blocks,Container,Retro Refrigerator (Storage)
+cntFridgeStainlessSteelRH,blocks,Container,Steel Refrigerator (Storage)
+cntIceMachineRH,blocks,Container,Rotting Ice Machine (Storage)
+cntCoolerClosedRHDesc,blocks,Container,"A nice way of storing your food and crops. Very basic at slowing spoilage and not much room but it will do for now.[ccba8b](Preserve Bonus 1.00)[-]"
+cntRetroFridgeVer1ClosedRHDesc,blocks,Container,"A nice way of storing your food and crops. Turning this into a powered fridge will help preserve your food longer but this can also slow down spoilage a bit.[ccba8b](Preserve Bonus 1.75)[-]"
+cntIceMachineRHDesc,blocks,Container,"A nice way of storing your food and crops. Turning this into a powered ice machine will help preserve your food the best but this can also slow down spoilage a bit.[ccba8b](Preserve Bonus 2.25)[-]"
+cntFridgesSchematic,items,Item,Refrigerator Schematic
+cntFridgeStainlessSteelRHDesc,blocks,Container,"A nice way of storing your food and crops. Turning this into a powered fridge will help preserve your food better than a normal fridge but this can also slow down spoilage a bit.[ccba8b](Preserve Bonus 3.25)[-]"

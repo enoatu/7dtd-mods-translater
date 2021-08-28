@@ -1,0 +1,4 @@
+﻿Key,Source,Context,English
+jackOLanternBlueRH,blocks,Block,Jax O' Lantern (Blue),,,,,
+jackOLanternGreenRH,blocks,Block,Jax O' Lantern (Green),,,,,
+jackOLanternRedRH,blocks,Block,Jax O' Lantern (Red),,,,,

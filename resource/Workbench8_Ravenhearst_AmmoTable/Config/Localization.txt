@@ -1,0 +1,6 @@
+﻿Key,Source,Context,English
+ammoTableRH,blocks,Workstation,Ammunition Press,,,,,
+ammoTableRHDesc,blocks,Workstation,"The ammunition press is a more efficient way of crafting ammunition at greater yields. It can also be used to disassemble ammunition.",,,,,
+ammoTableRHSchematic,blocks,Workstation,Ammunition Press Schematic,,,,,
+toolCalipersRH,items,Item,Calipers,,,,,
+toolCalipersRHDesc,items,Item,Calipers are essential for disassembling ammo.,,,,,

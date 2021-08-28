@@ -1,0 +1,101 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english
+
+TwitchAction_normhordeCommand,twitch,Actions,,,#spawn_normhorde,,,,,,,,,,,,,,
+TwitchAction_normhordeDesc,twitch,Actions,,,Spawns 4 normal zombies.,,,,,,,,,,,,,,
+TwitchAction_normhorde,twitch,Actions,,,Normal Zombies,,,,,,,,,,,,,,
+
+TwitchAction_Spawnboomers,twitch,Actions,,,Boomer Zombies,,,,,,,,,,,,,,
+TwitchAction_SpawnboomersCommand,twitch,Actions,,,#spawn_boomers,,,,,,,,,,,,,,
+TwitchAction_SpawnboomersDesc,twitch,Actions,,,Spawns 3 Cop or Demo Zombies.,,,,,,,,,,,,,,
+
+TwitchAction_SpawnScreamer,twitch,Actions,,,Screamer Zombie,,,,,,,,,,,,,,
+TwitchAction_SpawnScreamerCommand,twitch,Actions,,,#spawn_screamer,,,,,,,,,,,,,,
+TwitchAction_SpawnScreamerDesc,twitch,Actions,,,Spawns a Screamer Zombie.,,,,,,,,,,,,,,
+
+TwitchAction_SpawnScreamerFeral,twitch,Actions,,,Feral Screamer Zombie,,,,,,,,,,,,,,
+TwitchAction_SpawnScreamerFeralCommand,twitch,Actions,,,#spawn_screamerferal,,,,,,,,,,,,,,
+TwitchAction_SpawnScreamerFeralDesc,twitch,Actions,,,Spawns a Feral Screamer Zombie.,,,,,,,,,,,,,,
+
+TwitchAction_SpawnLovers,twitch,Actions,,,Burning Zombies,,,,,,,,,,,,,,
+TwitchAction_SpawnLoversCommand,twitch,Actions,,,#spawn_lovers,,,,,,,,,,,,,,
+TwitchAction_SpawnLoversDesc,twitch,Actions,,,Spawns a large burning Arlene and Cowboy (Much to a Woodle's Dismay).,,,,,,,,,,,,,,
+
+TwitchAction_Spawnpeewee,twitch,Actions,,,Football Zombies,,,,,,,,,,,,,,
+TwitchAction_SpawnpeeweeCommand,twitch,Actions,,,#spawn_peewee,,,,,,,,,,,,,,
+TwitchAction_SpawnpeeweeDesc,twitch,Actions,,,Spawns a horde of mini football players.,,,,,,,,,,,,,,
+
+TwitchAction_SpawnCapp,twitch,Actions,,,Stupid Birds,,,,,,,,,,,,,,
+TwitchAction_SpawnCappCommand,twitch,Actions,,,#spawn_capp,,,,,,,,,,,,,,
+TwitchAction_SpawnCappDesc,twitch,Actions,,,Spawns a horde of Stupid Birds.,,,,,,,,,,,,,,
+
+TwitchAction_Spawnarmortitan,twitch,Actions,,,Titan Zombie,,,,,,,,,,,,,,
+TwitchAction_SpawnarmortitanCommand,twitch,Actions,,,#spawn_armortitan,,,,,,,,,,,,,,
+TwitchAction_SpawnarmortitanDesc,twitch,Actions,,,Spawns a Titan.,,,,,,,,,,,,,,
+
+TwitchAction_Spawnfemaletitan,twitch,Actions,,,Titan Zombie,,,,,,,,,,,,,,
+TwitchAction_SpawnfemaletitanCommand,twitch,Actions,,,#spawn_femaletitan,,,,,,,,,,,,,,
+TwitchAction_SpawnfemaletitanDesc,twitch,Actions,,,Spawns a Titan.,,,,,,,,,,,,,,
+
+TwitchAction_Spawncoltitan,twitch,Actions,,,Titan Zombie,,,,,,,,,,,,,,
+TwitchAction_SpawncoltitanCommand,twitch,Actions,,,#spawn_coltitan,,,,,,,,,,,,,,
+TwitchAction_SpawncoltitanDesc,twitch,Actions,,,Spawns a Titan.,,,,,,,,,,,,,,
+
+TwitchAction_Spawnaot,twitch,Actions,,,Titan Zombie,,,,,,,,,,,,,,
+TwitchAction_SpawnaotCommand,twitch,Actions,,,#spawn_aot,,,,,,,,,,,,,,
+TwitchAction_SpawnaotDesc,twitch,Actions,,,Spawns all Titans.,,,,,,,,,,,,,,
+
+TwitchAction_Spawnspiderswarm,twitch,Actions,,,Spider Zombie,,,,,,,,,,,,,,
+TwitchAction_SpawnspiderswarmCommand,twitch,Actions,,,#spawn_spiderswarm,,,,,,,,,,,,,,
+TwitchAction_SpawnspiderswarmDesc,twitch,Actions,,,Spawns 3 spider zombies.,,,,,,,,,,,,,,
+
+TwitchAction_Spawnbookclub,twitch,Actions,,,Female Zombies,,,,,,,,,,,,,
+TwitchAction_SpawnbookclubCommand,twitch,Actions,,,#spawn_bookclub,,,,,,,,,,,,,,
+TwitchAction_SpawnbookclubDesc,twitch,Actions,,,Spawns BIG MAMA and her book club (Idea from Tinfoil_Tim_Gaming).,,,,,,,,,,,,,,
+
+TwitchAction_Buffrocketman,twitch,Actions,,,Rocket Boots,,,,,,,,,,,,,
+TwitchAction_BuffrocketmanCommand,twitch,Actions,,,#rocketman,,,,,,,,,,,,,,
+TwitchAction_BuffrocketmanDesc,twitch,Actions,,,20 seconds of Rocket Boots (Idea from Zedtubegaming).,,,,,,,,,,,,,,
+
+TwitchAction_Spawnwolfpack,twitch,Actions,,,Wolf Pack,,,,,,,,,,,,,
+TwitchAction_SpawnwolfpackCommand,twitch,Actions,,,#spawn_wolfpack,,,,,,,,,,,,,,
+TwitchAction_SpawnwolfpackDesc,twitch,Actions,,,Spawns 2 Jimmy Wolves (Idea from J1mmybo1000).,,,,,,,,,,,,,,
+
+TwitchAction_Spawnroulette,twitch,Actions,,,Try your luck,,,,,,,,,,,,,
+TwitchAction_SpawnrouletteCommand,twitch,Actions,,,#roulette,,,,,,,,,,,,,,
+TwitchAction_SpawnrouletteDesc,twitch,Actions,,,Spawns either a chicken a rabbit or a special Demolition Zombie.,,,,,,,,,,,,,,
+
+TwitchAction_BuffFried,twitch,Actions,,,Ring of Fire,,,,,,,,,,,,,
+TwitchAction_BuffFriedCommand,twitch,Actions,,,#fried,,,,,,,,,,,,,,
+TwitchAction_BuffFriedDesc,twitch,Actions,,,20 seconds of Ring of Fire Dev Item (Idea from FriedFrogin).,,,,,,,,,,,,,,
+
+TwitchAction_Spawnanklebiters,twitch,Actions,,,Wolves,,,,,,,,,,,,,
+TwitchAction_SpawnanklebitersCommand,twitch,Actions,,,#spawn_anklebiters,,,,,,,,,,,,,,
+TwitchAction_SpawnanklebitersDesc,twitch,Actions,,,Spawns 7 mini wolves(Idea from Tinfoil_Tim_Gaming).,,,,,,,,,,,,,,
+
+TwitchAction_Buffpoopybutt,twitch,Actions,,,Dysentery,,,,,,,,,,,,,
+TwitchAction_BuffpoopybuttCommand,twitch,Actions,,,#poopybutt,,,,,,,,,,,,,,
+TwitchAction_BuffpoopybuttDesc,twitch,Actions,,,Gives Dysentery.,,,,,,,,,,,,,,
+
+TwitchAction_Buffbrokenleg,twitch,Actions,,,Broken leg,,,,,,,,,,,,,
+TwitchAction_BuffbrokenlegCommand,twitch,Actions,,,#brokenleg,,,,,,,,,,,,,,
+TwitchAction_BuffbrokenlegDesc,twitch,Actions,,,Gives a Broken Leg.,,,,,,,,,,,,,,
+
+TwitchAction_Spawnhellsangels,twitch,Actions,,,Biker Zombies,,,,,,,,,,,,,
+TwitchAction_SpawnhellsangelsCommand,twitch,Actions,,,#spawn_hellsangels,,,,,,,,,,,,,,
+TwitchAction_SpawnhellsangelsDesc,twitch,Actions,,,Spawns a Radiated Biker and 2 normal bikers (Idea from MorbidlyMorose).,,,,,,,,,,,,,,
+
+TwitchAction_Spawnwhambulance,twitch,Actions,,,Medical Zombies,,,,,,,,,,,,,
+TwitchAction_SpawnwhambulanceCommand,twitch,Actions,,,#spawn_whambulance,,,,,,,,,,,,,,
+TwitchAction_SpawnwhambulanceDesc,twitch,Actions,,,Spawns 2 Feral Nurses and a Hazmat Zombie (Idea from MorbidlyMorose).,,,,,,,,,,,,,,
+
+TwitchAction_Buffsonic,twitch,Actions,,,Super Fast Buff,,,,,,,,,,,,,,
+TwitchAction_BuffsonicCommand,twitch,Actions,,,#sonic,,,,,,,,,,,,,,
+TwitchAction_BuffsonicDesc,twitch,Actions,,,Cancels [FFAFAF]Slow[-] if enabled on Target or Massively increases the running speed of the target and their party for 60 seconds.,,,,,,,,,,,,,,
+
+TwitchAction_Spawnsimon,twitch,Actions,,,Mega Crawler Zombie,,,,,,,,,,,,,
+TwitchAction_SpawnsimonCommand,twitch,Actions,,,#spawn_simon,,,,,,,,,,,,,,
+TwitchAction_SpawnsimonDesc,twitch,Actions,,,Spawns Simon the Killer Crawler.,,,,,,,,,,,,,,
+
+TwitchAction_Bufflooter,twitch,Actions,,,Lucky Looting,,,,,,,,,,,,,
+TwitchAction_BufflooterCommand,twitch,Actions,,,#looter,,,,,,,,,,,,,,
+TwitchAction_BufflooterDesc,twitch,Actions,,,90 Seconds of Eye Kandy.,,,,,,,,,,,,,,

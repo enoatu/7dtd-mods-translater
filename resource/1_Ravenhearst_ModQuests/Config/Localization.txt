@@ -1,0 +1,53 @@
+﻿Key,Source,Context,English
+qcrh_killingzeds50,items,Quest - Animal Challenge,Population Control 50,,,,,
+qcrh_kingcollection,items,Quest - Animal Challenge,The King Collection,,,,,
+qcrh_guidetosurvival,items,Quest - Animal Challenge,Essential Survival Guides,,,,,
+qcrh_killingzeds25,items,Quest - Animal Challenge,Population Control 25,,,,,
+qcrh_killingzeds100,items,Quest - Animal Challenge,Population Control 100,,,,,
+qcrh_killingzeds250,items,Quest - Animal Challenge,Population Control 250,,,,,
+qcrh_memoirs,items,Quest - Animal Challenge,Writing Our Memoirs,,,,,
+
+qcrh_killingzeds50Desc,items,Quest - Animal Challenge,"The undead are becoming a real problem. We need your help thinning them out a bit. Can you help us out?",,,,,
+qcrh_kingcollectionDesc,items,Quest - Animal Challenge,"Before the fall, citizens used to get their horror fix from the master of horror. I miss those books. If you can seek out a collection of Stephen Kings books for me I will be grateful and share some knowledge with you.",,,,,
+qcrh_guidetosurvivalDesc,items,Quest - Animal Challenge,"Recently we have picked up some new recruits. Problem is they are very untrained. We know there are some good guides out there that can help us get our point across. Could you pick up these books for us if you happen to run across them?",,,,,
+qcrh_killingzeds25Desc,items,Quest - Animal Challenge,"The undead are becoming a real problem. We need your help thinning them out a bit. Can you help us out?",,,,,
+qcrh_killingzeds100Desc,items,Quest - Animal Challenge,"The undead are becoming a real problem. We need your help thinning them out a bit. Can you help us out?",,,,,
+qcrh_killingzeds250Desc,items,Quest - Animal Challenge,"The undead are becoming a real problem. We need your help thinning them out a bit. Can you help us out?",,,,,
+qcrh_memoirsDesc,items,Quest - Animal Challenge,"As time lurks ahead we find ourselves with the need to share our knowledge with future generations. Our soldiers are beginning to write their memoirs as a blueprint for the future. But we need a few things. If you can help us to acquire them I will share some precious item with you so that perhaps you could begin your own self reflection.",,,,,
+
+rhchallenge_killingzeds50,Quest Info,Reordered,Population Control 50,,,,,
+rhchallenge_killingzeds50_offer,Quest Info,Reordered,"The undead are becoming a real problem. We need your help thinning them out a bit. Can you help us out?",,,,,
+rhchallenge_killingzeds50_subtitle,Quest Info,Reordered,Population Control 50,,,,,
+rhchallenge_killingzeds50_description,Quest Info,Reordered,"The undead are becoming a real problem. We need your help thinning them out a bit. Can you help us out?",,,,,
+
+rhchallenge_killingzeds25,Quest Info,Reordered,Population Control 25,,,,,
+rhchallenge_killingzeds25_offer,Quest Info,Reordered,"The undead are becoming a real problem. We need your help thinning them out a bit. Can you help us out?",,,,,
+rhchallenge_killingzeds25_subtitle,Quest Info,Reordered,Population Control 25,,,,,
+rhchallenge_killingzeds25_description,Quest Info,Reordered,"The undead are becoming a real problem. We need your help thinning them out a bit. Can you help us out?",,,,,
+
+rhchallenge_killingzeds100,Quest Info,Reordered,Population Control 100,,,,,
+rhchallenge_killingzeds100_offer,Quest Info,Reordered,"The undead are becoming a real problem. We need your help thinning them out a bit. Can you help us out?",,,,,
+rhchallenge_killingzeds100_subtitle,Quest Info,Reordered,Population Control 100,,,,,
+rhchallenge_killingzeds100_description,Quest Info,Reordered,"The undead are becoming a real problem. We need your help thinning them out a bit. Can you help us out?",,,,,
+
+rhchallenge_killingzeds250,Quest Info,Reordered,Population Control 250,,,,,
+rhchallenge_killingzeds250_offer,Quest Info,Reordered,"The undead are becoming a real problem. We need your help thinning them out a bit. Can you help us out?",,,,,
+rhchallenge_killingzeds250_subtitle,Quest Info,Reordered,Population Control 250,,,,,
+rhchallenge_killingzeds250_description,Quest Info,Reordered,"The undead are becoming a real problem. We need your help thinning them out a bit. Can you help us out?",,,,,
+
+
+rhchallenge_kingcollection,Quest Info,Reordered,The King Collection,,,,,
+rhchallenge_kingcollection_offer,Quest Info,Reordered,"Before the fall, citizens used to get their horror fix from the master of horror. I miss those books. If you can seek out a collection of Stephen Kings books for me I will be grateful and share some knowledge with you.",,,,,
+rhchallenge_kingcollection_subtitle,Quest Info,Reordered,The King Collection,,,,,
+rhchallenge_kingcollection_description,Quest Info,Reordered,"Before the fall, citizens used to get their horror fix from the master of horror. I miss those books. If you can seek out a collection of Stephen Kings books for me I will be grateful and share some knowledge with you.",,,,,
+
+rhchallenge_guidetosurvival,Quest Info,Reordered,Guide To Survival,,,,,
+rhchallenge_guidetosurvival_offer,Quest Info,Reordered,"Recently we have picked up some new recruits. Problem is they are very untrained. We know there are some good guides out there that can help us get our point across. Could you pick up these books for us if you happen to run across them?",,,,,
+rhchallenge_guidetosurvival_subtitle,Quest Info,Reordered,Guide To Survival,,,,,
+rhchallenge_guidetosurvival_description,Quest Info,Reordered,"Recently we have picked up some new recruits. Problem is they are very untrained. We know there are some good guides out there that can help us get our point across. Could you pick up these books for us if you happen to run across them?",,,,,
+cntPhoneQuestRH,blocks,Block,Old Phone,,,,,
+
+rhchallenge_memoirs,Quest Info,Reordered,Writing Our Memoirs,,,,,
+rhchallenge_memoirs_offer,Quest Info,Reordered,"As time lurks ahead we find ourselves with the need to share our knowledge with future generations. Our soldiers are beginning to write their memoirs as a blueprint for the future. But we need a few things. If you can help us to acquire them I will share some precious item with you so that perhaps you could begin your own self reflection.",,,,,
+rhchallenge_memoirs_subtitle,Quest Info,Reordered,Writing Our Memoirs,,,,,
+rhchallenge_memoirs_description,Quest Info,Reordered,"As time lurks ahead we find ourselves with the need to share our knowledge with future generations. Our soldiers are beginning to write their memoirs as a blueprint for the future. But we need a few things. If you can help us to acquire them I will share some precious item with you so that perhaps you could begin your own self reflection.",,,,,

@@ -1,0 +1,12 @@
+﻿Key,Source,Context,English
+drinkFrozenIceeRH,items,Food,Icee,,,,,
+drinkCanSodaRH,items,Food,Can of Soda,,,,,
+drinkFrozenIceeRHDesc,items,Food,You remember these from a happier time. You can not believe this machine still works. Wonder if the water is still good in this. You can not resist. It's cherry! This helps you survive in severely warm environments.,,,,,
+drinkCanSodaRHDesc,items,Food,The diabeetus was sure kicking your ass before all this happened but it's the end of the world as we know it anyway and you feel fine so.,,,,,
+drinkYuccaJuiceSmoothieDesc,items,Food,This smoothie helps you survive in severely warm environments.,,,,,
+resourceCropDriedChrysanthemumRH,items,Farming,Dried Chrysanthemum Leaves,,,,,
+resourceCropDriedChrysanthemumRHDesc,items,Farming,Dried chrysanthemum leaves can be used to make red tea.,,,,,
+resourceCropDriedGoldenrodRH,items,Farming,Dried Goldenrod Leaves,,,,,
+resourceCropDriedGoldenrodRHDesc,items,Farming,Dried goldenrod leaves can be used to make goldenrod tea.,,,,,
+drinkJarKoolAid,items,Food,Kook Aid,,,,,
+drinkJarKoolAidDesc,items,Food,Nothing gets you busting through walls with energy better than a red drink!,,,,,

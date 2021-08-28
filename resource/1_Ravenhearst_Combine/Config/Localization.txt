@@ -1,0 +1,2 @@
+﻿Key,Source,Context,English
+workbenchCombineHasMods,UI,Tooltip,[FF0000]WARNING[-] - One of the items you are combining has a mod attached!,,,,,

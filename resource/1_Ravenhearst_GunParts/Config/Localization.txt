@@ -1,0 +1,54 @@
+﻿Key,Source,Context,English
+partsShotgunPartsRH,items,Part,Shotgun Parts,,,,,
+partsShotgunBarrelRH,items,Part,Shotgun Barrel,,,,,
+partsShotgunStockRH,items,Part,Shotgun Stock,,,,,
+partsShotgunReceiverRH,items,Part,Shotgun Receiver,,,,,
+partsPistolPartsRH,items,Part,Handgun Parts,,,,,
+partsPistolBarrelRH,items,Part,Handgun Barrel,,,,,
+partsPistolGripRH,items,Part,Handgun Grip,,,,,
+partsPistolFrameRH,items,Part,Handgun Frame,,,,,
+partsMagnumFrameRH,items,Part,.44 Magnum Frame,,,,,
+partsRiflePartsRH,items,Part,Rifle Parts,,,,,
+partsRifleBarrelRH,items,Part,Rifle Barrel,,,,,
+partsRifleStockRH,items,Part,Rifle Stock,,,,,
+partsHuntingRifleReceiverRH,items,Part,Hunting Rifle Receiver,,,,,
+partsSniperRifleReceiverRH,items,Part,Sniper Rifle Receiver,,,,,
+partsAutoRiflePartsRH,items,Part,Automatic Rifle Parts,,,,,
+partsAutoRifleBarrelRH,items,Part,Automatic Rifle Barrel,,,,,
+partsAutoRifleStockRH,items,Part,Automatic Rifle Stock,,,,,
+partsAK47ReceiverRH,items,Part,AK47 Receiver,,,,,
+partsM60ReceiverRH,items,Part,M60 Receiver,,,,,
+gunPartsShotgunRHDesc,items,Part,A piece from a shotgun that you can use to assemble a full working gun.\nScrap to Shotgun Pieces.,,,,,
+gunPartsHandgunRHDesc,items,Part,A piece from a handgun that you can use to assemble a full working gun.\nScrap to Handgun Pieces.,,,,,
+gunPartsRifleRHDesc,items,Part,A piece from a rifle that you can use to assemble a full working gun.\nScrap to Rifle Pieces.,,,,,
+gunPartsAutoRifleRHDesc,items,Part,A piece from an automatic rifle that you can use to assemble a full working gun.\nScrap to Automatic Rifle Pieces.,,,,,
+gunHandgunT1PistolPartsRH,items,Gun,Handgun Pieces,,,,,
+gunMGT1AK47PartsRH,items,Gun,Machine Gun Pieces,,,,,
+gunRifleT1HuntingRiflePartsRH,items,Gun,Rifle Pieces,,,,,
+gunShotgunT1DoubleBarrelPartsRH,items,Gun,Shotgun Pieces,,,,,
+gunHandgunT1PistolDesc,items,Gun,A basic pistol that uses 9mm ammo.\n\nRepair with a Gun Repair Kit.\nScrap to Handgun Pieces.,,,,,
+gunHandgunT2Magnum44Desc,items,Gun,The .44 Magnum is the king of handguns. It's the most powerful but makes the most noise. Wield this bad boy and make Clint proud.\n\nRepair with a Gun Repair Kit.\nScrap to Handgun Pieces.,,,,,
+gunHandgunT3DesertVultureDesc,items,Gun,This heavy pistol uses .44 Magnum ammo.\n\nRepair with a Gun Repair Kit.\nScrap to Handgun Pieces.,,,,,
+gunHandgunT3SMG5Desc,items,Gun,This submachine gun uses 9mm ammo.\n\nRepair with a Gun Repair Kit.\nScrap to Handgun Pieces.,,,,,
+gunMGT1AK47Desc,items,Gun,This badass AK-47 Machine Gun uses 7.62mm ammo.\n\nRepair with a Gun Repair Kit.\nScrap to Machine Gun Pieces.,,,,,
+gunMGT2TacticalARDesc,items,Gun,This Tactical Assault Rifle uses 7.62mm ammo.\n\nRepair with a Gun Repair Kit.\nScrap to Machine Gun Pieces.,,,,,
+gunMGT3M60Desc,items,Gun,Machine guns are somewhat cumbersome to use but excel at automatic fire. This one uses 7.62mm ammo.\n\nRepair with a Gun Repair Kit.\nScrap to Machine Gun Pieces.,,,,,
+gunRifleT1HuntingRifleDesc,items,Gun,This common farmer's hunting rifle uses 7.62mm ammo.\n\nRepair with a Gun Repair Kit.\nScrap to Rifle Pieces.,,,,,
+gunRifleT2MarksmanRifleDesc,items,Gun,This marksman's rifle uses 7.62mm ammo and is your first choice if you want to make that shot count.\n\nRepair with a Gun Repair Kit.\nScrap to Rifle Pieces.,,,,,
+gunRifleT3SniperRifleDesc,items,Gun,"This high precision, long ranged rifle is perfect for sniping enemies at great distances.\n\nRepair with a Gun Repair Kit.\nScrap to Rifle Pieces.",,,,,
+gunShotgunT1DoubleBarrelDesc,items,Gun,"A rusty old double barrel shotgun, great for close range carnage.\n\nRepair with a Gun Repair Kit.\nScrap to Shotgun Pieces.",,,,,
+gunShotgunT2PumpShotgunDesc,items,Gun,A long-barreled shotgun with pump action loading .\n\nRepair with a Gun Repair Kit.\nScrap to Shotgun Pieces.,,,,,
+gunShotgunT3AutoShotgunDesc,items,Gun,This semi automatic shotgun is a rare and devasting short range weapon capable of making minced meat out of anything in its path.\n\nRepair with a Gun Repair Kit.\nScrap to Shotgun Pieces.,,,,,
+gunRiflePartsSchematic,items,Gun,Rifle Parts Schematic,,,,,
+gunHandgunPartsSchematic,items,Gun,Handgun Parts Schematic,,,,,
+gunShotgunPartsSchematic,items,Gun,Shotgun Parts Schematic,,,,,
+gunAutoPartsSchematic,items,Gun,Machine Gun Parts Schematic,,,,,
+
+
+
+
+
+
+
+
+
