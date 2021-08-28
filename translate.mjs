@@ -13,6 +13,8 @@ const exceptFiles = ['IronBarDoor2x2Block']
 
 const paths = await globby(['./resource/*/Config/Localization.txt'])
 
+const localzationNeedPaths = []
+const localzationUnNeedPaths = []
 paths.forEach((path) => {
   let data = fs.readFileSync(path)
   try {
@@ -34,16 +36,17 @@ paths.forEach((path) => {
     console.info(
       `${path}, ${targetLangColumnName} (index=${foundTargetLangColumnIndex}) exist. skip`
     )
+    localzationUnNeedPaths.push(path)
     return
   }
+  localzationNeedPaths.push(path)
+})
 
-  console.log(
-    data,
-    err,
-    targetLangColumnName,
-    foundTargetLangColumnIndex,
-    lastIndex
-  )
+console.log({
+  localzationUnNeeds: localzationUnNeedPaths.length,
+  localzationUnNeedPaths,
+  localzationNeeds: localzationNeedPaths.length,
+  localzationNeedPaths,
 })
 
 // Get first info
@@ -62,9 +65,7 @@ function getFirstRowInfo(path, data) {
 
   // Target lang check
   const lowerIndex = data[0].indexOf(targetLangNames.lower)
-  console.log('low', targetLangNames.lower, lowerIndex)
   const upperIndex = data[0].indexOf(targetLangNames.upper)
-  console.log('up', targetLangNames.lower, upperIndex)
   if (lowerIndex > -1) {
     return {
       err: null,
