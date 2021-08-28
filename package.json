@@ -1,0 +1,19 @@
+{
+  "name": "7dtd-localization-japanese",
+  "version": "0.0.1",
+  "scripts": {
+    "fmt": "prettier --check --write '*.mjs'"
+  },
+  "lint-staged": {
+    "*": [
+      "prettier --check --write '*.mjs'"
+    ]
+  },
+  "dependencies": {
+    "csv-parse": "^4.16.2",
+    "husky": "^6.0.0",
+    "lint-staged": "^11.0.0",
+    "prettier": "^2.3.1",
+    "zx": "^4.0.0"
+  }
+}
