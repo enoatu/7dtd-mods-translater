@@ -57,11 +57,20 @@ paths.forEach((path, index) => {
   const resultPath = path.replace('./resource/', `./result-${date}`)
   rows[0][lastIndex + 1] = targetLangColumnName // add columns (header)
   rows.forEach(async (columns, index) => {
+    if (index === 0) {
+      return columns
+    }
+    if (index > 2) {
+      return columns
+    }
     if (columns.length < 4) {
       // shortest: key,source,english
       return columns
     }
     const source = columns[sourceColumnIndex]
+    if (!source) {
+      return columns
+    }
     // let result = translateCacher.get(source)
     if (0) {
       // result
@@ -75,17 +84,13 @@ paths.forEach((path, index) => {
       const resp = await fetch(Config.api.url, {
         method: 'POST',
         body: JSON.stringify(params),
-        headers:{
-          "Content-Type": "application/json"
-        }
       })
       const json = await resp.json()
-      process.exit(1)
-      if (json.status === 200) {
-        result = json.text
+      if (json.status == 200) {
         translateCacher.set(source, json.text)
       } else {
-        throw new Error(json)
+        console.err(json)
+        throw new Error(json.text)
       }
     }
   })

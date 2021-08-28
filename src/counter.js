@@ -4,7 +4,7 @@ class Counter {
   }
   add(key, value) {
     if (!this.result[key]) this.result[key] = []
-    this.result[key].push(key, value)
+    this.result[key].push(value)
   }
   output() {
     Object.keys(this.result).forEach((key) => {

@@ -7,10 +7,10 @@ module.exports = {
   targetLangNames: {
     lower: 'japanese',
     upper: 'Japanese',
-    short: 'jp',
+    short: 'ja',
   },
   api: {
-    url: 'https://script.google.com/macros/s/AKfycbwhRlf3Bim6hfkcxuyGaxjLwz6r48KzKCW05qx4EBMKhUoIwh43ae87dV3PqHEJAp5lPg/exec',
+    url: 'https://script.google.com/macros/s/AKfycbzerVkq29n38TSic4_AS-WsltYMOwS2oglae0XalzzKAF4u6XoTMIRcN42acrtV9U046g/exec',
     maxTextLengthPerReq: 100,
   },
   cacheFile: '../cachefile.csv'
