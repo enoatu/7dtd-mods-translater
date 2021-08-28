@@ -1,5 +1,6 @@
 const Config = require('./config')
-const utilString = require('./util/string')
+const utilString = require('./utils/string')
+const csvStringifySync = require("csv-stringify/lib/sync");
 
 class TranslateCacher {
   constructor() {
@@ -15,6 +16,21 @@ class TranslateCacher {
       }
     }
   }
+  get(key) {
+    return this.result[key]
+  }
   saveFile() {
+    const array = []
+    Object.keys(this.result).forEach(key => {
+      const touple = []
+      touple.push(key)
+      touple.push(this.result[key])
+      array.push(touple)
+    })
+    const csvString = csvStringifySync(array, {
+      header: true,
+    })
+    fs.writeFileSync(Config.cacheFile, csvString)
   }
 }
+module.exports = TranslateCacher

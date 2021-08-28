@@ -243,6 +243,11 @@ csv-parse@^4.16.2:
   resolved "https://registry.yarnpkg.com/csv-parse/-/csv-parse-4.16.2.tgz#cd7d25e9b9e1430ac6aa5ed9b5c1685e72d4a8d8"
   integrity sha512-eq2BhB6JiIJaNv61pH5EC+o/iyCBxT+g6ukLu2UoNyS5daCN8YlzhOsLHGt/t9sGraMYt/aizaXPLQoNvxlIMw==
 
+csv-stringify@^5.6.4:
+  version "5.6.4"
+  resolved "https://registry.yarnpkg.com/csv-stringify/-/csv-stringify-5.6.4.tgz#8764c56c39eefc1539db47de3f3b90eb11be22f0"
+  integrity sha512-LnX2ft+6MX3CJKLoL4n9ZLIiaUKmPQLJixMbSfGC8wGNBn82UEdX9Fcg4f2HbpCTWqjIiLrxegQt2uorQo2NXw==
+
 debug@^4.3.1:
   version "4.3.2"
   resolved "https://registry.yarnpkg.com/debug/-/debug-4.3.2.tgz#f0a49c18ac8779e31d4a0c6029dfb76873c7428b"

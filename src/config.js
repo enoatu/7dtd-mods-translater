@@ -10,7 +10,8 @@ module.exports = {
     short: 'jp',
   },
   api: {
-    url: https://script.google.com/macros/s/AKfycbwwHoG93JS17wL6anGRrT9JNGYsnkhpMp3Xcxy479VvZONQNkXHP4xDIGVoLqr3x4Ke5g/exec,
+    url: 'https://script.google.com/macros/s/AKfycbwhRlf3Bim6hfkcxuyGaxjLwz6r48KzKCW05qx4EBMKhUoIwh43ae87dV3PqHEJAp5lPg/exec',
     maxTextLengthPerReq: 100,
-  }
+  },
+  cacheFile: '../cachefile.csv'
 }

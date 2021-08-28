@@ -1,4 +1,4 @@
-const isJapanese = () = {
+const isJapanese = () => {
   let gmi = 'gmi'
   let regeIncludeHiragana = '^(?=.*[\u3041-\u3096]).*$'
   let regeIncludeKatakana = '^(?=.*[\u30A1-\u30FA]).*$'

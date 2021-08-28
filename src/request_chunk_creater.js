@@ -16,3 +16,4 @@ class RequestChunkCreater {
     return this.chunks
   }
 }
+module.exports = RequestChunkCreater
