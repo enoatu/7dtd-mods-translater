@@ -8,6 +8,6 @@ const TranslateCacher = new Keyv({
     encode: (a) => {
       return JSON.stringify(a, null, ' ')
     },
-  })
+  }),
 })
 module.exports = TranslateCacher

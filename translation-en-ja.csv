@@ -23975,6 +23975,30 @@
    {
     "value": "{\"value\":\"機械的なAndroidプロトタイプの1つをディスパッチできます。\\\\n\\\\n近くに立っている敵は定期的に気絶します。\\\\n\\\\n常に協力しなくても驚かないでください。現在もこのテクノロジーに取り組んでいます。\\\\n\\\\n3分間しか十分な電力がありませんが、最大限に活用してください。\",\"expires\":null}"
    }
+  ],
+  [
+   "keyv:Steel Polish",
+   {
+    "value": "{\"value\":\"スチールポリッシュ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Polish used to upgrade steel blocks to Stainless Steel. This will greatly increase the durability of the block and make it shine.",
+   {
+    "value": "{\"value\":\"スチールブロックをステンレス鋼にアップグレードするために使用されるポーランド語。これにより、ブロックの耐久性が大幅に向上し、輝きを増します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Box of Steel Polish",
+   {
+    "value": "{\"value\":\"スチールポリッシュの箱\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Box of Steel Polish that will produce bottles when opened.",
+   {
+    "value": "{\"value\":\"開封するとボトルができるスチールポリッシュの箱。\",\"expires\":null}"
+   }
   ]
  ],
  "lastExpire": 1630255268399

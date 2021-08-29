@@ -4,7 +4,7 @@ $.verbose = true
 
 await $`cd $(dirname $0)`
 const date = (await $`date +"%Y%m%d%H%M%S"`).stdout.trim()
-await $`mkdir ./result-${date} && cp -rf ./resource/* ./result-${date}/`
+await $`rm -rf ./output/* && cp -rf ./resource/* ./output`
 
 const csvParse = require('csv-parse/lib/sync')
 const csvStringifySync = require('csv-stringify/lib/sync')
@@ -14,7 +14,12 @@ const translateCacher = require('./translate_cacher')
 
 const counter = new Counter()
 
-const paths = await globby(['./resource/*/Config/Localization.txt'])
+const paths = await globby([
+  './resource/*/config/localization.txt',
+  './resource/*/config/Localization.txt',
+  './resource/*/Config/Localization.txt',
+  './resource/*/Config/localization.txt',
+])
 
 for (const [pathIndex, path] of paths.entries()) {
   console.info(`--- start input: ${path} ---`)
@@ -48,7 +53,7 @@ for (const [pathIndex, path] of paths.entries()) {
   }
   counter.add('localzationNeedPaths', path)
 
-  const resultPath = path.replace('./resource/', `./result-${date}/`)
+  const resultPath = path.replace('./resource/', `./output/`)
   rows[0][expectedTargetLangColumnIndex] = targetLangColumnName // add columns (header)
 
   for (let index = 0; rows.length > index; index++) {
@@ -107,7 +112,7 @@ for (const [pathIndex, path] of paths.entries()) {
       }
     }
   }
-  const filteredRows = rows.filter(row => !!row)
+  const filteredRows = rows.filter((row) => !!row)
   console.log(0, filteredRows[0])
   console.log(1, filteredRows[1])
   const csvString = csvStringifySync(filteredRows)
@@ -146,7 +151,7 @@ function getFirstRowInfo(path, rows) {
   const upperIndex = rows[0].indexOf(Config.targetLangNames.upper)
 
   // get last lang index
-  let expectedTargetLangColumnIndex = rows[0].findIndex(row => !row)
+  let expectedTargetLangColumnIndex = rows[0].findIndex((row) => !row)
   if (expectedTargetLangColumnIndex == -1) {
     expectedTargetLangColumnIndex = rows[0].length
   }
@@ -185,6 +190,6 @@ function getFirstRowInfo(path, rows) {
   }
 }
 
-function modifyText (text) {
-  return text.replaceAll('\\\ n ', '\\n').replaceAll('\\\ n', '\\n')
+function modifyText(text) {
+  return text.replaceAll('\\ n ', '\\n').replaceAll('\\ n', '\\n')
 }
