@@ -101,8 +101,8 @@ for (const [pathIndex, path] of paths.entries()) {
       })
       const json = await resp.json()
       if (json.status == 200) {
-        console.log(json)
         const text = modifyText(json.text)
+        console.log(text)
         await translateCacher.set(source, text)
         rows[index][expectedTargetLangColumnIndex] = text
       } else {

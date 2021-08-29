@@ -1,0 +1,2153 @@
+{
+ "cache": [
+  [
+   "keyv:Are you the undead?",
+   {
+    "value": "{\"value\":\"あなたはアンデッドですか？\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Maybe not but a bar of soap wouldn't kill ya none either.",
+   {
+    "value": "{\"value\":\"たぶんそうではないかもしれませんが、石鹸のバーはあなたを殺すことはありません。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:+1% Block Damage and Resource Gain\\n+0.3% Stamina Reduction\\nper level",
+   {
+    "value": "{\"value\":\"+ 1％ブロックダメージとリソースゲイン\\\\n+ 0.3％スタミナ削減\\\\nレベルごと\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:+0.3% Damage and Stamina Reduction\\nper level\\nUnlocks Blunt Recipes at levels 20, 40, 60, 80 and 100",
+   {
+    "value": "{\"value\":\"+ 0.3％のダメージとスタミナの減少\\\\nレベルごと\\\\nレベル20、40、60、80、100で鈍いレシピのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:+0.3% Damage and Stamina Reduction\\nper level\\nUnlocks Sledgehammer Recipes at levels 20, 40, 60, 80 and 100",
+   {
+    "value": "{\"value\":\"+ 0.3％のダメージとスタミナの減少\\\\nレベルごと\\\\nレベル20、40、60、80、100でスレッジハンマーレシピのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:+0.3% Damage and Stamina Reduction\\nper level\\nUnlocks Blade Recipes at levels 20, 40, 60, 80 and 100",
+   {
+    "value": "{\"value\":\"+ 0.3％のダメージとスタミナの減少\\\\nレベルごと\\\\nレベル20、40、60、80、100でブレードレシピのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:+0.3% Damage and Stamina Reduction\\nper level\\nUnlocks Electric Weapon Recipes at levels 20, 60 and 100",
+   {
+    "value": "{\"value\":\"+ 0.3％のダメージとスタミナの減少\\\\nレベルごと\\\\nレベル20、60、100で電気武器のレシピのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:+0.3% Damage and Stamina Reduction\\nper level\\nUnlocks Javelin Recipes at levels 20, 60 and 100",
+   {
+    "value": "{\"value\":\"+ 0.3％のダメージとスタミナの減少\\\\nレベルごと\\\\nレベル20、60、100でやり投げレシピのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:+0.3% Damage\\n+0.5% Accuracy and Reload Speed\\nper level\\nUnlocks Bow Recipes at levels 20, 40, 60, 80 and 100",
+   {
+    "value": "{\"value\":\"+ 0.3％のダメージ\\\\n+ 0.5％の精度とリロード速度\\\\nレベルごと\\\\nレベル20、40、60、80、100で弓のレシピのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:+0.3% Damage\\n+0.5% Accuracy, Reload Speed, and Recoil Reduction\\nper level\\nUnlocks Pistol Recipes at levels 20, 40, 60, 80 and 100",
+   {
+    "value": "{\"value\":\"+ 0.3％のダメージ\\\\n+ 0.5％の精度、リロード速度、反動の減少\\\\nレベルごと\\\\nレベル20、40、60、80、100でピストルレシピのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:+0.3% Damage\\n+0.5% Accuracy, Reload Speed, and Recoil Reduction\\nper level\\nUnlocks Shotgun Recipes at levels 20, 40, 60, 80 and 100",
+   {
+    "value": "{\"value\":\"+ 0.3％のダメージ\\\\n+ 0.5％の精度、リロード速度、リコイルの減少\\\\nレベルごと\\\\nレベル20、40、60、80、100でショットガンレシピのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:+0.3% Damage\\n+0.5% Accuracy, Reload Speed, and Recoil Reduction\\nper level\\nUnlocks Rifle Recipes at levels 20, 40, 60, 80 and 100",
+   {
+    "value": "{\"value\":\"+ 0.3％のダメージ\\\\n+ 0.5％の精度、リロード速度、反動の減少\\\\nレベルごと\\\\nレベル20、40、60、80、100でライフルレシピのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:+0.3% Damage\\n+0.5% Accuracy, Reload Speed, and Recoil Reduction\\nper level\\nUnlocks Automatics Recipes at levels 20, 40, 60, 80 and 100",
+   {
+    "value": "{\"value\":\"+ 0.3％のダメージ\\\\n+ 0.5％の精度、リロード速度、リコイルの減少\\\\nレベルごと\\\\nレベル20、40、60、80、100で自動レシピのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:+0.3% Damage and Stamina Reduction\\nper level\\nUnlocks Fist Weapon Recipes at levels 20, 60 and 100",
+   {
+    "value": "{\"value\":\"+ 0.3％のダメージとスタミナの減少\\\\nレベルごと\\\\nレベル20、60、100で拳の武器レシピのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:+0.3% Damage and Stamina Reduction\\nper level\\nUnlocks Turret Recipes at levels 20, 40, 60, 80 and 100",
+   {
+    "value": "{\"value\":\"+ 0.3％のダメージとスタミナの減少\\\\nレベルごと\\\\nレベル20、40、60、80、100でタレットレシピのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Action Skills",
+   {
+    "value": "{\"value\":\"アクションスキル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Action Skills level as you use them.",
+   {
+    "value": "{\"value\":\"使用するアクションスキルレベル。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Attribute: Action Skills",
+   {
+    "value": "{\"value\":\"属性：アクションスキル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Your Skill In Mining Tools Has Increased!",
+   {
+    "value": "{\"value\":\"マイニングツールのスキルが向上しました！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Your Skill In Archery Has Increased!",
+   {
+    "value": "{\"value\":\"アーチェリーのスキルが向上しました！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Your Skill In Automatics Has Increased!",
+   {
+    "value": "{\"value\":\"オートマチックのスキルが向上しました！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Your Skill In Blades Has Increased!",
+   {
+    "value": "{\"value\":\"ブレードのスキルが向上しました！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Your Skill In Pistols Has Increased!",
+   {
+    "value": "{\"value\":\"ピストルのスキルが向上しました！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Your Skill In Shotguns Has Increased!",
+   {
+    "value": "{\"value\":\"ショットガンのスキルが向上しました！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Your Skill In Construction Tools Has Increased!",
+   {
+    "value": "{\"value\":\"建設ツールのスキルが向上しました！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Your Skill In Rifles Has Increased!",
+   {
+    "value": "{\"value\":\"ライフルのスキルが向上しました！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Your Skill In Batons Has Increased!",
+   {
+    "value": "{\"value\":\"バトンでのスキルが向上しました！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Your Skill In Turrets Has Increased!",
+   {
+    "value": "{\"value\":\"タレットでのスキルが向上しました！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Your Skill In Javelin Weapons Has Increased!",
+   {
+    "value": "{\"value\":\"やり投げ武器のスキルが向上しました！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Your Skill In Brawler Has Increased!",
+   {
+    "value": "{\"value\":\"喧嘩屋でのスキルが向上しました！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Your Skill In Blunt Weapons Has Increased!",
+   {
+    "value": "{\"value\":\"鈍器のスキルが向上しました！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Your Skill In Sledgehammer Weapons Has Increased!",
+   {
+    "value": "{\"value\":\"スレッジハンマー武器のスキルが向上しました！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Your Skill In Athletics Has Increased!",
+   {
+    "value": "{\"value\":\"陸上競技のスキルが向上しました！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Mining Tool Crafting",
+   {
+    "value": "{\"value\":\"マイニングツールの作成\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Learn how to craft mining tools.",
+   {
+    "value": "{\"value\":\"マイニングツールの作成方法を学びます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Mining Tools Level 10",
+   {
+    "value": "{\"value\":\"マイニングツールレベル10が必要\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Mining Tools Level 20",
+   {
+    "value": "{\"value\":\"マイニングツールレベル20が必要\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Mining Tools Level 30",
+   {
+    "value": "{\"value\":\"マイニングツールレベル30が必要\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Mining Tools Level 40",
+   {
+    "value": "{\"value\":\"マイニングツールレベル40が必要\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Mining Tools Level 50",
+   {
+    "value": "{\"value\":\"マイニングツールレベル50が必要\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Mining Tools Level 60",
+   {
+    "value": "{\"value\":\"マイニングツールレベル60が必要\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Mining Tools Level 70",
+   {
+    "value": "{\"value\":\"マイニングツールレベル70が必要\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Mining Tools Level 80",
+   {
+    "value": "{\"value\":\"マイニングツールレベル80が必要\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Mining Tools Level 90",
+   {
+    "value": "{\"value\":\"マイニングツールレベル90が必要\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Mining Tools Level 100",
+   {
+    "value": "{\"value\":\"マイニングツールレベル100が必要\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Scrap Tools",
+   {
+    "value": "{\"value\":\"スクラップツール\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the Scrap Pickaxe and Scrap Shovel",
+   {
+    "value": "{\"value\":\"スクラップつるはしとスクラップシャベルのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Iron Tools",
+   {
+    "value": "{\"value\":\"鉄の道具\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the Iron Pickaxe and Iron Shovel",
+   {
+    "value": "{\"value\":\"鉄のつるはしと鉄のシャベルのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Steel Tools",
+   {
+    "value": "{\"value\":\"スチールツール\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the Steel Pickaxe and Steel Shovel",
+   {
+    "value": "{\"value\":\"スチールつるはしとスチールシャベルのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Power Tools",
+   {
+    "value": "{\"value\":\"パワーツール\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the Auger",
+   {
+    "value": "{\"value\":\"オージェのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Advanced Tools",
+   {
+    "value": "{\"value\":\"高度なツール\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the Aluminum Pickaxe",
+   {
+    "value": "{\"value\":\"アルミつるはしのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Construction and Mining Tools Level 10",
+   {
+    "value": "{\"value\":\"建設および採掘ツールレベル10が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Construction and Mining Tools Level 20",
+   {
+    "value": "{\"value\":\"建設および採掘ツールレベル20が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Construction and Mining Tools Level 30",
+   {
+    "value": "{\"value\":\"建設および採掘ツールレベル30が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Construction and Mining Tools Level 40",
+   {
+    "value": "{\"value\":\"建設および採掘ツールレベル40が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Construction and Mining Tools Level 50",
+   {
+    "value": "{\"value\":\"建設および採掘ツールレベル50が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Construction and Mining Tools Level 60",
+   {
+    "value": "{\"value\":\"建設および採掘ツールレベル60が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Construction and Mining Tools Level 70",
+   {
+    "value": "{\"value\":\"建設および採掘ツールレベル70が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Construction and Mining Tools Level 80",
+   {
+    "value": "{\"value\":\"建設および採掘ツールレベル80が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Construction and Mining Tools Level 90",
+   {
+    "value": "{\"value\":\"建設および採掘ツールレベル90が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Construction and Mining Tools Level 100",
+   {
+    "value": "{\"value\":\"建設および採掘ツールレベル100が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Construction Tool Crafting",
+   {
+    "value": "{\"value\":\"建設ツールクラフト\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Learn how to craft construction tools.",
+   {
+    "value": "{\"value\":\"建設ツールの作り方を学びましょう。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Construction Tools Level 10",
+   {
+    "value": "{\"value\":\"建設ツールレベル10が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:There are a bunch of stray dogs at this location terrorizing survivors.",
+   {
+    "value": "{\"value\":\"この場所には、生存者を恐怖に陥れる野良犬がたくさんいます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Strays",
+   {
+    "value": "{\"value\":\"迷子\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Dear Survivor,\\nYea I get it they are cute and used to be mans best friend. You know what you have to do.\\n\\nGood Luck, Crazy Jake.",
+   {
+    "value": "{\"value\":\"親愛なるサバイバー、\\\\nそうですね、彼らはかわいくて、かつては男の親友でした。あなたはあなたがしなければならないことを知っています。\\\\n\\\\n幸運、クレイジージェイク。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Woof woof?",
+   {
+    "value": "{\"value\":\"ウーフウーフ？\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Well Done...here are some things I found awhile ago. \\nTake it.  ",
+   {
+    "value": "{\"value\":\"よくできました...しばらく前に見つけたものがいくつかあります。 \\\\n取ってください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:No I'm not dead yet.",
+   {
+    "value": "{\"value\":\"いいえ、私はまだ死んでいません。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gee thanks.",
+   {
+    "value": "{\"value\":\"よろしくお願いします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Be safe friend.",
+   {
+    "value": "{\"value\":\"安全な友達になりましょう。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:FoolsGold Quest",
+   {
+    "value": "{\"value\":\"FoolsGoldクエスト\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:There are rumors of a great treasure at this location.",
+   {
+    "value": "{\"value\":\"この場所には大きな宝物があるという噂があります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fools Gold",
+   {
+    "value": "{\"value\":\"愚か者の金\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Dear Survivor,\\nDont know if the source I got this from is reliable. Just keep in mind it was one of the Dukes guys.\\n\\nGood Luck, Crazy Jake.",
+   {
+    "value": "{\"value\":\"親愛なるサバイバー、\\\\n私がこれを入手したソースが信頼できるかどうかわからない。それは公爵夫人の一人だったことを覚えておいてください。\\\\n\\\\n幸運、クレイジージェイク。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Is this a joke?",
+   {
+    "value": "{\"value\":\"これは冗談ですか？\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Reinforced Steel Spikes",
+   {
+    "value": "{\"value\":\"鉄筋スパイク\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hard to destroy and with an excellent damage along with excellent explosion resistance this Spiked trap is one of the best traps in the game.",
+   {
+    "value": "{\"value\":\"破壊しにくく、優れたダメージと優れた耐爆性を備えたこのスパイクトラップは、ゲームで最高のトラップの1つです。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Reinforced Steel Wall Trap",
+   {
+    "value": "{\"value\":\"強化鋼壁トラップ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Used as armor for your base and as well acting as a trap. Not so damaging as the other traps but it has the best defence properties. The Reinforced Steel Wall is a must have in the mid-late game.",
+   {
+    "value": "{\"value\":\"ベースの鎧として使用され、トラップとしても機能します。他のトラップほどダメージはありませんが、最高の防御特性を備えています。強化鋼壁は、中期後半のゲームでなくてはならないものです。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Reinforced Steel Spiked Wire",
+   {
+    "value": "{\"value\":\"強化鋼スパイクワイヤー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Far better then the normal Barbed Wire the Reinforce Steel Spiked Wire has 3x Damage of the normal Barbed Wire and is far more resistant. Is like Barbed Wire on steroids.",
+   {
+    "value": "{\"value\":\"通常の有刺鉄線よりもはるかに優れており、強化鋼スパイクワイヤーは通常の有刺鉄線の3倍のダメージがあり、はるかに耐性があります。ステロイドの有刺鉄線のようなものです。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Reinforced Steel Armored Wall",
+   {
+    "value": "{\"value\":\"強化鋼装甲壁\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Used as armor for your base walls the Armored Wall has excellent defence properties and it will be a life saver for sure.",
+   {
+    "value": "{\"value\":\"ベースウォールのアーマーとして使用されるアーマードウォールは、優れた防御特性を備えており、確実に命を救うでしょう。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Reinforced Steel Entanglement Wire",
+   {
+    "value": "{\"value\":\"強化鋼エンタングルメントワイヤー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Doesn't do any damage but it slows down anything that moves. Pray you don't get entangled in one of those really.",
+   {
+    "value": "{\"value\":\"ダメージはありませんが、動くものはすべて遅くなります。本当にそれらの1つに巻き込まれないように祈ってください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Mod",
+   {
+    "value": "{\"value\":\"モッド\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:2 Skill Point Book",
+   {
+    "value": "{\"value\":\"2スキルポイントブック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:5 Skill Point Book",
+   {
+    "value": "{\"value\":\"5スキルポイントブック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:10 Skill Point Book",
+   {
+    "value": "{\"value\":\"10スキルポイントブック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:15 Skill Point Book",
+   {
+    "value": "{\"value\":\"15スキルポイントブック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:500 Experience Book",
+   {
+    "value": "{\"value\":\"500エクスペリエンスブック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:1000 Experience Book",
+   {
+    "value": "{\"value\":\"1000体験本\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:2000 Experience Book",
+   {
+    "value": "{\"value\":\"2000年体験本\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:5000 Experience Book",
+   {
+    "value": "{\"value\":\"5000エクスペリエンスブック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:10000 Experience Book",
+   {
+    "value": "{\"value\":\"10000エクスペリエンスブック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:50000 Experience Book",
+   {
+    "value": "{\"value\":\"50000エクスペリエンスブック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:500000 Experience Book",
+   {
+    "value": "{\"value\":\"500000エクスペリエンスブック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:1 Skill Point",
+   {
+    "value": "{\"value\":\"1スキルポイント\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gain 1 Skill Point.",
+   {
+    "value": "{\"value\":\"スキルポイントを1つ獲得します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have gained 1 Skill Point.",
+   {
+    "value": "{\"value\":\"あなたは1スキルポイントを獲得しました。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:2 Skill Points",
+   {
+    "value": "{\"value\":\"2スキルポイント\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gain 2 Skill Points.",
+   {
+    "value": "{\"value\":\"2スキルポイントを獲得します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have gained 2 Skill Points.",
+   {
+    "value": "{\"value\":\"あなたは2スキルポイントを獲得しました。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:5 Skill Points",
+   {
+    "value": "{\"value\":\"5スキルポイント\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gain 4 Skill Points.",
+   {
+    "value": "{\"value\":\"4スキルポイントを獲得します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have gained 5 Skill Points.",
+   {
+    "value": "{\"value\":\"あなたは5スキルポイントを獲得しました。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:10 Skill Points",
+   {
+    "value": "{\"value\":\"10スキルポイント\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gain 10 Skill Points.",
+   {
+    "value": "{\"value\":\"10スキルポイントを獲得します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have gained 10 Skill Points.",
+   {
+    "value": "{\"value\":\"あなたは10スキルポイントを獲得しました。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:15 Skill Points",
+   {
+    "value": "{\"value\":\"15スキルポイント\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gain 15 Skill Points.",
+   {
+    "value": "{\"value\":\"15スキルポイントを獲得します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have gained 15 Skill Points.",
+   {
+    "value": "{\"value\":\"15スキルポイントを獲得しました。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:500 Experience",
+   {
+    "value": "{\"value\":\"500経験\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gain 500 Experience.",
+   {
+    "value": "{\"value\":\"500の経験を積む。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have gained 500 Experience.",
+   {
+    "value": "{\"value\":\"あなたは500の経験を積んだ。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:1000 Experience",
+   {
+    "value": "{\"value\":\"1000経験\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gain 1000 Experience.",
+   {
+    "value": "{\"value\":\"1000の経験を積む。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have gained 1000 Experience.",
+   {
+    "value": "{\"value\":\"あなたは1000の経験を積んでいます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:2000 Experience",
+   {
+    "value": "{\"value\":\"2000年の経験\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gain 2000 Experience.",
+   {
+    "value": "{\"value\":\"2000年の経験を積む。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have gained 2000 Experience.",
+   {
+    "value": "{\"value\":\"あなたは2000の経験を積んでいます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:5000 Experience",
+   {
+    "value": "{\"value\":\"5000経験\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gain 5000 Experience.",
+   {
+    "value": "{\"value\":\"5000の経験を積む。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have gained 5000 Experience.",
+   {
+    "value": "{\"value\":\"あなたは5000の経験を積んでいます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:10000 Experience",
+   {
+    "value": "{\"value\":\"10000経験\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gain 10000 Experience.",
+   {
+    "value": "{\"value\":\"10000の経験を積む。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have gained 10000 Experience.",
+   {
+    "value": "{\"value\":\"あなたは10000の経験を積んでいます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:50000 Experience",
+   {
+    "value": "{\"value\":\"50000経験\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gain 50000 Experience.",
+   {
+    "value": "{\"value\":\"50000の経験を積む。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have gained 50000 Experience.",
+   {
+    "value": "{\"value\":\"あなたは50000の経験を積んでいます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:500000 Experience",
+   {
+    "value": "{\"value\":\"500000経験\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gain 500000 Experience.",
+   {
+    "value": "{\"value\":\"500000の経験を積む。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have gained 500000 Experience.",
+   {
+    "value": "{\"value\":\"あなたは500000の経験を積んでいます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble this type of ammo and get back half the original resources used to make them",
+   {
+    "value": "{\"value\":\"このタイプの弾薬を分解し、それらを作るために使用された元のリソースの半分を取り戻します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble 7.62mm (10)",
+   {
+    "value": "{\"value\":\"7.62mm（10）を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble 7.62mm (50)",
+   {
+    "value": "{\"value\":\"7.62mm（50）を分解する\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble 7.62mm (250)",
+   {
+    "value": "{\"value\":\"7.62mm（250）を分解する\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble AP 7.62mm (10)",
+   {
+    "value": "{\"value\":\"AP 7.62mmを分解します（10）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble AP 7.62mm (50)",
+   {
+    "value": "{\"value\":\"AP 7.62mm（50）を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble AP 7.62mm (250)",
+   {
+    "value": "{\"value\":\"AP 7.62mm（250）を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble HP 7.62mm (10)",
+   {
+    "value": "{\"value\":\"HP 7.62mm（10）を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble HP 7.62mm (50)",
+   {
+    "value": "{\"value\":\"HP 7.62mm（50）を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble HP 7.62mm (250)",
+   {
+    "value": "{\"value\":\"HP 7.62mm（250）を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble 9mm (10)",
+   {
+    "value": "{\"value\":\"9mm（10）を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble 9mm (50)",
+   {
+    "value": "{\"value\":\"9mm（50）を分解する\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble 9mm (250)",
+   {
+    "value": "{\"value\":\"9mm（250）を分解する\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble AP 9mm (10)",
+   {
+    "value": "{\"value\":\"AP 9mm（10）を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble AP 9mm (50)",
+   {
+    "value": "{\"value\":\"AP 9mm（50）を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble AP 9mm (250)",
+   {
+    "value": "{\"value\":\"AP 9mm（250）を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble HP 9mm (10)",
+   {
+    "value": "{\"value\":\"HP 9mm（10）を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble HP 9mm (50)",
+   {
+    "value": "{\"value\":\"HP 9mm（50）を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble HP 9mm (250)",
+   {
+    "value": "{\"value\":\"HP 9mm（250）を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble 44Magnum (10)",
+   {
+    "value": "{\"value\":\"44マグナム弾を分解する（10）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble 44Magnum (50)",
+   {
+    "value": "{\"value\":\"44マグナム弾を分解する（50）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble 44Magnum (250)",
+   {
+    "value": "{\"value\":\"44マグナム弾（250）を分解する\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble AP 44Magnum (10)",
+   {
+    "value": "{\"value\":\"AP 44マグナム弾を分解する（10）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble AP 44Magnum (50)",
+   {
+    "value": "{\"value\":\"AP 44マグナム（50）を分解する\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble AP 44Magnum (250)",
+   {
+    "value": "{\"value\":\"AP 44マグナム（250）を分解する\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble HP 44Magnum (10)",
+   {
+    "value": "{\"value\":\"HP 44マグナム（10）を分解する\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble HP 44Magnum (50)",
+   {
+    "value": "{\"value\":\"HP 44マグナム（50）を分解する\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble HP 44Magnum (250)",
+   {
+    "value": "{\"value\":\"HP 44マグナム（250）を分解する\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble Shotgun Shells (10)",
+   {
+    "value": "{\"value\":\"ショットガンシェルを分解する（10）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble Shotgun Shells (50)",
+   {
+    "value": "{\"value\":\"ショットガンシェルを分解する（50）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble Shotgun Shells (250)",
+   {
+    "value": "{\"value\":\"ショットガンシェルを分解する（250）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble Shotgun Slugs (10)",
+   {
+    "value": "{\"value\":\"ショットガンスラッグを分解する（10）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble Shotgun Slugs (50)",
+   {
+    "value": "{\"value\":\"ショットガンスラッグを分解する（50）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble Shotgun Slugs (250)",
+   {
+    "value": "{\"value\":\"ショットガンスラッグを分解する（250）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble Shotgun Breaching Slugs (10)",
+   {
+    "value": "{\"value\":\"ショットガン破砕スラッグを分解する（10）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble Shotgun Breaching Slugs (50)",
+   {
+    "value": "{\"value\":\"ショットガン破砕スラッグを分解する（50）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble Shotgun Breaching Slugs (250)",
+   {
+    "value": "{\"value\":\"ショットガン破砕スラッグを分解する（250）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble 10 of this type of ammo and get back half the original resources used to make them",
+   {
+    "value": "{\"value\":\"このタイプの弾薬を10個分解し、それらを作るために使用された元のリソースの半分を取り戻します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble 50 of this type of ammo and get back half the original resources used to make them",
+   {
+    "value": "{\"value\":\"このタイプの弾薬を50個分解し、それらを作るために使用された元のリソースの半分を取り戻します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble 250 of this type of ammo and get back half the original resources used to make them",
+   {
+    "value": "{\"value\":\"このタイプの弾薬を250個分解し、それらを作るために使用された元のリソースの半分を取り戻します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble 7.62mm x 10",
+   {
+    "value": "{\"value\":\"7.62mm x10を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble 7.62mm x 50",
+   {
+    "value": "{\"value\":\"7.62mm x50を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble 7.62mm x 250",
+   {
+    "value": "{\"value\":\"7.62mm x250を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble HP 7.62mm x 10",
+   {
+    "value": "{\"value\":\"HP 7.62mm x10を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble HP 7.62mm x 50",
+   {
+    "value": "{\"value\":\"HP 7.62mm x50を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble HP 7.62mm x 250",
+   {
+    "value": "{\"value\":\"HP 7.62mm x250を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble AP 7.62mm x 10",
+   {
+    "value": "{\"value\":\"AP 7.62mm x10を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble AP 7.62mm x 50",
+   {
+    "value": "{\"value\":\"AP 7.62mm x50を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble AP 7.62mm x 250",
+   {
+    "value": "{\"value\":\"AP 7.62mm x250を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble 9mm x 10",
+   {
+    "value": "{\"value\":\"9mm x10を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble 9mm x 50",
+   {
+    "value": "{\"value\":\"9mm x50を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble 9mm x 250",
+   {
+    "value": "{\"value\":\"9mm x250を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble HP 9mm x 10",
+   {
+    "value": "{\"value\":\"HP 9mm x10を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble HP 9mm x 50",
+   {
+    "value": "{\"value\":\"HP 9mm x50を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble HP 9mm x 250",
+   {
+    "value": "{\"value\":\"HP 9mm x250を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble AP 9mm x 10",
+   {
+    "value": "{\"value\":\"AP 9mm x10を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble AP 9mm x 50",
+   {
+    "value": "{\"value\":\"AP 9mm x50を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble AP 9mm x 250",
+   {
+    "value": "{\"value\":\"AP 9mm x250を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble 44 Magnum x 10",
+   {
+    "value": "{\"value\":\"44マグナムx10を分解する\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble 44 Magnum x 50",
+   {
+    "value": "{\"value\":\"44マグナムx50を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble 44 Magnum x 250",
+   {
+    "value": "{\"value\":\"44マグナムx250を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble HP 44 Magnum x 10",
+   {
+    "value": "{\"value\":\"HP44マグナムx10を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble HP 44 Magnum x 50",
+   {
+    "value": "{\"value\":\"HP44マグナムx50を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble HP 44 Magnum x 250",
+   {
+    "value": "{\"value\":\"HP44マグナムx250を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble AP 44 Magnum x 10",
+   {
+    "value": "{\"value\":\"AP44マグナムx10を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble AP 44 Magnum x 50",
+   {
+    "value": "{\"value\":\"AP44マグナムx50を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble AP 44 Magnum x 250",
+   {
+    "value": "{\"value\":\"AP44マグナムx250を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble Shotgun Shell x 10",
+   {
+    "value": "{\"value\":\"ショットガンシェルx10を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble Shotgun Shell x 50",
+   {
+    "value": "{\"value\":\"ショットガンシェルx50を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble Shotgun Shell x 250",
+   {
+    "value": "{\"value\":\"ショットガンシェルx250を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble Shotgun Slug x 10",
+   {
+    "value": "{\"value\":\"ショットガンスラッグx10を分解する\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble Shotgun Slug x 50",
+   {
+    "value": "{\"value\":\"ショットガンスラッグx50を分解する\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble Shotgun Slug x 250",
+   {
+    "value": "{\"value\":\"ショットガンスラッグx250を分解する\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble Shotgun Breaching Slug x 10",
+   {
+    "value": "{\"value\":\"ショットガン破砕スラグx10を分解する\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble Shotgun Breaching Slug x 50",
+   {
+    "value": "{\"value\":\"ショットガン破砕スラグx50を分解する\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble Shotgun Breaching Slug x 250",
+   {
+    "value": "{\"value\":\"ショットガン破砕スラグx250を分解する\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pet",
+   {
+    "value": "{\"value\":\"ペット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Milk",
+   {
+    "value": "{\"value\":\"牛乳\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Follow me.",
+   {
+    "value": "{\"value\":\"フォローしてください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Stay here.",
+   {
+    "value": "{\"value\":\"ここにいて。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tell me about yourself.",
+   {
+    "value": "{\"value\":\"自己紹介をお願いします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hangout around here.",
+   {
+    "value": "{\"value\":\"このあたりのたまり場。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Set Starting Patrol Point",
+   {
+    "value": "{\"value\":\"開始パトロールポイントを設定する\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Please Patrol this area.",
+   {
+    "value": "{\"value\":\"このエリアをパトロールしてください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Please Join me (Hire)",
+   {
+    "value": "{\"value\":\"参加してください（雇う）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Chicken",
+   {
+    "value": "{\"value\":\"鶏\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Rabbit",
+   {
+    "value": "{\"value\":\"うさぎ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pet Boar",
+   {
+    "value": "{\"value\":\"ペットのイノシシ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pet Rabbit",
+   {
+    "value": "{\"value\":\"ペットのウサギ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pet Stag",
+   {
+    "value": "{\"value\":\"ペットスタッグ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pet Chicken",
+   {
+    "value": "{\"value\":\"ペットチキン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pet Pig",
+   {
+    "value": "{\"value\":\"ペットの豚\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pet Bear",
+   {
+    "value": "{\"value\":\"ペットベア\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pet Wolf",
+   {
+    "value": "{\"value\":\"ペットオオカミ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pet Coyote",
+   {
+    "value": "{\"value\":\"ペットコヨーテ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pet Doe",
+   {
+    "value": "{\"value\":\"ペットドウ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This is a Pet Animal, place down to keep as a pet or harvest for meat. Best to keep in a high pen of 3 or more blocks or they will escape.",
+   {
+    "value": "{\"value\":\"これはペットの動物です。ペットとして飼ったり、肉を収穫したりするために置いてください。 3ブロック以上の高いペンに入れておくのが最善です。そうしないと逃げてしまいます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hell Bear (Guard)",
+   {
+    "value": "{\"value\":\"地獄のクマ（警備員）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hell Boar (Guard)",
+   {
+    "value": "{\"value\":\"地獄のイノシシ（警備員）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hell Wolf (Guard)",
+   {
+    "value": "{\"value\":\"ヘルウルフ（ガード）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hell Lion (Guard)",
+   {
+    "value": "{\"value\":\"地獄のライオン（警備員）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Rabbit (Guard)",
+   {
+    "value": "{\"value\":\"うさぎ（ガード）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sim Alastair (Guard)",
+   {
+    "value": "{\"value\":\"シムアラステア（警備員）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Lizzy (Guard)",
+   {
+    "value": "{\"value\":\"リジー（ガード）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Psyren (Guard)",
+   {
+    "value": "{\"value\":\"サイレン（警備員）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Zeus (Guard)",
+   {
+    "value": "{\"value\":\"ゼウス（警備員）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This is a Guard, place down and it will stand guard until a zombie is in range at which point it will go into attack mode.",
+   {
+    "value": "{\"value\":\"これはガードです。下に置くと、ゾンビが範囲内に入るまでガードを立て、ゾンビが攻撃モードになります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Chicken Feed",
+   {
+    "value": "{\"value\":\"鶏の餌\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Use the Chicken Feed with right mouse click on the Chicken Coop to feed the chickens.",
+   {
+    "value": "{\"value\":\"鶏小屋を右クリックして鶏小屋を使用し、鶏に餌を与えます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Animal Feed",
+   {
+    "value": "{\"value\":\"動物飼料\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Animal Feed can be placed in a Trough to feed your breeded animals.",
+   {
+    "value": "{\"value\":\"動物飼料はあなたの繁殖した動物を養うためにトラフに置くことができます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Rabbit Feed",
+   {
+    "value": "{\"value\":\"うさぎの餌\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Use the Rabbit Feed with right mouse click on the Rabbit Cage Trap to set the trap and attract a rabbit.",
+   {
+    "value": "{\"value\":\"ウサギのケージトラップをマウスで右クリックしてウサギの餌を使用し、トラップを設定してウサギを引き付けます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Chicken Coop (Needs Chicken Feed)",
+   {
+    "value": "{\"value\":\"チキンコープ（チキンフィードが必要）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Feed the chickens in the coop with Chicken Feed and over time they will produce feathers, eggs, and periodically another chicken.",
+   {
+    "value": "{\"value\":\"小屋の鶏にチキンフィードを与えると、時間の経過とともに羽、卵、そして定期的に別の鶏が生産されます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Chicken Coop Nesting Stage",
+   {
+    "value": "{\"value\":\"チキンコープネスティングステージ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Chicken Coop Hatched and Waiting",
+   {
+    "value": "{\"value\":\"孵化して待っているチキンコープ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Rabbit Cage Trap (Needs Rabbit Feed)",
+   {
+    "value": "{\"value\":\"ウサギのケージトラップ（ウサギの飼料が必要）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Put on the ground, bate it with Rabbit Feed, and wait.",
+   {
+    "value": "{\"value\":\"地面に置き、ウサギの餌でそれを打ち負かし、待ちます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Rabbit Cage Trap Baited and Set",
+   {
+    "value": "{\"value\":\"ウサギのケージトラップを餌にしてセット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Rabbit Cage Trap Sprung and Waiting",
+   {
+    "value": "{\"value\":\"うさぎの檻の罠が跳ねて待っている\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Junk Item (Discard)",
+   {
+    "value": "{\"value\":\"ジャンクアイテム（廃棄）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Female Chicken (Breeding)",
+   {
+    "value": "{\"value\":\"雌鶏（繁殖）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have a Male Chicken. Place this chicken in an enclosed area with animal feed and water. Add a female and the two will breed more chickens.",
+   {
+    "value": "{\"value\":\"あなたはオスの鶏を飼っています。この鶏肉を動物飼料と水で囲まれた場所に置きます。雌を追加すると、2匹はより多くの鶏を繁殖させます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have a Female Chicken. Place this chicken in an enclosed area with animal feed and water. Add a male and the two will breed more chickens.",
+   {
+    "value": "{\"value\":\"あなたは雌鶏を飼っています。この鶏肉を動物飼料と水で囲まれた場所に置きます。男性を追加すると、2人はより多くの鶏を繁殖させます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Male Pig (Breeding)",
+   {
+    "value": "{\"value\":\"オスのブタ（繁殖）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Female Pig (Breeding)",
+   {
+    "value": "{\"value\":\"雌豚（繁殖）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have a Male Pig. Place this pig in an enclosed area with animal feed and water. Add a female and the two will breed more pigs.",
+   {
+    "value": "{\"value\":\"あなたは雄豚を飼っています。この豚を動物飼料と水で囲まれた場所に置きます。雌を追加すると、2匹はより多くの豚を繁殖させます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have a Female Pig. Place this pig in an enclosed area with animal feed and water. Add a male and the two will breed more pigs.",
+   {
+    "value": "{\"value\":\"あなたは雌豚を飼っています。この豚を動物飼料と水で囲まれた場所に置きます。男性を追加すると、2頭はより多くの豚を繁殖させます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Male Cow (Breeding)",
+   {
+    "value": "{\"value\":\"雄牛（繁殖）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Female Cow (Breeding)",
+   {
+    "value": "{\"value\":\"雌牛（繁殖）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have a Male Cow. Place this Cow in an enclosed area with animal feed and water. Add a female and the two will breed more Cows.",
+   {
+    "value": "{\"value\":\"あなたは雄牛を飼っています。この牛を動物飼料と水で囲まれた場所に置きます。雌を追加すると、2頭はより多くの牛を繁殖させます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have a Female Cow. Place this Cow in an enclosed area with animal feed and water. Add a male and the two will breed more Cows.",
+   {
+    "value": "{\"value\":\"あなたは雌牛を飼っています。この牛を動物飼料と水で囲まれた場所に置きます。男性を追加すると、2頭はより多くの牛を繁殖させます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Accept to Release the Hatched Chicken for Placement.",
+   {
+    "value": "{\"value\":\"配置のために孵化した鶏を解放することに同意します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv::)",
+   {
+    "value": "{\"value\":\"::)\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have a Pet Rabbit.",
+   {
+    "value": "{\"value\":\"あなたはペットのウサギを飼っています。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Accept to Release the Trapped Rabbit for Placement.",
+   {
+    "value": "{\"value\":\"配置のためにトラップされたウサギを解放することに同意します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have a Pet Boar.",
+   {
+    "value": "{\"value\":\"あなたはペットのイノシシを飼っています。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Accept to Release the Pet Boar for Placement.",
+   {
+    "value": "{\"value\":\"配置のためにペットのイノシシを解放することに同意します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have a Pet Stag.",
+   {
+    "value": "{\"value\":\"あなたはペットのクワガタを持っています。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Accept to Release the Pet Stag for Placement.",
+   {
+    "value": "{\"value\":\"配置のためにペットスタッグを解放することに同意します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have a Pet Pig.",
+   {
+    "value": "{\"value\":\"あなたはペットのブタを飼っています。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Accept to Release the Pet Pig for Placement.",
+   {
+    "value": "{\"value\":\"配置のためにペットの豚を解放することに同意します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have a Pet Bear.",
+   {
+    "value": "{\"value\":\"あなたはペットのクマを飼っています。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Accept to Release the Pet Bear for Placement.",
+   {
+    "value": "{\"value\":\"配置のためにペットのクマを解放することに同意します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have a Pet Wolf.",
+   {
+    "value": "{\"value\":\"あなたはペットのオオカミを飼っています。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Accept to Release the Pet Wolf for Placement.",
+   {
+    "value": "{\"value\":\"配置のためにペットのオオカミを解放することに同意します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have a Pet Coyote.",
+   {
+    "value": "{\"value\":\"あなたはペットコヨーテを持っています。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Accept to Release the Pet Coyote for Placement.",
+   {
+    "value": "{\"value\":\"配置のためにペットコヨーテを解放することに同意します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have a Pet Doe.",
+   {
+    "value": "{\"value\":\"あなたはPetDoeを持っています。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Accept to Release the Pet Doe for Placement.",
+   {
+    "value": "{\"value\":\"配置のためにPetDoeを解放することに同意します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Guard Rabbit",
+   {
+    "value": "{\"value\":\"ガードラビット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have a Guard Rabbit.",
+   {
+    "value": "{\"value\":\"あなたはガードラビットを持っています。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Accept to Release the Guard Rabbit for Placement.",
+   {
+    "value": "{\"value\":\"配置のためにガードラビットを解放することに同意します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Guard Hell Lion",
+   {
+    "value": "{\"value\":\"ガードヘルライオン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have a Guard Hell Lion.",
+   {
+    "value": "{\"value\":\"あなたはガードヘルライオンを持っています。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Accept to Release Guard Hell Lion for Placement.",
+   {
+    "value": "{\"value\":\"配置のためにガードヘルライオンを解放することに同意します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Guard Hell Wolf",
+   {
+    "value": "{\"value\":\"ガードヘルウルフ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have a Guard Hell Wolf.",
+   {
+    "value": "{\"value\":\"あなたはガードヘルウルフを持っています。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Accept to Release the Guard Hell Wolf for Placement.",
+   {
+    "value": "{\"value\":\"配置のためにガードヘルウルフを解放することを受け入れます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Guard Hell Boar",
+   {
+    "value": "{\"value\":\"ガードヘルボア\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have a Guard Hell Boar.",
+   {
+    "value": "{\"value\":\"あなたはGuardHellBoarを持っています。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Accept to Release the Guard Hell Boar for Placement.",
+   {
+    "value": "{\"value\":\"配置のためにガードヘルイノシシを解放することに同意します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Guard Hell Bear",
+   {
+    "value": "{\"value\":\"ガードヘルベア\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have a Guard Hell Bear.",
+   {
+    "value": "{\"value\":\"あなたはガードヘルベアを持っています。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Accept to Release the Guard Hell Bear for Placement.",
+   {
+    "value": "{\"value\":\"配置のためにガードヘルベアを解放することに同意します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Farm Jeep (Farm Friend)",
+   {
+    "value": "{\"value\":\"ファームジープ（ファームフレンド）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Chicken Coop",
+   {
+    "value": "{\"value\":\"鶏舎\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Generate your own Eggs and feathers!\\n\\nUnlocked with the 'Living off the Land' perk.",
+   {
+    "value": "{\"value\":\"独自の卵と羽を生成します！\\\\n\\\\n「LivingofftheLand」特典でロックを解除します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Full Chicken Coop",
+   {
+    "value": "{\"value\":\"フルチキンコープ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Male Chicken",
+   {
+    "value": "{\"value\":\"男性の鶏\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Female Chicken",
+   {
+    "value": "{\"value\":\"雌鶏\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Male Boar",
+   {
+    "value": "{\"value\":\"男性のイノシシ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Female Boar",
+   {
+    "value": "{\"value\":\"雌イノシシ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Male Pig",
+   {
+    "value": "{\"value\":\"オスのブタ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Female Pig",
+   {
+    "value": "{\"value\":\"雌豚\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Male Stag",
+   {
+    "value": "{\"value\":\"男性のクワガタ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Female Stag",
+   {
+    "value": "{\"value\":\"メスのクワガタ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Male Rabbit",
+   {
+    "value": "{\"value\":\"オスのウサギ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Female Rabbit",
+   {
+    "value": "{\"value\":\"雌うさぎ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Animal Trough",
+   {
+    "value": "{\"value\":\"動物の飼い葉桶\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Place this in your breeding center and fill it with animal feed to feed your pet.",
+   {
+    "value": "{\"value\":\"これをあなたの繁殖センターに置き、あなたのペットを養うために動物飼料でそれを満たしてください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Animal Waste Disposal",
+   {
+    "value": "{\"value\":\"動物の排泄物の処分\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Place this in your breeding center and your animal will use it for waste.",
+   {
+    "value": "{\"value\":\"これを繁殖センターに置くと、動物はそれを廃棄物として使用します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Youll use the male and female items you get from animals to craft a male or female. They have a home block. Right now its hay bale. Place hay and surround them in a 4 high fence or wall or they will wander. Place a trough and craft animal feed. Fill the trough with feed. Pour water out in a hole for them to drink out of. They will poop. You can place a toilet to catch their poop. Eventually they will have babies and the cycle repeats.",
+   {
+    "value": "{\"value\":\"動物から入手したオスとメスのアイテムを使用して、オスまたはメスを作ります。彼らはホームブロックを持っています。今、その干し草の俵。干し草を置き、4つの高い柵または壁で囲みます。そうしないと、放浪します。トラフを置き、動物飼料を作ります。トラフに飼料を入れます。彼らが飲むために穴に水を注ぎなさい。彼らはうんちをします。あなたは彼らのうんちを捕まえるためにトイレを置くことができます。最終的には赤ちゃんが生まれ、このサイクルが繰り返されます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Weathered Backpack (Storage)",
+   {
+    "value": "{\"value\":\"風化バックパック（収納）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Moldy Backpack (Storage)",
+   {
+    "value": "{\"value\":\"カビの生えたバックパック（収納）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Duffle Bag (Storage)",
+   {
+    "value": "{\"value\":\"ダッフルバッグ（収納）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Rotting Sports Bag (Storage)",
+   {
+    "value": "{\"value\":\"回転式スポーツバッグ（収納）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Weathered Sports Bag (Storage)",
+   {
+    "value": "{\"value\":\"風化スポーツバッグ（収納）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Purse (Storage)",
+   {
+    "value": "{\"value\":\"財布（収納）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The perfect grab bag for storing essentials on the run.",
+   {
+    "value": "{\"value\":\"ランニングで必需品を収納するのに最適なグラブバッグ。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Backpack",
+   {
+    "value": "{\"value\":\"バックパック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have found a backpack. Learn this to unlock slots in your inventory. There are 10 backpacks to find. [a0ff94]The last row will remain locked until you open all normal slots. If you craft and read a military backpack BEFORE finding all 10 backpacks first nothing will happen and you will lose your materials.[-]",
+   {
+    "value": "{\"value\":\"あなたはバックパックを見つけました。インベントリのスロットのロックを解除するには、これを学びます。見つけるべき10のバックパックがあります。 [a0ff94]通常のスロットをすべて開くまで、最後の行はロックされたままになります。 10個すべてのバックパックを最初に見つける前に軍用バックパックを作成して読んだ場合、何も起こらず、材料を失うことになります。[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Backpack Slots",
+   {
+    "value": "{\"value\":\"バックパックスロット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have unlocked backpack slots",
+   {
+    "value": "{\"value\":\"バックパックスロットのロックを解除しました\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This will open up a few backpack slots in your inventory",
+   {
+    "value": "{\"value\":\"これにより、インベントリにいくつかのバックパックスロットが開きます\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Military Backpack",
+   {
+    "value": "{\"value\":\"ミリタリーバックパック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This backpack is military grade and can support any weight you can throw at it.[a0ff94]If you craft and read a military backpack BEFORE finding all 10 backpacks first nothing will happen and you will lose your materials.[-]",
+   {
+    "value": "{\"value\":\"このバックパックはミリタリーグレードであり、投げることができるあらゆる重量を支えることができます。[a0ff94] 10個すべてのバックパックを見つける前にミリタリーバックパックを作成して読むと、何も起こらず、材料が失われます。[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Military Backpack Upgrade",
+   {
+    "value": "{\"value\":\"ミリタリーバックパックのアップグレード\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have unlocked all backpack slots",
+   {
+    "value": "{\"value\":\"すべてのバックパックスロットのロックを解除しました\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This will open up the final row in your inventory",
+   {
+    "value": "{\"value\":\"これにより、インベントリの最後の行が開きます\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gather Logs and Wood",
+   {
+    "value": "{\"value\":\"ログと木材を収集する\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Wood is an important part of creating items and building materials. To gather wood attack a tree. You will receive logs. These wood logs can be crafted into wood. Wood has many purposes including the ability to make it into sticks and planks. You can also gather sticks by attacking small stick bushes in the world.",
+   {
+    "value": "{\"value\":\"木材は、アイテムや建築材料を作成する上で重要な部分です。木を集めるために木を攻撃します。ログを受け取ります。これらの木の丸太は木に細工することができます。木材には、棒や厚板にする機能など、多くの目的があります。世界の小さな棒の茂みを攻​​撃して棒を集めることもできます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Acquire Your Class Paper",
+   {
+    "value": "{\"value\":\"クラスペーパーを取得する\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Your class paper is extremely vital to defending against the undead. Opening your starter kit also provides you with basic items to survive. Read your starter kit note and acquire your class paper. Use the Persoanl Bench to craft a class and read it to gain skills and a weapon.",
+   {
+    "value": "{\"value\":\"あなたのクラスペーパーは、アンデッドから身を守るために非常に重要です。スターターキットを開くと、生き残るための基本的なアイテムも提供されます。スターターキットのメモを読み、クラスペーパーを入手します。 Persoanl Benchを使用してクラスを作成し、それを読んでスキルと武器を習得します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Craft A Stone Pickaxe",
+   {
+    "value": "{\"value\":\"石のツルハシを作る\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A stone axe is great for breaking down wood doors and trees but it will not get the job done when you need to break something made of stone or metal. Craft a stone pickaxe. Using it you can mine basic starter resources from boulders. As you gain access to better tiered pickaxes you will find you can mine for better resources.",
+   {
+    "value": "{\"value\":\"石斧は木製のドアや木を壊すのに最適ですが、石や金属でできたものを壊す必要があるときは仕事を終わらせません。石のつるはしを作ります。これを使用すると、岩から基本的なスターターリソースをマイニングできます。より良い階層のツルハシにアクセスできるようになると、より良いリソースを探すことができるようになります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Collect Some Ore",
+   {
+    "value": "{\"value\":\"鉱石を集める\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Use your stone pickaxe and find a boulder. Mining this boulder will give you some small traces of ore. You may have to hit 2. Other pickaxes will give you more precious metal. Underground mining will yield resources like limestone for cement.",
+   {
+    "value": "{\"value\":\"石のつるはしを使って、岩を見つけてください。この岩を採掘すると、鉱石の小さな痕跡がいくつか得られます。あなたは2を打たなければならないかもしれません。他のつるはしはあなたにもっと貴金属を与えるでしょう。地下採掘は、セメント用の石灰岩のような資源を生み出します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Find Storage",
+   {
+    "value": "{\"value\":\"ストレージを探す\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The trash you see in the streets is not only useful for things like twine, but they can also be used to store your items. For every 3 trash bags you collect you can make a bigger trash bag and store stuff inside. Find 3 bags and collect them by destroying them.",
+   {
+    "value": "{\"value\":\"通りに出てくるゴミは、ひもなどに役立つだけでなく、アイテムの保管にも使用できます。収集したゴミ袋3つごとに、より大きなゴミ袋を作成して、中に物を保管することができます。 3つのバッグを見つけて、破壊して集めます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Craft A Personal Workbench",
+   {
+    "value": "{\"value\":\"パーソナルワークベンチを作成する\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The Personal Workbench is the most important item in this world. In it you can craft a lot of items that you can not craft in your backpack. Attack stick bushes to gather sticks and collect fibers and craft cordage to make and place one.",
+   {
+    "value": "{\"value\":\"パーソナルワークベンチは、この世界で最も重要なアイテムです。その中であなたはあなたのバックパックで作ることができない多くのアイテムを作ることができます。スティックの茂みを攻​​撃してスティックを集め、繊維を集めてロープを作り、それを作って配置します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gather wood and break chairs and other wooden objects in the world to gather bent nails. Use your personal craft station to straighten the nails. Craft Wooden Frames from the Basics category of the Crafting window. Place Wooden Frames in the world by equipping them and using the secondary action. Frames themselves can not be used to jump up to higher places. Upgrade them with a Stone Axe using the secondary action while you have extra wood in your Inventory.",
+   {
+    "value": "{\"value\":\"曲がった釘を集めるために、世界中の木材を集め、椅子やその他の木製の物体を壊します。爪をまっすぐにするためにあなたの個人的なクラフトステーションを使用してください。 CraftingウィンドウのBasicsカテゴリからCraftWoodenFramesを作成します。それらを装備し、二次アクションを使用して、世界に木製フレームを配置します。フレーム自体を使用して、より高い場所にジャンプすることはできません。インベントリに余分な木材がある間に、セカンダリアクションを使用してストーンアックスでそれらをアップグレードします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Craft A Blade",
+   {
+    "value": "{\"value\":\"ブレードを作る\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Having a blade at the ready not only will provide you a way to skin animals for meat but also is very useful for crowd control by slashing away at the undead and causing them to bleed out. Craft bones using bone fragments you find by attacking corpses and destroying bird nests. Make a bone shiv.",
+   {
+    "value": "{\"value\":\"ブレードを用意しておくと、動物の肉の皮を剥ぐ方法が提供されるだけでなく、アンデッドを切り倒して出血させることで群集を制御するのにも非常に役立ちます。死体を攻撃し、鳥の巣を破壊して見つけた骨片を使って骨を作ります。骨のシブを作ります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Find Your Cure",
+   {
+    "value": "{\"value\":\"あなたの治療法を見つける\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:One of the keys to survival is curing infections. The easiest way to do this is to collect honey combs by destroying tree stumps. Find a stump or two and collect 3 honey combs. Use the provided jar to make some honey and hold on to it for later use.",
+   {
+    "value": "{\"value\":\"生き残るための鍵の1つは、感染症の治療です。これを行う最も簡単な方法は、木の切り株を破壊して蜂蜜の櫛を集めることです。切り株を1つか2つ見つけて、ハニーコームを3つ集めます。付属の瓶を使って蜂蜜を作り、後で使用するためにそれを保持します。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630255268399
+}
