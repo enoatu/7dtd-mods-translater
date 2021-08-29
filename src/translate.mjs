@@ -11,10 +11,8 @@ const csvStringifySync = require('csv-stringify/lib/sync')
 const Config = require('./config')
 const Counter = require('./counter')
 const translateCacher = require('./translate_cacher')
-const RequestChunkCreater = require('./request_chunk_creater')
 
 const counter = new Counter()
-const requestChunkCreater = new RequestChunkCreater()
 
 const paths = await globby(['./resource/*/Config/Localization.txt'])
 
@@ -117,14 +115,6 @@ for (const [pathIndex, path] of paths.entries()) {
 
   console.info(`--- end output: ${resultPath} ---`)
 }
-
-// requestChunkCreater.get().forEach(async (chunk) => {
-//   const texts = json.text.split(/\\n\\n\\n\\n\\n/)
-//   delete texts[texts.length - 1] // last
-//   console.log('texts:', texts)
-//   texts.forEach(text => {
-//   })
-// })
 
 counter.output()
 
