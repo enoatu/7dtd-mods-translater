@@ -5,10 +5,10 @@ $.verbose = true
 await $`cd $(dirname $0)`
 const date = (await $`date +"%Y%m%d%H%M%S"`).stdout.trim()
 console.log(date)
-await $`mkdir ./result-${date} && cp -rf ./resource ./result-${date}`
+await $`mkdir ./result-${date} && cp -rf ./resource/* ./result-${date}/`
 
 const csvParse = require('csv-parse/lib/sync')
-const csvStringifySync = require("csv-stringify/lib/sync");
+const csvStringifySync = require('csv-stringify/lib/sync')
 const Config = require('./config')
 const Counter = require('./counter')
 const TranslateCacher = require('./translate_cacher')
@@ -20,7 +20,7 @@ const requestChunkCreater = new RequestChunkCreater()
 
 const paths = await globby(['./resource/*/Config/Localization.txt'])
 
-paths.forEach((path, index) => {
+paths.forEach(async(path, index) => {
   if (index > 3) return
   // parse
   let rows = fs.readFileSync(path)
@@ -37,7 +37,7 @@ paths.forEach((path, index) => {
     sourceColumnIndex,
     targetLangColumnName,
     foundTargetLangColumnIndex,
-    lastIndex,
+    expectedTargetLangColumnIndex,
   } = getFirstRowInfo(path, rows)
   if (err) {
     console.err(err)
@@ -55,25 +55,19 @@ paths.forEach((path, index) => {
   let isNeedWriteFile = false
   // createTranslateRequest(
   const resultPath = path.replace('./resource/', `./result-${date}`)
-  rows[0][lastIndex + 1] = targetLangColumnName // add columns (header)
-  rows.forEach(async (columns, index) => {
-    if (index === 0) {
-      return columns
-    }
-    if (index > 2) {
-      return columns
-    }
-    if (columns.length < 4) {
+  rows[0][expectedTargetLangColumnIndex] = targetLangColumnName // add columns (header)
+
+  for (let index = 0; rows.length > index; index++) {
+    if (index === 0 || index > 2 || rows[index].length < 4) {
       // shortest: key,source,english
-      return columns
+      continue
     }
-    const source = columns[sourceColumnIndex]
+    const source = rows[index][sourceColumnIndex]
     if (!source) {
-      return columns
+      continue
     }
-    // let result = translateCacher.get(source)
-    if (0) {
-      // result
+    let result = translateCacher.get(source)
+    if (result) {
     } else {
       // requestChunkCreater.set(`${source}\n\n\n\n\n`)
       const params = {
@@ -88,19 +82,21 @@ paths.forEach((path, index) => {
       const json = await resp.json()
       if (json.status == 200) {
         translateCacher.set(source, json.text)
+        rows[index][expectedTargetLangColumnIndex] = json.text
       } else {
-        console.err(json)
-        throw new Error(json.text)
+        console.err(`bad req => ${json}`)
       }
     }
-  })
-  // if (isNeedWriteFile) {
-  //   const csvString = csvStringifySync(data, {
-  //     header: true,
-  //   })
-  //   console.log('csvstring: ', csvString)
-  //   fs.writeFileSync(resultPath, csvString)
-  // }
+    isNeedWriteFile = true
+  }
+  if (isNeedWriteFile) {
+    console.log(rows)
+    const csvString = csvStringifySync(rows, {
+      header: true,
+    })
+    console.log('csvstring: ', csvString)
+    fs.writeFileSync(resultPath, csvString)
+  }
 })
 
 // requestChunkCreater.get().forEach(async (chunk) => {
@@ -128,11 +124,13 @@ function getFirstRowInfo(path, rows) {
       sourceColumnIndex: -1,
       targetLangColumnName: null,
       foundTargetLangColumnIndex: -1,
-      lastIndex: -1,
+      expectedTargetLangColumnIndex: -1,
     }
   }
   const isLower = lowerSourceColumnIndex > -1
-  const sourceColumnName = isLower ? Config.sourceLangNames.lower : Config.sourceLangNames.upper
+  const sourceColumnName = isLower
+    ? Config.sourceLangNames.lower
+    : Config.sourceLangNames.upper
   const sourceColumnIndex = isLower
     ? lowerSourceColumnIndex
     : upperSourceColumnIndex
@@ -140,6 +138,13 @@ function getFirstRowInfo(path, rows) {
   // Target lang check
   const lowerIndex = rows[0].indexOf(Config.targetLangNames.lower)
   const upperIndex = rows[0].indexOf(Config.targetLangNames.upper)
+
+  // get last lang index
+  let expectedTargetLangColumnIndex = rows.findIndex(row => row == '')
+  if (expectedTargetLangColumnIndex == -1) {
+    expectedTargetLangColumnIndex = rows[0].length + 1
+  }
+
   if (lowerIndex > -1) {
     return {
       err: null,
@@ -147,7 +152,7 @@ function getFirstRowInfo(path, rows) {
       sourceColumnIndex,
       targetLangColumnName: Config.targetLangNames.lower,
       foundTargetLangColumnIndex: lowerIndex,
-      lastIndex: rows.length - 1,
+      expectedTargetLangColumnIndex,
     }
   }
   if (upperIndex > -1) {
@@ -157,7 +162,7 @@ function getFirstRowInfo(path, rows) {
       sourceColumnIndex,
       targetLangColumnName: Config.targetLangNames.upper,
       foundTargetLangColumnIndex: upperIndex,
-      lastIndex: rows.length - 1,
+      expectedTargetLangColumnIndex,
     }
   }
 
@@ -170,6 +175,6 @@ function getFirstRowInfo(path, rows) {
       ? Config.targetLangNames.lower
       : Config.targetLangNames.upper,
     foundTargetLangColumnIndex: -1,
-    lastIndex: rows.length - 1,
+    expectedTargetLangColumnIndex,
   }
 }

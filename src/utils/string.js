@@ -1,4 +1,4 @@
-const isJapanese = () => {
+const isJapanese = (text) => {
   let gmi = 'gmi'
   let regeIncludeHiragana = '^(?=.*[\u3041-\u3096]).*$'
   let regeIncludeKatakana = '^(?=.*[\u30A1-\u30FA]).*$'
@@ -7,7 +7,11 @@ const isJapanese = () => {
   let regeKatakana = new RegExp(regeIncludeKatakana, gmi)
   let regeKanji = new RegExp(regeIncludeKanji, gmi)
 
-  if (regeHiragana.test(text) || regeKatakana.test(text) || regeKanji.test(text)) {
+  if (
+    regeHiragana.test(text) ||
+    regeKatakana.test(text) ||
+    regeKanji.test(text)
+  ) {
     return true
   }
   return false
