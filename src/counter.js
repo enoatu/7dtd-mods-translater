@@ -10,7 +10,7 @@ class Counter {
     Object.keys(this.result).forEach((key) => {
       this.result[`${key}Count`] = this.result[key].length
     })
-    console.log(this.result)
+    console.log('counter', this.result)
   }
 }
 module.exports = Counter

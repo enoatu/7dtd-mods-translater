@@ -16,10 +16,11 @@ const RequestChunkCreater = require('./request_chunk_creater')
 const counter = new Counter()
 const requestChunkCreater = new RequestChunkCreater()
 
-const paths = await globby(['./resource/0-CreaturePackAnimals/Config/Localization.txt'])
+const paths = await globby(['./resource/*/Config/Localization.txt'])
 
 for (const [pathIndex, path] of paths.entries()) {
-  if (pathIndex > 0) continue
+  if (pathIndex > 10) continue
+  console.info(`--- start input: ${path} ---`)
   // parse
   let rows = fs.readFileSync(path)
   rows = csvParse(rows, {
@@ -50,7 +51,6 @@ for (const [pathIndex, path] of paths.entries()) {
   }
   counter.add('localzationNeedPaths', path)
 
-  let isNeedWriteFile = false
   const resultPath = path.replace('./resource/', `./result-${date}/`)
   rows[0][expectedTargetLangColumnIndex] = targetLangColumnName // add columns (header)
 
@@ -86,7 +86,7 @@ for (const [pathIndex, path] of paths.entries()) {
     }
     let cache = await translateCacher.get(source)
     if (cache) {
-      console.log(`use cache ${source} => ${cache}`)
+      // console.log(`use cache ${source} => ${cache}`)
       rows[index][expectedTargetLangColumnIndex] = cache
       continue
     } else {
@@ -109,18 +109,14 @@ for (const [pathIndex, path] of paths.entries()) {
         console.err(`bad req => ${json}`)
       }
     }
-    isNeedWriteFile = true
   }
-  console.log(`${path} isNeedWriteFile: ${isNeedWriteFile}`)
-  console.log(rows.filter(row => !!row))
-  if (isNeedWriteFile) {
-    const csvString = csvStringifySync(rows.filter(row => !!row), {
-      header: true,
-      columns: rows[0],
-    })
-    console.log('csvstring: ', csvString)
-    fs.writeFileSync(resultPath, csvString)
-  }
+  const filteredRows = rows.filter(row => !!row)
+  console.log(0, filteredRows[0])
+  console.log(1, filteredRows[1])
+  const csvString = csvStringifySync(filteredRows)
+  fs.writeFileSync(resultPath, csvString)
+
+  console.info(`--- end output: ${resultPath} ---`)
 }
 
 // requestChunkCreater.get().forEach(async (chunk) => {
