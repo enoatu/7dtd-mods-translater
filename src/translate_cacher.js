@@ -1,30 +1,13 @@
 const Config = require('./config')
-const utilString = require('./utils/string')
-const csvStringifySync = require('csv-stringify/lib/sync')
+const Keyv = require('keyv')
+const { KeyvFile } = require('keyv-file')
 
-class TranslateCacher {
-  constructor() {
-    this.result = {}
-  }
-  set(key, value) {
-    this.result[key] = value
-  }
-  get(key) {
-    return this.result[key]
-  }
-  saveFile() {
-    const array = []
-    console.log(this.result)
-    Object.keys(this.result).forEach((key) => {
-      const touple = []
-      touple.push(key)
-      touple.push(this.result[key])
-      array.push(touple)
-    })
-    const csvString = csvStringifySync(array, {
-      header: true,
-    })
-    fs.writeFileSync(Config.cacheFile, csvString)
-  }
-}
+const TranslateCacher = new Keyv({
+  store: new KeyvFile({
+    filename: Config.cacheFile,
+    encode: (a) => {
+      return JSON.stringify(a, null, ' ')
+    },
+  })
+})
 module.exports = TranslateCacher

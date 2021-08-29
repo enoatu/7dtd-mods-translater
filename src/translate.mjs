@@ -4,24 +4,22 @@ $.verbose = true
 
 await $`cd $(dirname $0)`
 const date = (await $`date +"%Y%m%d%H%M%S"`).stdout.trim()
-console.log(date)
 await $`mkdir ./result-${date} && cp -rf ./resource/* ./result-${date}/`
 
 const csvParse = require('csv-parse/lib/sync')
 const csvStringifySync = require('csv-stringify/lib/sync')
 const Config = require('./config')
 const Counter = require('./counter')
-const TranslateCacher = require('./translate_cacher')
+const translateCacher = require('./translate_cacher')
 const RequestChunkCreater = require('./request_chunk_creater')
 
 const counter = new Counter()
-const translateCacher = new TranslateCacher()
 const requestChunkCreater = new RequestChunkCreater()
 
-const paths = await globby(['./resource/*/Config/Localization.txt'])
+const paths = await globby(['./resource/0-CreaturePackAnimals/Config/Localization.txt'])
 
-paths.forEach(async(path, index) => {
-  if (index > 3) return
+for (const [pathIndex, path] of paths.entries()) {
+  if (pathIndex > 0) continue
   // parse
   let rows = fs.readFileSync(path)
   rows = csvParse(rows, {
@@ -41,35 +39,57 @@ paths.forEach(async(path, index) => {
   } = getFirstRowInfo(path, rows)
   if (err) {
     console.err(err)
-    return
+    continue
   }
   if (foundTargetLangColumnIndex > -1) {
     // console.info(
     //   `${path}, ${targetLangColumnName} (index=${foundTargetLangColumnIndex}) exist. skip`
     // )
     counter.add('localzationUnNeedPaths', path)
-    return
+    continue
   }
   counter.add('localzationNeedPaths', path)
 
   let isNeedWriteFile = false
-  // createTranslateRequest(
-  const resultPath = path.replace('./resource/', `./result-${date}`)
+  const resultPath = path.replace('./resource/', `./result-${date}/`)
   rows[0][expectedTargetLangColumnIndex] = targetLangColumnName // add columns (header)
 
   for (let index = 0; rows.length > index; index++) {
-    if (index === 0 || index > 2 || rows[index].length < 4) {
-      // shortest: key,source,english
+    // adjust column size
+    for (let columnIndex = 0; columnIndex < rows[index].length; columnIndex++) {
+      if (columnIndex > expectedTargetLangColumnIndex) {
+        delete rows[index][columnIndex]
+      }
+    }
+
+    if (index === 0) {
+      // key
       continue
     }
+
+    if (rows[index].length < 4) {
+      // shortest: key,source,english
+      // sometime, comment
+      delete rows[index]
+      continue
+    }
+
+    // for Test
+    // if (1 || index > 2) {
+    //   rows[index][expectedTargetLangColumnIndex] = 'テスト'
+    //   continue
+    // }
+
     const source = rows[index][sourceColumnIndex]
     if (!source) {
       continue
     }
-    let result = translateCacher.get(source)
-    if (result) {
+    let cache = await translateCacher.get(source)
+    if (cache) {
+      console.log(`use cache ${source} => ${cache}`)
+      rows[index][expectedTargetLangColumnIndex] = cache
+      continue
     } else {
-      // requestChunkCreater.set(`${source}\n\n\n\n\n`)
       const params = {
         text: source,
         source: Config.sourceLangNames.short,
@@ -81,23 +101,27 @@ paths.forEach(async(path, index) => {
       })
       const json = await resp.json()
       if (json.status == 200) {
-        translateCacher.set(source, json.text)
-        rows[index][expectedTargetLangColumnIndex] = json.text
+        console.log(json)
+        const text = modifyText(json.text)
+        await translateCacher.set(source, text)
+        rows[index][expectedTargetLangColumnIndex] = text
       } else {
         console.err(`bad req => ${json}`)
       }
     }
     isNeedWriteFile = true
   }
+  console.log(`${path} isNeedWriteFile: ${isNeedWriteFile}`)
+  console.log(rows.filter(row => !!row))
   if (isNeedWriteFile) {
-    console.log(rows)
-    const csvString = csvStringifySync(rows, {
+    const csvString = csvStringifySync(rows.filter(row => !!row), {
       header: true,
+      columns: rows[0],
     })
     console.log('csvstring: ', csvString)
     fs.writeFileSync(resultPath, csvString)
   }
-})
+}
 
 // requestChunkCreater.get().forEach(async (chunk) => {
 //   const texts = json.text.split(/\\n\\n\\n\\n\\n/)
@@ -107,9 +131,6 @@ paths.forEach(async(path, index) => {
 //   })
 // })
 
-// translate
-
-translateCacher.saveFile()
 counter.output()
 
 // Get first info
@@ -140,9 +161,9 @@ function getFirstRowInfo(path, rows) {
   const upperIndex = rows[0].indexOf(Config.targetLangNames.upper)
 
   // get last lang index
-  let expectedTargetLangColumnIndex = rows.findIndex(row => row == '')
+  let expectedTargetLangColumnIndex = rows[0].findIndex(row => !row)
   if (expectedTargetLangColumnIndex == -1) {
-    expectedTargetLangColumnIndex = rows[0].length + 1
+    expectedTargetLangColumnIndex = rows[0].length
   }
 
   if (lowerIndex > -1) {
@@ -177,4 +198,8 @@ function getFirstRowInfo(path, rows) {
     foundTargetLangColumnIndex: -1,
     expectedTargetLangColumnIndex,
   }
+}
+
+function modifyText (text) {
+  return text.replaceAll('\\\ n ', '\\n').replaceAll('\\\ n', '\\n')
 }
