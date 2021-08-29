@@ -19,7 +19,6 @@ const requestChunkCreater = new RequestChunkCreater()
 const paths = await globby(['./resource/*/Config/Localization.txt'])
 
 for (const [pathIndex, path] of paths.entries()) {
-  if (pathIndex > 10) continue
   console.info(`--- start input: ${path} ---`)
   // parse
   let rows = fs.readFileSync(path)
