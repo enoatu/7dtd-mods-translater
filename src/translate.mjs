@@ -4,7 +4,7 @@ $.verbose = true
 
 await $`cd $(dirname $0)`
 const date = (await $`date +"%Y%m%d%H%M%S"`).stdout.trim()
-await $`rm -rf ./output/* && cp -rf ./resource/* ./output`
+await $`rm -rf ./Localizations/* && cp -rf ./resource/* ./Localizations`
 
 const csvParse = require('csv-parse/lib/sync')
 const csvStringifySync = require('csv-stringify/lib/sync')
@@ -53,7 +53,7 @@ for (const [pathIndex, path] of paths.entries()) {
   }
   counter.add('localzationNeedPaths', path)
 
-  const resultPath = path.replace('./resource/', `./output/`)
+  const resultPath = path.replace('./resource/', `./Localizations/`)
   rows[0][expectedTargetLangColumnIndex] = targetLangColumnName // add columns (header)
 
   for (let index = 0; rows.length > index; index++) {
