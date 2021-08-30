@@ -7,7 +7,7 @@ by enoatu
 ## 開発用インストール
 7Days To Die のMods でディレクトリ構造を保ったままコピーする
 ```
-find . -type f -name "*Local*" | sed "s/ /\\\ /g" | sed "s/'/\\\'/g" | xargs -i rsync -R {}  ../7dtd-rh-localization-japanese/resource
+gfind . -type f -name "*ocalization*" | gsed "s/ /\\\ /g" | gsed "s/'/\\\'/g" | gxargs -i rsync -R {}  ../7dtd-rh-localization-japanese/resource && cd ../7dtd-rh-localization-japanese
 ```
 実行する(すでに翻訳されていない場合はGoogle翻訳で翻訳される)
 ```
@@ -15,3 +15,6 @@ find . -type f -name "*Local*" | sed "s/ /\\\ /g" | sed "s/'/\\\'/g" | xargs -i 
 ```
 result-に書き出されているので、
 7Days To Die のMods に上書きする
+```
+rsync -R {} ./output ../Mods
+```
