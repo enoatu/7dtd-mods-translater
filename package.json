@@ -1,6 +1,7 @@
 {
-  "name": "7dtd-rh-localization-japanese",
+  "name": "7dtd-mods-translater",
   "version": "0.0.1",
+  "private": true,
   "outputVersion": {
     "out": [
       "7dtd-rh-japanese-7.6.1.2"
