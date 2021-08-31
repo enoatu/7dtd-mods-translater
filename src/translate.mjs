@@ -2,13 +2,15 @@
 
 $.verbose = true
 
-await $`cd $(dirname $0)`
-const date = (await $`date +"%Y%m%d%H%M%S"`).stdout.trim()
-await $`rm -rf ./Localizations/* && cp -rf ./resource/* ./Localizations`
-
 const csvParse = require('csv-parse/lib/sync')
 const csvStringifySync = require('csv-stringify/lib/sync')
 const Config = require('./config')
+
+await $`cd $(dirname $0)`
+await $`rm -rf ./${Config.outputFileName}`
+await $`mkdir ./${Config.outputFileName}`
+await $`cp -rf ./resource/* ./${Config.outputFileName}`
+
 const utilsString = require('./utils/string')
 const Counter = require('./counter')
 const TranslateCacher = require('./translate_cacher')
@@ -56,7 +58,7 @@ for (const [pathIndex, path] of paths.entries()) {
   }
   counter.add('localzationNeedPaths', path)
 
-  const resultPath = path.replace('./resource/', `./Localizations/`)
+  const resultPath = path.replace('./resource/', `./${Config.outputFileName}/`)
   rows[0][targetLangColumnIndex] = targetLangColumnName // add columns (header)
 
   for (let index = 0; rows.length > index; index++) {
@@ -123,6 +125,8 @@ for (const [pathIndex, path] of paths.entries()) {
 
   console.info(`--- end output: ${resultPath} ---`)
 }
+
+await $`zip ${Config.outputFileName}.zip ${Config.outputFileName}/ && rm -fr ${Config.outputFileName}`
 
 counter.output()
 
