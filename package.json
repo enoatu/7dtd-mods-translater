@@ -8,8 +8,8 @@
   },
   "scripts": {
     "fmt": "prettier --check --write 'src/**/*{.mjs,.js}'",
-    "pkg:installer": "cp install.js $NAME && pkg $NAME --out-path installers && rm $NAME",
-    "dev": "node ./install.js && NAME=7dtd-rh-japanese-7.6.1.2 yarn pkg:installer && \\cp -rf installers/7dtd-rh-japanese-7.6.1.2-macos ../Mods && bp"
+    "pkg:installer": "cp install.js ${NAME} && pkg ${NAME} --out-path installers && rm ${NAME}",
+    "dev": "node ./install.js && NAME=7dtd-rh-japanese-7_6_1_2 yarn pkg:installer && \\cp -rf installers/7dtd-rh-japanese-7_6_1_2-macos ../Mods && bp"
   },
   "lint-staged": {
     "*": [
