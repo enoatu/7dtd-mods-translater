@@ -9,6 +9,7 @@ await $`rm -rf ./Localizations/* && cp -rf ./resource/* ./Localizations`
 const csvParse = require('csv-parse/lib/sync')
 const csvStringifySync = require('csv-stringify/lib/sync')
 const Config = require('./config')
+const utilsString = require('./utils/string')
 const Counter = require('./counter')
 const TranslateCacher = require('./translate_cacher')
 
@@ -39,29 +40,29 @@ for (const [pathIndex, path] of paths.entries()) {
     sourceColumnName,
     sourceColumnIndex,
     targetLangColumnName,
-    foundTargetLangColumnIndex,
-    expectedTargetLangColumnIndex,
+    targetLangColumnIndex,
+    isTranslated,
   } = getFirstRowInfo(path, rows)
   if (err) {
     console.err(err)
     continue
   }
-  if (foundTargetLangColumnIndex > -1) {
+  if (isTranslated) {
     // console.info(
     //   `${path}, ${targetLangColumnName} (index=${foundTargetLangColumnIndex}) exist. skip`
     // )
-    counter.add('localzationUnNeedPaths', path)
+    counter.add('localzationUnNeedPaths', { path, example: rows[1][targetLangColumnIndex] })
     continue
   }
   counter.add('localzationNeedPaths', path)
 
   const resultPath = path.replace('./resource/', `./Localizations/`)
-  rows[0][expectedTargetLangColumnIndex] = targetLangColumnName // add columns (header)
+  rows[0][targetLangColumnIndex] = targetLangColumnName // add columns (header)
 
   for (let index = 0; rows.length > index; index++) {
     // adjust column size
     for (let columnIndex = 0; columnIndex < rows[index].length; columnIndex++) {
-      if (columnIndex > expectedTargetLangColumnIndex) {
+      if (columnIndex > targetLangColumnIndex) {
         delete rows[index][columnIndex]
       }
     }
@@ -80,7 +81,7 @@ for (const [pathIndex, path] of paths.entries()) {
 
     // for Test
     // if (1 || index > 2) {
-    //   rows[index][expectedTargetLangColumnIndex] = 'テスト'
+    //   rows[index][targetLangColumnIndex] = 'テスト'
     //   continue
     // }
 
@@ -89,12 +90,9 @@ for (const [pathIndex, path] of paths.entries()) {
       continue
     }
     let cache = await translateCacher.get(modName, source)
-    if (!cache) {
-      process.exit(1)
-    }
     if (cache) {
       // console.log(`use cache ${source} => ${cache}`)
-      rows[index][expectedTargetLangColumnIndex] = cache
+      rows[index][targetLangColumnIndex] = cache
       continue
     } else {
       const params = {
@@ -111,7 +109,7 @@ for (const [pathIndex, path] of paths.entries()) {
         const text = modifyText(json.text)
         console.log(text)
         await translateCacher.set(modName, source, text)
-        rows[index][expectedTargetLangColumnIndex] = text
+        rows[index][targetLangColumnIndex] = text
       } else {
         console.err(`bad req => ${json}`)
       }
@@ -139,8 +137,8 @@ function getFirstRowInfo(path, rows) {
       sourceColumnName: null,
       sourceColumnIndex: -1,
       targetLangColumnName: null,
-      foundTargetLangColumnIndex: -1,
-      expectedTargetLangColumnIndex: -1,
+      targetLangColumnIndex: -1,
+      isTranslated: false,
     }
   }
   const isLower = lowerSourceColumnIndex > -1
@@ -155,34 +153,42 @@ function getFirstRowInfo(path, rows) {
   const lowerIndex = rows[0].indexOf(Config.targetLangNames.lower)
   const upperIndex = rows[0].indexOf(Config.targetLangNames.upper)
 
-  // get last lang index
-  let expectedTargetLangColumnIndex = rows[0].findIndex((row) => !row)
-  if (expectedTargetLangColumnIndex == -1) {
-    expectedTargetLangColumnIndex = rows[0].length
-  }
-
   if (lowerIndex > -1) {
+    const isTranslated =
+      rows[1] && utilsString.isTranslated(Config.targetLangNames.short, rows[1][lowerIndex]) ||
+      rows[2] && utilsString.isTranslated(Config.targetLangNames.short, rows[2][lowerIndex]) ||
+      rows[3] && utilsString.isTranslated(Config.targetLangNames.short, rows[3][lowerIndex])
     return {
       err: null,
       sourceColumnName,
       sourceColumnIndex,
+      targetLangColumnIndex: lowerIndex,
       targetLangColumnName: Config.targetLangNames.lower,
-      foundTargetLangColumnIndex: lowerIndex,
-      expectedTargetLangColumnIndex,
+      isTranslated,
     }
   }
   if (upperIndex > -1) {
+    const isTranslated =
+      rows[1] && utilsString.isTranslated(Config.targetLangNames.short, rows[1][lowerIndex]) ||
+      rows[2] && utilsString.isTranslated(Config.targetLangNames.short, rows[2][lowerIndex]) ||
+      rows[3] && utilsString.isTranslated(Config.targetLangNames.short, rows[3][lowerIndex])
     return {
       err: null,
       sourceColumnName,
       sourceColumnIndex,
+      targetLangColumnIndex: upperIndex,
       targetLangColumnName: Config.targetLangNames.upper,
-      foundTargetLangColumnIndex: upperIndex,
-      expectedTargetLangColumnIndex,
+      isTranslated,
     }
   }
 
   // Not found target lang
+
+  // get empty lang index or last lang index
+  let targetLangColumnIndex = rows[0].findIndex((row) => !row)
+  if (targetLangColumnIndex == -1) {
+    targetLangColumnIndex = rows[0].length
+  }
   return {
     err: null,
     sourceColumnName,
@@ -190,8 +196,8 @@ function getFirstRowInfo(path, rows) {
     targetLangColumnName: isLower
       ? Config.targetLangNames.lower
       : Config.targetLangNames.upper,
-    foundTargetLangColumnIndex: -1,
-    expectedTargetLangColumnIndex,
+    targetLangColumnIndex,
+    isTranslated: false,
   }
 }
 
