@@ -126,7 +126,7 @@ for (const [pathIndex, path] of paths.entries()) {
   console.info(`--- end output: ${resultPath} ---`)
 }
 
-await $`zip ${Config.outputFileName}.zip ${Config.outputFileName}/ && rm -fr ${Config.outputFileName}`
+await $`zip -r ${Config.outputFileName}.zip ${Config.outputFileName}/ && rm -fr ${Config.outputFileName}`
 
 counter.output()
 
