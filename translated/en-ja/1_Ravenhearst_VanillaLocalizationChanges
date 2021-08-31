@@ -1,0 +1,881 @@
+{
+ "cache": [
+  [
+   "keyv:It should have been contained. It should have been stopped. We had it under control. State by state, country by country it spread. Politicians were slow to react and self appointed celebrity leaders were too busy smiling for cameras to help us survive.\\n\\nBy the time the government approached Makasin Pharmaceuticals it was already too late.",
+   {
+    "value": "{\"value\":\"含まれているはずです。止めるべきだった。私たちはそれを管理下に置いた。州ごと、国ごとに広がりました。政治家の反応は遅く、自己任命された有名人の指導者たちは、カメラが生き残るのを助けるために笑顔で忙しすぎました。\\\\n\\\\n政府がマカシン製薬に近づく頃には、すでに手遅れでした。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:It All Began With A Cough",
+   {
+    "value": "{\"value\":\"それはすべて咳で始まりました\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:While our leaders gathered supporters across the country the virus took root and spread to everyone. Every last soul infected. Makasin became greedy. The cure never went to market. Millions died.\\n\\nWe are all that is left. Find us. We have networks across the globe. Makasin's cure is out there, somewhere. There is still hope.",
+   {
+    "value": "{\"value\":\"私たちの指導者が全国に支持者を集めている間、ウイルスは根付き、すべての人に広がりました。すべての最後の魂が感染しました。マカシンは貪欲になった。治療法は決して市場に出ませんでした。数百万人が亡くなりました。\\\\n\\\\n残っているのは私たちだけです。私たちを見つけてください。私たちは世界中にネットワークを持っています。マカシンの治療法はどこかにあります。まだ希望があります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:They Were Just As Guilty",
+   {
+    "value": "{\"value\":\"彼らは同じように有罪でした\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Creating player...",
+   {
+    "value": "{\"value\":\"プレーヤーを作成しています...\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Raising the Dead...",
+   {
+    "value": "{\"value\":\"死者を育てる...\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Downloading World: {0:P0}",
+   {
+    "value": "{\"value\":\"ダウンロードの世界：{0：P0}\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Downloading World: {0:P0}\\n(Estimated {1}:{2:00})",
+   {
+    "value": "{\"value\":\"ダウンロードの世界：{0：P0} \\\\n（推定{1}：{2:00}）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Waiting for server to send the world...",
+   {
+    "value": "{\"value\":\"サーバーが世界を送信するのを待っています...\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Loading RHv19.6b8-7.6.1.2...",
+   {
+    "value": "{\"value\":\"RHv19.6b8-7.6.1.2を読み込んでいます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Starting game...",
+   {
+    "value": "{\"value\":\"ゲームを開始しています...\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Waiting for server...",
+   {
+    "value": "{\"value\":\"サーバーを待っています...\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Lone World Prospect",
+   {
+    "value": "{\"value\":\"ローンワールドプロスペクト\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Lone World Prospect 1/1",
+   {
+    "value": "{\"value\":\"ローンワールドプロスペクト1/1\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:We are glad to see you made it but it is going to take much more than that to survive.\\n\\nThere is much work to be done. The President had injected himself with the only known cure to this virus. Unfortunately the cure died with him when he fell out of Air Force One mid flight.\\n\\nRumor is there is someone out there with the knowledge to end all of this. Keep an eye out!",
+   {
+    "value": "{\"value\":\"あなたが成功したことを嬉しく思いますが、生き残るにはそれ以上の時間がかかります。\\\\n\\\\nやるべきことはたくさんあります。大統領は、このウイルスに対する唯一の既知の治療法を自分自身に注入しました。残念ながら、彼が飛行中にエアフォースワンから脱落したとき、治療法は彼と一緒に亡くなりました。\\\\n\\\\nこのすべてを終わらせる知識を持った誰かがそこにいるという噂があります。目を離さないでください！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Journey to Settlement",
+   {
+    "value": "{\"value\":\"和解への旅\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Basic Survival 1/14",
+   {
+    "value": "{\"value\":\"ベーシックサバイバル1/14\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Craft a Bedroll by gathering plant fibers. Once you have the ingredients open your crafting inventory, navigate to the basics recipe category, highlight the recipe and click the craft button.\\n\\nPlace the Bedroll in the world by first equipping it and using the secondary action key. Once placed you'll see a Bed Icon on your compass and map. This will lead you back to your home and will act as a re-spawn point if you die.",
+   {
+    "value": "{\"value\":\"植物繊維を集めて寝袋を作ります。材料でクラフトインベントリを開いたら、基本レシピカテゴリに移動し、レシピを強調表示してクラフトボタンをクリックします。\\\\n\\\\n最初にベッドロールを装備し、セカンダリアクションキーを使用して、ベッドロールを世界に配置します。配置すると、コンパスと地図にベッドアイコンが表示されます。これはあなたをあなたの家に戻し、あなたが死んだ場合のリスポーンポイントとして機能します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Craft a Bedroll",
+   {
+    "value": "{\"value\":\"寝袋を作る\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Basic Survival 4/14",
+   {
+    "value": "{\"value\":\"ベーシックサバイバル4/14\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Craft a Stone Axe to help you defend yourself and gather crafting ingredients. Gather the ingredients by attacking grass, stone, or wood objects. You can also pick up small stones by looking at them and using the Pickup action. Once you have the ingredients, access the Inventory and locate Stone Axe in the Basics category of the Crafting window. Craft a Stone Axe.",
+   {
+    "value": "{\"value\":\"自分を守り、クラフト材料を集めるのに役立つストーンアックスを作りましょう。草、石、または木の物体を攻撃して材料を集めます。小さな石を見て、ピックアップアクションを使用して拾うこともできます。材料を入手したら、インベントリにアクセスし、「クラフト」ウィンドウの「基本」カテゴリで「ストーンアックス」を見つけます。石の斧を作ります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Craft a Stone Axe",
+   {
+    "value": "{\"value\":\"石斧を作る\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Basic Survival 9/14",
+   {
+    "value": "{\"value\":\"ベーシックサバイバル9/14\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Craft plant fiber clothing to protect you from damage and keep you warm in cold weather. Gather plant fibers by attacking grass and small plants. Once you have the ingredients, access the Inventory and locate the Clothing category of the Crafting window. Craft plant fiber clothing.",
+   {
+    "value": "{\"value\":\"植物繊維の衣類を作り、損傷から身を守り、寒い季節でも暖かく保ちます。草や小さな植物を攻撃して植物繊維を集めます。材料を入手したら、インベントリにアクセスして、[クラフト]ウィンドウの[衣料品]カテゴリを見つけます。植物繊維の衣類を作ります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Craft Plant Fiber Clothing",
+   {
+    "value": "{\"value\":\"クラフト植物繊維衣類\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Basic Survival 10/14",
+   {
+    "value": "{\"value\":\"ベーシックサバイバル10/14\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:To wear your plant fiber clothing, access the Inventory and select an article of clothing, then select Wear in the Action window. Once dressed, access the Character menu to see the insulation and defense your worn clothing provides in the top left of the Character window.",
+   {
+    "value": "{\"value\":\"植物繊維の衣類を着用するには、インベントリにアクセスして衣類を選択し、[アクション]ウィンドウで[着用]を選択します。服を着たら、キャラクターメニューにアクセスして、着用した服がキャラクターウィンドウの左上に提供する断熱と防御を確認します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Wear Plant Fiber Clothing",
+   {
+    "value": "{\"value\":\"植物繊維の服を着る\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Basic Survival 7/14",
+   {
+    "value": "{\"value\":\"ベーシックサバイバル7/14\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gather wood by attacking trees or bushes. Once you have the ingredients, access the Inventory and locate Wooden Club in the Basics category of the Crafting window. Craft a Wooden Club.",
+   {
+    "value": "{\"value\":\"木や茂みを攻撃して木を集めます。材料を入手したら、インベントリにアクセスし、「クラフト」ウィンドウの「基本」カテゴリで「木製クラブ」を見つけます。木製の棍棒を作ります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Craft Wooden Club",
+   {
+    "value": "{\"value\":\"クラフト木製クラブ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Basic Survival 8/14",
+   {
+    "value": "{\"value\":\"ベーシックサバイバル8/14\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Now that you have a melee weapon, you could use a ranged weapon. Gather wood, stone, plant fibers and feathers found in bird nests on the ground. Once you have the ingredients, access the Basics category of the Crafting window. Craft a Primitive Bow and Arrows.",
+   {
+    "value": "{\"value\":\"近接武器ができたので、遠隔武器を使用できます。地面の鳥の巣で見つかった木、石、植物繊維、羽毛を集めます。材料を入手したら、[クラフト]ウィンドウの[基本]カテゴリにアクセスします。原始的な弓と矢を作ります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Craft Bow & Arrows",
+   {
+    "value": "{\"value\":\"クラフトボウ＆アローズ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Basic Survival 12/14",
+   {
+    "value": "{\"value\":\"ベーシックサバイバル12/14\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gather wood and Craft Wooden Frames from the Basics category of the Crafting window. Place Wooden Frames in the world by equipping them and using the secondary action. Upgrade them with a Stone Axe using the secondary action while you have extra wood in your Inventory.",
+   {
+    "value": "{\"value\":\"クラフトウィンドウの基本カテゴリから木とクラフト木製フレームを収集します。それらを装備し、二次アクションを使用して、世界に木製フレームを配置します。インベントリに余分な木材がある間に、セカンダリアクションを使用してストーンアックスでそれらをアップグレードします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Start a Base",
+   {
+    "value": "{\"value\":\"ベースを開始します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Basic Survival 14/14",
+   {
+    "value": "{\"value\":\"基本的なサバイバル14/14\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gather small stones and Craft a Campfire from the Basics category of the Crafting window. Equip the Campfire and place it in the world using the secondary action. Once placed you can use the campfire to warm yourself or cook.",
+   {
+    "value": "{\"value\":\"小さな石を集めて、クラフトウィンドウの基本カテゴリからキャンプファイヤーを作ります。キャンプファイヤーを装備し、二次アクションを使用して世界に配置します。配置したら、キャンプファイヤーを使用して体を温めたり、料理をしたりできます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Build a Campfire",
+   {
+    "value": "{\"value\":\"キャンプファイヤーを建てる\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You've got a slim chance to find better loot. Adds 5% to loot bonus for containers that you open personally. Looting is 5% faster.",
+   {
+    "value": "{\"value\":\"より良い戦利品を見つけるチャンスはわずかです。個人的に開いたコンテナの戦利品ボーナスに5％を追加します。略奪は5％速くなります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Your luck is improving and no matter where you look you seem to find something good. Adds 10% to loot bonus. Looting is 10% faster.",
+   {
+    "value": "{\"value\":\"あなたの運は向上していて、どこを見ても何か良いものを見つけているようです。戦利品ボーナスに10％を追加します。略奪は10％速くなります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Adds 15% to loot bonus. Looting is 20% faster.",
+   {
+    "value": "{\"value\":\"戦利品ボーナスに15％を追加します。略奪は20％速くなります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You just seem to be blessed with finding great loot everywhere you look. Adds 20% to loot bonus. Looting is 30% faster.",
+   {
+    "value": "{\"value\":\"どこを見ても素晴らしい戦利品を見つけることに恵まれているようです。戦利品ボーナスに20％を追加します。略奪は30％速くなります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The Lucky Looter. You are on a roll and the dice are loaded. Adds 25% to loot bonus. Looting is 40% faster.",
+   {
+    "value": "{\"value\":\"ラッキールーター。あなたはロールに乗っており、サイコロがロードされています。戦利品ボーナスに25％を追加します。略奪は40％速くなります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Harvest 2 items from wild or planted crops. Craft seeds for flowers and decorative plants like goldenrod, chrysanthemum, aloe, and yucca.\\nUnlocks the Iron Hoe.",
+   {
+    "value": "{\"value\":\"野生または植えられた作物から2つのアイテムを収穫します。花やアキノキリンソウ、キク、アロエ、ユッカなどの観賞植物の種を作ります。\\\\n鉄のくわのロックを解除します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You can craft seeds for berries and vegetables.\\nUnlocks the Farm Table.",
+   {
+    "value": "{\"value\":\"ベリーや野菜の種を作ることができます。\\\\nファームテーブルのロックを解除します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks Wells. Master the Bro Technique and start your own Cannabis Farm.",
+   {
+    "value": "{\"value\":\"ウェルのロックを解除します。ブロテクニックをマスターして、あなた自身の大麻農場を始めてください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Specialize in harvesting more crops using your hands or a tool. Learn to fish and craft fishing rods as well as farm tables.",
+   {
+    "value": "{\"value\":\"手や道具を使ってより多くの作物を収穫することを専門としています。釣り竿や農場のテーブルを釣り、作り方を学びましょう。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Harvest 3 items from wild or planted crops.\\nUnlocks Bee Hives, Farm Plots and Rain Collectors.",
+   {
+    "value": "{\"value\":\"野生または植えられた作物から3つのアイテムを収穫します。\\\\nミツバチの巣箱、農場の区画、雨の収集家のロックを解除します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks Irrigation and Pipes. Become an Animal Breeder and Breed Chickens and Rabbits. Fish in your very own Fishing Pond.",
+   {
+    "value": "{\"value\":\"灌漑とパイプのロックを解除します。動物のブリーダーになり、鶏とウサギを繁殖させます。自分だけの釣り堀で釣りをしましょう。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Land Lover",
+   {
+    "value": "{\"value\":\"ランドローバー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Efficient Farmer",
+   {
+    "value": "{\"value\":\"効率的な農民\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Firemans Almanac - Completion",
+   {
+    "value": "{\"value\":\"FiremansAlmanac-完了\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Find 10% more items in buried treasure.",
+   {
+    "value": "{\"value\":\"埋蔵金で10％多くのアイテムを見つけてください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Find 20% more items in buried treasure.",
+   {
+    "value": "{\"value\":\"埋蔵金で20％多くのアイテムを見つけてください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Find 30% more items in buried treasure.",
+   {
+    "value": "{\"value\":\"埋蔵金で30％多くのアイテムを見つけてください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Medical healing items heal 25% more health over time. Gain 40% more XP using bandages, first aid bandages, first aid kits and splints. Can craft first aid bandages and plaster casts.",
+   {
+    "value": "{\"value\":\"メディカルヒーリングアイテムは、時間の経過とともに25％多くのヘルスをヒールします。包帯、応急処置包帯、応急処置キット、副子を使用すると、XPが40％増加します。応急処置の包帯と石膏ギプスを作ることができます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Medical healing items heal 40% more health over time. Gain 60% more XP using bandages, first aid bandages, first aid kits and splints. Craft items 20% faster at chemistry stations.",
+   {
+    "value": "{\"value\":\"医療用ヒーリングアイテムは、時間の経過とともに40％多くのヘルスをヒールします。包帯、応急処置包帯、応急処置キット、副子を使用すると、XPが60％増加します。化学ステーションでアイテムを20％速く作成します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Medical healing items heal 55% more health over time. Gain 80% more XP using bandages, first aid bandages, first aid kits and splints. Can craft chemistry stations, first aid kits and steroids.",
+   {
+    "value": "{\"value\":\"医療用ヒーリングアイテムは、時間の経過とともに55％多くのヘルスをヒールします。包帯、応急処置包帯、応急処置キット、副子を使用すると、XPが80％増加します。化学ステーション、応急処置キット、ステロイドを作ることができます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Miracle worker. Medical healing items heal 75% more health over time. Gain 100% more XP using bandages, first aid bandages, first aid kits and splints. Can craft Fortbites, Recog and antibiotics. Craft items 40% faster at chemistry stations.",
+   {
+    "value": "{\"value\":\"奇跡の労働者。医療用ヒーリングアイテムは、時間の経過とともに75％多くのヘルスをヒールします。包帯、応急処置包帯、応急処置キット、副子を使用して、100％多くのXPを獲得します。 Fortbites、Recog、抗生物質を作ることができます。化学ステーションでアイテムを40％速く作成します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You might move a little awkward in heavy armor but you're alive to talk about it. Reduce heavy armor movement and stamina penalty by 5%. Improve durability by 50%.\\nUnlocks iron armor crafting.",
+   {
+    "value": "{\"value\":\"あなたは重装甲で少しぎこちなく動くかもしれませんが、あなたはそれについて話すために生きています。重装甲の動きとスタミナペナルティを5％減らします。耐久性を50％向上させます。\\\\n鉄の鎧の製作のロックを解除します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You can take a hit! Reduce heavy armor movement and stamina penalty by 10%. Improve durability by 100%.",
+   {
+    "value": "{\"value\":\"あなたはヒットすることができます！重装甲の動きとスタミナペナルティを10％減らします。耐久性を100％向上させます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Now we're talking about some serious protection. Reduce heavy armor movement and stamina penalty by 17%. Improve durability by 150%.",
+   {
+    "value": "{\"value\":\"今、私たちはいくつかの深刻な保護について話している。重装甲の動きとスタミナペナルティを17％減らします。耐久性を150％向上させます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You are now a walking tank. Reduce heavy armor movement and stamina penalty by 25%. Improve durability by 200%.",
+   {
+    "value": "{\"value\":\"あなたは今、ウォーキングタンクです。重装甲の動きとスタミナペナルティを25％減らします。耐久性を200％向上させます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have started on the path of the lightly armored warrior. Reduce light armor movement penalty by 15% and stamina penalty by 10%. Improve durability by 50%.\\nUnlocks leather armor crafting.",
+   {
+    "value": "{\"value\":\"あなたは軽装甲の戦士の道を歩み始めました。軽装甲の動きのペナルティを15％、スタミナのペナルティを10％減らします。耐久性を50％向上させます。\\\\nレザーアーマークラフトのロックを解除します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You've survived some battles and hope to be a knight one day. Reduce light armor movement penalty by 30% and stamina penalty by 20%. Improve durability by 100%.",
+   {
+    "value": "{\"value\":\"あなたはいくつかの戦いを生き延び、いつか騎士になりたいと願っています。軽装甲の動きのペナルティを30％、スタミナのペナルティを20％減らします。耐久性を100％向上させます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:All the hard training and battles have paid off, you are now a knight. Reduce light armor movement penalty by 50% and stamina penalty by 35%. Improve durability by 150%.",
+   {
+    "value": "{\"value\":\"すべてのハードトレーニングと戦いが報われました、あなたは今騎士です。軽装甲の動きのペナルティを50％減らし、スタミナのペナルティを35％減らします。耐久性を150％向上させます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have made a name for yourself and are feared by nearly all as you are now a gladiator. Reduce light armor movement penalty by 75% and stamina penalty by 50%. Improve durability by 200%.",
+   {
+    "value": "{\"value\":\"あなたは自分の名前を作り、今では剣闘士になっているので、ほとんどすべての人に恐れられています。軽装甲の動きのペナルティを75％、スタミナのペナルティを50％減らします。耐久性を200％向上させます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disorganized",
+   {
+    "value": "{\"value\":\"混乱した\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Who has time to organize their stuff perfectly? Carry two more items without being encumbered.",
+   {
+    "value": "{\"value\":\"誰が自分のものを完璧に整理する時間がありますか？邪魔されずにさらに2つのアイテムを運びます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bag Lady",
+   {
+    "value": "{\"value\":\"バッグ・レイディ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You know it's in there somewhere. Carry an additional two more items without being encumbered.",
+   {
+    "value": "{\"value\":\"あなたはそれがどこかにあることを知っています。邪魔されることなく、さらに2つのアイテムを運びます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neat and Tidy",
+   {
+    "value": "{\"value\":\"身なりがきちんとして\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You know exactly where everything is. Carry two additional items without being encumbered.",
+   {
+    "value": "{\"value\":\"あなたはすべてがどこにあるかを正確に知っています。邪魔されることなく、2つの追加アイテムを運びます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Shipshape",
+   {
+    "value": "{\"value\":\"Shipshape\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You just passed inspection, private. Carry two more items without being encumbered.",
+   {
+    "value": "{\"value\":\"プライベートで検査に合格しました。邪魔されずにさらに2つのアイテムを運びます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pack Mule",
+   {
+    "value": "{\"value\":\"ラバを詰める\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Now you are just showing off, you are either part mule or a strongman. Carry two more items without being encumbered.",
+   {
+    "value": "{\"value\":\"今、あなたはただ自慢しているだけです、あなたはラバの一部かストロングマンのどちらかです。邪魔されずにさらに2つのアイテムを運びます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Storage Royalty",
+   {
+    "value": "{\"value\":\"ストレージロイヤリティ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Who has time to organize their stuff perfectly? Carry four more items without being encumbered.",
+   {
+    "value": "{\"value\":\"誰が自分のものを完璧に整理する時間がありますか？邪魔されずにさらに4つのアイテムを運びます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Packed Up",
+   {
+    "value": "{\"value\":\"荷造り\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You know it's in there somewhere. Carry an additional four more items without being encumbered.",
+   {
+    "value": "{\"value\":\"あなたはそれがどこかにあることを知っています。邪魔されることなく、さらに4つのアイテムを運びます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Organized",
+   {
+    "value": "{\"value\":\"組織された\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You know exactly where everything is. Carry four additional items without being encumbered.",
+   {
+    "value": "{\"value\":\"あなたはすべてがどこにあるかを正確に知っています。邪魔にならずに4つの追加アイテムを運びます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The Collector",
+   {
+    "value": "{\"value\":\"コレクター\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You just passed inspection, private. Carry four more items without being encumbered.",
+   {
+    "value": "{\"value\":\"プライベートで検査に合格しました。邪魔されずにさらに4つのアイテムを運びます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hoarder",
+   {
+    "value": "{\"value\":\"買いだめ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Now you are just showing off, you are either part mule or a strongman. Carry eight more items without being encumbered.",
+   {
+    "value": "{\"value\":\"今、あなたはただ自慢しているだけです、あなたはラバの一部かストロングマンのどちらかです。邪魔されることなく、さらに8つのアイテムを運びます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Rummaging through personal belongings can weigh you down. Find backpacks to unlock additional spots in your inventory.",
+   {
+    "value": "{\"value\":\"身の回り品をくまなく探すと、重荷になることがあります。バックパックを見つけて、インベントリ内の追加のスポットのロックを解除します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Risking your neck every day has its advantages. Get an additional choice for quest rewards and 2% more dukes.",
+   {
+    "value": "{\"value\":\"毎日首を危険にさらすことには利点があります。クエスト報酬と2％多くの公爵のための追加の選択肢を入手してください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The traders know you can get the job done, plunderer. Get two additional choices for quest rewards and 5% more dukes.",
+   {
+    "value": "{\"value\":\"トレーダーはあなたが仕事を成し遂げることができることを知っています、略奪者。クエスト報酬と5％多くの公爵のための2つの追加の選択肢を取得します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You've made a name for yourself as a mercenary for hire. Get two additional choices for quest rewards and 8% more dukes.",
+   {
+    "value": "{\"value\":\"あなたは雇う傭兵としてあなた自身の名前を作りました。クエスト報酬と8％多くの公爵のための2つの追加の選択肢を取得します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You are the daring adventurer and get the best rewards for your services. You can now choose two quest rewards and get 10% more dukes.",
+   {
+    "value": "{\"value\":\"あなたは大胆な冒険家であり、あなたのサービスに対して最高の報酬を手に入れます。これで、2つのクエスト報酬を選択して、10％多くの公爵を獲得できます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The treasure burial radius is reduced by 1m.\\nFind 5% more items in buried treasure.",
+   {
+    "value": "{\"value\":\"宝物の埋葬半径が1m減少します。\\\\n埋蔵金から5％多くのアイテムを見つけてください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The treasure burial radius is reduced by 1m.\\nFind 10% more items in buried treasure.",
+   {
+    "value": "{\"value\":\"宝物の埋葬半径が1m減少します。\\\\n埋蔵金から10％多くのアイテムを見つけてください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The treasure burial radius is reduced by 1m.\\nFind 20% more items in buried treasure.",
+   {
+    "value": "{\"value\":\"宝物の埋葬半径が1m減少します。\\\\n埋蔵金で20％多くのアイテムを見つけます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You like to think you are tough because you don't have a glass jaw anymore. Reduce HP loss by 5%.\\n10% less chance to get stunned.",
+   {
+    "value": "{\"value\":\"あなたはもうガラスのあごを持っていないのであなたはタフだと思うのが好きです。 HPの損失を5％減らします。\\\\n気絶する可能性が10％少なくなります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Broken bones and cuts are life when you are rugged. Reduce HP loss by 10%.\\n20% less chance to get stunned.",
+   {
+    "value": "{\"value\":\"骨折や切り傷は、頑丈なときに命を吹き込みます。 HPの損失を10％減らします。\\\\n気絶する可能性が20％少なくなります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:After all the beat downs you endured, you are now very durable. Reduce HP loss by 15% and have a 30% less chance to get stunned.",
+   {
+    "value": "{\"value\":\"あなたが耐えたすべてのビートダウンの後、あなたは今非常に耐久性があります。 HPの損失を15％減らし、気絶する可能性を30％減らします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:It's going to take a lot more than that to keep you down. Reduce HP loss by 20% and have a 40% less chance to get stunned.",
+   {
+    "value": "{\"value\":\"あなたを抑えるには、それ以上の時間がかかります。 HPの損失を20％減らし、気絶する可能性を40％減らします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You seem to thrive on pain and now possess an iron chin. Reduce HP loss by 25% and have a 50% less chance to get stunned.",
+   {
+    "value": "{\"value\":\"あなたは痛みで繁栄しているようで、今は鉄のあごを持っています。 HPの損失を25％減らし、気絶する可能性を50％減らします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Your passion to tinker and not walk everywhere has led you on the path of the bicycle mechanic. Can craft bicycle parts. Craft wheels and bicycle parts 33% cheaper.",
+   {
+    "value": "{\"value\":\"どこでも歩かないでいじくり回すというあなたの情熱は、自転車整備士の道にあなたを導きました。自転車の部品を作ることができます。クラフトホイールと自転車部品が33％安くなります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Why pedal everywhere when there is enough junk lying around to make a minibike? Can craft minibike parts, gas cans and better quality car batteries. Craft minibike parts 33% cheaper.",
+   {
+    "value": "{\"value\":\"ミニバイクを作るのに十分なジャンクが周りにあるのに、なぜどこでもペダルを踏むのですか？ミニバイクの部品、ガス缶、より高品質の車のバッテリーを作ることができます。ミニバイクのパーツを33％安く作成します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:It was only a matter of time before going faster and carrying more gear was a necessity. You can craft motorcycle parts, oil and better quality car batteries. Craft motorcycle parts 33% cheaper.",
+   {
+    "value": "{\"value\":\"より速く進み、より多くのギアを運ぶことが必要になるのは時間の問題でした。オートバイの部品、オイル、より高品質の車のバッテリーを作ることができます。オートバイの部品を33％安く作ります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Nothing beats the safety and warmth of a nice 4x4 truck. You can craft 4x4 truck parts and better quality car batteries. Craft 4x4 truck parts 33% cheaper.",
+   {
+    "value": "{\"value\":\"素敵な4x4トラックの安全性と暖かさに勝るものはありません。あなたは4x4のトラック部品とより良い品質の車のバッテリーを作ることができます。 4x4のトラック部品を33％安く作成します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Your tinkering desire is never satisfied and only a true genius could figure out how to take to the skies with scrap iron. Can craft gyrocopter parts and better quality car batteries. Craft gyrocopter parts 33% cheaper.",
+   {
+    "value": "{\"value\":\"あなたのいじくり回す欲求は決して満たされず、真の天才だけが鉄くずで空に行く方法を理解することができました。ジャイロコプター部品とより高品質のカーバッテリーを作ることができます。ジャイロコプターのパーツを33％安く作成します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You are now an explosives handler. Increase damage 30%, increase reload speed by 25%, aim 30% faster, have a 33% chance to cripple enemies and a 20% greater chance to dismember.\\nCraft grenades.",
+   {
+    "value": "{\"value\":\"これで爆発物ハンドラーになりました。ダメージを30％増やし、リロード速度を25％増やし、狙いを30％速くし、敵を不自由にする可能性を33％増やし、解体する可能性を20％増やします。\\\\n手榴弾を作成します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Burglar. You are starting to make a name for yourself. You can pick locks 20% faster and have a 10% lower chance to break lockpicks.",
+   {
+    "value": "{\"value\":\"泥棒。あなたは自分の名前を作り始めています。ピッキングを20％速くし、ピッキングを破る可能性を10％低くすることができます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You are now a world class safe cracker. Pick locks 60% faster and have a 30% lower chance to break lockpicks. Craft your own Lockpicks.",
+   {
+    "value": "{\"value\":\"あなたは今や世界クラスの安全なクラッカーです。ロックを60％速くピックし、ロックピックを壊す可能性を30％低くします。独自のロックピックを作成します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:All shots with .44 ammo penetrate enemies.",
+   {
+    "value": "{\"value\":\".44弾のすべてのショットは敵を貫通します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Penetration: .44 regular and HP ammunition can penetrate enemies and hit targets behind them.",
+   {
+    "value": "{\"value\":\"貫通力：.44の通常弾薬とHP弾薬は、敵を貫通して背後のターゲットを攻撃できます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Powder burns: Shots fired at point blank ignore armor.",
+   {
+    "value": "{\"value\":\"火傷：至近距離で発射されたショットは装甲を無視します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Powder Burns: Shots from 9mm weapons fired at point blank range ignore 20% of armor and cause bleeding damage.",
+   {
+    "value": "{\"value\":\"火傷：至近距離で発射された9mm武器からのショットは、装甲の20％を無視し、出血ダメージを引き起こします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Leg Shots slow your opponent.",
+   {
+    "value": "{\"value\":\"レッグショットは相手を遅くします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Crippling Shot: Shots to the leg with arrows or bolts slow your opponent.",
+   {
+    "value": "{\"value\":\"壊滅的なショット：矢やボルトで脚を撃つと、相手の動きが遅くなります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You can one shot most wood blocks.",
+   {
+    "value": "{\"value\":\"あなたはほとんどの木のブロックを一発で撃つことができます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:One shot: Stuck in close quarters and need to make a quick getaway? Blow a hole in the wall with this handy trick. You can one shot most drywall and wooden walls.",
+   {
+    "value": "{\"value\":\"ワンショット：狭い場所で立ち往生していて、すぐに逃げる必要がありますか？この便利なトリックで壁に穴を開けます。あなたはほとんどの乾式壁と木製の壁をワンショットすることができます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You can craft a ghillie suit.",
+   {
+    "value": "{\"value\":\"ギリースーツを作ることができます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Ghost: Blend in with your environment and become the ultimate assassin by wearing a camouflage ghillie suit. You can craft a ghillie suit.",
+   {
+    "value": "{\"value\":\"ゴースト：あなたの環境に溶け込み、カモフラージュのギリースーツを着て究極の暗殺者になりましょう。ギリースーツを作ることができます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Your tinkering is proving useful in the apocalypse. Craft the table saw. Craft workbenches and cement mixers and craft items with them 20% faster.",
+   {
+    "value": "{\"value\":\"あなたのいじくり回しは黙示録に役立つことが証明されています。丸のこ盤を作ります。ワークベンチとセメントミキサーを作り、それらを使ってアイテムを20％速く作ります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Learn to craft shotgun turrets for short range concentrated base defense, battery banks and nail guns. Gain 35% XP from electrical trap kills. Craft An Armor Bench\\nAll forge recipes cost 15% less, crafting Forged Steel and electrical devices costs 25% less.",
+   {
+    "value": "{\"value\":\"短距離集中基地防衛、バッテリーバンク、ネイルガン用のショットガンタレットの作成方法を学びます。電気トラップキルから35％の経験値を獲得します。アーマーベンチの作成\\\\nすべての鍛造レシピのコストが15％低くなり、鍛造鋼と電気機器の作成のコストが25％低くなります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Learn to craft SMG auto turrets for the best ranged base defense, and crucibles to forge steel in forges. Gain 50% XP from Electrical Trap Kills. Craft a Blacksmith Forge and Mechanic Workbench as well as an Electrician Table.\\nAll forge recipes cost 20% less, crafting Forged Steel and electrical devices costs 35% less.",
+   {
+    "value": "{\"value\":\"最高の遠隔基地防御のためのSMG自動砲塔の作成方法と、鍛造で鋼を鍛造するためのるつぼの作成方法を学びます。電気トラップキルから50％の経験値を獲得します。鍛冶屋の鍛造と機械工のワークベンチと電気技師のテーブルを作成します。\\\\nすべての鍛造レシピのコストが20％低くなり、鍛造鋼と電気機器の作成のコストが35％少なくなります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Protect your hands and put some weight into those swings. These blades can also be useful for gutting animals.\\n\\nRepair with an Advanced Repair Kit.\\nScrap to Iron.",
+   {
+    "value": "{\"value\":\"あなたの手を保護し、それらのブランコにいくらかの重さを置いてください。これらのブレードは、動物を内臓するのにも役立ちます。\\\\n\\\\n高度な修理キットで修理します。\\\\n鉄にスクラップします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The steel axe has a durable blade and is great for harvesting wood.\\n\\nRepair with an Advanced Repair Kit.\\nScrap to Iron.",
+   {
+    "value": "{\"value\":\"鋼の斧は耐久性のある刃を持っており、木材の収穫に最適です。\\\\n\\\\n高度な修理キットで修理します。\\\\n鉄にスクラップします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Spears have more range than other weapons and can also be thrown.\\n\\nRepair with an Advanced Repair Kit.\\nScrap to Iron.",
+   {
+    "value": "{\"value\":\"槍は他の武器よりも射程が広く、投げることもできます。\\\\n\\\\n高度な修理キットで修理します。\\\\n鉄にスクラップします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Robotic Turret Schematic",
+   {
+    "value": "{\"value\":\"ロボットタレットの概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Great for disassembling mechanical devices like cars, air conditioners and more. For more complex vehicle parts you will want to use a crowbar.\\n\\nRepair with a Repair Kit.\\nScrap to Iron.",
+   {
+    "value": "{\"value\":\"車やエアコンなどの機械装置を分解するのに最適です。より複雑な車両部品の場合は、バールを使用することをお勧めします。\\\\n\\\\n修理キットで修理します。\\\\n鉄にスクラップします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Great for disassembling mechanical devices like cars, air conditioners and more. For more complex vehicle parts you will want to use a crowbar.\\n\\nRepair with an Advanced Repair Kit.\\nScrap to Iron.",
+   {
+    "value": "{\"value\":\"車やエアコンなどの機械装置を分解するのに最適です。より複雑な車両部品の場合は、バールを使用することをお勧めします。\\\\n\\\\n高度な修理キットで修理します。\\\\n鉄にスクラップします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Great for disassembling mechanical devices like cars, air conditioners and more. For more complex vehicle parts you will want to use a crowbar.\\n\\nRepair with a Advanced Repair Kit.\\nScrap to Motor Tool Parts.",
+   {
+    "value": "{\"value\":\"車やエアコンなどの機械装置を分解するのに最適です。より複雑な車両部品の場合は、バールを使用することをお勧めします。\\\\n\\\\n高度な修理キットで修理します。\\\\nモーターツール部品にスクラップします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Light armor will encumber you a little and provides some protection against damage.\\nIt will not protect you from the weather.\\n\\nRepair with a Cloth Armor Repair Kit.\\nScrap to cloth.",
+   {
+    "value": "{\"value\":\"軽い鎧はあなたを少し邪魔し、損傷からある程度保護します。\\\\n天候からあなたを保護しません。\\\\n\\\\n布鎧修理キットで修理します。\\\\n布にこすります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Heavy armor will encumber you but provides good protection against damage.\\nIt will not protect you from the weather.\\n\\nRepair with an Iron Armor Repair Kit.\\nScrap to Iron.",
+   {
+    "value": "{\"value\":\"重装甲は邪魔になりますが、損傷からの保護は良好です。\\\\n天候からの保護にはなりません。\\\\n\\\\n鉄装甲修理キットで修理してください。\\\\n鉄にスクラップしてください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Light armor will encumber you a little and provides some protection against damage.\\nIt will not protect you from the weather.\\n\\nRepair with a Leather Armor Repair Kit.\\nScrap to leather.",
+   {
+    "value": "{\"value\":\"軽装甲はあなたを少し邪魔し、損傷からある程度保護します。\\\\n天候からあなたを保護しません。\\\\n\\\\n革鎧修理キットで修理します。\\\\n革にスクラップします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Light armor will encumber you a little and provides some protection against damage.\\nIt will not protect you from the weather.\\n\\nRepair with a Military Armor Repair Kit.\\nScrap to military armor parts.",
+   {
+    "value": "{\"value\":\"軽装甲は少し邪魔になり、損傷からある程度保護します。\\\\n天候から保護することはできません。\\\\n\\\\n軍用鎧修理キットで修理してください。\\\\n軍用鎧の部品を廃棄してください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Heavy armor will encumber you but provides good protection against damage.\\nIt will not protect you from the weather.\\n\\nRepair with a Scrap Armor Repair Kit.\\nScrap to Iron.",
+   {
+    "value": "{\"value\":\"重装甲は邪魔になりますが、損傷からの保護は良好です。\\\\n天候からの保護にはなりません。\\\\n\\\\nスクラップアーマー修理キットで修理してください。\\\\nスクラップから鉄へ。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Heavy armor will encumber you but provides good protection against damage.\\nIt will not protect you from the weather.\\n\\nRepair with a Steel Armor Repair Kit.\\nScrap to steel armor parts.",
+   {
+    "value": "{\"value\":\"重装甲は邪魔になりますが、損傷に対する優れた保護を提供します。\\\\n天候からの保護にはなりません。\\\\n\\\\n鋼製装甲修理キットで修理してください。\\\\n鋼製装甲部品にスクラップしてください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Press & hold [activate] to lock it or set a combination. Upgrade & repair with iron and a construction tool using the secondary action. Upgrade to an Vault Door using a crafted Vault Door.",
+   {
+    "value": "{\"value\":\"[アクティブ化]を長押ししてロックするか、組み合わせを設定します。二次アクションを使用して、鉄と建設ツールを使用してアップグレードと修理を行います。細工されたVaultDoorを使用してVaultDoorにアップグレードします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Steel Fireaxe",
+   {
+    "value": "{\"value\":\"鋼のFireaxe\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Good for hunting and killing zombies. Uses arrows for ammunition.\\nHold reload to use alternate ammo.\\n\\nRepair with a Repair Kit.\\nScrap to Iron.",
+   {
+    "value": "{\"value\":\"ゾンビを狩ったり殺したりするのに適しています。弾薬に矢印を使用します。\\\\nリロードを押し続けて代替弾薬を使用します。\\\\n\\\\n修理キットで修理します。\\\\n鉄にスクラップします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:= Potted Plant = Random Helper",
+   {
+    "value": "{\"value\":\"=鉢植え=ランダムヘルパー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A .44 Magnum round used as firearm ammunition. Can be crafted at a workbench. Crafting at an ammunition press will double your output.",
+   {
+    "value": "{\"value\":\"銃器の弾薬として使用される.44マグナム弾。ワークベンチで作成できます。弾薬プレスで作成すると、出力が2倍になります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A regular 7.62mm round used as firearm ammunition. Can be crafted at a workbench. Crafting at an ammunition press will double your output.",
+   {
+    "value": "{\"value\":\"銃器の弾薬として使用される通常の7.62mmラウンド。ワークベンチで作成できます。弾薬プレスで作成すると、出力が2倍になります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A 9mm round used as firearm ammunition. Can be crafted at a workbench. Crafting at an ammunition press will double your output.",
+   {
+    "value": "{\"value\":\"銃器の弾薬として使用される9mmラウンド。ワークベンチで作成できます。弾薬プレスで作成すると、出力が2倍になります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You are very hungry. Starvation will kill you eventually.\\nYour maximum stamina is lowered by {cvar($buffStatusHungryBlockage:0.0)}.\\n\\nYour mobility is reduced by 10% and stamina regen by 10%.",
+   {
+    "value": "{\"value\":\"あなたはとてもお腹が空いています。飢餓は最終的にあなたを殺します。\\\\nあなたの最大スタミナは{cvar（$ buffStatusHungryBlockage：0.0）}だけ低下します。\\\\n\\\\nあなたの機動性は10％減少し、スタミナ再生は10％減少します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You are dying of starvation. You need to find something to eat.\\nYour maximum stamina is lowered by {cvar($buffStatusHungryBlockage:0.0)}.\\n\\nYour mobility is reduced by 20% and stamina regen by 20%.\\nAll attributes reduced by one point.",
+   {
+    "value": "{\"value\":\"あなたは飢餓で死にかけています。何か食べるものを見つける必要があります。\\\\n最大スタミナが{cvar（$ buffStatusHungryBlockage：0.0）}減少します。\\\\n\\\\n移動度が20％減少し、スタミナ再生が20％減少します。\\\\nすべての属性が1ポイント減少します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A very large lockable crate that can be written on.",
+   {
+    "value": "{\"value\":\"書き込むことができる非常に大きなロック可能な木枠。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630422290646
+}

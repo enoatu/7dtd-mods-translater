@@ -1,0 +1,287 @@
+{
+ "cache": [
+  [
+   "keyv:[e7a729]Thumper Radio Transmission[-]",
+   {
+    "value": "{\"value\":\"[e7a729]サンパー無線送信[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[e7a729]A radio with a frequency tuned to [-][2bd99f]Thumper Industries[-][e7a729]. Use to call and ask for a replacement [-][2bd99f]Thumper[-][e7a729].[-]",
+   {
+    "value": "{\"value\":\"[e7a729]周波数が[-] [2bd99f] Thumper Industries [-] [e7a729]に調整されたラジオ。 [-] [2bd99f] Thumper [-] [e7a729]に電話して交換を依頼するために使用します。[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[e7a729]Skill Points: +1[-]",
+   {
+    "value": "{\"value\":\"[e7a729]スキルポイント：+1 [-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[e7a729]Completing this quest will award one skill point.[-]",
+   {
+    "value": "{\"value\":\"[e7a729]このクエストを完了すると、1スキルポイントが付与されます。[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[e7a729]Thumplurite[-]",
+   {
+    "value": "{\"value\":\"[e7a729]タンプルライト[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[e7a729]A hard but malleable resource gathered by [-][2bd99f]Thumpers[-][e7a729]. This can be crafted into many things, as long as you have enough of it.[-]",
+   {
+    "value": "{\"value\":\"[e7a729] [-] [2bd99f] Thumpers [-] [e7a729]によって収集されたハードだが順応性のあるリソース。あなたがそれを十分に持っている限り、これは多くのものに作り上げることができます。[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[e7a729]Thumplurite Rifle[-]",
+   {
+    "value": "{\"value\":\"[e7a729]タンプルライトライフル[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[e7a729]A rifle crafted from [-][2bd99f]Thumplurite[-][e7a729]. Using this weapon for long range attacks (after the bullet starts to drop) will award more experience on kills. For [-][1cb431]bodyshot[-][e7a729] kills, 1500 additional experience is awarded. For [-][1cb431]headshot[-][e7a729] kills, 5500 additional experience will be awarded. This weapon uses bullet drop, so be sure to lead and account for the drop![-]",
+   {
+    "value": "{\"value\":\"[e7a729] [-] [2bd99f] Thumplurite [-] [e7a729]から作られたライフル。この武器を長距離攻撃（弾丸が落ち始めた後）に使用すると、キルの経験値が増えます。 [-] [1cb431] bodyshot [-] [e7a729]キルの場合、1500の追加経験値が与えられます。 [-] [1cb431] headshot [-] [e7a729]キルの場合、5500の追加経験値が与えられます。この武器は弾丸ドロップを使用しているので、必ずリードしてドロップを説明してください！[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[e7a729]Thumplurite Ammo[-]",
+   {
+    "value": "{\"value\":\"[e7a729]タンプルライト弾薬[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[e7a729]Ammo for the [-][2bd99f]Thumplurite[-][e7a729] Rifle.[-]",
+   {
+    "value": "{\"value\":\"[e7a729] [-] [2bd99f] Thumplurite [-] [e7a729]ライフルの弾薬。[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[e7a729]Thumper Completed[-]",
+   {
+    "value": "{\"value\":\"[e7a729]サンパーが完了しました[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[e7a729]Proof that you completed a [-][2bd99f]Thumper[-][e7a729]. A trader would be interested in your accomplishment.[-]",
+   {
+    "value": "{\"value\":\"[e7a729] [-] [2bd99f] Thumper [-] [e7a729]を完了したことの証明。トレーダーはあなたの業績に興味があるでしょう。[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[e7a729]Broken Thumper Leg[-]",
+   {
+    "value": "{\"value\":\"[e7a729]壊れたサンパーレッグ[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[e7a729]A piece of a damaged [-][2bd99f]Thumper[-][e7a729]. You'll need all the pieces if you're going to get a replacement from [-][2bd99f]Thumper Industries[-][e7a729].[-]",
+   {
+    "value": "{\"value\":\"[e7a729]破損した[-] [2bd99f]サンパー[-] [e7a729]の一部。 [-] [2bd99f] Thumper Industries [-] [e7a729]から交換品を入手する場合は、すべての部品が必要になります。[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[e7a729]Broken Thumper Propeller[-]",
+   {
+    "value": "{\"value\":\"[e7a729]壊れたサンパープロペラ[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[e7a729]Broken Thumper Body[-]",
+   {
+    "value": "{\"value\":\"[e7a729]壊れたサンパーボディ[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[e7a729]Broken Thumper Chassis[-]",
+   {
+    "value": "{\"value\":\"[e7a729]壊れたサンパーシャーシ[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[e7a729]Broken Thumper Drill[-]",
+   {
+    "value": "{\"value\":\"[e7a729]壊れたサンパードリル[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[e7a729]Thumper Drill Tip[-]",
+   {
+    "value": "{\"value\":\"[e7a729]サンパードリルのヒント[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[e7a729]A very hard drill tip that can be attached to mining tools and machine tools. It will increase block damage by 50%.[-]",
+   {
+    "value": "{\"value\":\"[e7a729]マイニングツールや工作機械に取り付けることができる非常に硬いドリルチップ。ブロックダメージが50％増加します。[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[e7a729]Thumper Space Pod[-]",
+   {
+    "value": "{\"value\":\"[e7a729]サンパースペースポッド[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[e7a729]A very fast vehicle crafted from [-][2bd99f]Thumplurite[-][e7a729].[-]",
+   {
+    "value": "{\"value\":\"[e7a729] [-] [2bd99f] Thumplurite [-] [e7a729]から作られた非常に高速な車両。[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[e7a729]Wrench to Extract Thumplurite[-]",
+   {
+    "value": "{\"value\":\"[e7a729]タンプルライトを抽出するためのレンチ[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[e7a729]Damaged Thumper || Wrench to Disassemble[-]",
+   {
+    "value": "{\"value\":\"[e7a729]破損したサンパー||分解するレンチ[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[ed3119]Damaged Thumper[-]",
+   {
+    "value": "{\"value\":\"[ed3119]破損したサンパー[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[ed3119]Thumper[-]",
+   {
+    "value": "{\"value\":\"[ed3119]サンパー[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[2bd99f]Thumper Space Pod[-]",
+   {
+    "value": "{\"value\":\"[2bd99f]サンパースペースポッド[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[e7a729]Skill Points: +1 [-]",
+   {
+    "value": "{\"value\":\"[e7a729]スキルポイント：+1 [-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[e7a729]Talk to any trader to gain your skill point.[-]",
+   {
+    "value": "{\"value\":\"[e7a729]トレーダーに話しかけてスキルポイントを獲得してください。[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[e7a729]Thumper Replacement Request[-]",
+   {
+    "value": "{\"value\":\"[e7a729]サンパー交換リクエスト[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[e7a729]Thank you for contacting [-][2bd99f]Thumper Industries[-][e7a729]. We are proud to introduce our newly designed [-][2bd99f]Thumper[-][e7a729]. It's sleek design allows for harvesting of very powerful and malleable resources from the ground. We have marked the [-][1cb431]drop off zone[-][e7a729] on your map. Please head to the drop off zone at your convenience. Once you are in range we will drop a [-][2bd99f]Thumper[-][e7a729] nearby. Do everything you can to protect it so it can harvest the most resources possible. Don't forget to [-][1cb431]stay within the area[-][e7a729] around the [-][2bd99f]Thumper[-][e7a729] or you will not get credit. Once completed, a [-][1cb431]wrench[-][e7a729] will be enough to extract the harvested resources. Once again, thank you for contacting [-][2bd99f]Thumper Industries[-][e7a729], the leading manufacturer of [-][2bd99f]Thumper[-][e7a729] goods.[-]",
+   {
+    "value": "{\"value\":\"[e7a729] [-] [2bd99f] Thumper Industries [-] [e7a729]にお問い合わせいただきありがとうございます。新しくデザインされた[-] [2bd99f]サンパー[-] [e7a729]をご紹介します。洗練されたデザインにより、非常に強力で順応性のある資源を地面から収穫できます。マップ上に[-] [1cb431]ドロップオフゾーン[-] [e7a729]のマークを付けました。都合の良いときにドロップオフゾーンに向かってください。範囲内に入ると、近くに[-] [2bd99f] Thumper [-] [e7a729]をドロップします。それを保護するためにできる限りのことをして、可能な限り多くの資源を収穫できるようにしてください。 [-] [1cb431] [-] [2bd99f] Thumper [-] [e7a729]周辺のエリア[-] [e7a729]に滞在することを忘れないでください。そうしないと、クレジットを獲得できません。完了すると、[-] [1cb431]レンチ[-] [e7a729]で収穫されたリソースを抽出できます。もう一度、[-] [2bd99f] Thumper [-] [e7a729]商品の大手メーカーである[-] [2bd99f] Thumper Industries [-] [e7a729]にお問い合わせいただきありがとうございます。[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[e7a729]Excavation Complete[-]",
+   {
+    "value": "{\"value\":\"[e7a729]掘削が完了しました[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[e7a729][-][2bd99f]Thumper[-][e7a729] completed with 0 to 10% capacity. Total rewards are multiplied by .25[-]",
+   {
+    "value": "{\"value\":\"[e7a729] [-] [2bd99f] Thumper [-] [e7a729]は0〜10％の容量で完了しました。報酬の合計に.25 [-]を掛けます\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[e7a729][-][2bd99f]Thumper[-][e7a729] completed with 10 to 20% capacity. Total rewards are multiplied by 1[-]",
+   {
+    "value": "{\"value\":\"[e7a729] [-] [2bd99f] Thumper [-] [e7a729]は、10〜20％の容量で完成しました。報酬の合計に1を掛けます[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[e7a729][-][2bd99f]Thumper[-][e7a729] completed with 20 to 30% capacity. Total rewards are multiplied by 2.25[-]",
+   {
+    "value": "{\"value\":\"[e7a729] [-] [2bd99f] Thumper [-] [e7a729]は、20〜30％の容量で完成しました。報酬の合計に2.25を掛けます[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[e7a729][-][2bd99f]Thumper[-][e7a729] completed with 30 to 40% capacity. Total rewards are multiplied by 4[-]",
+   {
+    "value": "{\"value\":\"[e7a729] [-] [2bd99f] Thumper [-] [e7a729]は、30〜40％の容量で完了しました。報酬の合計に4を掛けます[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[e7a729][-][2bd99f]Thumper[-][e7a729] completed with 40 to 50% capacity. Total rewards are multiplied by 6.25[-]",
+   {
+    "value": "{\"value\":\"[e7a729] [-] [2bd99f] Thumper [-] [e7a729]は、40〜50％の容量で完成しました。報酬の合計に6.25を掛けます[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[e7a729][-][2bd99f]Thumper[-][e7a729] completed with 50 to 60% capacity. Total rewards are multiplied by 9[-]",
+   {
+    "value": "{\"value\":\"[e7a729] [-] [2bd99f] Thumper [-] [e7a729]は、50〜60％の容量で完了しました。報酬の合計に9を掛けます[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[e7a729][-][2bd99f]Thumper[-][e7a729] completed with 60 to 70% capacity. Total rewards are multiplied by 12.25[-]",
+   {
+    "value": "{\"value\":\"[e7a729] [-] [2bd99f] Thumper [-] [e7a729]は60〜70％の容量で完成しました。報酬の合計に12.25を掛けます[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[e7a729][-][2bd99f]Thumper[-][e7a729] completed with 70 to 80% capacity. Total rewards are multiplied by 16[-]",
+   {
+    "value": "{\"value\":\"[e7a729] [-] [2bd99f] Thumper [-] [e7a729]は、70〜80％の容量で完成しました。報酬の合計に16を掛けます[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[e7a729][-][2bd99f]Thumper[-][e7a729] completed with 80 to 90% capacity. Total rewards are multiplied by 20.25[-]",
+   {
+    "value": "{\"value\":\"[e7a729] [-] [2bd99f] Thumper [-] [e7a729]は、80〜90％の容量で完成しました。報酬の合計に20.25を掛けます[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[e7a729][-][2bd99f]Thumper[-][e7a729] completed with 90 to 99% capacity. Total rewards are multiplied by 25[-]",
+   {
+    "value": "{\"value\":\"[e7a729] [-] [2bd99f] Thumper [-] [e7a729]は、90〜99％の容量で完成しました。報酬の合計に25を掛けます[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[e7a729][-][2bd99f]Thumper[-][e7a729] completed with 100% capacity. Total rewards are multiplied by 35[-]",
+   {
+    "value": "{\"value\":\"[e7a729] [-] [2bd99f] Thumper [-] [e7a729]は100％の容量で完成しました。報酬の合計に35を掛けます[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Thumper Lab zombie",
+   {
+    "value": "{\"value\":\"サンパーラボゾンビ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Thumper Ranged Pod",
+   {
+    "value": "{\"value\":\"サンパーレンジポッド\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Thumper RangedDrone",
+   {
+    "value": "{\"value\":\"Thumper RangedDrone\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Thumper Dual Blade Robot",
+   {
+    "value": "{\"value\":\"サンパーデュアルブレードロボット\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630422633009
+}
