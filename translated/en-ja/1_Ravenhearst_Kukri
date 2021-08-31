@@ -1,0 +1,53 @@
+{
+ "cache": [
+  [
+   "keyv:Kukri",
+   {
+    "value": "{\"value\":\"ククリ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Great for chopping zombies and sometimes trees and gutting animals for meat.\\nRegular attacks can cause Bleeding Wounds and power attacks always do.\\nRepair with an Advanced Repair Kit.\\nScrap to Iron.",
+   {
+    "value": "{\"value\":\"ゾンビを切り刻んだり、時には木や動物を肉用に内臓したりするのに最適です。\\\\n定期的な攻撃は出血性の傷を引き起こす可能性があり、パワーアタックは常に発生します。\\\\n高度な修理キットで修理します。\\\\n鉄にスクラップします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Kukri Schematic",
+   {
+    "value": "{\"value\":\"ククリ回路図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Kukri (Blue)",
+   {
+    "value": "{\"value\":\"ククリ（青）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Kukri (Camo)",
+   {
+    "value": "{\"value\":\"ククリ（カモ）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Kukri (Green)",
+   {
+    "value": "{\"value\":\"ククリ（緑）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Kukri (Hot)",
+   {
+    "value": "{\"value\":\"ククリ（ホット）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Kukri (Skulls)",
+   {
+    "value": "{\"value\":\"ククリ（頭蓋骨）\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121024
+}

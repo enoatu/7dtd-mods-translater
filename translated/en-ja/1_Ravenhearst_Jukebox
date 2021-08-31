@@ -1,0 +1,77 @@
+{
+ "cache": [
+  [
+   "keyv:Jukebox Off (Use Remote on Jukebox to Select Songs)",
+   {
+    "value": "{\"value\":\"ジュークボックスオフ（ジュークボックスのリモートを使用して曲を選択）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A relic of days gone. Memories of malt shops and sock hops. If I had a Remote this would probably work.",
+   {
+    "value": "{\"value\":\"過ぎ去った日々の遺物。モルトショップとソックホップの思い出。私がリモコンを持っていれば、これはおそらくうまくいくでしょう。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Jukebox - 16 Tons",
+   {
+    "value": "{\"value\":\"ジュークボックス-16トン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Jukebox - Be My Baby",
+   {
+    "value": "{\"value\":\"ジュークボックス-ビー・マイ・ベイビー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Jukebox - Big Iron",
+   {
+    "value": "{\"value\":\"ジュークボックス-ビッグアイアン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Jukebox - Cant Help Falling In Love",
+   {
+    "value": "{\"value\":\"ジュークボックス-カントヘルプが恋に落ちる\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Jukebox - Earth Angel",
+   {
+    "value": "{\"value\":\"ジュークボックス-アースエンジェル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Jukebox - Glenn Miller",
+   {
+    "value": "{\"value\":\"ジュークボックス-グレンミラー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Jukebox - If Life Could Be A Dream",
+   {
+    "value": "{\"value\":\"ジュークボックス-人生が夢かもしれないなら\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Jukebox - My Girl",
+   {
+    "value": "{\"value\":\"ジュークボックス-マイガール\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Jukebox - Pennsylvania 65000",
+   {
+    "value": "{\"value\":\"ジュークボックス-ペンシルベニア65000\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Jukebox - Tequila",
+   {
+    "value": "{\"value\":\"ジュークボックス-テキーラ\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412120994
+}

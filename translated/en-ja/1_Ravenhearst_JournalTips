@@ -1,0 +1,413 @@
+{
+ "cache": [
+  [
+   "keyv:The microwave can be placed and used to heat canned food recipes. Canned food recipes offer slightly more benefits to them than if you eat them in singles so save those cans when you can. \\nBowls can be found in loot and are used with the canned foods.",
+   {
+    "value": "{\"value\":\"電子レンジを配置して、缶詰のレシピを加熱するために使用できます。缶詰のレシピは、シングルで食べる場合よりもわずかに多くの利点を提供するので、できる限りそれらの缶を保存してください。 \\\\nボウルは戦利品に含まれており、缶詰に使用されます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Microwave",
+   {
+    "value": "{\"value\":\"電子レンジ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The tanning rack is used to convert animal hides you get from animals into leather. It can also be useful in making survival foods such as jerky and trail mix.",
+   {
+    "value": "{\"value\":\"なめしラックは、動物から得た動物の皮を革に変換するために使用されます。また、ジャーキーやトレイルミックスなどのサバイバルフードの作成にも役立ちます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tanning Rack",
+   {
+    "value": "{\"value\":\"なめしラック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:An armor bench is crucial to welding metallic armor and making clothing.",
+   {
+    "value": "{\"value\":\"鎧のベンチは、金属製の鎧を溶接して衣服を作るために不可欠です。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Armor Bench",
+   {
+    "value": "{\"value\":\"アーマーベンチ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:All water sources have been contaminated. Even boiling no longer works. The water filtration unit is designed to remove all remaining pathogens from water so that you can drink reduced risk of contamination. \\n\\nYou can also use the water filtration unit to allow for safe planting of crops via use of a bucket of water that has been decontaminated. \\n\\nWith the proper knowledge eventually you will be able to purify water and drink safely with no risk of dysentery.",
+   {
+    "value": "{\"value\":\"すべての水源が汚染されています。沸騰すら機能しなくなります。水ろ過ユニットは、水から残っているすべての病原菌を除去するように設計されているため、汚染のリスクを減らして飲むことができます。 \\\\n\\\\n水ろ過ユニットを使用して、除染されたバケツの水を使用して作物を安全に植えることもできます。 \\\\n\\\\n適切な知識があれば、最終的には赤痢のリスクなしに水を浄化して安全に飲むことができるようになります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Purifying Water",
+   {
+    "value": "{\"value\":\"浄化水\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The artisan table is a dye making table where you can use paint to mix all new colors for use in clothing and tools and weapons.",
+   {
+    "value": "{\"value\":\"職人のテーブルは、衣類や道具、武器で使用するために、ペイントを使用してすべての新しい色を混ぜることができる染料製造テーブルです。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Dying Clothes",
+   {
+    "value": "{\"value\":\"死にかけている服\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The farming table is crucial to gardening and farm making. In it you can cultivate seeds from crops. You can also make compost using this table.",
+   {
+    "value": "{\"value\":\"ガーデニングや農作業には、農業用テーブルが欠かせません。その中であなたは作物から種を栽培することができます。この表を使って堆肥を作ることもできます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Farming Table",
+   {
+    "value": "{\"value\":\"農業テーブル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The personal craft station is your one stop shop for all your crafting needs. It can easily be picked up by destroying it and is not expensive to craft.",
+   {
+    "value": "{\"value\":\"パーソナルクラフトステーションは、すべてのクラフトニーズに対応するワンストップショップです。それはそれを破壊することによって簡単に拾うことができ、作るのに費用がかかりません。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Personal Craft Station",
+   {
+    "value": "{\"value\":\"パーソナルクラフトステーション\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The decorating table is where you can go crazy with inspiration and use RH exclusive blocks to decorate your home.",
+   {
+    "value": "{\"value\":\"デコレーションテーブルは、インスピレーションに夢中になり、RH専用ブロックを使用して家を飾ることができる場所です。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Decorating Table",
+   {
+    "value": "{\"value\":\"飾るテーブル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:An ammunition press is vital to making ammunition for your firearms. Without one you will need to survive off scavenged ammo. It can be used to disassemble ammo. Ammunition presses can be located in certain POIs.",
+   {
+    "value": "{\"value\":\"弾薬プレスは、銃器用の弾薬を作るために不可欠です。 1つがなければ、清掃された弾薬から生き残る必要があります。弾薬の分解に使用できます。弾薬プレスは特定のPOIに配置できます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Ammunition Press",
+   {
+    "value": "{\"value\":\"弾薬プレス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Now that you have found some bees you can put them to work in a beehive. \\n\\nCraft a beehive and use the bees to populate it. Over time the bees will produce honeycombs for you to turn into honey. \\n\\nYou can repeat this process as many times as you like by refilling the beehive with bees.",
+   {
+    "value": "{\"value\":\"いくつかのミツバチを見つけたので、それらをミツバチの巣箱で働かせることができます。 \\\\n\\\\nミツバチの巣箱を作り、ミツバチを使って養蜂箱に入れます。時間が経つにつれて、ミツバチはあなたが蜂蜜に変わるためのハニカムを生成します。 \\\\n\\\\n蜂の巣にミツバチを補充することで、このプロセスを何度でも繰り返すことができます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Producing Honey",
+   {
+    "value": "{\"value\":\"蜂蜜の生産\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Turds can be quite valuable as a resource in farming. When you use turds along with spoiled food and other ingredients you can create compost. Compost is used in Composters and will create fertilizer over time. \\nFertilizer is used as a second way to create farm plots. When your composter is ready you will receive various amounts of fertilizer and turds back. Using the fertilizer and composter you can create a renewable resource for your farm plots to grow your crops in. \\n\\nDon't forget that farm plots need to be within one block length of water in order to grow successfully.",
+   {
+    "value": "{\"value\":\"糞は農業の資源として非常に価値があります。腐った食べ物や他の材料と一緒に糞を使うと、堆肥を作ることができます。堆肥は堆肥に使用され、時間の経過とともに肥料を生成します。 \\\\n肥料は、農場の区画を作成する2番目の方法として使用されます。堆肥の準備ができたら、さまざまな量の肥料と糞を受け取ります。肥料と堆肥を使用すると、作物を栽培するために農場の区画に再生可能な資源を作成できます。\\\\n\\\\n正常に成長するには、農場の区画が水の1ブロックの長さ内にある必要があることを忘れないでください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Compost and Fertilizer",
+   {
+    "value": "{\"value\":\"堆肥と肥料\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:All spoilage times are for in your backpack. Toolbelt spoils fastest. Containers take longer. Blue Coolers are next, followed by Refrigerators. The Preservation Barrel has slowest spoilage time. \\n\\nAll spoilage times are for backpacks. Minutes are in world minutes, it is calculated using real world time. \\n\\nRaw Meat and Fish \\nSpoilage Time: 1 Piece every 60 minutes \\n\\nEggs and Cooked Dishes \\nSpoilage Time: 1 Piece every 90 minutes \\n\\nBread, Baked Goods \\nSpoilage Time: 1 piece every 120 minutes \\n\\nCrops and Fruit \\nSpoilage Time: 1 piece every 120 minutes \\n\\nCanned Food and Ingredients \\nNo Spoilage Time \\n\\nYou can loot cling wrap that you can use to seal raw meat and vegetables using a food processor. Sealed meat has no expiration time. Calculations are done at the time of opening a container. You may see multiple pieces expire at once.",
+   {
+    "value": "{\"value\":\"すべての腐敗時間はあなたのバックパックのためです。ツールベルトは最速で台無しになります。コンテナには時間がかかります。次はブルークーラー、次に冷蔵庫です。保存バレルの腐敗時間は最も遅いです。 \\\\n\\\\nすべての腐敗時間はバックパック用です。分は世界の分であり、実世界の時間を使用して計算されます。 \\\\n\\\\n生の肉と魚\\\\n腐敗時間：60分ごとに1個\\\\n\\\\n卵と調理済み料理\\\\n腐敗時間：90分ごとに1個\\\\n\\\\nパン、焼き菓子\\\\n腐敗時間：120分ごとに1個\\\\n\\\\n作物と果物\\\\n腐敗時間：120分ごとに1個\\\\n\\\\n缶詰の食品と材料\\\\n腐敗時間なし\\\\n\\\\nフードプロセッサーを使用して、生の肉や野菜を密封するために使用できるしがみつくラップを略奪することができます。密封された肉には有効期限はありません。計算はコンテナを開くときに行われます。一度に複数のピースが期限切れになる場合があります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Food Spoilage",
+   {
+    "value": "{\"value\":\"食品の腐敗\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:As you venture in the world you will notice many of the workstations you come across may be broken. Fear not because there is a way to fix them and restore their use. All stations have an upgrade kit that can be crafted. The materials to make them are usually similar to the station itself. Using a hammer and the appropriate kit you can take a broken station and make it function again.",
+   {
+    "value": "{\"value\":\"あなたが世界を冒険するとき、あなたはあなたが出くわすワークステーションの多くが壊れているかもしれないことに気付くでしょう。それらを修正して使用を回復する方法があるからといって恐れることはありません。すべてのステーションには、作成可能なアップグレードキットがあります。それらを作るための材料は通常、ステーション自体に似ています。ハンマーと適切なキットを使用して、壊れたステーションを取り、再び機能させることができます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Upgrading Broken Stations",
+   {
+    "value": "{\"value\":\"壊れたステーションのアップグレード\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gas is an essential resource in the apocalypse but it can be tough to get your hands on it. You will find empty gas cans in vehicles and auto shops. You can even craft them yourself. These empty gas cans can be taken to a working gas pump. There you will use 50 cans on it to initiate gas production. In a few hours you will be able to loot the gas pump and take the gas that was left behind home with you. \\n\\nYou may also produce gas by digging for shale in the desert.",
+   {
+    "value": "{\"value\":\"ガスは黙示録に欠かせない資源ですが、手に入れるのは難しいかもしれません。あなたは車や自動車店で空のガス缶を見つけるでしょう。自分で作ることもできます。これらの空のガス缶は、作動中のガスポンプに運ぶことができます。そこで、ガス生産を開始するために50缶を使用します。数時間で、ガスポンプを略奪し、家に残されたガスを持ち帰ることができます。 \\\\n\\\\n砂漠で頁岩を掘ってガスを生産することもできます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gas Production",
+   {
+    "value": "{\"value\":\"ガス生産\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You will notice that all items have a durability. This is a numbered range from 1-1000. The higher the durability the longer the item will last and the better the stats will be. You can raise the quality at which you craft these items by using the item and levelling the Action Skill associated with it. \\n\\nRepairing an item will cost you 100 points in durability unless you use a workbench to combine two items for repair. Doing this will combine both items durability numbers to create a new one. \\n\\nYou can lessen the point hit on Quality by raising your respective Action Skill. For every 20 levels of that skill you gain you minimize the point reduction on Quality by 10 points. \\n\\nAction Skills 19 and below = 100 point loss \\nAction Skills 20 = 90 point loss \\nAction Skills 30 = 80 point loss\\nAction Skills 40 = 70 point loss \\nAction Skills 50 = 60 point loss \\nAnd so on until you hit 100 for a 10 point loss \\n\\nPlease note that items that are under 11 Quality will break when you try to repair them and you must make another one.",
+   {
+    "value": "{\"value\":\"すべてのアイテムに耐久性があることに気付くでしょう。これは1から1000までの番号付きの範囲です。耐久性が高いほど、アイテムは長持ちし、統計は良くなります。アイテムを使用し、それに関連付けられているアクションスキルを平準化することで、これらのアイテムを作成する品質を上げることができます。 \\\\n\\\\nワークベンチを使用して2つのアイテムを組み合わせて修理しない限り、アイテムの修理には100ポイントの耐久性がかかります。これを行うと、両方のアイテムの耐久性の数値が組み合わされて、新しいアイテムが作成されます。 \\\\n\\\\nそれぞれのアクションスキルを上げることで、品質に当たるポイントを減らすことができます。そのスキルの20レベルごとに、品質のポイント低下を10ポイント最小限に抑えます。 \\\\n\\\\nアクションスキル19以下= 100ポイントの損失\\\\nアクションスキル20 = 90ポイントの損失\\\\nアクションスキル30 = 80ポイントの損失\\\\nアクションスキル40 = 70ポイントの損失\\\\nアクションスキル50 = 60ポイントの損失\\\\n10ポイントの損失で100を打つ\\\\n\\\\n品質が11未満のアイテムは、修理しようとすると壊れるので、別のアイテムを作成する必要があることに注意してください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Item Quality and Durability",
+   {
+    "value": "{\"value\":\"アイテムの品質と耐久性\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:With a research desk you can use the ink you have collected with the knowledge you have gained to learn new recipes and perk books. Very handy for filling in those missing gaps in your collection.",
+   {
+    "value": "{\"value\":\"リサーチデスクでは、得た知識で集めたインクを使って、新しいレシピや特典の本を学ぶことができます。コレクションの不足しているギャップを埋めるのに非常に便利です。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Research Desk",
+   {
+    "value": "{\"value\":\"リサーチデスク\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:With the car parts you have found around the world and the workbench you can assemble a workstation that will allow you to build any vehicle from the ground up.",
+   {
+    "value": "{\"value\":\"世界中で見つけた自動車部品とワークベンチを使用して、ワークステーションを組み立てることができます。これにより、あらゆる車両をゼロから構築できます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Mechanic Bench",
+   {
+    "value": "{\"value\":\"メカニックベンチ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The lab table you make from doing the Weird Science quest line will allow you to mix and concoct all sorts of special formulas and science-y type things.",
+   {
+    "value": "{\"value\":\"奇妙な科学のクエストラインを実行して作成したラボテーブルを使用すると、あらゆる種類の特別な数式や科学的なタイプのものを組み合わせて作成できます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Weird Science",
+   {
+    "value": "{\"value\":\"ときめきサイエンス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Here is a guide to where you can find specific ore in different biomes.\\n\\nIron - All biomes except desert \\n\\nNitrate - Snow \\n\\nCoal - Burnt Forest \\n\\nLead - Forest \\n\\nCopper and Zinc - Wasteland \\n\\nOil Shale - Desert",
+   {
+    "value": "{\"value\":\"さまざまなバイオームで特定の鉱石を見つけることができる場所のガイドは次のとおりです。\\\\n\\\\n鉄-砂漠を除くすべてのバイオーム\\\\n\\\\n硝酸塩-雪\\\\n\\\\n石炭-焦げた森\\\\n\\\\n鉛-森\\\\n\\\\n銅と亜鉛-荒れ地\\\\n\\\\nオイルシェール-砂漠\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Guide to Ores in Biomes",
+   {
+    "value": "{\"value\":\"バイオームの鉱石ガイド\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Here is a guide to elevators.\\n\\nChoose a floor number to travel to using the numpad. 999 will take you straight to the control floor without knowing its number, no power is required if its inside your landclaim.\\nFloor numbers are assigned from the bottom up.\\nTarget floor will be displayed in activation text, press e to travel to that floor.\\nIf you press R while the select floor text is showing you get the floor count at the bottom of the screen.\\nControl floor requires power.\\nFloors can be placed both above and bellow the control floor.\\nFloors can be added or removed at any time and can be placed before or after the control floor is placed. Floor numbers will automatically adjust when a floor is added or removed.\\nControl floors are limited to one per position, if one is alrealy in that positions elevator you wont be able to place one until the other is removed.\\nElevator will move up or down to the next floor when the floor it's at or heading for is removed.",
+   {
+    "value": "{\"value\":\"こちらがエレベーターのガイドです。\\\\n\\\\nテンキーを使用して移動する階数を選択してください。 999を使用すると、番号がわからなくてもコントロールフロアに直接移動できます。土地所有権の範囲内であれば、電力は必要ありません。\\\\nフロア番号は下から上に割り当てられます。\\\\n対象のフロアはアクティベーションテキストで表示されます。eを押すと、そこに移動します。フロア。\\\\n選択したフロアテキストが表示されているときにRを押すと、画面の下部にフロア数が表示されます。\\\\nコントロールフロアには電力が必要です。\\\\nフロアはコントロールフロアの上と下の両方に配置できます。\\\\nフロアを追加できます。またはいつでも取り外して、コントロールフロアを配置する前または後に配置できます。フロア番号は、フロアが追加または削除されると自動的に調整されます。\\\\nコントロールフロアは、位置ごとに1つに制限されます。一方がその位置にある場合、もう一方が削除されるまで、一方を配置することはできません。\\\\nエレベーターが上に移動するか、現在または向かっているフロアが削除されると、次のフロアに移動します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Guide to Elevators",
+   {
+    "value": "{\"value\":\"エレベーターガイド\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Press E to mount glider and the glider catches the wind so to speak and takes off.\\n\\nWhen airbourne C becomes tilt forward and spacebar is tiltback. Whilst airbourne you can let go of W and use the A and D controls (strafe) and mouse to steer down to earth or for sustaining longer flights you need to use the spacebar to tiltback and maintain height.\\n\\nWhen landing press E to dismount near desired landing position and then pickup the glider for your next adventure.\\n\\nIf you hit another building or perhaps a tree during descent the glider may stick and leave you stranded. I put the exit for the glider at the top for now. When exiting the glider and standing on top the glider it will slowly descend to the ground without you having to plunge to your death. So stay still and don't walk off.",
+   {
+    "value": "{\"value\":\"Eを押してグライダーを取り付けると、グライダーはいわば風を受けて離陸します。\\\\n\\\\nエアボーンCが前方に傾き、スペースバーが後方に傾いたとき。エアボーン中は、Wを放し、AおよびDコントロール（ストラフ）とマウスを使用して地球に向かって操縦するか、より長い飛行を維持するには、スペースバーを使用して傾斜して高さを維持する必要があります。\\\\n\\\\n着陸するときは、Eを押して目的の着陸位置の近くで降りてから、次の冒険のためにグライダーを持ち上げます。\\\\n\\\\n降下中に別の建物やおそらく木にぶつかると、グライダーがくっついて立ち往生する可能性があります。今のところ、グライダーの出口を一番上に置いています。グライダーを出てグライダーの上に立つと、急降下することなくゆっくりと地面に降りてきます。ですから、じっとしていると、立ち去らないでください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hang Gliders",
+   {
+    "value": "{\"value\":\"ハンググライダー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The wood cutter is a powerful tool that can efficiently chop you up sticks and split wood into planks.",
+   {
+    "value": "{\"value\":\"ウッドカッターは、棒を効率的に切り刻み、木材を板に分割できる強力なツールです。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Wood Cutter",
+   {
+    "value": "{\"value\":\"ウッドカッター\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You will notice that as you gain skills in Living Off The Land you will be able to use an Irrigation System on your crops. The Irrigation system is a series of connected pipes you can attach to a water source and run back to your planter boxes. Using irrigation water will NOT be consumed. Plants will check for irrigation pipes within 4 blocks.\\n\\nTo begin place an Irrigation Pump within 4 meters of a water source. Once the pump is full it will remain full. Next you will connect your pipes and joints and run them to your planter box. They can be underneath your boxes but all pipes MUST remain connected. They will fill every 60 minutes and water your crops. After the watering process the pipes will need to fill again and will be empty. This process will keep repeating.\\n\\nIrrigation does NOT consume any water. It only needs to be connected to a pump that is alongside a water source.",
+   {
+    "value": "{\"value\":\"Living Off The Landのスキルを習得すると、作物に灌漑システムを使用できるようになります。灌漑システムは、水源に取り付けてプランターボックスに戻すことができる一連の接続されたパイプです。灌漑用水の使用は消費されません。植物は4ブロック以内の灌漑パイプをチェックします。\\\\n\\\\n水源から4メートル以内に灌漑ポンプを設置し始めます。ポンプがいっぱいになると、ポンプはいっぱいのままになります。次に、パイプとジョイントを接続して、プランターボックスに接続します。それらはあなたの箱の下にあることができますが、すべてのパイプは接続されたままでなければなりません。彼らは60分ごとに満たされ、あなたの作物に水をまきます。散水プロセスの後、パイプは再び満たす必要があり、空になります。このプロセスは繰り返され続けます。\\\\n\\\\n灌漑は水を消費しません。水源の横にあるポンプに接続するだけで済みます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Irrigation System",
+   {
+    "value": "{\"value\":\"灌漑システム\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Boats MUST be placed on water, helps if you are standing in the shallows to place it. Works best if you have a level land mass, under about one block deep water.\\n\\nWhen the boat places properly, it will float evenly to the surface, if it goes slanty and sinks, pick it up and try again. Building a dock in the shallows is a great idea.\\n\\nIf you try to place them on land, they will sink! They are also finicky, as anything with water in this game, so there is a bit of use at your own risk, for FUN.\\n\\nControls\\n\\nOnce you get in the boat, pressing the Turbo key will propel you forward (not W, for now). Be aware using c and spacebar (gyro-like controls), they could cause you to sink, but may be necessary to even yourself out at times.",
+   {
+    "value": "{\"value\":\"ボートは水の上に置かなければなりません、あなたがそれを置くために浅瀬に立っているならば助けます。陸地が水平で、深海が約1ブロックある場合に最適です。\\\\n\\\\nボートが適切に配置されると、ボートは水面に均等に浮きます。傾斜して沈む場合は、持ち上げてもう一度やり直してください。浅瀬にドックを建てるのは素晴らしいアイデアです。\\\\n\\\\n陸上にドックを配置しようとすると、沈んでしまいます。また、このゲームの水と同じように気難しいので、FUNのために、自己責任で少し使用してください。\\\\n\\\\nコントロール\\\\n\\\\nボートに乗ったら、ターボキーを押すと前進します。 （今のところ、Wではありません）。 cとスペースバー（ジャイロのようなコントロール）の使用に注意してください。沈む可能性がありますが、時には自分自身をさえぎる必要があるかもしれません。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Boats and Rafts",
+   {
+    "value": "{\"value\":\"ボートといかだ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:High value scavenging sites like Tier 5 buildings are washed in radiation and will kill you if you try to enter them early on. Find Hazmat Suits in order to venture into them. You need all 5 pieces. These buildings house special military crates with special loot in them!",
+   {
+    "value": "{\"value\":\"Tier 5の建物のような価値の高い清掃サイトは放射線で洗い流され、早い段階で侵入しようとすると死にます。それらに挑戦するために化学防護服を見つけてください。 5つすべてが必要です。これらの建物には、特別な戦利品が入った特別な軍用木箱があります！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radiation",
+   {
+    "value": "{\"value\":\"放射線\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:When you harvest an animal like a Pig or Chcken you may receive a male or female baby. You'll use the male and female you get to craft a male or female and can then place them in an enclosure. They have a home block. Right now its hay bale. Place hay and surround them in a 4 high fence or wall or they will wander. Place a trough and craft animal feed. Fill the trough with feed. Pour water out in a hole for them to drink out of. They will poop. You can place a toilet to catch their poop. Eventually they will have babies and the cycle repeats.",
+   {
+    "value": "{\"value\":\"豚やチッケンのような動物を収穫すると、オスまたはメスの赤ちゃんを産むことがあります。入手したオスとメスを使用してオスまたはメスを作り、それらを囲いの中に置くことができます。彼らはホームブロックを持っています。今、その干し草の俵。干し草を置き、4つの高い柵または壁で囲みます。そうしないと、放浪します。トラフを置き、動物飼料を作ります。トラフに飼料を入れます。彼らが飲むために穴に水を注ぎなさい。彼らはうんちをします。あなたは彼らのうんちを捕まえるためにトイレを置くことができます。最終的には赤ちゃんが生まれ、このサイクルが繰り返されます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Animal Breeding",
+   {
+    "value": "{\"value\":\"動物の息\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Chopping up Tree Stumps will sometimes give you Honey Comb - Which in turn can be used with an empty Jar to make a jar of Honey which has a 5% cure of infection.",
+   {
+    "value": "{\"value\":\"木の切り株を切り刻むと、ハニーコームが得られることがあります。これを空のジャーと一緒に使用して、5％の感染症の治療法を持つハニーの瓶を作ることができます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Early Game Honey",
+   {
+    "value": "{\"value\":\"初期のゲームハニー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:If you notice there is a little small icon of a book  in the corner of every book and schematic - If the book is closed you need to read it if the book is open you have already read it.",
+   {
+    "value": "{\"value\":\"すべての本と回路図の隅に本の小さなアイコンがあることに気付いた場合-本が閉じている場合は、開いている場合はすでに読んでいるので、読む必要があります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Known Schematics",
+   {
+    "value": "{\"value\":\"既知の回路図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Forges, Workbenches, Chemistry Station and other Stations & Benches that are game generated – Can only be broken down for parts – you can NOT pick these items up, even if you place a land claim block – Also Trader Quests will reset the entire poi which include any and all stations or benches located with in the POI’s radius – So if you find a Working Workbench and someone resets this POI to do their Quest it may NO longer be a working Workbench.",
+   {
+    "value": "{\"value\":\"ゲームで生成されたフォージ、ワークベンチ、ケミストリーステーション、その他のステーションとベンチ–パーツごとにのみ分解できます–土地請求ブロックを配置しても、これらのアイテムを拾うことはできません–また、トレーダークエストはポイ全体をリセットします。 POIの半径内にあるすべてのステーションまたはベンチを含める–したがって、作業中のワークベンチを見つけ、誰かがこのPOIをリセットしてクエストを実行すると、作業中のワークベンチではなくなる可能性があります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Benches and Stations In The World",
+   {
+    "value": "{\"value\":\"世界のベンチとステーション\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Having a hard time finding paint? The dyes in your inventory can be scrapped for paint. Experiment with recipes to discover more hidden treasures.",
+   {
+    "value": "{\"value\":\"絵の具を見つけるのに苦労していますか？あなたの在庫の染料はペンキのために廃棄することができます。より多くの隠された宝物を発見するためにレシピを試してみてください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Finding Paint",
+   {
+    "value": "{\"value\":\"ペンキを見つける\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:One of the greatest tragedies of the fall was the inability to bury our loved ones in soil without them returning to life. After years of rumors a secret formula has been discovered that will allow your soil to keep the dead where they belong. Although it will not stop wanderers or blood moon events you can rest easy knowing freshly dead will not be appearing on your property when you use this soil.",
+   {
+    "value": "{\"value\":\"秋の最大の悲劇の1つは、愛する人を生き返らせずに土に埋めることができなかったことです。何年にもわたる噂の後、あなたの土壌が彼らが属する場所で死者を保つことを可能にする秘密の公式が発見されました。放浪者や血の月の出来事を止めることはできませんが、この土壌を使用すると、死んだばかりの人があなたの財産に現れないので安心できます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Safe Terrain",
+   {
+    "value": "{\"value\":\"安全な地形\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:If any item has a durability of less then 100 - If it is repaired it will break also any items that do not have a durability number on it i.e. Nail Guns if repaired will break.",
+   {
+    "value": "{\"value\":\"耐久性が100未満のアイテムがある場合-修理すると、耐久性番号が記載されていないアイテムも壊れます。つまり、修理した場合はネイルガンが壊れます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Breaking Your Stuff",
+   {
+    "value": "{\"value\":\"あなたのものを壊す\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You never really DIE in ANY version of 7 Days to Die - You have a  Near Death Experience - as the Crazy Jake Clan who is always watching you - carries you back to your bedroll (unconscious) you may or may not drop some things - back pack - tool bar - You will notice since you do not  DIE  - when you awake moments later on your bedroll - you will receive a  NEAR Death Penalty  and or the Broken Legs or Arms or Infection (that originally may have almost  killed you) are still there. - this is because you have not died - you did not loose everything you have - you did not have to choose a new character - you did not have to start all over. You did not have to wipe your server or start on a new one.",
+   {
+    "value": "{\"value\":\"7 Days toDieのどのバージョンでも実際に死ぬことはありません-臨​​死体験があります-常にあなたを監視しているクレイジージェイククランがあなたを寝袋に戻します（無意識）あなたはいくつかのものを落とすかもしれないし、落とさないかもしれません-戻るパック-ツールバー-死ぬことはないので気付くでしょう-寝袋の後で目覚めたとき-臨死体験を受け取るか、足の骨折や腕や感染症（元々はほとんど死んでいたかもしれません）はまだ残っていますそこの。 -これはあなたが死んでいないからです-あなたはあなたが持っているすべてを失いませんでした-あなたは新しいキャラクターを選ぶ必要はありませんでした-あなたは最初からやり直す必要はありませんでした。サーバーをワイプしたり、新しいサーバーで起動したりする必要はありませんでした。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Near Death and Rebirth",
+   {
+    "value": "{\"value\":\"死と再生の近く\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Use your fists or any tool to harvest crops.\\nAfter you have bought the required level in the 'Living Off The Land' perk or found a schematic you can craft seeds from harvested crops.\\nCraft Farm Plots and plant seeds on Farm Plots using the secondary action. Clean water gathered from buckets must be placed next to your farm plot in order for seeds to properly grow. Water will deplete over time so make sure to check your water consumption each day or your crop will die.\\n\\nIrrigation Pumps and Pipes are the most efficient way of farming as they do not deplete any water once set up. Check the irrigation journal entry for more information.\\n\\nIncrease your harvesting yield through buying more levels of the perk.",
+   {
+    "value": "{\"value\":\"拳または任意のツールを使用して作物を収穫します。\\\\n「LivingOffThe Land」特典で必要なレベルを購入するか、収穫した作物から種子を作成できる回路図を見つけたら、\\\\n農場の区画を作成して農場の区画に種子を植えます。二次アクション。種子が適切に成長するためには、バケツから集められたきれいな水を農場の区画の隣に置く必要があります。水は時間の経過とともに枯渇するため、毎日水の消費量を確認してください。そうしないと、作物が枯れてしまいます。\\\\n\\\\n一度設置すると水が枯渇しないため、灌漑ポンプとパイプが最も効率的な農業方法です。詳細については、灌漑ジャーナルのエントリを確認してください。\\\\n\\\\nより多くのレベルの特典を購入して、収穫量を増やしてください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Farming",
+   {
+    "value": "{\"value\":\"農業\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121005
+}

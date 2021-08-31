@@ -1,0 +1,167 @@
+{
+ "cache": [
+  [
+   "keyv:Old Radio Off (Use Remote on Radio to Switch Stations)",
+   {
+    "value": "{\"value\":\"古いラジオをオフにする（ラジオのリモートを使用してステーションを切り替える）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Just static but you keep it on just in case. If I had a Remote this would probably work.",
+   {
+    "value": "{\"value\":\"ただ静的ですが、念のためにそれを維持します。私がリモコンを持っていれば、これはおそらくうまくいくでしょう。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radio - End of the World",
+   {
+    "value": "{\"value\":\"ラジオ-世界の終わり\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radio - Smoke Gets in Your Eyes",
+   {
+    "value": "{\"value\":\"ラジオ-煙があなたの目に入る\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radio - Come and Go With Me",
+   {
+    "value": "{\"value\":\"ラジオ-Comeand Go With Me\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radio - Runaway",
+   {
+    "value": "{\"value\":\"ラジオ-暴走\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radio - I Wonder Why",
+   {
+    "value": "{\"value\":\"ラジオ-なぜだろうか\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radio - In The Still of the Night",
+   {
+    "value": "{\"value\":\"ラジオ-夜の静けさの中\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radio - Runaround Sue",
+   {
+    "value": "{\"value\":\"ラジオ-回り道スー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radio - News Broadcast",
+   {
+    "value": "{\"value\":\"ラジオ-ニュース放送\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radio - Twisting the Night Away",
+   {
+    "value": "{\"value\":\"ラジオ-ツイストで踊る\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radio - Mr Sandman",
+   {
+    "value": "{\"value\":\"ラジオ-サンドマン氏\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radio - Monster Mash",
+   {
+    "value": "{\"value\":\"ラジオ-モンスターマッシュ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radio - Candyman",
+   {
+    "value": "{\"value\":\"ラジオ-キャンディマン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radio - Jeepers Creepers",
+   {
+    "value": "{\"value\":\"ラジオ-ジーパーズクリーパーズ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radio - Country Roads",
+   {
+    "value": "{\"value\":\"ラジオ-田舎道\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radio - Partytime",
+   {
+    "value": "{\"value\":\"ラジオ-パーティータイム\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radio - Burn the Flames",
+   {
+    "value": "{\"value\":\"ラジオ-炎を燃やす\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radio - Cry Little Sister",
+   {
+    "value": "{\"value\":\"ラジオ-クライリトルシスター\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radio - Tonights the Night",
+   {
+    "value": "{\"value\":\"ラジオ-今夜の夜\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radio - Fortunate Son",
+   {
+    "value": "{\"value\":\"ラジオ-幸運な息子\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radio - Run Through the Jungle",
+   {
+    "value": "{\"value\":\"ラジオ-ジャングルを越えて\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radio - Black Betty",
+   {
+    "value": "{\"value\":\"ラジオ-ブラックベティ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radio - Born To Be Wild",
+   {
+    "value": "{\"value\":\"ラジオ-ワイルドになるために生まれた\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radio - 7 Days to Die",
+   {
+    "value": "{\"value\":\"ラジオ-死ぬまでの7日間\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radio - Surfin Bird",
+   {
+    "value": "{\"value\":\"ラジオ-サーフィンバード\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radio - Green Grass and High Tides",
+   {
+    "value": "{\"value\":\"ラジオ-グリーングラスとハイタイズ\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121075
+}

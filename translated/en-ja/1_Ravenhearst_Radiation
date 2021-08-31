@@ -1,0 +1,53 @@
+{
+ "cache": [
+  [
+   "keyv:Hazmat Boots (Armored)",
+   {
+    "value": "{\"value\":\"危険物ブーツ（装甲）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hazmat Pants (Armored)",
+   {
+    "value": "{\"value\":\"危険物パンツ（装甲）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hazmat Jacket (Armored)",
+   {
+    "value": "{\"value\":\"危険物ジャケット（装甲）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hazmat Gloves (Armored)",
+   {
+    "value": "{\"value\":\"Hazmat Gloves（装甲）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hazmat Mask (Armored)",
+   {
+    "value": "{\"value\":\"危険物マスク（装甲）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This reinforced hazmat piece not only protects from green radiation smoke but it provides some protection from zombies as well.",
+   {
+    "value": "{\"value\":\"この強化された危険物は、緑色の放射煙から保護するだけでなく、ゾンビからもある程度保護します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hazmat Suit Recipe",
+   {
+    "value": "{\"value\":\"化学防護服のレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Armored Hazmat Suit Recipe",
+   {
+    "value": "{\"value\":\"装甲化学防護服のレシピ\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121070
+}

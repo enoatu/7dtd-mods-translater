@@ -1,0 +1,479 @@
+{
+ "cache": [
+  [
+   "keyv:Cooking is not your thing but you know some basics. Unlocks basic recipes such as bacon and eggs, boiled and grilled meats and fish, baked potatoes, cornbread, teas and coffee. Cook 10% faster.",
+   {
+    "value": "{\"value\":\"料理はあなたのものではありませんが、あなたはいくつかの基本を知っています。ベーコンと卵、ゆで卵と焼き肉と魚、ベイクドポテト、コーンブレッド、紅茶、コーヒーなどの基本的なレシピのロックを解除します。 10％速く調理します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Just like grandma used to make, tasty hearty meals that fill you up for days. Craft steak and potatoes, prepared sushi, fish soup, meat stew, vegetable stew, blueberry pie and several pumpkin dishes. Cook 20% faster.",
+   {
+    "value": "{\"value\":\"おばあちゃんが作ったように、何日もあなたを満たしてくれるおいしいボリュームたっぷりの食事。クラフトステーキとポテト、調理済みの寿司、魚のスープ、肉のシチュー、野菜のシチュー、ブルーベリーパイ、いくつかのカボチャ料理。 20％速く調理します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cook for an army by making Gumbo Stew, Shepards Pie, Spaghetti and Tuna Gravy on Toast. Ferment vinegar and make pickled fish. Cook 40% faster. Use 20% less of a recipe's main ingredients.",
+   {
+    "value": "{\"value\":\"トーストにガンボシチュー、シェパーズパイ、スパゲッティ、マグロのグレービーソースを作って軍隊のために調理します。酢を発酵させ、漬物を作ります。 40％速く調理します。レシピの主な材料を20％少なく使用します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grandpa's ass kicking recipes.\\nLearn grandpa's secret recipes that boost stats and attributes! Make a mean fish-and-chips dish. Cook 50% faster.",
+   {
+    "value": "{\"value\":\"おじいちゃんのお尻を蹴るレシピ。\\\\n統計と属性を高めるおじいちゃんの秘密のレシピを学びましょう！意地悪なフィッシュアンドチップス料理を作りましょう。 50％速く調理します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fish Tacos [ccba8b](Canned)[-]",
+   {
+    "value": "{\"value\":\"魚のタコス[ccba8b]（缶詰）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fish Tacos [ccba8b](Canned)[-] Recipe",
+   {
+    "value": "{\"value\":\"魚のタコス[ccba8b]（缶詰）[-]レシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fishing Spear",
+   {
+    "value": "{\"value\":\"釣り槍\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This fishing spear is crude, but will get the job done.  Bait with a Worm and then Right-click on natural water to fish.",
+   {
+    "value": "{\"value\":\"この釣り槍は粗雑ですが、仕事を成し遂げるでしょう。ワームで餌をとり、天然水を右クリックして釣ります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:FISHING SPEAR FULL -- unused now",
+   {
+    "value": "{\"value\":\"FISHING SPEARFULL-現在は使用されていません\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You caught something!  Right-click the ground to place it into a block and take a look (destroy the block once you place it).",
+   {
+    "value": "{\"value\":\"あなたは何かを捕まえました！地面を右クリックしてブロックに配置し、確認します（配置したらブロックを破棄します）。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fishing Rod",
+   {
+    "value": "{\"value\":\"釣り竿\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This fishing rod is a long, flexible pole used to catch fish.  Bait with a Worm to use it in water.",
+   {
+    "value": "{\"value\":\"この釣り竿は、魚を捕まえるために使用される長くて柔軟なポールです。ワームで餌をつけて水中で使用します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This fishing rod is a long, flexible pole used to catch fish.  Right-click on natural water to fish.",
+   {
+    "value": "{\"value\":\"この釣り竿は、魚を捕まえるために使用される長くて柔軟なポールです。天然水を右クリックして釣ります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This fine fishing rod is a long, flexible pole used to catch lots of fish.  Bait with a Worm to use it in water.",
+   {
+    "value": "{\"value\":\"この細い釣り竿は、たくさんの魚を捕まえるために使用される長くて柔軟なポールです。ワームで餌をつけて水中で使用します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This fine fishing rod is a long, flexible pole used to catch lots of fish.  Right-click on natural water to fish.",
+   {
+    "value": "{\"value\":\"この細い釣り竿は、たくさんの魚を捕まえるために使用される長くて柔軟なポールです。天然水を右クリックして釣ります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fine Fishing Rod",
+   {
+    "value": "{\"value\":\"ファインフィッシングロッド\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Raw Fish",
+   {
+    "value": "{\"value\":\"生の魚\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fish can be eaten raw or cut into prepared sushi, but is better when cooked at campfire or pickled in vinegar.",
+   {
+    "value": "{\"value\":\"魚は生で食べることも、調理済みの寿司に切ることもできますが、キャンプファイヤーで調理したり、酢で漬けたりした方が良いでしょう。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Prawn",
+   {
+    "value": "{\"value\":\"エビ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Prawn are large, meaty shrimp found in freshwater and can be eaten raw but are better when cooked at a campfire.",
+   {
+    "value": "{\"value\":\"エビは淡水で見られる大きくて肉質のエビで、生で食べることができますが、キャンプファイヤーで調理した方が良いです。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Rotten Fish",
+   {
+    "value": "{\"value\":\"腐った魚\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:It's disgusting, but you can use it in compost at least.",
+   {
+    "value": "{\"value\":\"嫌ですが、少なくとも堆肥には使えます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grilled Fish",
+   {
+    "value": "{\"value\":\"焼き魚\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tasty grilled fish, mmmm!",
+   {
+    "value": "{\"value\":\"美味しい焼き魚、うーん！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Boiled Fish",
+   {
+    "value": "{\"value\":\"煮魚\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Palatable boiled fish.  It's not great, but it's not horrible either.",
+   {
+    "value": "{\"value\":\"おいしい煮魚。それは素晴らしいことではありませんが、それも恐ろしいことではありません。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Charred Fish",
+   {
+    "value": "{\"value\":\"焦げた魚\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Not-so-tasty charred fish; it will do, I guess.",
+   {
+    "value": "{\"value\":\"あまり美味しくない焦げた魚。うまくいくと思います。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Prepared Sushi",
+   {
+    "value": "{\"value\":\"準備された寿司\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:There's some chance to get sick from raw sushi, but with careful preparation the chances are significantly lower.",
+   {
+    "value": "{\"value\":\"生寿司で病気になる可能性はありますが、注意深く準備すれば、その可能性は大幅に低くなります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Charred Prawns",
+   {
+    "value": "{\"value\":\"焦げたエビ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Charred prawns.  You did your best, but they still burned a bit.",
+   {
+    "value": "{\"value\":\"焦げたエビ。あなたは最善を尽くしましたが、それでも彼らは少し燃えました。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Boiled Prawns",
+   {
+    "value": "{\"value\":\"茹でたエビ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Boiled prawns.  It's not great, but it's not horrible either.",
+   {
+    "value": "{\"value\":\"茹でたエビ。それは素晴らしいことではありませんが、それも恐ろしいことではありません。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grilled Prawns",
+   {
+    "value": "{\"value\":\"エビのグリル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tasty grilled prawns, mmmm!",
+   {
+    "value": "{\"value\":\"美味しい海老のグリル、うーん！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Vinegar",
+   {
+    "value": "{\"value\":\"お酢\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This vinegar is ideal for serving with fish and chips or even pickling fish.",
+   {
+    "value": "{\"value\":\"この酢は、フィッシュアンドチップスや魚のピクルスと一緒に出すのに理想的です。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fish Tacos [a0ff94](Fresh)[-]",
+   {
+    "value": "{\"value\":\"魚のタコス[a0ff94]（フレッシュ）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fresh fish tacos are a great meal, delicious and nutritious!",
+   {
+    "value": "{\"value\":\"新鮮な魚のタコスは素晴らしい食事で、美味しくて栄養価が高いです！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Surf and Turf",
+   {
+    "value": "{\"value\":\"魚介類とステーキのコース料理\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A bit of red meat and seafood pair very well together.",
+   {
+    "value": "{\"value\":\"少しの赤身の肉とシーフードはとてもよく合います。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pickled Fish",
+   {
+    "value": "{\"value\":\"魚のピクルス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Preserved and seasoned with vinegar, this makes for a terrific meal.",
+   {
+    "value": "{\"value\":\"保存して酢で味付けした、これは素晴らしい食事になります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fish Soup",
+   {
+    "value": "{\"value\":\"魚のスープ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Delectable fish soup, mmmm!",
+   {
+    "value": "{\"value\":\"おいしい魚のスープ、うーん！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fish and Chips",
+   {
+    "value": "{\"value\":\"フィッシュアンドチップス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Some fried fish and potatoes served with vinegar.  Very nice!",
+   {
+    "value": "{\"value\":\"魚のフライとジャガイモに酢を添えたものもあります。非常に素晴らしい！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fish Trap Schematic",
+   {
+    "value": "{\"value\":\"フィッシュトラップの概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fishing Rod Schematic",
+   {
+    "value": "{\"value\":\"釣り竿の概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fine Fishing Rod Schematic",
+   {
+    "value": "{\"value\":\"ファインフィッシングロッドの概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Vinegar Recipe",
+   {
+    "value": "{\"value\":\"酢のレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fish Tacos [a0ff94](Fresh)[-] Recipe",
+   {
+    "value": "{\"value\":\"魚のタコス[a0ff94]（フレッシュ）[-]レシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fish Soup Recipe",
+   {
+    "value": "{\"value\":\"魚のスープのレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pickled Fish Recipe",
+   {
+    "value": "{\"value\":\"魚のピクルスレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fish and Chips Recipe",
+   {
+    "value": "{\"value\":\"フィッシュアンドチップスのレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Surf and Turf Recipe",
+   {
+    "value": "{\"value\":\"サーフ＆ターフレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fish Trap",
+   {
+    "value": "{\"value\":\"フィッシュトラップ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Right-click to place near water. Fill the placed trap with worms to begin the catching process. You need to be standing in natural water and place the trap on the shore (not over the water).  Will occasionally trap fish and other debris.",
+   {
+    "value": "{\"value\":\"右クリックして水の近くに配置します。配置されたトラップをワームで満たして、キャッチプロセスを開始します。あなたは自然の水に立って、（水の上ではなく）岸に罠を置く必要があります。時々魚や他の破片をトラップします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fish Cache",
+   {
+    "value": "{\"value\":\"フィッシュキャッシュ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Right-click to place anywhere.  Destroy the placed cache to discover what was caught!",
+   {
+    "value": "{\"value\":\"右クリックしてどこにでも配置できます。配置されたキャッシュを破棄して、何がキャッチされたかを発見してください！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fish Trap (Empty)",
+   {
+    "value": "{\"value\":\"フィッシュトラップ（空）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires 12 Worms",
+   {
+    "value": "{\"value\":\"12のワームが必要\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fish Trap (Catching)",
+   {
+    "value": "{\"value\":\"フィッシュトラップ（キャッチ）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The Trap is Collecting",
+   {
+    "value": "{\"value\":\"罠は集めている\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fish Trap (Caught)",
+   {
+    "value": "{\"value\":\"フィッシュトラップ（キャッチ）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:There Are Fish In The Trap",
+   {
+    "value": "{\"value\":\"おさかなはあみに魚がいる\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[94f7e5]Fishing[-]",
+   {
+    "value": "{\"value\":\"[94f7e5]釣り[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You can fish as well as place fishing traps near the water's edge.",
+   {
+    "value": "{\"value\":\"釣りをしたり、水際近くに釣り罠を設置したりできます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[94f7e5]Check Spear Quickly![-]",
+   {
+    "value": "{\"value\":\"[94f7e5]スピアをすばやくチェックしてください！[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You may have caught something with your spear.  Right-click with your spear equipped to investigate.",
+   {
+    "value": "{\"value\":\"槍で何かを捕まえたかもしれません。槍を装備した状態で右クリックして調査します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You may have caught something with your spear.",
+   {
+    "value": "{\"value\":\"槍で何かを捕まえたかもしれません。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv: ",
+   {
+    "value": "{\"value\":\" \",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[94f7e5]Check Rod Quickly![-]",
+   {
+    "value": "{\"value\":\"[94f7e5]ロッドをすばやくチェックしてください！[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You may have caught something with your fishing rod.  Right-click with your fishing rod equipped to investigate.",
+   {
+    "value": "{\"value\":\"釣り竿で何かを捕まえたかもしれません。釣り竿を装備した状態で右クリックして調査します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You may have caught something with your fishing rod.",
+   {
+    "value": "{\"value\":\"釣り竿で何かを捕まえたかもしれません。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fishing Pond",
+   {
+    "value": "{\"value\":\"釣り堀\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Nothing beats a nice quiet afternoon by the pond. Beers not included. Standing in this should allow you to fish.",
+   {
+    "value": "{\"value\":\"池のそばの静かな午後に勝るものはありません。ビールは含まれていません。これに立つと釣りができるはずです。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Junk Item (Discard)",
+   {
+    "value": "{\"value\":\"ジャンクアイテム（廃棄）\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121307
+}

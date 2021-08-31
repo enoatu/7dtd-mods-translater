@@ -1,0 +1,893 @@
+{
+ "cache": [
+  [
+   "keyv:Blue Neon Letters",
+   {
+    "value": "{\"value\":\"ブルーネオンレター\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:White Neon Letters",
+   {
+    "value": "{\"value\":\"ホワイトネオンレター\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Yellow Neon Letters",
+   {
+    "value": "{\"value\":\"黄色のネオンレター\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pink Neon Letters",
+   {
+    "value": "{\"value\":\"ピンクのネオンレター\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Blue 0",
+   {
+    "value": "{\"value\":\"ネオンブルー0\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Blue 1",
+   {
+    "value": "{\"value\":\"ネオンブルー1\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Blue 2",
+   {
+    "value": "{\"value\":\"ネオンブルー2\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Blue 3",
+   {
+    "value": "{\"value\":\"ネオンブルー3\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Blue 4",
+   {
+    "value": "{\"value\":\"ネオンブルー4\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Blue 5",
+   {
+    "value": "{\"value\":\"ネオンブルー5\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Blue 6",
+   {
+    "value": "{\"value\":\"ネオンブルー6\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Blue 7",
+   {
+    "value": "{\"value\":\"ネオンブルー7\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Blue 8",
+   {
+    "value": "{\"value\":\"ネオンブルー8\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Blue 9",
+   {
+    "value": "{\"value\":\"ネオンブルー9\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Blue A",
+   {
+    "value": "{\"value\":\"ネオンブルーA\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Blue B",
+   {
+    "value": "{\"value\":\"ネオンブルーB\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Blue C",
+   {
+    "value": "{\"value\":\"ネオンブルーC\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Blue D",
+   {
+    "value": "{\"value\":\"ネオンブルーD\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Blue E",
+   {
+    "value": "{\"value\":\"ネオンブルーE\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Blue F",
+   {
+    "value": "{\"value\":\"ネオンブルーF\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Blue G",
+   {
+    "value": "{\"value\":\"ネオンブルーG\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Blue H",
+   {
+    "value": "{\"value\":\"ネオンブルーH\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Blue I",
+   {
+    "value": "{\"value\":\"ネオンブルーI\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Blue J",
+   {
+    "value": "{\"value\":\"ネオンブルーJ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Blue K",
+   {
+    "value": "{\"value\":\"ネオンブルーK\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Blue L",
+   {
+    "value": "{\"value\":\"ネオンブルーL\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Blue M",
+   {
+    "value": "{\"value\":\"ネオンブルーM\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Blue N",
+   {
+    "value": "{\"value\":\"ネオンブルーN\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Blue O",
+   {
+    "value": "{\"value\":\"ネオンブルーO\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Blue P",
+   {
+    "value": "{\"value\":\"ネオンブルーP\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Blue Q",
+   {
+    "value": "{\"value\":\"ネオンブルーQ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Blue R",
+   {
+    "value": "{\"value\":\"ネオンブルーR\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Blue S",
+   {
+    "value": "{\"value\":\"ネオンブルーS\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Blue T",
+   {
+    "value": "{\"value\":\"ネオンブルーT\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Blue U",
+   {
+    "value": "{\"value\":\"ネオンブルーU\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Blue V",
+   {
+    "value": "{\"value\":\"ネオンブルーV\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Blue W",
+   {
+    "value": "{\"value\":\"ネオンブルーW\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Blue X",
+   {
+    "value": "{\"value\":\"ネオンブルーX\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Blue Y",
+   {
+    "value": "{\"value\":\"ネオンブルーY\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Blue Z",
+   {
+    "value": "{\"value\":\"ネオンブルーZ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon White 0",
+   {
+    "value": "{\"value\":\"ネオンホワイト0\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon White 1",
+   {
+    "value": "{\"value\":\"ネオンホワイト1\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon White 2",
+   {
+    "value": "{\"value\":\"ネオンホワイト2\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon White 3",
+   {
+    "value": "{\"value\":\"ネオンホワイト3\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon White 4",
+   {
+    "value": "{\"value\":\"ネオンホワイト4\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon White 5",
+   {
+    "value": "{\"value\":\"ネオンホワイト5\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon White 6",
+   {
+    "value": "{\"value\":\"ネオンホワイト6\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon White 7",
+   {
+    "value": "{\"value\":\"ネオンホワイト7\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon White 8",
+   {
+    "value": "{\"value\":\"ネオンホワイト8\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon White 9",
+   {
+    "value": "{\"value\":\"ネオンホワイト9\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon White A",
+   {
+    "value": "{\"value\":\"ネオンホワイトA\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon White B",
+   {
+    "value": "{\"value\":\"ネオンホワイトB\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon White C",
+   {
+    "value": "{\"value\":\"ネオンホワイトC\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon White D",
+   {
+    "value": "{\"value\":\"ネオンホワイトD\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon White E",
+   {
+    "value": "{\"value\":\"ネオンホワイトE\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon White F",
+   {
+    "value": "{\"value\":\"ネオンホワイトF\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon White G",
+   {
+    "value": "{\"value\":\"ネオンホワイトG\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon White H",
+   {
+    "value": "{\"value\":\"ネオンホワイトH\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon White I",
+   {
+    "value": "{\"value\":\"ネオンホワイトI\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon White J",
+   {
+    "value": "{\"value\":\"ネオンホワイトJ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon White K",
+   {
+    "value": "{\"value\":\"ネオンホワイトK\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon White L",
+   {
+    "value": "{\"value\":\"ネオンホワイトL\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon White M",
+   {
+    "value": "{\"value\":\"ネオンホワイトM\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon White N",
+   {
+    "value": "{\"value\":\"ネオンホワイトN\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon White O",
+   {
+    "value": "{\"value\":\"ネオンホワイトO\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon White P",
+   {
+    "value": "{\"value\":\"ネオンホワイトP\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon White Q",
+   {
+    "value": "{\"value\":\"ネオンホワイトQ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon White R",
+   {
+    "value": "{\"value\":\"ネオンホワイトR\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon White S",
+   {
+    "value": "{\"value\":\"ネオンホワイトS\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon White T",
+   {
+    "value": "{\"value\":\"ネオンホワイトT\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon White U",
+   {
+    "value": "{\"value\":\"ネオンホワイトU\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon White V",
+   {
+    "value": "{\"value\":\"ネオンホワイトV\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon White W",
+   {
+    "value": "{\"value\":\"ネオンホワイトW\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon White X",
+   {
+    "value": "{\"value\":\"ネオンホワイトX\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon White Y",
+   {
+    "value": "{\"value\":\"ネオンホワイトY\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon White Z",
+   {
+    "value": "{\"value\":\"ネオンホワイトZ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Yellow 0",
+   {
+    "value": "{\"value\":\"ネオンイエロー0\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Yellow 1",
+   {
+    "value": "{\"value\":\"ネオンイエロー1\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Yellow 2",
+   {
+    "value": "{\"value\":\"ネオンイエロー2\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Yellow 3",
+   {
+    "value": "{\"value\":\"ネオンイエロー3\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Yellow 4",
+   {
+    "value": "{\"value\":\"ネオンイエロー4\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Yellow 5",
+   {
+    "value": "{\"value\":\"ネオンイエロー5\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Yellow 6",
+   {
+    "value": "{\"value\":\"ネオンイエロー6\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Yellow 7",
+   {
+    "value": "{\"value\":\"ネオンイエロー7\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Yellow 8",
+   {
+    "value": "{\"value\":\"ネオンイエロー8\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Yellow 9",
+   {
+    "value": "{\"value\":\"ネオンイエロー9\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Yellow A",
+   {
+    "value": "{\"value\":\"ネオンイエローA\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Yellow B",
+   {
+    "value": "{\"value\":\"ネオンイエローB\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Yellow C",
+   {
+    "value": "{\"value\":\"ネオンイエローC\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Yellow D",
+   {
+    "value": "{\"value\":\"ネオンイエローD\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Yellow E",
+   {
+    "value": "{\"value\":\"ネオンイエローE\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Yellow F",
+   {
+    "value": "{\"value\":\"ネオンイエローF\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Yellow G",
+   {
+    "value": "{\"value\":\"ネオンイエローG\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Yellow H",
+   {
+    "value": "{\"value\":\"ネオンイエローH\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Yellow I",
+   {
+    "value": "{\"value\":\"ネオンイエローI\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Yellow J",
+   {
+    "value": "{\"value\":\"ネオンイエローJ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Yellow K",
+   {
+    "value": "{\"value\":\"ネオンイエローK\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Yellow L",
+   {
+    "value": "{\"value\":\"ネオンイエローL\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Yellow M",
+   {
+    "value": "{\"value\":\"ネオンイエローM\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Yellow N",
+   {
+    "value": "{\"value\":\"ネオンイエローN\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Yellow O",
+   {
+    "value": "{\"value\":\"ネオンイエローO\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Yellow P",
+   {
+    "value": "{\"value\":\"ネオンイエローP\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Yellow Q",
+   {
+    "value": "{\"value\":\"ネオンイエローQ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Yellow R",
+   {
+    "value": "{\"value\":\"ネオンイエローR\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Yellow S",
+   {
+    "value": "{\"value\":\"ネオンイエローS\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Yellow T",
+   {
+    "value": "{\"value\":\"ネオンイエローT\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Yellow U",
+   {
+    "value": "{\"value\":\"ネオンイエローU\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Yellow V",
+   {
+    "value": "{\"value\":\"ネオンイエローV\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Yellow W",
+   {
+    "value": "{\"value\":\"ネオンイエローW\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Yellow X",
+   {
+    "value": "{\"value\":\"ネオンイエローX\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Yellow Y",
+   {
+    "value": "{\"value\":\"ネオンイエローY\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Yellow Z",
+   {
+    "value": "{\"value\":\"ネオンイエローZ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Pink 0",
+   {
+    "value": "{\"value\":\"ネオンピンク0\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Pink 1",
+   {
+    "value": "{\"value\":\"ネオンピンク1\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Pink 2",
+   {
+    "value": "{\"value\":\"ネオンピンク2\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Pink 3",
+   {
+    "value": "{\"value\":\"ネオンピンク3\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Pink 4",
+   {
+    "value": "{\"value\":\"ネオンピンク4\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Pink 5",
+   {
+    "value": "{\"value\":\"ネオンピンク5\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Pink 6",
+   {
+    "value": "{\"value\":\"ネオンピンク6\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Pink 7",
+   {
+    "value": "{\"value\":\"ネオンピンク7\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Pink 8",
+   {
+    "value": "{\"value\":\"ネオンピンク8\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Pink 9",
+   {
+    "value": "{\"value\":\"ネオンピンク9\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Pink A",
+   {
+    "value": "{\"value\":\"ネオンピンクA\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Pink B",
+   {
+    "value": "{\"value\":\"ネオンピンクB\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Pink C",
+   {
+    "value": "{\"value\":\"ネオンピンクC\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Pink D",
+   {
+    "value": "{\"value\":\"ネオンピンクD\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Pink E",
+   {
+    "value": "{\"value\":\"ネオンピンクE\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Pink F",
+   {
+    "value": "{\"value\":\"ネオンピンクF\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Pink G",
+   {
+    "value": "{\"value\":\"ネオンピンクG\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Pink H",
+   {
+    "value": "{\"value\":\"ネオンピンクH\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Pink I",
+   {
+    "value": "{\"value\":\"ネオンピンクI\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Pink J",
+   {
+    "value": "{\"value\":\"ネオンピンクJ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Pink K",
+   {
+    "value": "{\"value\":\"ネオンピンクK\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Pink L",
+   {
+    "value": "{\"value\":\"ネオンピンクL\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Pink M",
+   {
+    "value": "{\"value\":\"ネオンピンクM\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Pink N",
+   {
+    "value": "{\"value\":\"ネオンピンクN\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Pink O",
+   {
+    "value": "{\"value\":\"ネオンピンクO\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Pink P",
+   {
+    "value": "{\"value\":\"ネオンピンクP\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Pink Q",
+   {
+    "value": "{\"value\":\"ネオンピンクQ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Pink R",
+   {
+    "value": "{\"value\":\"ネオンピンクR\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Pink S",
+   {
+    "value": "{\"value\":\"ネオンピンクS\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Pink T",
+   {
+    "value": "{\"value\":\"ネオンピンクT\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Pink U",
+   {
+    "value": "{\"value\":\"ネオンピンクU\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Pink V",
+   {
+    "value": "{\"value\":\"ネオンピンクV\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Pink W",
+   {
+    "value": "{\"value\":\"ネオンピンクW\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Pink X",
+   {
+    "value": "{\"value\":\"ネオンピンクX\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Pink Y",
+   {
+    "value": "{\"value\":\"ネオンピンクY\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Neon Pink Z",
+   {
+    "value": "{\"value\":\"ネオンピンクZ\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121244
+}

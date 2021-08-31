@@ -1,0 +1,149 @@
+{
+ "cache": [
+  [
+   "keyv:Cow Helmet Mod",
+   {
+    "value": "{\"value\":\"牛のヘルメットMod\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Increases Strength, Damage resistance, Cold and Heat resistance, Fire and Electric Shock resistance, Fortitude, and Agility. Can be found in hardened chests as a lootable item and installed in the armor headware paint slot. This helmet mod is visible to other players.",
+   {
+    "value": "{\"value\":\"強度、耐損傷性、耐寒性と耐熱性、耐火性と感電性、耐久性、敏捷性を向上させます。硬化したチェストに略奪可能なアイテムとしてあり、鎧のヘッドウェアのペイントスロットに取り付けられます。このヘルメットモッドは他のプレイヤーに表示されます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pumpkin Hat Mod",
+   {
+    "value": "{\"value\":\"カボチャの帽子Mod\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Reduces Noise, Increases Damage resistance, Strength, Cold and Heat resistance, Fire and Electric Shock resistance, Fortitude, and Agility. Can be found in hardened chests as a lootable item and installed in the armor headware paint slot. This hat mod is visible to other players.",
+   {
+    "value": "{\"value\":\"ノイズを低減し、耐損傷性、強度、耐寒性と耐熱性、耐火性と感電性、耐久性、敏捷性を向上させます。硬化したチェストに略奪可能なアイテムとしてあり、鎧のヘッドウェアのペイントスロットに取り付けられます。この帽子modは他のプレイヤーに表示されます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Magnet Hat Mod",
+   {
+    "value": "{\"value\":\"マグネットハットMod\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Increases Impact bracing when falling from a height, and Strength. Can be found in hardened chests as a lootable item and installed in the armor headware paint slot. This hat mod is visible to other players.",
+   {
+    "value": "{\"value\":\"高さから落下するときの衝撃ブレースと強度を高めます。硬化したチェストに略奪可能なアイテムとしてあり、鎧のヘッドウェアのペイントスロットに取り付けられます。この帽子modは他のプレイヤーに表示されます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Wagon Wheel Mod",
+   {
+    "value": "{\"value\":\"ワゴンホイールMod\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Increases bartering skill with +20% for sales and -20% for purchases. Inreases Strength and Stamina recovery when running. Can be found in hardened chests as a lootable item and installed in the armor headware paint slot. This clothing mod is visible to other players.",
+   {
+    "value": "{\"value\":\"物々交換スキルが増加し、販売が+ 20％、購入が-20％になります。ランニング時の筋力とスタミナ回復力を高めます。硬化したチェストに略奪可能なアイテムとしてあり、鎧のヘッドウェアのペイントスロットに取り付けられます。この服のMODは他のプレイヤーに表示されます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Rabbit Friend Mod",
+   {
+    "value": "{\"value\":\"うさぎの友達Mod\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Increases Entity damage, Strength, Damage resistance, and Cold and Heat resistance. Can be found in hardened chests as a lootable item and installed in the armor headware paint slot. This clothing mod is visible to other players. かわいい兎ちゃんでしょう？",
+   {
+    "value": "{\"value\":\"エンティティのダメージ、強度、ダメージ耐性、および耐寒性と耐熱性を向上させます。硬化したチェストに略奪可能なアイテムとしてあり、鎧のヘッドウェアのペイントスロットに取り付けられます。この服のMODは他のプレイヤーに表示されます。うさぎ兎ちゃんめ？\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Snake Friend Mod",
+   {
+    "value": "{\"value\":\"スネークフレンドMod\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Increases Impact bracing when falling from a height, and Strength. Can be found in hardened chests as a lootable item and installed in the armor headware paint slot. This clothing mod is visible to other players.",
+   {
+    "value": "{\"value\":\"高さから落下するときの衝撃ブレースと強度を高めます。硬化したチェストに略奪可能なアイテムとしてあり、鎧のヘッドウェアのペイントスロットに取り付けられます。この服のMODは他のプレイヤーに表示されます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Vulture Friend Mod",
+   {
+    "value": "{\"value\":\"ハゲタカフレンドMod\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Reduces walk and run speed but Increases Jump strength and Jump stamina. Can be found in hardened chests as a lootable item and installed in the armor headware paint slot. This clothing mod is visible to other players.",
+   {
+    "value": "{\"value\":\"歩行速度と走行速度は低下しますが、ジャンプ強度とジャンプスタミナは増加します。硬化したチェストに略奪可能なアイテムとしてあり、鎧のヘッドウェアのペイントスロットに取り付けられます。この服のMODは他のプレイヤーに表示されます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Big Backpack Mod",
+   {
+    "value": "{\"value\":\"ビッグバックパックMod\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Increases Strength, Damage resistance, and Backpack capacity by +5. Can be found in hardened chests as a lootable item and installed in the armor headware paint slot. This clothing mod is visible to other players.",
+   {
+    "value": "{\"value\":\"強度、ダメージ耐性、バックパックの容量が+5増加します。硬化したチェストに略奪可能なアイテムとしてあり、鎧のヘッドウェアのペイントスロットに取り付けられます。この服のMODは他のプレイヤーに表示されます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pumpkin Man Mod",
+   {
+    "value": "{\"value\":\"カボチャの男Mod\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Increases Strength, Damage resistance, and Harvest count by +2. Can be found in hardened chests as a lootable item and installed in the armor headware paint slot. This har mod is visible to other players.",
+   {
+    "value": "{\"value\":\"筋力、ダメージ耐性、収穫数が+2増加します。硬化したチェストに略奪可能なアイテムとしてあり、鎧のヘッドウェアのペイントスロットに取り付けられます。このharmodは、他のプレイヤーに表示されます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have found one of the special weapons that the Lone Wolves stockpiled for their assault on the Makasin. These are incredibly rare and do a lot of damage.",
+   {
+    "value": "{\"value\":\"あなたは一匹狼がマカシンへの攻撃のために備蓄した特別な武器の1つを見つけました。これらは非常にまれであり、多くのダメージを与えます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A set of knuckles that fills a rage meter on each hit. When you reach 20 you can activate a frenzy mode with F, gaining 50% lifesteal and 50% faster movement.",
+   {
+    "value": "{\"value\":\"ヒットするたびに怒りメーターを埋めるナックルのセット。 20に達すると、Fでフレンジーモードをアクティブにして、50％のライフスティールと50％速い動きを得ることができます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A rifle that shoots magnum ammo. Has high firerate and reload speed.",
+   {
+    "value": "{\"value\":\"マグナム弾を発射するライフル。高い発火率とリロード速度を持っています。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Primary fire shoots slowly, hold secondary and fires 4 shells almost instantly",
+   {
+    "value": "{\"value\":\"一次射撃はゆっくりと発砲し、二次射撃を保持し、ほぼ瞬時に4発の砲弾を発射します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A sledgehammer that shock enemies on hit. Power attack shocks enemies in an area.",
+   {
+    "value": "{\"value\":\"ヒット時に敵に衝撃を与えるハンマー。パワーアタックはエリア内の敵に衝撃を与えます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A semi-auto crossbow with 10-bolt capacity, shoots farther and deals more damage than a compound crossbow.",
+   {
+    "value": "{\"value\":\"容量が10ボルトのセミオートクロスボウは、コンパウンドクロスボウよりも遠くまで撃ち、より多くのダメージを与えます。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121282
+}

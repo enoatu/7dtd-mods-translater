@@ -1,0 +1,53 @@
+{
+ "cache": [
+  [
+   "keyv:Scrap Axe",
+   {
+    "value": "{\"value\":\"スクラップ斧\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The scrap axe is useful for harvesting wood.\\n\\nRepair with Duct Tape.\\nScrap to Iron.",
+   {
+    "value": "{\"value\":\"スクラップ斧は木材の収穫に役立ちます。\\\\n\\\\nダクトテープで修理します。\\\\nスクラップから鉄へ。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Scrap Pickaxe",
+   {
+    "value": "{\"value\":\"つるはしをスクラップ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The scrap pickaxe is useful for breaking stone and harvesting minerals.\\n\\nRepair with Duct Tape.\\nScrap to Iron.",
+   {
+    "value": "{\"value\":\"つるはしのスクラップは、石を砕いたり鉱物を収穫したりするのに役立ちます。\\\\n\\\\nダクトテープで修理します。\\\\n鉄にスクラップします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Scrap Knife",
+   {
+    "value": "{\"value\":\"スクラップナイフ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The scrap knife is useful for slashing zombies and gutting animals for meat.\\nRegular attacks cause 1 Bleeding Wound and power attacks at least 2.\\nRepair with Duct Tape.\\nScrap to Iron.",
+   {
+    "value": "{\"value\":\"スクラップナイフは、ゾンビを斬ったり、動物を肉で殴ったりするのに便利です。\\\\n通常の攻撃では、出血による傷が1回発生し、少なくとも2回は力で攻撃します。\\\\nダクトテープで修理します。\\\\n鉄にスクラップします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Scrap Shovel",
+   {
+    "value": "{\"value\":\"スクラップシャベル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The scrap shovel is useful for digging dirt, sand or snow.\\nRepair with Duct Tape.\\nScrap to Iron.",
+   {
+    "value": "{\"value\":\"スクラップショベルは、土、砂、雪を掘るのに便利です。\\\\nダクトテープで修理します。\\\\n鉄にスクラップします。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121290
+}

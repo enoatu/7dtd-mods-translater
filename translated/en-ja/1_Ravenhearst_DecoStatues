@@ -1,0 +1,65 @@
+{
+ "cache": [
+  [
+   "keyv:Statue Schematic",
+   {
+    "value": "{\"value\":\"像の概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gothic Statue 1",
+   {
+    "value": "{\"value\":\"ゴシック像1\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gothic Statue 2",
+   {
+    "value": "{\"value\":\"ゴシック像2\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gothic Statue 3",
+   {
+    "value": "{\"value\":\"ゴシック像3\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gothic Statue 4",
+   {
+    "value": "{\"value\":\"ゴシック像4\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gothic Statue 5",
+   {
+    "value": "{\"value\":\"ゴシック像5\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gothic Statue 6",
+   {
+    "value": "{\"value\":\"ゴシック像6\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gothic Statue 7",
+   {
+    "value": "{\"value\":\"ゴシック像7\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Lion Statue",
+   {
+    "value": "{\"value\":\"ライオンの像\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gothic Statues Block",
+   {
+    "value": "{\"value\":\"ゴシック像ブロック\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412120890
+}

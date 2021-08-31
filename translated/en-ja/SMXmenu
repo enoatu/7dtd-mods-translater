@@ -1,0 +1,377 @@
+{
+ "cache": [
+  [
+   "keyv:Stash Inventory",
+   {
+    "value": "{\"value\":\"スタッシュインベントリ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Stash Matching Items To Inventory",
+   {
+    "value": "{\"value\":\"マッチングアイテムを在庫に隠します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hover over a slot and press X to lock or unlock a slot. Quest Items can not be locked. Slots need to be resaved upon reboot.",
+   {
+    "value": "{\"value\":\"スロットにカーソルを合わせ、Xを押してスロットをロックまたはロック解除します。クエストアイテムはロックできません。再起動時にスロットを再保存する必要があります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Ravenhearst",
+   {
+    "value": "{\"value\":\"レイヴンハースト\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Show Crosshair",
+   {
+    "value": "{\"value\":\"十字線を表示\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Show Crosshair.",
+   {
+    "value": "{\"value\":\"十字線を表示します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Activation Text",
+   {
+    "value": "{\"value\":\"アクティベーションテキスト\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Activation Text.",
+   {
+    "value": "{\"value\":\"アクティベーションテキスト。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Show On Screen Sprites",
+   {
+    "value": "{\"value\":\"画面に表示するスプライト\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Show On Screen Sprites.",
+   {
+    "value": "{\"value\":\"画面上のスプライトに表示します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Show Buried Treasure Helper",
+   {
+    "value": "{\"value\":\"埋蔵金ヘルパーを表示する\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Show Buried Treasure Helper.",
+   {
+    "value": "{\"value\":\"埋蔵金ヘルパーを表示します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Crosshair Color",
+   {
+    "value": "{\"value\":\"十字線の色\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sirillion Z2 UI",
+   {
+    "value": "{\"value\":\"Sirillion Z2 UI\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Main Line Color",
+   {
+    "value": "{\"value\":\"メインラインの色\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Main Line Opacity",
+   {
+    "value": "{\"value\":\"メインラインの不透明度\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Show Letters On Compass",
+   {
+    "value": "{\"value\":\"コンパスに文字を表示する\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Reset Z2 Settings",
+   {
+    "value": "{\"value\":\"Z2設定をリセット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Note : Reloading the UI whilst the game is loaded takes around a 5 - 10 seconds once the Back button is pressed.",
+   {
+    "value": "{\"value\":\"注：ゲームの読み込み中にUIを再読み込みするには、[戻る]ボタンを押してから約5〜10秒かかります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:City Zombie Multiplier",
+   {
+    "value": "{\"value\":\"シティゾンビ乗数\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Multiplier for how many extra zeds to spawn in cites. For each POI X extra zombies will spawn i.e. if 2 POIs and multiplier is set to 5 it will spawn 10 zombies.",
+   {
+    "value": "{\"value\":\"引用でスポーンする追加のZedの数の乗数。 POI Xごとに、追加のゾンビがスポーンします。つまり、2つのPOIと乗数が5に設定されている場合、10個のゾンビがスポーンします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Head Shot Only",
+   {
+    "value": "{\"value\":\"ヘッドショットのみ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Only head shots do damage to zombies.",
+   {
+    "value": "{\"value\":\"ゾンビにダメージを与えるのはヘッドショットだけです。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Show Fetch Items On Compass",
+   {
+    "value": "{\"value\":\"コンパスにフェッチアイテムを表示する\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Show Fetch Items On Compass.",
+   {
+    "value": "{\"value\":\"コンパスにフェッチアイテムを表示します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Show Fetch Distance Indicator",
+   {
+    "value": "{\"value\":\"フェッチ距離インジケーターを表示\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Show Fetch Distance Indicator.",
+   {
+    "value": "{\"value\":\"フェッチ距離インジケーターを表示します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Zombie Rage",
+   {
+    "value": "{\"value\":\"ゾンビレイジ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Zombie Rage.",
+   {
+    "value": "{\"value\":\"ゾンビレイジ。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:On",
+   {
+    "value": "{\"value\":\"オン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Off",
+   {
+    "value": "{\"value\":\"オフ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Zombie Sight Range",
+   {
+    "value": "{\"value\":\"ゾンビの視界\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Add X metres to Zombie Sight Range.",
+   {
+    "value": "{\"value\":\"Xメートルをゾンビ視界範囲に追加します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:+0 Metres",
+   {
+    "value": "{\"value\":\"+0メートル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:+10 Metres",
+   {
+    "value": "{\"value\":\"+10メートル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:+20 Metres",
+   {
+    "value": "{\"value\":\"+20メートル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:+30 Metres",
+   {
+    "value": "{\"value\":\"+30メートル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:+40 Metres",
+   {
+    "value": "{\"value\":\"+40メートル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:+50 Metres",
+   {
+    "value": "{\"value\":\"+50メートル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:+75 Metres",
+   {
+    "value": "{\"value\":\"+75メートル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:+100 Metres",
+   {
+    "value": "{\"value\":\"+100メートル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:+150 Metres",
+   {
+    "value": "{\"value\":\"+150メートル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:+200 Metres",
+   {
+    "value": "{\"value\":\"+200メートル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Wandering Horde Frequency",
+   {
+    "value": "{\"value\":\"さまよう大群の頻度\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Wandering Horde Frequency.",
+   {
+    "value": "{\"value\":\"さまよう大群の頻度。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:12 - 24 hrs",
+   {
+    "value": "{\"value\":\"12〜24時間\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:10 - 22 hrs",
+   {
+    "value": "{\"value\":\"10〜22時間\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:8 - 20 hrs",
+   {
+    "value": "{\"value\":\"8〜20時間\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:6 - 18 hrs",
+   {
+    "value": "{\"value\":\"6〜18時間\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:4 - 16 hrs",
+   {
+    "value": "{\"value\":\"4-16時間\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:2 - 14 hrs",
+   {
+    "value": "{\"value\":\"2〜14時間\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Wandering Horde Zombie Multiplier",
+   {
+    "value": "{\"value\":\"さまよう大群ゾンビ乗数\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Increase the number of zombies that spawn per horde.",
+   {
+    "value": "{\"value\":\"大群ごとに出現するゾンビの数を増やします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:1X",
+   {
+    "value": "{\"value\":\"1X\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:2X",
+   {
+    "value": "{\"value\":\"2倍\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:3X",
+   {
+    "value": "{\"value\":\"3X\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Optional UI",
+   {
+    "value": "{\"value\":\"オプションのUI\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Note : The game needs to be fully restarted for UI changes to take effect.",
+   {
+    "value": "{\"value\":\"注：UIの変更を有効にするには、ゲームを完全に再起動する必要があります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Show XP PopUp",
+   {
+    "value": "{\"value\":\"XPポップアップを表示\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Show XP PopUp.",
+   {
+    "value": "{\"value\":\"XPポップアップを表示します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Show Zombie Health Bar",
+   {
+    "value": "{\"value\":\"ゾンビヘルスバーを表示\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Show Zombie Health Bar.",
+   {
+    "value": "{\"value\":\"ゾンビヘルスバーを表示します。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121271
+}

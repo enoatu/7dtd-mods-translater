@@ -1,0 +1,17 @@
+{
+ "cache": [
+  [
+   "keyv:Clear Dye",
+   {
+    "value": "{\"value\":\"クリア染料\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This dye will hide the armor/clothing that it is installed in.",
+   {
+    "value": "{\"value\":\"この染料は、それがインストールされている鎧/衣服を隠します。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121196
+}

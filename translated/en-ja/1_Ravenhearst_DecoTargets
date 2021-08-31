@@ -1,0 +1,17 @@
+{
+ "cache": [
+  [
+   "keyv:Large Target",
+   {
+    "value": "{\"value\":\"大きなターゲット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This can be used to practice your aim. Just dont shit your pants when the real thing comes at you.",
+   {
+    "value": "{\"value\":\"これはあなたの目的を練習するために使用することができます。本物があなたに来るとき、ただあなたのズボンをたわごとしないでください。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412120893
+}

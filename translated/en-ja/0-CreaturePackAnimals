@@ -1,0 +1,35 @@
+{
+ "cache": [
+  [
+   "keyv:There are a bunch of stray dogs at this location terrorizing survivors.",
+   {
+    "value": "{\"value\":\"この場所には、生存者を恐怖に陥れる野良犬がたくさんいます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Strays",
+   {
+    "value": "{\"value\":\"迷子\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Dear Survivor,\\nYea I get it they are cute and used to be mans best friend. You know what you have to do.\\n\\nGood Luck, Crazy Jake.",
+   {
+    "value": "{\"value\":\"親愛なるサバイバー、\\\\nそうですね、彼らはかわいくて、かつては男の親友でした。あなたはあなたがしなければならないことを知っています。\\\\n\\\\n幸運、クレイジージェイク。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Woof woof?",
+   {
+    "value": "{\"value\":\"ウーフウーフ？\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Well Done...here are some things I found awhile ago. \\nTake it.  ",
+   {
+    "value": "{\"value\":\"よくできました...しばらく前に見つけたものがいくつかあります。 \\\\n取ってください。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412120577
+}

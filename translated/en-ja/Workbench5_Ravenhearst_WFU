@@ -1,0 +1,131 @@
+{
+ "cache": [
+  [
+   "keyv:Water Filtration Unit",
+   {
+    "value": "{\"value\":\"水ろ過ユニット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The water filtration unit is the only way to guarantee purified clean water.",
+   {
+    "value": "{\"value\":\"水ろ過ユニットは、浄化されたきれいな水を保証する唯一の方法です。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Water Filtration Unit Schematic",
+   {
+    "value": "{\"value\":\"水ろ過ユニットの概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bottled Infected Water",
+   {
+    "value": "{\"value\":\"ボトル入りの感染水\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This infected water needs to be treated with a Water Filtration Unit so that you can boil it. It will not be 100 percent safe until you treat the Bottle Water but it will be safer.",
+   {
+    "value": "{\"value\":\"この感染した水は、沸騰させるために水ろ過ユニットで処理する必要があります。ボトルウォーターを処理するまで100％安全ではありませんが、より安全になります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:An empty bucket can be used to fill up and transport water. This filled bucket needs to be used in the Water Filtration Unit in order to be useable.",
+   {
+    "value": "{\"value\":\"空のバケツを使用して、水を満たし、輸送することができます。この充填されたバケットを使用するには、水ろ過ユニットで使用する必要があります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This cleansed water can be dumped into an enclosed structure or hole in the ground to store it.",
+   {
+    "value": "{\"value\":\"この浄化された水は、密閉された構造物または地面の穴に捨てて保管することができます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bucket of Infected Water",
+   {
+    "value": "{\"value\":\"感染した水のバケツ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This infected bucket of water can not be used until you process it through the water filtration unit. Placed water can be used for crops but can not be used to drink from.",
+   {
+    "value": "{\"value\":\"この感染したバケツの水は、水ろ過ユニットで処理するまで使用できません。置いた水は作物に使用できますが、飲用には使用できません。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Can of Infected Water",
+   {
+    "value": "{\"value\":\"感染した水の缶\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Can of Murky Water",
+   {
+    "value": "{\"value\":\"濁った水の缶\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This murky water needs to be boiled on a campfire.",
+   {
+    "value": "{\"value\":\"この濁った水はキャンプファイヤーで沸騰させる必要があります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Boiled Water (Can)",
+   {
+    "value": "{\"value\":\"沸騰したお湯（缶）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fresh canned water. Well as fresh as you can get in the apocalypse.",
+   {
+    "value": "{\"value\":\"新鮮な缶詰の水。あなたが黙示録に入ることができるのと同じくらい新鮮です。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unit of Water",
+   {
+    "value": "{\"value\":\"水の単位\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This cleansed water can be pumped into jars and buckets.",
+   {
+    "value": "{\"value\":\"この浄化された水は、瓶やバケツにポンプで送ることができます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[B3B6BB]Water[-]",
+   {
+    "value": "{\"value\":\"[B3B6BB]水[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Water",
+   {
+    "value": "{\"value\":\"水\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Filter",
+   {
+    "value": "{\"value\":\"フィルター\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Filtering",
+   {
+    "value": "{\"value\":\"フィルタリング\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Infection Risk",
+   {
+    "value": "{\"value\":\"感染リスク\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121352
+}

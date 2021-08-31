@@ -1,0 +1,1655 @@
+{
+ "cache": [
+  [
+   "keyv:A warm healing tea made from blueberries and snowberries",
+   {
+    "value": "{\"value\":\"ブルーベリーとスノーベリーから作られた温かい癒しのお茶\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A cool refreshing mixed herbal tea that helps protect against the heat",
+   {
+    "value": "{\"value\":\"熱から保護するのに役立つクールでさわやかなミックスハーブティー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A cool energising iced coffee that helps protect against the heat whilst remaining just as hydrating as the hot counterpart",
+   {
+    "value": "{\"value\":\"冷たいエネルギーを与えるアイスコーヒーは、熱いものと同じように水分を補給しながら、熱から保護するのに役立ちます\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A handful of hearty wedge cut yucca chips",
+   {
+    "value": "{\"value\":\"一握りのボリュームたっぷりのウェッジカットユッカチップス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A small triangle of shredded fried potato. A nice snack",
+   {
+    "value": "{\"value\":\"細かく刻んだフライドポテトの小さな三角形。素敵なおやつ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This hefty pot of silky smooth mash potato could be a meal on it's own",
+   {
+    "value": "{\"value\":\"絹のような滑らかなマッシュポテトのこの巨大な鍋は、それ自体で食事になる可能性があります\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A warm pot of boiled corn grits with animal fat",
+   {
+    "value": "{\"value\":\"動物性脂肪を入れたとうもろこしグリッツの温かい鍋\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sweet blueberry jam made from rendered fruits. Maybe too sweet on it's own",
+   {
+    "value": "{\"value\":\"レンダリングされた果物から作られた甘いブルーベリージャム。多分それだけでは甘すぎる\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Surprisingly savory whilst still being sweet. Yucca jam is made from rendered down yucca fruit",
+   {
+    "value": "{\"value\":\"甘くて意外と香ばしい。ユッカジャムは、ユッカフルーツをレンダリングして作られています\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A basic egg salad made from boiled eggs. Boiled potato and oil dressing",
+   {
+    "value": "{\"value\":\"ゆで卵を使ったベーシックなエッグサラダ。茹でたジャガイモとオイルドレッシング\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Meat that has been fried in a cornmeal coating",
+   {
+    "value": "{\"value\":\"コーンミールコーティングで揚げた肉\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Crispy fried corn chips that make for a nice snack between bashing skulls in",
+   {
+    "value": "{\"value\":\"サクサクの揚げコーンチップスは、頭蓋骨をたたく間の素敵なスナックになります\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A simple cornbread sandwich with a sweet blueberry jam filling to help recover from a long day",
+   {
+    "value": "{\"value\":\"長い一日からの回復に役立つ甘いブルーベリージャムを詰めたシンプルなコーンブレッドサンドイッチ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A simple cornbread sandwich with a savory yucca jam filling that helps get rid of even the strongest hunger pangs",
+   {
+    "value": "{\"value\":\"おいしいユッカジャムを詰めたシンプルなコーンブレッドサンドイッチは、最強の空腹感さえも取り除くのに役立ちます\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This cake offers the energising properties of coffee whilst still being delicious",
+   {
+    "value": "{\"value\":\"このケーキは、コーヒーの活力を与えながら、美味しく召し上がれます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Savory and buttery pie crust filled to the brim with mushrooms",
+   {
+    "value": "{\"value\":\"きのこでいっぱいになった香ばしくてバターのようなパイ生地\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Rich and savory pie crust with a meat and beer filling. Truly a feast fit for the best of the best",
+   {
+    "value": "{\"value\":\"肉とビールを詰めた、濃厚で風味豊かなパイ生地。最高の最高のものにぴったりのごちそう\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Whole mushrooms coated in cornmeal and fried. A very filling snack",
+   {
+    "value": "{\"value\":\"きのこ全体をコーンミールでコーティングして揚げたもの。とても充実したおやつ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A simple sunny side up fried egg. The main component of any good breakfast",
+   {
+    "value": "{\"value\":\"シンプルなサニーサイドアップ目玉焼き。おいしい朝食の主成分\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Egg soaked cornbread that has been fried. Simple yet tasty",
+   {
+    "value": "{\"value\":\"揚げた卵に浸したコーンブレッド。シンプルで美味しい\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Roasted meat with a deep honey glaze covering it",
+   {
+    "value": "{\"value\":\"深い蜂蜜の釉薬で覆われた焼き肉\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A refreshing carbonated soda made from blueberries",
+   {
+    "value": "{\"value\":\"ブルーベリーから作られたさわやかな炭酸ソーダ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Carbonated water that is both refreshing and useful for digestion",
+   {
+    "value": "{\"value\":\"さわやかで消化に役立つ炭酸水\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Kvass soda made from fermented cornbread to make it carbonated. A very basic soda",
+   {
+    "value": "{\"value\":\"コーンブレッドを発酵させて炭酸化したクワスソーダ。非常に基本的なソーダ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fermented and distilled potato water that will improve your bartering. This stuff packs a punch",
+   {
+    "value": "{\"value\":\"物々交換を改善する発酵および蒸留ポテト水。このものはパンチを詰め込みます\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A dry gin made from snowberries that will boost your ability to break blocks",
+   {
+    "value": "{\"value\":\"ブロックを壊す能力を高めるスノーベリーから作られたドライジン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fluffy sponge cake with a very sweet blueberry jam filling. Filling for both the body and soul.",
+   {
+    "value": "{\"value\":\"とても甘いブルーベリージャムを詰めたふわふわのスポンジケーキ。肉体と魂の両方を満たします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sweet and fluffy sponge cake with a somewhat savory yucca jam filling. Extremely filling",
+   {
+    "value": "{\"value\":\"やや香ばしいユッカジャムを詰めた甘くてふわふわのスポンジケーキ。非常に充填\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Buttery pie crust filled to the brim with a dense custard.",
+   {
+    "value": "{\"value\":\"濃厚なカスタードで縁まで満たされたバターパイの皮。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Energy tablets are great for getting you out of sticky situations. However you can get addicted to them.",
+   {
+    "value": "{\"value\":\"エネルギータブレットは、厄介な状況から抜け出すのに最適です。しかし、あなたはそれらに中毒になる可能性があります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sugary fudge that melts in the mouth and rots away the teeth. You didn't need those molars anyway",
+   {
+    "value": "{\"value\":\"口の中でとろけて歯を腐らせる甘いファッジ。とにかくそれらの大臼歯は必要ありませんでした\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Popped corn - the movie-goers favourite. A basic snack between meals",
+   {
+    "value": "{\"value\":\"ポップコーン-映画ファンのお気に入り。食事の間の基本的な軽食\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unflavoured candy made mostly from sugar. Will give you quite the sugar rush",
+   {
+    "value": "{\"value\":\"主に砂糖から作られた無香料のキャンディー。あなたにかなりのシュガーラッシュを与えるでしょう\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Blueberry flavoured rock candy that tastes good and will give you a sugar rush",
+   {
+    "value": "{\"value\":\"美味しくてシュガーラッシュを与えるブルーベリー風味の氷砂糖\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Snowberry infused rock candy that will help with digestion and give you a sugar rush",
+   {
+    "value": "{\"value\":\"消化を助け、砂糖ラッシュを与えるスノーベリーを注入した氷砂糖\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Dense sponge cake with sugar icing atop it.",
+   {
+    "value": "{\"value\":\"その上に砂糖のアイシングが付いた濃厚なスポンジケーキ。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You'd have to be pretty desperate to eat raw sugar. Used in soda",
+   {
+    "value": "{\"value\":\"あなたは生の砂糖を食べるためにかなり必死でなければならないでしょう。ソーダで使用\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A strong taste. You are feeling destructive.",
+   {
+    "value": "{\"value\":\"強い味わい。あなたは破壊的だと感じています。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:That stuff burns. You feel more talkative",
+   {
+    "value": "{\"value\":\"そのようなものは燃えます。あなたはもっとおしゃべりに感じます\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A slight rush from the amount of sugar you just ate. This allows you to slightly run faster",
+   {
+    "value": "{\"value\":\"食べたばかりの砂糖の量から少し急いでください。これにより、わずかに速く実行できます\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sugar Rush",
+   {
+    "value": "{\"value\":\"シュガーラッシュ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:That was a lot of sugar.",
+   {
+    "value": "{\"value\":\"それはたくさんの砂糖でした。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You can run faster. reload slightly quicker and become less exhausted.",
+   {
+    "value": "{\"value\":\"あなたはより速く走ることができます。少し早くリロードし、疲れにくくなります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Energy Rush",
+   {
+    "value": "{\"value\":\"エナジーラッシュ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:What a rush!",
+   {
+    "value": "{\"value\":\"なんて急いで！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cold Drink",
+   {
+    "value": "{\"value\":\"冷たい飲み物\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Iced drinks help you survive better in hot environments.",
+   {
+    "value": "{\"value\":\"アイスドリンクは、暑い環境でよりよく生き残るのに役立ちます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Berry Tea",
+   {
+    "value": "{\"value\":\"ベリーティー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cooking in the Apocalypse is extremely important to survival.",
+   {
+    "value": "{\"value\":\"黙示録での料理は生き残るために非常に重要です。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Berry Tea Recipe",
+   {
+    "value": "{\"value\":\"ベリーティーレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Iced Mixed tea",
+   {
+    "value": "{\"value\":\"アイスミックスティー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Iced Mixed tea Recipe",
+   {
+    "value": "{\"value\":\"アイスミックスティーレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Iced Coffee",
+   {
+    "value": "{\"value\":\"アイスコーヒー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Iced Coffee Recipe",
+   {
+    "value": "{\"value\":\"アイスコーヒーのレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Yucca Chips",
+   {
+    "value": "{\"value\":\"ユッカチップス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Yucca Chips Recipe",
+   {
+    "value": "{\"value\":\"ユッカチップスレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hashbrown",
+   {
+    "value": "{\"value\":\"ハッシュブラウン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hashbrown Recipe",
+   {
+    "value": "{\"value\":\"ハッシュブラウンレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Mashed Potato",
+   {
+    "value": "{\"value\":\"マッシュポテト\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Mashed Potato Recipe",
+   {
+    "value": "{\"value\":\"マッシュポテトのレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Corn Grits",
+   {
+    "value": "{\"value\":\"コーングリッツ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Corn Grits Recipe",
+   {
+    "value": "{\"value\":\"グリッツのレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Blueberry Jam",
+   {
+    "value": "{\"value\":\"ブルーベリージャム\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Blueberry Jam Recipe",
+   {
+    "value": "{\"value\":\"ブルーベリージャムレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Yucca Jam",
+   {
+    "value": "{\"value\":\"ユッカジャム\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Yucca Jam Recipe",
+   {
+    "value": "{\"value\":\"ユッカジャムレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Egg Salad",
+   {
+    "value": "{\"value\":\"タマゴサラダ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Egg Salad Recipe",
+   {
+    "value": "{\"value\":\"エッグサラダのレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fried Meat",
+   {
+    "value": "{\"value\":\"揚げ肉\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fried Meat Recipe",
+   {
+    "value": "{\"value\":\"揚げ肉のレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Corn Chips",
+   {
+    "value": "{\"value\":\"コーンチップス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Corn Chips Recipe",
+   {
+    "value": "{\"value\":\"コーンチップスのレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Blueberry Sandwich",
+   {
+    "value": "{\"value\":\"ブルーベリーサンドイッチ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Blueberry Sandwich Recipe",
+   {
+    "value": "{\"value\":\"ブルーベリーサンドイッチレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Yucca Sandwich",
+   {
+    "value": "{\"value\":\"ユッカサンドイッチ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Yucca Sandwich Recipe",
+   {
+    "value": "{\"value\":\"ユッカサンドイッチレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Coffee Cake",
+   {
+    "value": "{\"value\":\"コーヒーケーキ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Coffee Cake Recipe",
+   {
+    "value": "{\"value\":\"コーヒーケーキのレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Mushroom Pie",
+   {
+    "value": "{\"value\":\"きのこパイ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Mushroom Pie Recipe",
+   {
+    "value": "{\"value\":\"きのこパイレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Meat and Beer Pie",
+   {
+    "value": "{\"value\":\"肉とビールのパイ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Meat and Beer Pie Recipe",
+   {
+    "value": "{\"value\":\"肉とビールのパイのレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fried Mushrooms",
+   {
+    "value": "{\"value\":\"揚げきのこ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fried Mushrooms Recipe",
+   {
+    "value": "{\"value\":\"きのこ炒めレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fried Egg",
+   {
+    "value": "{\"value\":\"目玉焼き\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fried Egg Recipe",
+   {
+    "value": "{\"value\":\"目玉焼きのレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:French Toast",
+   {
+    "value": "{\"value\":\"フレンチトースト\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:French Toast Recipe",
+   {
+    "value": "{\"value\":\"フレンチトーストレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Honey Glazed Meat",
+   {
+    "value": "{\"value\":\"ハニーグレーズドミート\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Honey Glazed Meat Recipe",
+   {
+    "value": "{\"value\":\"ハニーグレーズドミートレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Blueberry Soda",
+   {
+    "value": "{\"value\":\"ブルーベリーソーダ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Blueberry Soda Recipe",
+   {
+    "value": "{\"value\":\"ブルーベリーソーダレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Kvass Soda",
+   {
+    "value": "{\"value\":\"クワスソーダ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Kvass Soda Recipe",
+   {
+    "value": "{\"value\":\"クワスソーダレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Carbonated Water",
+   {
+    "value": "{\"value\":\"炭酸水\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Carbonated Water Recipe",
+   {
+    "value": "{\"value\":\"炭酸水のレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Distilled Vodka",
+   {
+    "value": "{\"value\":\"蒸留ウォッカ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Distilled Vodka Recipe",
+   {
+    "value": "{\"value\":\"蒸留ウォッカレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Snowberry Gin",
+   {
+    "value": "{\"value\":\"スノーベリージン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Snowberry Gin Recipe",
+   {
+    "value": "{\"value\":\"スノーベリージンレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sugar Extract",
+   {
+    "value": "{\"value\":\"砂糖抽出物\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sugar Extract Recipe",
+   {
+    "value": "{\"value\":\"砂糖エキスレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Rock Candy",
+   {
+    "value": "{\"value\":\"氷砂糖\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Rock Candy Recipe",
+   {
+    "value": "{\"value\":\"氷砂糖のレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Blueberry Candy",
+   {
+    "value": "{\"value\":\"ブルーベリーキャンディー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Blueberry Candy Recipe",
+   {
+    "value": "{\"value\":\"ブルーベリーキャンディーレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Snowberry Candy",
+   {
+    "value": "{\"value\":\"スノーベリーキャンディー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Snowberry Candy Recipe",
+   {
+    "value": "{\"value\":\"スノーベリーキャンディーレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Plain Fudge",
+   {
+    "value": "{\"value\":\"プレーンファッジ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Plain Fudge Recipe",
+   {
+    "value": "{\"value\":\"プレーンファッジレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Energy Tablet",
+   {
+    "value": "{\"value\":\"エネルギータブレット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Energy Tablet Recipe",
+   {
+    "value": "{\"value\":\"エネルギータブレットレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sponge Cake",
+   {
+    "value": "{\"value\":\"スポンジケーキ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sponge Cake Recipe",
+   {
+    "value": "{\"value\":\"スポンジケーキのレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Blueberry Sponge Cake",
+   {
+    "value": "{\"value\":\"ブルーベリースポンジケーキ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Blueberry Sponge Cake Recipe",
+   {
+    "value": "{\"value\":\"ブルーベリースポンジケーキのレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Yucca Sponge Cake",
+   {
+    "value": "{\"value\":\"ユッカスポンジケーキ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Yucca Sponge Cake Recipe",
+   {
+    "value": "{\"value\":\"ユッカスポンジケーキレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Custard Pie",
+   {
+    "value": "{\"value\":\"カスタードパイ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Custard Pie Recipe",
+   {
+    "value": "{\"value\":\"カスタードパイのレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Health Drink",
+   {
+    "value": "{\"value\":\"健康ドリンク\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Drink This and Gain Your Health and Energy Back!",
+   {
+    "value": "{\"value\":\"これを飲んであなたの健康とエネルギーを取り戻してください！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Health Drink Recipe",
+   {
+    "value": "{\"value\":\"健康ドリンクレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hamburger",
+   {
+    "value": "{\"value\":\"ハンバーガー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:It Has a good smell and looks tasty.",
+   {
+    "value": "{\"value\":\"匂いが良くて美味しそうです。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hamburger Recipe",
+   {
+    "value": "{\"value\":\"ハンバーガーレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bacon and Egg Sandwich",
+   {
+    "value": "{\"value\":\"ベーコンエッグサンドイッチ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You made this good looking sandwich.",
+   {
+    "value": "{\"value\":\"あなたはこの格好良いサンドイッチを作りました。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bacon and Egg Sandwich Recipe",
+   {
+    "value": "{\"value\":\"ベーコンと卵サンドイッチのレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fish Pie",
+   {
+    "value": "{\"value\":\"フィッシュパイ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The Can of Tuna Maybe rotten but you did a good job making this food!",
+   {
+    "value": "{\"value\":\"マグロの缶は腐ったかもしれませんが、あなたはこの食べ物を作るのに良い仕事をしました！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fish Pie Recipe",
+   {
+    "value": "{\"value\":\"フィッシュパイのレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Honey Ham",
+   {
+    "value": "{\"value\":\"ハニーハム\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:MmmHH Very good meal.",
+   {
+    "value": "{\"value\":\"MmmHHとてもおいしい食事。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Honey Ham Recipe",
+   {
+    "value": "{\"value\":\"ハニーハムレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grilled Steak",
+   {
+    "value": "{\"value\":\"グリルステーキ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Better then Grilled meat.",
+   {
+    "value": "{\"value\":\"焼き肉の方がいいです。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grilled Steak Recipe",
+   {
+    "value": "{\"value\":\"グリルステーキレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grilled Steak Sandwich",
+   {
+    "value": "{\"value\":\"グリルステーキサンドイッチ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You Made the Steak Even Better!",
+   {
+    "value": "{\"value\":\"あなたはステーキをさらに良くしました！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grilled Steak Sandwich Recipe",
+   {
+    "value": "{\"value\":\"グリルステーキサンドイッチレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Biscuit",
+   {
+    "value": "{\"value\":\"ビスケット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Biscuits are delicious by themselves but their best use is spreading some jam on them.",
+   {
+    "value": "{\"value\":\"ビスケットはそれ自体がおいしいですが、その最良の用途はそれらにいくつかのジャムを広げることです。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Biscuit Recipe",
+   {
+    "value": "{\"value\":\"ビスケットレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Biscuit With Jam",
+   {
+    "value": "{\"value\":\"ジャムとビスケット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Handmade biscuit smeared with a nice layer of blueberry jam.",
+   {
+    "value": "{\"value\":\"ブルーベリージャムの素敵な層が塗られた手作りのビスケット。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Biscuit With Jam Recipe",
+   {
+    "value": "{\"value\":\"ジャムレシピのビスケット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Ramen Soup",
+   {
+    "value": "{\"value\":\"ラーメンスープ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Nice you made a bowl of Ramen Soup Not the best if you ask me.",
+   {
+    "value": "{\"value\":\"ラーメン丼を作ってくれて嬉しいです。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Ramen Soup Recipe",
+   {
+    "value": "{\"value\":\"ラーメンスープレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tuna Sandwich",
+   {
+    "value": "{\"value\":\"ツナサンドイッチ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Not the best sandwich but eatable.",
+   {
+    "value": "{\"value\":\"最高のサンドイッチではありませんが、食べられます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tuna Sandwich Recipe",
+   {
+    "value": "{\"value\":\"ツナサンドイッチレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Mystery Meat",
+   {
+    "value": "{\"value\":\"ミステリーミート\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:It doesn't smell terrible but you don't know how much faith you should put in Hotrod.",
+   {
+    "value": "{\"value\":\"ひどい匂いはしませんが、Hotrodにどれだけの信仰を置くべきかわかりません。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Mystery Meat Recipe",
+   {
+    "value": "{\"value\":\"ミステリーミートレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Candy Bar",
+   {
+    "value": "{\"value\":\"キャンディーバー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Diabeetus what diabeetus. This is the apocalypse so have at it and shove that candy in your mouth like there is no tomorrow!",
+   {
+    "value": "{\"value\":\"Diabeetus何diabeetus。これは黙示録ですので、それを持って、明日がないようにあなたの口の中にそのキャンディーを押し込んでください！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Goldfish",
+   {
+    "value": "{\"value\":\"金魚\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The snack that smiles back!? SCORE.",
+   {
+    "value": "{\"value\":\"微笑むおやつ！？スコア。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Ramen Noodles",
+   {
+    "value": "{\"value\":\"ラーメン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You Can make this into a soup or you can eat it.",
+   {
+    "value": "{\"value\":\"これをスープにすることも、食べることもできます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bag Of Chips",
+   {
+    "value": "{\"value\":\"チップスの袋\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bet you can not eat just one!",
+   {
+    "value": "{\"value\":\"たった一つ食べられないに違いない！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bag Of Hot Chips",
+   {
+    "value": "{\"value\":\"ホットチップのバッグ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Spicy goodness!",
+   {
+    "value": "{\"value\":\"スパイシーな良さ！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hotrod Challenge",
+   {
+    "value": "{\"value\":\"ホットロッドチャレンジ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Feed The Mole Challenge",
+   {
+    "value": "{\"value\":\"ほくろチャレンジを養う\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sandwich Challenge",
+   {
+    "value": "{\"value\":\"サンドイッチチャレンジ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Peculiar Taste",
+   {
+    "value": "{\"value\":\"独特の味\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Home Cooking Vol 1: Knights Morning Meats",
+   {
+    "value": "{\"value\":\"ホームクッキング第1巻：騎士の朝の肉\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Home Cooking Vol 2: Wookies Eats",
+   {
+    "value": "{\"value\":\"Home Cooking Vol 2：Wookies Eats\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Home Cooking Vol 3: Sinders Stews",
+   {
+    "value": "{\"value\":\"ホームクッキング第3巻：シンダーズシチュー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Home Cooking Vol 4: Fallens Baked Goods",
+   {
+    "value": "{\"value\":\"ホームクッキング第4巻：堕ちた焼き菓子\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Home Cooking Vol 5: Tea Time With Shorty",
+   {
+    "value": "{\"value\":\"ホームクッキングVol5：ショーティーとのティータイム\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks breakfast related recipes.",
+   {
+    "value": "{\"value\":\"朝食関連のレシピのロックを解除します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks dinner and sides related recipes.",
+   {
+    "value": "{\"value\":\"ディナーとサイドディッシュ関連のレシピのロックを解除します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks delicious hearty stews.",
+   {
+    "value": "{\"value\":\"おいしいボリュームたっぷりのシチューのロックを解除します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks baked goods and supplies.",
+   {
+    "value": "{\"value\":\"焼き菓子や消耗品のロックを解除します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks drinks and teas.",
+   {
+    "value": "{\"value\":\"飲み物とお茶のロックを解除します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Home Cooking Vol 6: Shades Mouth Watering Sandwiches",
+   {
+    "value": "{\"value\":\"Home Cooking Vol 6：Shades Mouth Watering Sandwiches\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks sandwich related recipes.",
+   {
+    "value": "{\"value\":\"サンドイッチ関連のレシピのロックを解除します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Home Smoker Foods Schematic",
+   {
+    "value": "{\"value\":\"ホームスモーカーフーズの概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bacon Egg On A Hero Schematic",
+   {
+    "value": "{\"value\":\"ヒーローの概略図上のベーコンの卵\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Mushroom Soup Schematic",
+   {
+    "value": "{\"value\":\"きのこ汁の概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Vinegar",
+   {
+    "value": "{\"value\":\"お酢\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Mayonnaise",
+   {
+    "value": "{\"value\":\"マヨネーズ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Brisket",
+   {
+    "value": "{\"value\":\"ブリスケット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pulled Pork Sandwich",
+   {
+    "value": "{\"value\":\"プルドポークサンドイッチ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Never eat something this good on a Blood Moon.",
+   {
+    "value": "{\"value\":\"ブラッドムーンでこれほどおいしいものを食べてはいけません。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pulled Pork",
+   {
+    "value": "{\"value\":\"プルドポーク\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Beer Can Chicken",
+   {
+    "value": "{\"value\":\"ビール缶チキン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sushi",
+   {
+    "value": "{\"value\":\"すし\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pickles",
+   {
+    "value": "{\"value\":\"漬物\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cole Slaw",
+   {
+    "value": "{\"value\":\"コールスロー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fried Bacon",
+   {
+    "value": "{\"value\":\"揚げベーコン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:It does not get any better.",
+   {
+    "value": "{\"value\":\"それはそれ以上良くなりません。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Baguette",
+   {
+    "value": "{\"value\":\"バゲット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Add some sophistication to your sandwiches.",
+   {
+    "value": "{\"value\":\"サンドイッチに洗練さを加えましょう。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fresh Steak",
+   {
+    "value": "{\"value\":\"新鮮なステーキ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fresh Smoked Sausage",
+   {
+    "value": "{\"value\":\"フレッシュスモークソーセージ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fresh BBQ Chicken Legs",
+   {
+    "value": "{\"value\":\"新鮮なバーベキューチキンレッグ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Ham and Cheese Deluxe",
+   {
+    "value": "{\"value\":\"ハムとチーズのデラックス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Chicken and Bacon Sandwich",
+   {
+    "value": "{\"value\":\"チキンとベーコンのサンドイッチ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Salmon and Cream Cheese Sandwich",
+   {
+    "value": "{\"value\":\"サーモンとクリームチーズのサンドイッチ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bacon Egg On A Hero",
+   {
+    "value": "{\"value\":\"ヒーローのベーコン卵\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Steak Sandwich",
+   {
+    "value": "{\"value\":\"ステーキサンドイッチ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Baked Potato Sandwich",
+   {
+    "value": "{\"value\":\"ベイクドポテトサンドイッチ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fish Deluxe",
+   {
+    "value": "{\"value\":\"フィッシュデラックス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pork and Cream Cheese Sandwich",
+   {
+    "value": "{\"value\":\"ポークとクリームチーズのサンドイッチ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Shades Danish Fish Dish",
+   {
+    "value": "{\"value\":\"シェードデンマークの魚料理\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pats Classic Steak Sandwich",
+   {
+    "value": "{\"value\":\"パッツクラシックステーキサンドイッチ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tuna BLT",
+   {
+    "value": "{\"value\":\"マグロBLT\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pat's Steak Sandwich",
+   {
+    "value": "{\"value\":\"パッツステーキサンドイッチ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Dough",
+   {
+    "value": "{\"value\":\"生地\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Ingredient used in pasta and breads.",
+   {
+    "value": "{\"value\":\"パスタやパンに使われる材料。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bagel",
+   {
+    "value": "{\"value\":\"ベーグル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Is it a New York bagel though?",
+   {
+    "value": "{\"value\":\"でもニューヨークのベーグルですか？\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cheese",
+   {
+    "value": "{\"value\":\"チーズ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Milk",
+   {
+    "value": "{\"value\":\"牛乳\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cream",
+   {
+    "value": "{\"value\":\"クリーム\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cream Cheese",
+   {
+    "value": "{\"value\":\"クリームチーズ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Holy balls! Milk? Still? Better check that expiration date pal!",
+   {
+    "value": "{\"value\":\"ホーリーボール！牛乳？まだ？賞味期限を確認してください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Delicious cream can make anything better. Or just drink it moose.",
+   {
+    "value": "{\"value\":\"おいしいクリームは何でも良くすることができます。または、ムースを飲むだけです。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:What you wouldn't give for a bagel with cream cheese. Hmmmm.",
+   {
+    "value": "{\"value\":\"クリームチーズのベーグルには与えないもの。うーん。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Boiled Cabbage",
+   {
+    "value": "{\"value\":\"ゆでキャベツ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:An Irish tradition and a great way to warm a survivors heart.",
+   {
+    "value": "{\"value\":\"アイルランドの伝統と生存者の心を温めるための素晴らしい方法。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Omelet",
+   {
+    "value": "{\"value\":\"オムレツ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A great way to start out your day of looting rotten homes and burnt out stores.",
+   {
+    "value": "{\"value\":\"腐った家や燃え尽き症候群を略奪する1日を始めるのに最適な方法です。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grilled Pork",
+   {
+    "value": "{\"value\":\"グリルドポーク\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grilled Chicken",
+   {
+    "value": "{\"value\":\"焼き鳥\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Mushroom Soup",
+   {
+    "value": "{\"value\":\"きのこスープ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grilled Corn",
+   {
+    "value": "{\"value\":\"焼きトウモロコシ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grilled Mushrooms",
+   {
+    "value": "{\"value\":\"きのこのグリル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grilled Potato",
+   {
+    "value": "{\"value\":\"焼き芋\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bacon Mac and Cheese",
+   {
+    "value": "{\"value\":\"ベーコンマカロニアンドチーズ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Macaroni and cheese was a childhood favorite of many.",
+   {
+    "value": "{\"value\":\"マカロニとチーズは子供の頃の多くの人のお気に入りでした。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:East Coast Hoagie",
+   {
+    "value": "{\"value\":\"イーストコーストホアジー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:BLT",
+   {
+    "value": "{\"value\":\"BLT\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Ham and Cheese Sandwich",
+   {
+    "value": "{\"value\":\"ハムとチーズのサンドイッチ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sausage and Peppers Hero",
+   {
+    "value": "{\"value\":\"ソーセージとペッパーのヒーロー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Meatball Sub",
+   {
+    "value": "{\"value\":\"ミートボールサブ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Giovanni made it just for you. Are you going to complain?",
+   {
+    "value": "{\"value\":\"ジョバンニはあなたのためだけにそれを作りました。あなたは文句を言うつもりですか？\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Precision crafted specialty sandwiches provide the best nutrition and offer a taste of regional bliss.",
+   {
+    "value": "{\"value\":\"精密に作られた特製サンドイッチは、最高の栄養を提供し、地域の至福の味を提供します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Some among us value the pickle above twine. Be very wary of those individuals.",
+   {
+    "value": "{\"value\":\"私たちの中には、より糸よりも漬物を大切にしている人もいます。それらの個人には非常に注意してください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A delicious treat",
+   {
+    "value": "{\"value\":\"おいしいおやつ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Raw Pasta",
+   {
+    "value": "{\"value\":\"生パスタ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You are on your way to being your own Lagasse",
+   {
+    "value": "{\"value\":\"あなたはあなた自身のラガッセになるための道を進んでいます\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sno Balls",
+   {
+    "value": "{\"value\":\"スノーボール\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Twinkies",
+   {
+    "value": "{\"value\":\"トゥインキー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:CheezIts",
+   {
+    "value": "{\"value\":\"CheezIts\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hot Bag of Chips",
+   {
+    "value": "{\"value\":\"チップスのホットバッグ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bag of Chips",
+   {
+    "value": "{\"value\":\"チップスの袋\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Shorty Bar",
+   {
+    "value": "{\"value\":\"ショーティーバー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Chocolate Bar",
+   {
+    "value": "{\"value\":\"チョコレートバー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Honey Glazed Ham",
+   {
+    "value": "{\"value\":\"はちみつ掛けハム\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Glazed with the amazing power of antibiotic. Maybe.",
+   {
+    "value": "{\"value\":\"抗生物質の驚くべき力で艶をかけられました。多分。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Kobe Beef",
+   {
+    "value": "{\"value\":\"神戸牛\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Butter",
+   {
+    "value": "{\"value\":\"バター\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bacon Meatloaf",
+   {
+    "value": "{\"value\":\"ベーコンミートローフ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Baked Chicken Breast",
+   {
+    "value": "{\"value\":\"焼き鳥の胸肉\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Spicy Hot Wings",
+   {
+    "value": "{\"value\":\"スパイシーな手羽先\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bread",
+   {
+    "value": "{\"value\":\"パン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Another easy to produce vital survival food. Use it to make a number of dishes and sandwiches.",
+   {
+    "value": "{\"value\":\"もう1つの簡単に生産できる重要なサバイバルフード。たくさんの料理やサンドイッチを作るのに使ってください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sno Balls? Where's the fucking Twinkies? Sno Balls?",
+   {
+    "value": "{\"value\":\"スノーボール？クソトゥインキーはどこにありますか？スノーボール？\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The perfect blend of cracker and cheese. Perfect for snacking and heavy enough to remind people you mean business when thrown.",
+   {
+    "value": "{\"value\":\"クラッカーとチーズの完璧なブレンド。おやつに最適で、投げられたときにビジネスを意味することを人々に思い出させるのに十分な重さです。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Seems like you made it here before Tallahassee did so enjoy the spongy, yellow, delicious bastards.",
+   {
+    "value": "{\"value\":\"タラハシーが海綿状の黄色いおいしいろくでなしを楽しむ前に、あなたがここにたどり着いたようです。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A bag of crispy salted potato chips. They're hot and best eaten with a drink at the ready.",
+   {
+    "value": "{\"value\":\"サクサクの塩ポテトチップスの袋。彼らは暑くて、準備ができたら飲み物と一緒に食べるのが一番です。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A bag of crispy salted potato chips.",
+   {
+    "value": "{\"value\":\"サクサクの塩ポテトチップスの袋。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Eating this bar will give you the power of Mighty Mouse!",
+   {
+    "value": "{\"value\":\"このバーを食べると、マイティマウスの力が得られます！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Diabeetus what diabeetus. This is the apocalypse so have at it and shove that candy in your mouth like there is no tomorrow.",
+   {
+    "value": "{\"value\":\"Diabeetus何diabeetus。これは黙示録ですので、それを持って、明日がないようにあなたの口の中にそのキャンディーを押し込んでください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grilling your vegetables is a great way to make a quick nutritious snack..",
+   {
+    "value": "{\"value\":\"野菜を焼くのは、栄養価の高いおやつを作るのに最適な方法です。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Vinegar is a very common ingredient for many recipes",
+   {
+    "value": "{\"value\":\"酢は多くのレシピで非常に一般的な材料です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Mayonnaise can be used to add the perfect finishing touch on sandwiches.",
+   {
+    "value": "{\"value\":\"マヨネーズはサンドイッチに完璧な仕上げを加えるために使用できます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Smoking meats provides massive benefits to you mentally and physically. Take it back to the days before the apocalypse and when cookouts were your weekend getaway..",
+   {
+    "value": "{\"value\":\"肉を燻製することはあなたに精神的および肉体的に大きな利益をもたらします。黙示録の前の日、そして料理が週末の休暇だったときのことを思い出してください。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121224
+}

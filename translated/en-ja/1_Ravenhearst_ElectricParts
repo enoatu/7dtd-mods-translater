@@ -1,0 +1,29 @@
+{
+ "cache": [
+  [
+   "keyv:Electrical Wires",
+   {
+    "value": "{\"value\":\"電線\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Electrical wires are used in to fuse together items with working electrical components.",
+   {
+    "value": "{\"value\":\"電線は、アイテムを動作中の電気部品と融合するために使用されます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Light Bulb",
+   {
+    "value": "{\"value\":\"電球\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Light bulbs are a necessity in this apocalypse to shed light in dark corners.",
+   {
+    "value": "{\"value\":\"この黙示録では、暗い隅に光を当てるために電球が必要です。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412120897
+}

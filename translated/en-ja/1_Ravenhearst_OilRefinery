@@ -1,0 +1,65 @@
+{
+ "cache": [
+  [
+   "keyv:Oil Rig (Empty)",
+   {
+    "value": "{\"value\":\"石油掘削装置（空）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Oil Rig (Finding Nodes)",
+   {
+    "value": "{\"value\":\"石油掘削装置（ノードの検索）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Oil Rig (Starting Drill)",
+   {
+    "value": "{\"value\":\"石油掘削装置（スターティングドリル）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Oil Rig (25% Full)",
+   {
+    "value": "{\"value\":\"石油掘削装置（25％フル）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Oil Rig (50% Full)",
+   {
+    "value": "{\"value\":\"石油掘削装置（50％フル）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Oil Rig (75% Full)",
+   {
+    "value": "{\"value\":\"石油掘削装置（75％フル）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Oil Rig Recipe",
+   {
+    "value": "{\"value\":\"石油掘削装置のレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Place this oil rig on wide open terrain. After placing it will go through 6 phases at it looks for underground oil and drills for it. When the drill is done you will be able to loot it and it will begin drilling again.",
+   {
+    "value": "{\"value\":\"この石油掘削装置を広く開いた地形に置きます。配置後、6つのフェーズを経て、地下の石油を探し、掘削します。ドリルが完了すると、それを略奪することができ、再びドリルを開始します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Oil Rig Full",
+   {
+    "value": "{\"value\":\"石油掘削装置がいっぱい\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Oil Rig has found all the oil it can find.",
+   {
+    "value": "{\"value\":\"石油掘削装置は、見つけることができるすべての石油を見つけました。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121062
+}

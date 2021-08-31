@@ -1,0 +1,65 @@
+{
+ "cache": [
+  [
+   "keyv:Classic Kitchen Chair",
+   {
+    "value": "{\"value\":\"クラシックキッチンチェア\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Folding Chair",
+   {
+    "value": "{\"value\":\"折りたたみ椅子\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:First Aid Kit (Storage)",
+   {
+    "value": "{\"value\":\"応急処置キット（保管）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Recycle Bin",
+   {
+    "value": "{\"value\":\"ごみ箱\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Recycle Bin (Storage)",
+   {
+    "value": "{\"value\":\"ごみ箱（保管）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This new dish that I learned to whip up thanks to Lector's Guide to Happy Eats should please my dinner guests. Now to find a bottle of nice Chianti",
+   {
+    "value": "{\"value\":\"Lector's Guide to Happy Eatsのおかげで私が作り上げることを学んだこの新しい料理は、私の夕食のゲストを喜ばせるはずです。今、素敵なキャンティのボトルを見つけるために\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Serving of Brains",
+   {
+    "value": "{\"value\":\"頭脳の奉仕\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Retro Refrigerator (1970)",
+   {
+    "value": "{\"value\":\"レトロ冷蔵庫（1970）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Retro Refrigerator (1950)",
+   {
+    "value": "{\"value\":\"レトロ冷蔵庫（1950）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Retro Oven",
+   {
+    "value": "{\"value\":\"レトロオーブン\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412120885
+}

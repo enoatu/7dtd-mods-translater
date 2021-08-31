@@ -1,0 +1,17 @@
+{
+ "cache": [
+  [
+   "keyv:Survival Campfire",
+   {
+    "value": "{\"value\":\"サバイバルキャンプファイヤー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The survival campfire can cook more advanced meals than a normal campfire.",
+   {
+    "value": "{\"value\":\"サバイバルキャンプファイヤーは、通常のキャンプファイヤーよりも高度な食事を調理できます。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121344
+}

@@ -1,0 +1,269 @@
+{
+ "cache": [
+  [
+   "keyv:Shotgun Parts",
+   {
+    "value": "{\"value\":\"ショットガンパーツ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Shotgun Barrel",
+   {
+    "value": "{\"value\":\"ショットガンバレル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Shotgun Stock",
+   {
+    "value": "{\"value\":\"ショットガンストック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Shotgun Receiver",
+   {
+    "value": "{\"value\":\"ショットガンレシーバー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Handgun Parts",
+   {
+    "value": "{\"value\":\"拳銃の部品\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Handgun Barrel",
+   {
+    "value": "{\"value\":\"ハンドガンバレル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Handgun Grip",
+   {
+    "value": "{\"value\":\"ハンドガングリップ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Handgun Frame",
+   {
+    "value": "{\"value\":\"拳銃フレーム\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:.44 Magnum Frame",
+   {
+    "value": "{\"value\":\".44マグナムフレーム\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Rifle Parts",
+   {
+    "value": "{\"value\":\"ライフルパーツ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Rifle Barrel",
+   {
+    "value": "{\"value\":\"ライフルバレル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Rifle Stock",
+   {
+    "value": "{\"value\":\"ライフル銃床\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hunting Rifle Receiver",
+   {
+    "value": "{\"value\":\"ハンティングライフルレシーバー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sniper Rifle Receiver",
+   {
+    "value": "{\"value\":\"スナイパーライフルレシーバー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Automatic Rifle Parts",
+   {
+    "value": "{\"value\":\"自動小銃部品\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Automatic Rifle Barrel",
+   {
+    "value": "{\"value\":\"自動小銃バレル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Automatic Rifle Stock",
+   {
+    "value": "{\"value\":\"自動小銃の銃床\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:AK47 Receiver",
+   {
+    "value": "{\"value\":\"AK47レシーバー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:M60 Receiver",
+   {
+    "value": "{\"value\":\"M60レシーバー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A piece from a shotgun that you can use to assemble a full working gun.\\nScrap to Shotgun Pieces.",
+   {
+    "value": "{\"value\":\"完全に機能する銃を組み立てるために使用できるショットガンのピース。\\\\nショットガンピースにスクラップします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A piece from a handgun that you can use to assemble a full working gun.\\nScrap to Handgun Pieces.",
+   {
+    "value": "{\"value\":\"完全に機能する銃を組み立てるために使用できる拳銃のピース。\\\\nスクラップから拳銃のピース。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A piece from a rifle that you can use to assemble a full working gun.\\nScrap to Rifle Pieces.",
+   {
+    "value": "{\"value\":\"完全に機能する銃を組み立てるために使用できるライフルのピース。\\\\nライフルのピースにスクラップ。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A piece from an automatic rifle that you can use to assemble a full working gun.\\nScrap to Automatic Rifle Pieces.",
+   {
+    "value": "{\"value\":\"完全に機能する銃を組み立てるために使用できる自動小銃のピース。\\\\n自動小銃のピースにスクラップします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Handgun Pieces",
+   {
+    "value": "{\"value\":\"拳銃の部分\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Machine Gun Pieces",
+   {
+    "value": "{\"value\":\"機関銃のピース\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Rifle Pieces",
+   {
+    "value": "{\"value\":\"ライフルピース\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Shotgun Pieces",
+   {
+    "value": "{\"value\":\"ショットガンピース\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A basic pistol that uses 9mm ammo.\\n\\nRepair with a Gun Repair Kit.\\nScrap to Handgun Pieces.",
+   {
+    "value": "{\"value\":\"9mm弾薬を使用する基本的なピストル。\\\\n\\\\n銃修理キットで修理します。\\\\n拳銃の破片にスクラップします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The .44 Magnum is the king of handguns. It's the most powerful but makes the most noise. Wield this bad boy and make Clint proud.\\n\\nRepair with a Gun Repair Kit.\\nScrap to Handgun Pieces.",
+   {
+    "value": "{\"value\":\".44マグナムは拳銃の王様です。それは最も強力ですが、最もノイズを出します。この悪い男の子を振り回して、クリントを誇りに思ってください。\\\\n\\\\n銃修理キットで修理してください。\\\\n拳銃の破片にスクラップしてください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This heavy pistol uses .44 Magnum ammo.\\n\\nRepair with a Gun Repair Kit.\\nScrap to Handgun Pieces.",
+   {
+    "value": "{\"value\":\"この重いピストルは.44マグナム弾を使用します。\\\\n\\\\n銃修理キットで修理します。\\\\n拳銃の破片にスクラップします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This submachine gun uses 9mm ammo.\\n\\nRepair with a Gun Repair Kit.\\nScrap to Handgun Pieces.",
+   {
+    "value": "{\"value\":\"このサブマシンガンは9mmの弾薬を使用します。\\\\n\\\\nガン修理キットで修理します。\\\\n拳銃の破片にスクラップします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This badass AK-47 Machine Gun uses 7.62mm ammo.\\n\\nRepair with a Gun Repair Kit.\\nScrap to Machine Gun Pieces.",
+   {
+    "value": "{\"value\":\"このワルなAK-47機関銃は、7.62mmの弾薬を使用しています。\\\\n\\\\n銃修理キットで修理します。\\\\n機関銃の部品を削ります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This Tactical Assault Rifle uses 7.62mm ammo.\\n\\nRepair with a Gun Repair Kit.\\nScrap to Machine Gun Pieces.",
+   {
+    "value": "{\"value\":\"この戦術的なアサルトライフルは7.62mmの弾薬を使用します。\\\\n\\\\n銃修理キットで修理します。\\\\n機関銃の破片を削ります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Machine guns are somewhat cumbersome to use but excel at automatic fire. This one uses 7.62mm ammo.\\n\\nRepair with a Gun Repair Kit.\\nScrap to Machine Gun Pieces.",
+   {
+    "value": "{\"value\":\"機関銃は使用するのがやや面倒ですが、自動発砲に優れています。これは7.62mmの弾薬を使用します。\\\\n\\\\n銃修理キットで修理します。\\\\n銃片を機械で削ります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This common farmer's hunting rifle uses 7.62mm ammo.\\n\\nRepair with a Gun Repair Kit.\\nScrap to Rifle Pieces.",
+   {
+    "value": "{\"value\":\"この一般的な農民の狩猟用ライフルは7.62mmの弾薬を使用します。\\\\n\\\\n銃修理キットで修理します。\\\\nライフルの小銃にスクラップします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This marksman's rifle uses 7.62mm ammo and is your first choice if you want to make that shot count.\\n\\nRepair with a Gun Repair Kit.\\nScrap to Rifle Pieces.",
+   {
+    "value": "{\"value\":\"この射手用ライフルは7.62mmの弾薬を使用しており、そのショット数を増やしたい場合は最初の選択肢です。\\\\n\\\\n銃修理キットで修理します。\\\\nライフルの小銃にスクラップします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This high precision, long ranged rifle is perfect for sniping enemies at great distances.\\n\\nRepair with a Gun Repair Kit.\\nScrap to Rifle Pieces.",
+   {
+    "value": "{\"value\":\"この高精度で長距離のライフルは、遠くにいる敵を狙撃するのに最適です。\\\\n\\\\nガン修理キットで修理します。\\\\nライフルのピースにスクラップします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A rusty old double barrel shotgun, great for close range carnage.\\n\\nRepair with a Gun Repair Kit.\\nScrap to Shotgun Pieces.",
+   {
+    "value": "{\"value\":\"さびた古い二連式散弾銃。近距離の大虐殺に最適です。\\\\n\\\\n銃修理キットで修理します。\\\\n散弾銃の破片にスクラップします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A long-barreled shotgun with pump action loading .\\n\\nRepair with a Gun Repair Kit.\\nScrap to Shotgun Pieces.",
+   {
+    "value": "{\"value\":\"ポンプアクションを搭載したロングバレルショットガン。\\\\n\\\\nガン修理キットで修理します。\\\\nショットガンピースにスクラップします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This semi automatic shotgun is a rare and devasting short range weapon capable of making minced meat out of anything in its path.\\n\\nRepair with a Gun Repair Kit.\\nScrap to Shotgun Pieces.",
+   {
+    "value": "{\"value\":\"この半自動ショットガンは、経路上のあらゆるものからミンチ肉を作ることができる、まれで破壊的な短距離武器です。\\\\n\\\\nガン修理キットで修理します。\\\\nショットガンピースにスクラップします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Rifle Parts Schematic",
+   {
+    "value": "{\"value\":\"ライフル部品の概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Handgun Parts Schematic",
+   {
+    "value": "{\"value\":\"拳銃部品の概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Shotgun Parts Schematic",
+   {
+    "value": "{\"value\":\"ショットガン部品の概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Machine Gun Parts Schematic",
+   {
+    "value": "{\"value\":\"機関銃部品の概略図\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412120956
+}

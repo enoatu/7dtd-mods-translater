@@ -1,0 +1,59 @@
+{
+ "cache": [
+  [
+   "keyv:Gas Pump (Full)",
+   {
+    "value": "{\"value\":\"ガスポンプ（フル）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gas Can (Empty)",
+   {
+    "value": "{\"value\":\"ガス缶（空）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Empty gas cans can be brought to a gas pump and filled by right clicking on the pump. In a few hours you will receive filled gas cans by looting the filled pump.",
+   {
+    "value": "{\"value\":\"空のガス缶をガスポンプに運び、ポンプを右クリックすることで充填できます。数時間以内に、満たされたポンプを略奪することにより、満たされたガス缶を受け取ります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gas Pump (Filling)",
+   {
+    "value": "{\"value\":\"ガスポンプ（充填）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gas Pump Is Currently Filling",
+   {
+    "value": "{\"value\":\"ガスポンプは現在充填中です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gas Pump (Empty)",
+   {
+    "value": "{\"value\":\"ガスポンプ（空）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Right Click With 50 Empty Gas Cans To Initiate Filling",
+   {
+    "value": "{\"value\":\"50個の空のガス缶で右クリックして充填を開始します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Broken Gas Pump",
+   {
+    "value": "{\"value\":\"壊れたガスポンプ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This Pump Is Broken And Can Not Be Used",
+   {
+    "value": "{\"value\":\"このポンプは壊れており、使用できません\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412120951
+}

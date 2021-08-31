@@ -1,0 +1,23 @@
+{
+ "cache": [
+  [
+   "keyv:Farming Table",
+   {
+    "value": "{\"value\":\"農業テーブル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Your farming table will make fertilizer and seeds.",
+   {
+    "value": "{\"value\":\"あなたの農業テーブルは肥料と種を作ります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Farming Table Schematic",
+   {
+    "value": "{\"value\":\"農業テーブルの概略図\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121339
+}

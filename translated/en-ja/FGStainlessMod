@@ -1,0 +1,29 @@
+{
+ "cache": [
+  [
+   "keyv:Steel Polish",
+   {
+    "value": "{\"value\":\"スチールポリッシュ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Polish used to upgrade steel blocks to Stainless Steel. This will greatly increase the durability of the block and make it shine.",
+   {
+    "value": "{\"value\":\"スチールブロックをステンレス鋼にアップグレードするために使用されるポーランド語。これにより、ブロックの耐久性が大幅に向上し、輝きを増します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Box of Steel Polish",
+   {
+    "value": "{\"value\":\"スチールポリッシュの箱\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Box of Steel Polish that will produce bottles when opened.",
+   {
+    "value": "{\"value\":\"開封するとボトルができるスチールポリッシュの箱。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121426
+}

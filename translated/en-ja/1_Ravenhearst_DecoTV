@@ -1,0 +1,35 @@
+{
+ "cache": [
+  [
+   "keyv:Floor Model TV",
+   {
+    "value": "{\"value\":\"フロアモデルTV\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Retro Television",
+   {
+    "value": "{\"value\":\"レトロテレビ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:TV with Stand",
+   {
+    "value": "{\"value\":\"スタンド付きテレビ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Television Block",
+   {
+    "value": "{\"value\":\"テレビブロック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:TV Schematic",
+   {
+    "value": "{\"value\":\"TV回路図\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412120892
+}

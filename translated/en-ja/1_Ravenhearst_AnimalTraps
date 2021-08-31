@@ -1,0 +1,659 @@
+{
+ "cache": [
+  [
+   "keyv:Pet",
+   {
+    "value": "{\"value\":\"ペット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Milk",
+   {
+    "value": "{\"value\":\"牛乳\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Follow me.",
+   {
+    "value": "{\"value\":\"フォローしてください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Stay here.",
+   {
+    "value": "{\"value\":\"ここにいて。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tell me about yourself.",
+   {
+    "value": "{\"value\":\"自己紹介をお願いします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hangout around here.",
+   {
+    "value": "{\"value\":\"このあたりのたまり場。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Set Starting Patrol Point",
+   {
+    "value": "{\"value\":\"開始パトロールポイントを設定する\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Please Patrol this area.",
+   {
+    "value": "{\"value\":\"このエリアをパトロールしてください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Please Join me (Hire)",
+   {
+    "value": "{\"value\":\"参加してください（雇う）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Chicken",
+   {
+    "value": "{\"value\":\"鶏\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Rabbit",
+   {
+    "value": "{\"value\":\"うさぎ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pet Boar",
+   {
+    "value": "{\"value\":\"ペットのイノシシ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pet Rabbit",
+   {
+    "value": "{\"value\":\"ペットのウサギ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pet Stag",
+   {
+    "value": "{\"value\":\"ペットスタッグ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pet Chicken",
+   {
+    "value": "{\"value\":\"ペットチキン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pet Pig",
+   {
+    "value": "{\"value\":\"ペットの豚\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pet Bear",
+   {
+    "value": "{\"value\":\"ペットベア\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pet Wolf",
+   {
+    "value": "{\"value\":\"ペットオオカミ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pet Coyote",
+   {
+    "value": "{\"value\":\"ペットコヨーテ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pet Doe",
+   {
+    "value": "{\"value\":\"ペットドウ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This is a Pet Animal, place down to keep as a pet or harvest for meat. Best to keep in a high pen of 3 or more blocks or they will escape.",
+   {
+    "value": "{\"value\":\"これはペットの動物です。ペットとして飼ったり、肉を収穫したりするために置いてください。 3ブロック以上の高いペンに入れておくのが最善です。そうしないと逃げてしまいます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hell Bear (Guard)",
+   {
+    "value": "{\"value\":\"地獄のクマ（警備員）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hell Boar (Guard)",
+   {
+    "value": "{\"value\":\"地獄のイノシシ（警備員）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hell Wolf (Guard)",
+   {
+    "value": "{\"value\":\"ヘルウルフ（ガード）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hell Lion (Guard)",
+   {
+    "value": "{\"value\":\"地獄のライオン（警備員）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Rabbit (Guard)",
+   {
+    "value": "{\"value\":\"うさぎ（ガード）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sim Alastair (Guard)",
+   {
+    "value": "{\"value\":\"シムアラステア（警備員）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Lizzy (Guard)",
+   {
+    "value": "{\"value\":\"リジー（ガード）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Psyren (Guard)",
+   {
+    "value": "{\"value\":\"サイレン（警備員）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Zeus (Guard)",
+   {
+    "value": "{\"value\":\"ゼウス（警備員）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This is a Guard, place down and it will stand guard until a zombie is in range at which point it will go into attack mode.",
+   {
+    "value": "{\"value\":\"これはガードです。下に置くと、ゾンビが範囲内に入るまでガードを立て、ゾンビが攻撃モードになります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Chicken Feed",
+   {
+    "value": "{\"value\":\"鶏の餌\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Use the Chicken Feed with right mouse click on the Chicken Coop to feed the chickens.",
+   {
+    "value": "{\"value\":\"鶏小屋を右クリックして鶏小屋を使用し、鶏に餌を与えます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Animal Feed",
+   {
+    "value": "{\"value\":\"動物飼料\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Animal Feed can be placed in a Trough to feed your breeded animals.",
+   {
+    "value": "{\"value\":\"動物飼料はあなたの繁殖した動物を養うためにトラフに置くことができます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Rabbit Feed",
+   {
+    "value": "{\"value\":\"うさぎの餌\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Use the Rabbit Feed with right mouse click on the Rabbit Cage Trap to set the trap and attract a rabbit.",
+   {
+    "value": "{\"value\":\"ウサギのケージトラップをマウスで右クリックしてウサギの餌を使用し、トラップを設定してウサギを引き付けます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Chicken Coop (Needs Chicken Feed)",
+   {
+    "value": "{\"value\":\"チキンコープ（チキンフィードが必要）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Feed the chickens in the coop with Chicken Feed and over time they will produce feathers, eggs, and periodically another chicken.",
+   {
+    "value": "{\"value\":\"小屋の鶏にチキンフィードを与えると、時間の経過とともに羽、卵、そして定期的に別の鶏が生産されます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Chicken Coop Nesting Stage",
+   {
+    "value": "{\"value\":\"チキンコープネスティングステージ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Chicken Coop Hatched and Waiting",
+   {
+    "value": "{\"value\":\"孵化して待っているチキンコープ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Rabbit Cage Trap (Needs Rabbit Feed)",
+   {
+    "value": "{\"value\":\"ウサギのケージトラップ（ウサギの飼料が必要）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Put on the ground, bate it with Rabbit Feed, and wait.",
+   {
+    "value": "{\"value\":\"地面に置き、ウサギの餌でそれを打ち負かし、待ちます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Rabbit Cage Trap Baited and Set",
+   {
+    "value": "{\"value\":\"ウサギのケージトラップを餌にしてセット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Rabbit Cage Trap Sprung and Waiting",
+   {
+    "value": "{\"value\":\"うさぎの檻の罠が跳ねて待っている\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Junk Item (Discard)",
+   {
+    "value": "{\"value\":\"ジャンクアイテム（廃棄）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Female Chicken (Breeding)",
+   {
+    "value": "{\"value\":\"雌鶏（繁殖）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have a Male Chicken. Place this chicken in an enclosed area with animal feed and water. Add a female and the two will breed more chickens.",
+   {
+    "value": "{\"value\":\"あなたはオスの鶏を飼っています。この鶏肉を動物飼料と水で囲まれた場所に置きます。雌を追加すると、2匹はより多くの鶏を繁殖させます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have a Female Chicken. Place this chicken in an enclosed area with animal feed and water. Add a male and the two will breed more chickens.",
+   {
+    "value": "{\"value\":\"あなたは雌鶏を飼っています。この鶏肉を動物飼料と水で囲まれた場所に置きます。男性を追加すると、2人はより多くの鶏を繁殖させます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Male Pig (Breeding)",
+   {
+    "value": "{\"value\":\"オスのブタ（繁殖）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Female Pig (Breeding)",
+   {
+    "value": "{\"value\":\"雌豚（繁殖）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have a Male Pig. Place this pig in an enclosed area with animal feed and water. Add a female and the two will breed more pigs.",
+   {
+    "value": "{\"value\":\"あなたは雄豚を飼っています。この豚を動物飼料と水で囲まれた場所に置きます。雌を追加すると、2匹はより多くの豚を繁殖させます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have a Female Pig. Place this pig in an enclosed area with animal feed and water. Add a male and the two will breed more pigs.",
+   {
+    "value": "{\"value\":\"あなたは雌豚を飼っています。この豚を動物飼料と水で囲まれた場所に置きます。男性を追加すると、2頭はより多くの豚を繁殖させます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Male Cow (Breeding)",
+   {
+    "value": "{\"value\":\"雄牛（繁殖）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Female Cow (Breeding)",
+   {
+    "value": "{\"value\":\"雌牛（繁殖）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have a Male Cow. Place this Cow in an enclosed area with animal feed and water. Add a female and the two will breed more Cows.",
+   {
+    "value": "{\"value\":\"あなたは雄牛を飼っています。この牛を動物飼料と水で囲まれた場所に置きます。雌を追加すると、2頭はより多くの牛を繁殖させます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have a Female Cow. Place this Cow in an enclosed area with animal feed and water. Add a male and the two will breed more Cows.",
+   {
+    "value": "{\"value\":\"あなたは雌牛を飼っています。この牛を動物飼料と水で囲まれた場所に置きます。男性を追加すると、2頭はより多くの牛を繁殖させます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Accept to Release the Hatched Chicken for Placement.",
+   {
+    "value": "{\"value\":\"配置のために孵化した鶏を解放することに同意します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv::)",
+   {
+    "value": "{\"value\":\"::)\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have a Pet Rabbit.",
+   {
+    "value": "{\"value\":\"あなたはペットのウサギを飼っています。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Accept to Release the Trapped Rabbit for Placement.",
+   {
+    "value": "{\"value\":\"配置のためにトラップされたウサギを解放することに同意します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have a Pet Boar.",
+   {
+    "value": "{\"value\":\"あなたはペットのイノシシを飼っています。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Accept to Release the Pet Boar for Placement.",
+   {
+    "value": "{\"value\":\"配置のためにペットのイノシシを解放することに同意します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have a Pet Stag.",
+   {
+    "value": "{\"value\":\"あなたはペットのクワガタを持っています。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Accept to Release the Pet Stag for Placement.",
+   {
+    "value": "{\"value\":\"配置のためにペットスタッグを解放することに同意します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have a Pet Pig.",
+   {
+    "value": "{\"value\":\"あなたはペットのブタを飼っています。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Accept to Release the Pet Pig for Placement.",
+   {
+    "value": "{\"value\":\"配置のためにペットの豚を解放することに同意します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have a Pet Bear.",
+   {
+    "value": "{\"value\":\"あなたはペットのクマを飼っています。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Accept to Release the Pet Bear for Placement.",
+   {
+    "value": "{\"value\":\"配置のためにペットのクマを解放することに同意します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have a Pet Wolf.",
+   {
+    "value": "{\"value\":\"あなたはペットのオオカミを飼っています。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Accept to Release the Pet Wolf for Placement.",
+   {
+    "value": "{\"value\":\"配置のためにペットのオオカミを解放することに同意します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have a Pet Coyote.",
+   {
+    "value": "{\"value\":\"あなたはペットコヨーテを持っています。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Accept to Release the Pet Coyote for Placement.",
+   {
+    "value": "{\"value\":\"配置のためにペットコヨーテを解放することに同意します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have a Pet Doe.",
+   {
+    "value": "{\"value\":\"あなたはPetDoeを持っています。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Accept to Release the Pet Doe for Placement.",
+   {
+    "value": "{\"value\":\"配置のためにPetDoeを解放することに同意します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Guard Rabbit",
+   {
+    "value": "{\"value\":\"ガードラビット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have a Guard Rabbit.",
+   {
+    "value": "{\"value\":\"あなたはガードラビットを持っています。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Accept to Release the Guard Rabbit for Placement.",
+   {
+    "value": "{\"value\":\"配置のためにガードラビットを解放することに同意します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Guard Hell Lion",
+   {
+    "value": "{\"value\":\"ガードヘルライオン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have a Guard Hell Lion.",
+   {
+    "value": "{\"value\":\"あなたはガードヘルライオンを持っています。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Accept to Release Guard Hell Lion for Placement.",
+   {
+    "value": "{\"value\":\"配置のためにガードヘルライオンを解放することに同意します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Guard Hell Wolf",
+   {
+    "value": "{\"value\":\"ガードヘルウルフ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have a Guard Hell Wolf.",
+   {
+    "value": "{\"value\":\"あなたはガードヘルウルフを持っています。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Accept to Release the Guard Hell Wolf for Placement.",
+   {
+    "value": "{\"value\":\"配置のためにガードヘルウルフを解放することを受け入れます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Guard Hell Boar",
+   {
+    "value": "{\"value\":\"ガードヘルボア\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have a Guard Hell Boar.",
+   {
+    "value": "{\"value\":\"あなたはGuardHellBoarを持っています。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Accept to Release the Guard Hell Boar for Placement.",
+   {
+    "value": "{\"value\":\"配置のためにガードヘルイノシシを解放することに同意します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Guard Hell Bear",
+   {
+    "value": "{\"value\":\"ガードヘルベア\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have a Guard Hell Bear.",
+   {
+    "value": "{\"value\":\"あなたはガードヘルベアを持っています。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Accept to Release the Guard Hell Bear for Placement.",
+   {
+    "value": "{\"value\":\"配置のためにガードヘルベアを解放することに同意します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Farm Jeep (Farm Friend)",
+   {
+    "value": "{\"value\":\"ファームジープ（ファームフレンド）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Chicken Coop",
+   {
+    "value": "{\"value\":\"鶏舎\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Generate your own Eggs and feathers!\\n\\nUnlocked with the 'Living off the Land' perk.",
+   {
+    "value": "{\"value\":\"独自の卵と羽を生成します！\\\\n\\\\n「LivingofftheLand」特典でロックを解除します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Full Chicken Coop",
+   {
+    "value": "{\"value\":\"フルチキンコープ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Male Chicken",
+   {
+    "value": "{\"value\":\"男性の鶏\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Female Chicken",
+   {
+    "value": "{\"value\":\"雌鶏\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Male Boar",
+   {
+    "value": "{\"value\":\"男性のイノシシ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Female Boar",
+   {
+    "value": "{\"value\":\"雌イノシシ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Male Pig",
+   {
+    "value": "{\"value\":\"オスのブタ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Female Pig",
+   {
+    "value": "{\"value\":\"雌豚\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Male Stag",
+   {
+    "value": "{\"value\":\"男性のクワガタ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Female Stag",
+   {
+    "value": "{\"value\":\"メスのクワガタ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Male Rabbit",
+   {
+    "value": "{\"value\":\"オスのウサギ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Female Rabbit",
+   {
+    "value": "{\"value\":\"雌うさぎ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Animal Trough",
+   {
+    "value": "{\"value\":\"動物の飼い葉桶\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Place this in your breeding center and fill it with animal feed to feed your pet.",
+   {
+    "value": "{\"value\":\"これをあなたの繁殖センターに置き、あなたのペットを養うために動物飼料でそれを満たしてください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Animal Waste Disposal",
+   {
+    "value": "{\"value\":\"動物の排泄物の処分\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Place this in your breeding center and your animal will use it for waste.",
+   {
+    "value": "{\"value\":\"これを繁殖センターに置くと、動物はそれを廃棄物として使用します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Youll use the male and female items you get from animals to craft a male or female. They have a home block. Right now its hay bale. Place hay and surround them in a 4 high fence or wall or they will wander. Place a trough and craft animal feed. Fill the trough with feed. Pour water out in a hole for them to drink out of. They will poop. You can place a toilet to catch their poop. Eventually they will have babies and the cycle repeats.",
+   {
+    "value": "{\"value\":\"動物から入手したオスとメスのアイテムを使用して、オスまたはメスを作ります。彼らはホームブロックを持っています。今、その干し草の俵。干し草を置き、4つの高い柵または壁で囲みます。そうしないと、放浪します。トラフを置き、動物飼料を作ります。トラフに飼料を入れます。彼らが飲むために穴に水を注ぎなさい。彼らはうんちをします。あなたは彼らのうんちを捕まえるためにトイレを置くことができます。最終的には赤ちゃんが生まれ、このサイクルが繰り返されます。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412120761
+}

@@ -1,0 +1,35 @@
+{
+ "cache": [
+  [
+   "keyv:Mechanic Workbench",
+   {
+    "value": "{\"value\":\"メカニックワークベンチ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The mechanic bench can be used to fix up vehicles and create brand new rides to cruise the apocalypse in.",
+   {
+    "value": "{\"value\":\"メカニックベンチは、車両を修理し、黙示録を巡航するための真新しい乗り物を作成するために使用できます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Mechanic Workbench Schematic",
+   {
+    "value": "{\"value\":\"メカニックワークベンチの概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Socket",
+   {
+    "value": "{\"value\":\"ソケット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sockets are essential for crafting engines and car parts.",
+   {
+    "value": "{\"value\":\"ソケットは、エンジンや自動車部品の製造に不可欠です。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121335
+}

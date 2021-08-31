@@ -1,0 +1,23 @@
+{
+ "cache": [
+  [
+   "keyv:Coffee Maker (Powered)",
+   {
+    "value": "{\"value\":\"コーヒーメーカー（電動）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This coffee maker can be placed in your home and used to make coffee and tea.",
+   {
+    "value": "{\"value\":\"このコーヒーメーカーはあなたの家に置いて、コーヒーとお茶を作るのに使うことができます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Commercial Coffee Maker (Powered)",
+   {
+    "value": "{\"value\":\"業務用コーヒーメーカー（電動）\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121128
+}

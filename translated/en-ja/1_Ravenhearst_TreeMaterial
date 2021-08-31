@@ -1,0 +1,17 @@
+{
+ "cache": [
+  [
+   "keyv:Wood Log",
+   {
+    "value": "{\"value\":\"ウッドログ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Wood logs can be broken down into wood in your bench or use the tree splitter for more efficiency.",
+   {
+    "value": "{\"value\":\"木の丸太はベンチで木に分解するか、より効率的にツリースプリッターを使用することができます。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121103
+}

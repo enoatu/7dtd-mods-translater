@@ -1,0 +1,59 @@
+{
+ "cache": [
+  [
+   "keyv:Toaster (Powered)",
+   {
+    "value": "{\"value\":\"トースター（動力付き）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Nothing starts your day of zombie slaying off better than some nice crunchy toast.",
+   {
+    "value": "{\"value\":\"ゾンビを殺す一日の始まりは、カリカリのトーストほどではありません。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Butter",
+   {
+    "value": "{\"value\":\"バター\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Butter compliments every meal and is a key ingredient in larger dishes.",
+   {
+    "value": "{\"value\":\"バターはすべての食事を引き立て、より大きな料理の重要な成分です。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Toasted Bread",
+   {
+    "value": "{\"value\":\"トーストしたパン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pop 2 slices of bread and set your toasters to medum.",
+   {
+    "value": "{\"value\":\"パンを2枚ポップし、トースターを中程度に設定します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Yucca Jam And Toast",
+   {
+    "value": "{\"value\":\"ユッカジャムアンドトースト\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Jam on toast is as basic as it can get but hell if you do not still love it.",
+   {
+    "value": "{\"value\":\"トーストのジャムはそれが得ることができるのと同じくらい基本的です、しかしあなたがまだそれを愛していないなら地獄。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Blueberry Jam And Toast",
+   {
+    "value": "{\"value\":\"ブルーベリージャムとトースト\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121131
+}

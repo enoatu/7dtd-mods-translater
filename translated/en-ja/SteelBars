@@ -1,0 +1,23 @@
+{
+ "cache": [
+  [
+   "keyv:Steel Bars",
+   {
+    "value": "{\"value\":\"棒鋼\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Steel Bars (Centered)",
+   {
+    "value": "{\"value\":\"棒鋼（中央）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You can see and shoot through steel bars and they offer decent protection",
+   {
+    "value": "{\"value\":\"あなたは鋼棒を見て撃つことができ、それらはまともな保護を提供します\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121300
+}

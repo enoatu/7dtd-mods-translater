@@ -1,0 +1,23 @@
+{
+ "cache": [
+  [
+   "keyv:Blacksmith Forge",
+   {
+    "value": "{\"value\":\"鍛冶屋フォージ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The blacksmith forge is used to melt copper and brass as well as make more complex recipes.",
+   {
+    "value": "{\"value\":\"鍛冶屋の鍛造は、銅と真ちゅうを溶かすだけでなく、より複雑なレシピを作るために使用されます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Blacksmith Forge Schematic",
+   {
+    "value": "{\"value\":\"鍛冶屋フォージの概略図\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121356
+}

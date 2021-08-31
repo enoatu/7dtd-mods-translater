@@ -1,0 +1,29 @@
+{
+ "cache": [
+  [
+   "keyv:Box of Nails",
+   {
+    "value": "{\"value\":\"釘の箱\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A regular box nails. Open it up (with recipe) to get some nails.",
+   {
+    "value": "{\"value\":\"通常のボックスネイル。それを（レシピで）開いて、いくつかの釘を手に入れます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bent Nails",
+   {
+    "value": "{\"value\":\"曲がった爪\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have some bent nails, you can probably straighten them out.",
+   {
+    "value": "{\"value\":\"あなたはいくつかの曲がった爪を持っています、あなたはおそらくそれらをまっすぐにすることができます。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121052
+}

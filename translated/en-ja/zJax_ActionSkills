@@ -1,0 +1,2153 @@
+{
+ "cache": [
+  [
+   "keyv:+1% Block Damage and Resource Gain\\n+0.3% Stamina Reduction\\nper level",
+   {
+    "value": "{\"value\":\"+ 1％ブロックダメージとリソースゲイン\\\\n+ 0.3％スタミナ削減\\\\nレベルごと\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:+0.3% Damage and Stamina Reduction\\nper level\\nUnlocks Blunt Recipes at levels 20, 40, 60, 80 and 100",
+   {
+    "value": "{\"value\":\"+ 0.3％のダメージとスタミナの減少\\\\nレベルごと\\\\nレベル20、40、60、80、100で鈍いレシピのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:+0.3% Damage and Stamina Reduction\\nper level\\nUnlocks Sledgehammer Recipes at levels 20, 40, 60, 80 and 100",
+   {
+    "value": "{\"value\":\"+ 0.3％のダメージとスタミナの減少\\\\nレベルごと\\\\nレベル20、40、60、80、100でスレッジハンマーレシピのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:+0.3% Damage and Stamina Reduction\\nper level\\nUnlocks Blade Recipes at levels 20, 40, 60, 80 and 100",
+   {
+    "value": "{\"value\":\"+ 0.3％のダメージとスタミナの減少\\\\nレベルごと\\\\nレベル20、40、60、80、100でブレードレシピのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:+0.3% Damage and Stamina Reduction\\nper level\\nUnlocks Electric Weapon Recipes at levels 20, 60 and 100",
+   {
+    "value": "{\"value\":\"+ 0.3％のダメージとスタミナの減少\\\\nレベルごと\\\\nレベル20、60、100で電気武器のレシピのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:+0.3% Damage and Stamina Reduction\\nper level\\nUnlocks Javelin Recipes at levels 20, 60 and 100",
+   {
+    "value": "{\"value\":\"+ 0.3％のダメージとスタミナの減少\\\\nレベルごと\\\\nレベル20、60、100でやり投げレシピのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:+0.3% Damage\\n+0.5% Accuracy and Reload Speed\\nper level\\nUnlocks Bow Recipes at levels 20, 40, 60, 80 and 100",
+   {
+    "value": "{\"value\":\"+ 0.3％のダメージ\\\\n+ 0.5％の精度とリロード速度\\\\nレベルごと\\\\nレベル20、40、60、80、100で弓のレシピのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:+0.3% Damage\\n+0.5% Accuracy, Reload Speed, and Recoil Reduction\\nper level\\nUnlocks Pistol Recipes at levels 20, 40, 60, 80 and 100",
+   {
+    "value": "{\"value\":\"+ 0.3％のダメージ\\\\n+ 0.5％の精度、リロード速度、反動の減少\\\\nレベルごと\\\\nレベル20、40、60、80、100でピストルレシピのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:+0.3% Damage\\n+0.5% Accuracy, Reload Speed, and Recoil Reduction\\nper level\\nUnlocks Shotgun Recipes at levels 20, 40, 60, 80 and 100",
+   {
+    "value": "{\"value\":\"+ 0.3％のダメージ\\\\n+ 0.5％の精度、リロード速度、リコイルの減少\\\\nレベルごと\\\\nレベル20、40、60、80、100でショットガンレシピのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:+0.3% Damage\\n+0.5% Accuracy, Reload Speed, and Recoil Reduction\\nper level\\nUnlocks Rifle Recipes at levels 20, 40, 60, 80 and 100",
+   {
+    "value": "{\"value\":\"+ 0.3％のダメージ\\\\n+ 0.5％の精度、リロード速度、反動の減少\\\\nレベルごと\\\\nレベル20、40、60、80、100でライフルレシピのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:+0.3% Damage\\n+0.5% Accuracy, Reload Speed, and Recoil Reduction\\nper level\\nUnlocks Automatics Recipes at levels 20, 40, 60, 80 and 100",
+   {
+    "value": "{\"value\":\"+ 0.3％のダメージ\\\\n+ 0.5％の精度、リロード速度、リコイルの減少\\\\nレベルごと\\\\nレベル20、40、60、80、100で自動レシピのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:+0.3% Damage and Stamina Reduction\\nper level\\nUnlocks Fist Weapon Recipes at levels 20, 60 and 100",
+   {
+    "value": "{\"value\":\"+ 0.3％のダメージとスタミナの減少\\\\nレベルごと\\\\nレベル20、60、100で拳の武器レシピのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:+0.3% Damage and Stamina Reduction\\nper level\\nUnlocks Turret Recipes at levels 20, 40, 60, 80 and 100",
+   {
+    "value": "{\"value\":\"+ 0.3％のダメージとスタミナの減少\\\\nレベルごと\\\\nレベル20、40、60、80、100でタレットレシピのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Action Skills",
+   {
+    "value": "{\"value\":\"アクションスキル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Action Skills level as you use them.",
+   {
+    "value": "{\"value\":\"使用するアクションスキルレベル。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Attribute: Action Skills",
+   {
+    "value": "{\"value\":\"属性：アクションスキル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Your Skill In Mining Tools Has Increased!",
+   {
+    "value": "{\"value\":\"マイニングツールのスキルが向上しました！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Your Skill In Archery Has Increased!",
+   {
+    "value": "{\"value\":\"アーチェリーのスキルが向上しました！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Your Skill In Automatics Has Increased!",
+   {
+    "value": "{\"value\":\"オートマチックのスキルが向上しました！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Your Skill In Blades Has Increased!",
+   {
+    "value": "{\"value\":\"ブレードのスキルが向上しました！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Your Skill In Pistols Has Increased!",
+   {
+    "value": "{\"value\":\"ピストルのスキルが向上しました！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Your Skill In Shotguns Has Increased!",
+   {
+    "value": "{\"value\":\"ショットガンのスキルが向上しました！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Your Skill In Construction Tools Has Increased!",
+   {
+    "value": "{\"value\":\"建設ツールのスキルが向上しました！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Your Skill In Rifles Has Increased!",
+   {
+    "value": "{\"value\":\"ライフルのスキルが向上しました！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Your Skill In Batons Has Increased!",
+   {
+    "value": "{\"value\":\"バトンでのスキルが向上しました！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Your Skill In Turrets Has Increased!",
+   {
+    "value": "{\"value\":\"タレットでのスキルが向上しました！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Your Skill In Javelin Weapons Has Increased!",
+   {
+    "value": "{\"value\":\"やり投げ武器のスキルが向上しました！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Your Skill In Brawler Has Increased!",
+   {
+    "value": "{\"value\":\"喧嘩屋でのスキルが向上しました！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Your Skill In Blunt Weapons Has Increased!",
+   {
+    "value": "{\"value\":\"鈍器のスキルが向上しました！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Your Skill In Sledgehammer Weapons Has Increased!",
+   {
+    "value": "{\"value\":\"スレッジハンマー武器のスキルが向上しました！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Your Skill In Athletics Has Increased!",
+   {
+    "value": "{\"value\":\"陸上競技のスキルが向上しました！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Mining Tool Crafting",
+   {
+    "value": "{\"value\":\"マイニングツールの作成\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Learn how to craft mining tools.",
+   {
+    "value": "{\"value\":\"マイニングツールの作成方法を学びます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Mining Tools Level 10",
+   {
+    "value": "{\"value\":\"マイニングツールレベル10が必要\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Mining Tools Level 20",
+   {
+    "value": "{\"value\":\"マイニングツールレベル20が必要\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Mining Tools Level 30",
+   {
+    "value": "{\"value\":\"マイニングツールレベル30が必要\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Mining Tools Level 40",
+   {
+    "value": "{\"value\":\"マイニングツールレベル40が必要\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Mining Tools Level 50",
+   {
+    "value": "{\"value\":\"マイニングツールレベル50が必要\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Mining Tools Level 60",
+   {
+    "value": "{\"value\":\"マイニングツールレベル60が必要\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Mining Tools Level 70",
+   {
+    "value": "{\"value\":\"マイニングツールレベル70が必要\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Mining Tools Level 80",
+   {
+    "value": "{\"value\":\"マイニングツールレベル80が必要\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Mining Tools Level 90",
+   {
+    "value": "{\"value\":\"マイニングツールレベル90が必要\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Mining Tools Level 100",
+   {
+    "value": "{\"value\":\"マイニングツールレベル100が必要\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Scrap Tools",
+   {
+    "value": "{\"value\":\"スクラップツール\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the Scrap Pickaxe and Scrap Shovel",
+   {
+    "value": "{\"value\":\"スクラップつるはしとスクラップシャベルのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Iron Tools",
+   {
+    "value": "{\"value\":\"鉄の道具\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the Iron Pickaxe and Iron Shovel",
+   {
+    "value": "{\"value\":\"鉄のつるはしと鉄のシャベルのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Steel Tools",
+   {
+    "value": "{\"value\":\"スチールツール\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the Steel Pickaxe and Steel Shovel",
+   {
+    "value": "{\"value\":\"スチールつるはしとスチールシャベルのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Power Tools",
+   {
+    "value": "{\"value\":\"パワーツール\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the Auger",
+   {
+    "value": "{\"value\":\"オージェのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Advanced Tools",
+   {
+    "value": "{\"value\":\"高度なツール\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the Aluminum Pickaxe",
+   {
+    "value": "{\"value\":\"アルミつるはしのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Construction and Mining Tools Level 10",
+   {
+    "value": "{\"value\":\"建設および採掘ツールレベル10が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Construction and Mining Tools Level 20",
+   {
+    "value": "{\"value\":\"建設および採掘ツールレベル20が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Construction and Mining Tools Level 30",
+   {
+    "value": "{\"value\":\"建設および採掘ツールレベル30が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Construction and Mining Tools Level 40",
+   {
+    "value": "{\"value\":\"建設および採掘ツールレベル40が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Construction and Mining Tools Level 50",
+   {
+    "value": "{\"value\":\"建設および採掘ツールレベル50が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Construction and Mining Tools Level 60",
+   {
+    "value": "{\"value\":\"建設および採掘ツールレベル60が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Construction and Mining Tools Level 70",
+   {
+    "value": "{\"value\":\"建設および採掘ツールレベル70が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Construction and Mining Tools Level 80",
+   {
+    "value": "{\"value\":\"建設および採掘ツールレベル80が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Construction and Mining Tools Level 90",
+   {
+    "value": "{\"value\":\"建設および採掘ツールレベル90が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Construction and Mining Tools Level 100",
+   {
+    "value": "{\"value\":\"建設および採掘ツールレベル100が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Construction Tool Crafting",
+   {
+    "value": "{\"value\":\"建設ツールクラフト\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Learn how to craft construction tools.",
+   {
+    "value": "{\"value\":\"建設ツールの作り方を学びましょう。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Construction Tools Level 10",
+   {
+    "value": "{\"value\":\"建設ツールレベル10が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Construction Tools Level 20",
+   {
+    "value": "{\"value\":\"建設ツールレベル20が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Construction Tools Level 30",
+   {
+    "value": "{\"value\":\"建設ツールレベル30が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Construction Tools Level 40",
+   {
+    "value": "{\"value\":\"建設ツールレベル40が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Construction Tools Level 50",
+   {
+    "value": "{\"value\":\"建設ツールレベル50が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Construction Tools Level 60",
+   {
+    "value": "{\"value\":\"建設ツールレベル60が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Construction Tools Level 70",
+   {
+    "value": "{\"value\":\"建設ツールレベル70が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Construction Tools Level 80",
+   {
+    "value": "{\"value\":\"建設ツールレベル80が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Construction Tools Level 90",
+   {
+    "value": "{\"value\":\"建設ツールレベル90が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Construction Tools Level 100",
+   {
+    "value": "{\"value\":\"建設ツールレベル100が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the Scrap Axe and Claw Hammer",
+   {
+    "value": "{\"value\":\"スクラップアックスとクローハンマーのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the Iron Axe and Wrench",
+   {
+    "value": "{\"value\":\"鉄の斧とレンチのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the Steel Axe and Ratchet",
+   {
+    "value": "{\"value\":\"鋼の斧とラチェットのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the Chainsaw, Nailgun and Impact Driver",
+   {
+    "value": "{\"value\":\"チェーンソー、ネイルガン、インパクトドライバーのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the Aluminum Axe",
+   {
+    "value": "{\"value\":\"アルミ斧のロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Blunt Weapon Crafting",
+   {
+    "value": "{\"value\":\"鈍器の製作\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Learn how to craft blunt weapons.",
+   {
+    "value": "{\"value\":\"鈍器の作り方を学びましょう。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Blunt Weapons Level 10",
+   {
+    "value": "{\"value\":\"鈍器レベル10が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Blunt Weapons Level 20",
+   {
+    "value": "{\"value\":\"鈍器レベル20が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Blunt Weapons Level 30",
+   {
+    "value": "{\"value\":\"鈍器レベル30が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Blunt Weapons Level 40",
+   {
+    "value": "{\"value\":\"鈍器レベル40が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Blunt Weapons Level 50",
+   {
+    "value": "{\"value\":\"鈍器レベル50が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Blunt Weapons Level 60",
+   {
+    "value": "{\"value\":\"鈍器レベル60が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Blunt Weapons Level 70",
+   {
+    "value": "{\"value\":\"鈍器レベル70が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Blunt Weapons Level 80",
+   {
+    "value": "{\"value\":\"鈍器レベル80が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Blunt Weapons Level 90",
+   {
+    "value": "{\"value\":\"鈍器レベル90が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Blunt Weapons Level 100",
+   {
+    "value": "{\"value\":\"鈍器レベル100が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Initiate",
+   {
+    "value": "{\"value\":\"開始する\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the Baseball Bat",
+   {
+    "value": "{\"value\":\"野球のバットのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Journeyman",
+   {
+    "value": "{\"value\":\"ジャーニーマン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the Baton",
+   {
+    "value": "{\"value\":\"バトンのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Apprentice",
+   {
+    "value": "{\"value\":\"見習い\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the Steel Club",
+   {
+    "value": "{\"value\":\"スティールクラブのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Master",
+   {
+    "value": "{\"value\":\"主人\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the Steel Bat",
+   {
+    "value": "{\"value\":\"スチールバットのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Legend",
+   {
+    "value": "{\"value\":\"伝説\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the Chrome Club",
+   {
+    "value": "{\"value\":\"ChromeClubのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sledgehammer Crafting",
+   {
+    "value": "{\"value\":\"スレッジハンマークラフト\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Learn how to craft sledgehammers.",
+   {
+    "value": "{\"value\":\"ハンマーの作り方を学びましょう。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Sledgehammers Level 10",
+   {
+    "value": "{\"value\":\"スレッジハンマーレベル10が必要\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Sledgehammers Level 20",
+   {
+    "value": "{\"value\":\"スレッジハンマーレベル20が必要\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Sledgehammers Level 30",
+   {
+    "value": "{\"value\":\"スレッジハンマーレベル30が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Sledgehammers Level 40",
+   {
+    "value": "{\"value\":\"スレッジハンマーレベル40が必要\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Sledgehammers Level 50",
+   {
+    "value": "{\"value\":\"スレッジハンマーレベル50が必要\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Sledgehammers Level 60",
+   {
+    "value": "{\"value\":\"スレッジハンマーレベル60が必要\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Sledgehammers Level 70",
+   {
+    "value": "{\"value\":\"スレッジハンマーレベル70が必要\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Sledgehammers Level 80",
+   {
+    "value": "{\"value\":\"スレッジハンマーレベル80が必要\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Sledgehammers Level 90",
+   {
+    "value": "{\"value\":\"スレッジハンマーレベル90が必要\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Sledgehammers Level 100",
+   {
+    "value": "{\"value\":\"スレッジハンマーレベル100が必要\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks Iron Sledgehammer",
+   {
+    "value": "{\"value\":\"アイアンスレッジハンマーのロックを解除\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks Steel Sledgehammer",
+   {
+    "value": "{\"value\":\"スチールスレッジハンマーのロックを解除\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks Gate Crasher",
+   {
+    "value": "{\"value\":\"ゲートクラッシャーのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bladed Weapon Crafting",
+   {
+    "value": "{\"value\":\"ブレードウェポンクラフト\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Learn how to craft bladed weapons.",
+   {
+    "value": "{\"value\":\"刃物の作り方を学びましょう。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Bladed Weapons Level 10",
+   {
+    "value": "{\"value\":\"ブレード武器レベル10が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Bladed Weapons Level 20",
+   {
+    "value": "{\"value\":\"ブレード武器レベル20が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Bladed Weapons Level 30",
+   {
+    "value": "{\"value\":\"ブレード武器レベル30が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Bladed Weapons Level 40",
+   {
+    "value": "{\"value\":\"ブレード武器レベル40が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Bladed Weapons Level 50",
+   {
+    "value": "{\"value\":\"ブレード武器レベル50が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Bladed Weapons Level 60",
+   {
+    "value": "{\"value\":\"ブレード武器レベル60が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Bladed Weapons Level 70",
+   {
+    "value": "{\"value\":\"ブレード武器レベル70が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Bladed Weapons Level 80",
+   {
+    "value": "{\"value\":\"ブレード武器レベル80が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Bladed Weapons Level 90",
+   {
+    "value": "{\"value\":\"ブレード武器レベル90が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Bladed Weapons Level 100",
+   {
+    "value": "{\"value\":\"ブレード武器レベル100が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the Scrap Knife",
+   {
+    "value": "{\"value\":\"スクラップナイフのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the Hunting Knife",
+   {
+    "value": "{\"value\":\"ハンティングナイフのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the Katana and Machete",
+   {
+    "value": "{\"value\":\"刀とマチェーテのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the Kukri",
+   {
+    "value": "{\"value\":\"ククリのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the Chrome Machete",
+   {
+    "value": "{\"value\":\"Chromeマチェーテのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Electric Weapons Crafting",
+   {
+    "value": "{\"value\":\"電気兵器の製作\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Learn how to craft electric weapons.",
+   {
+    "value": "{\"value\":\"電気兵器の作り方を学びましょう。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Electric Weapons Level 10",
+   {
+    "value": "{\"value\":\"電気兵器レベル10が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Electric Weapons Level 20",
+   {
+    "value": "{\"value\":\"電気兵器レベル20が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Electric Weapons Level 30",
+   {
+    "value": "{\"value\":\"電気兵器レベル30が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Electric Weapons Level 40",
+   {
+    "value": "{\"value\":\"電気兵器レベル40が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Electric Weapons Level 50",
+   {
+    "value": "{\"value\":\"電気兵器レベル50が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Electric Weapons Level 60",
+   {
+    "value": "{\"value\":\"電気兵器レベル60が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Electric Weapons Level 70",
+   {
+    "value": "{\"value\":\"電気兵器レベル70が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Electric Weapons Level 80",
+   {
+    "value": "{\"value\":\"電気兵器レベル80が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Electric Weapons Level 90",
+   {
+    "value": "{\"value\":\"電気兵器レベル90が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Electric Weapons Level 100",
+   {
+    "value": "{\"value\":\"電気兵器レベル100が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the Robotic Sledge",
+   {
+    "value": "{\"value\":\"ロボットスレッジのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the Stun Baton",
+   {
+    "value": "{\"value\":\"スタンバトンのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the Junk Turret",
+   {
+    "value": "{\"value\":\"ジャンクタレットのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Archery Weapon Crafting",
+   {
+    "value": "{\"value\":\"アーチェリーの武器製作\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Learn how to craft Archery weapons.",
+   {
+    "value": "{\"value\":\"アーチェリーの武器を作る方法を学びましょう。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Archery Weapons Level 10",
+   {
+    "value": "{\"value\":\"アーチェリー武器レベル10が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Archery Weapons Level 20",
+   {
+    "value": "{\"value\":\"アーチェリー武器レベル20が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Archery Weapons Level 30",
+   {
+    "value": "{\"value\":\"アーチェリー武器レベル30が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Archery Weapons Level 40",
+   {
+    "value": "{\"value\":\"アーチェリー武器レベル40が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Archery Weapons Level 50",
+   {
+    "value": "{\"value\":\"アーチェリー武器レベル50が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Archery Weapons Level 60",
+   {
+    "value": "{\"value\":\"アーチェリー武器レベル60が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Archery Weapons Level 70",
+   {
+    "value": "{\"value\":\"アーチェリー武器レベル70が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Archery Weapons Level 80",
+   {
+    "value": "{\"value\":\"アーチェリー武器レベル80が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Archery Weapons Level 90",
+   {
+    "value": "{\"value\":\"アーチェリー武器レベル90が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Archery Weapons Level 100",
+   {
+    "value": "{\"value\":\"アーチェリー武器レベル100が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the Primitive Crossbow and Fletcher's Bow",
+   {
+    "value": "{\"value\":\"プリミティブクロスボウとフレッチャーの弓のロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the Iron Crossbow and the Wooden Bow",
+   {
+    "value": "{\"value\":\"鉄のクロスボウと木製の弓のロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the Compound Bow,and the Compound Crossbow",
+   {
+    "value": "{\"value\":\"コンパウンドボウとコンパウンドクロスボウのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the Recurve Bow and the Recurve Crossbow and Carbon Fiber Arrows",
+   {
+    "value": "{\"value\":\"後ろに反らす弓と後ろに反らすクロスボウとカーボンファイバーの矢のロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the Crossbow Repeater, Hybrid Cam Compound Bow and the Hybrid Cam Compound Crossbow",
+   {
+    "value": "{\"value\":\"クロスボウリピーター、ハイブリッドカムコンパウンドボウ、ハイブリッドカムコンパウンドクロスボウのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pistols Weapon Crafting",
+   {
+    "value": "{\"value\":\"ピストル武器製作\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Learn how to craft Pistols weapons.",
+   {
+    "value": "{\"value\":\"ピストルの武器を作る方法を学びましょう。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Pistols Weapons Level 10",
+   {
+    "value": "{\"value\":\"ピストル武器レベル10が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Pistols Weapons Level 20",
+   {
+    "value": "{\"value\":\"ピストル武器レベル20が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Pistols Weapons Level 30",
+   {
+    "value": "{\"value\":\"ピストル武器レベル30が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Pistols Weapons Level 40",
+   {
+    "value": "{\"value\":\"ピストル武器レベル40が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Pistols Weapons Level 50",
+   {
+    "value": "{\"value\":\"ピストル武器レベル50が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Pistols Weapons Level 60",
+   {
+    "value": "{\"value\":\"ピストル武器レベル60が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Pistols Weapons Level 70",
+   {
+    "value": "{\"value\":\"ピストル武器レベル70が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Pistols Weapons Level 80",
+   {
+    "value": "{\"value\":\"ピストル武器レベル80が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Pistols Weapons Level 90",
+   {
+    "value": "{\"value\":\"ピストル武器レベル90が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Pistols Weapons Level 100",
+   {
+    "value": "{\"value\":\"ピストル武器レベル100が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the Pistol",
+   {
+    "value": "{\"value\":\"ピストルのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the 44 Magnum",
+   {
+    "value": "{\"value\":\"44マグナム弾のロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the SMG",
+   {
+    "value": "{\"value\":\"SMGのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the Desert Eagle",
+   {
+    "value": "{\"value\":\"デザートイーグルのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the 38 Colt, Colt 1911, Thompson, Glock, Mac 10",
+   {
+    "value": "{\"value\":\"38コルト、コルト1911、トンプソン、グロック、マック10のロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Shotguns Weapon Crafting",
+   {
+    "value": "{\"value\":\"ショットガンの武器製作\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Learn how to craft Shotguns weapons.",
+   {
+    "value": "{\"value\":\"ショットガンの武器を作る方法を学びましょう。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Shotguns Weapons Level 10",
+   {
+    "value": "{\"value\":\"ショットガン武器レベル10が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Shotguns Weapons Level 20",
+   {
+    "value": "{\"value\":\"ショットガン武器レベル20が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Shotguns Weapons Level 30",
+   {
+    "value": "{\"value\":\"ショットガン武器レベル30が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Shotguns Weapons Level 40",
+   {
+    "value": "{\"value\":\"ショットガン武器レベル40が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Shotguns Weapons Level 50",
+   {
+    "value": "{\"value\":\"ショットガン武器レベル50が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Shotguns Weapons Level 60",
+   {
+    "value": "{\"value\":\"ショットガン武器レベル60が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Shotguns Weapons Level 70",
+   {
+    "value": "{\"value\":\"ショットガン武器レベル70が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Shotguns Weapons Level 80",
+   {
+    "value": "{\"value\":\"ショットガン武器レベル80が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Shotguns Weapons Level 90",
+   {
+    "value": "{\"value\":\"ショットガン武器レベル90が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Shotguns Weapons Level 100",
+   {
+    "value": "{\"value\":\"ショットガン武器レベル100が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the Double Barrel",
+   {
+    "value": "{\"value\":\"ダブルバレルのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the Pump Shotgun",
+   {
+    "value": "{\"value\":\"ポンプショットガンのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the Auto Shotgun",
+   {
+    "value": "{\"value\":\"自動ショットガンのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the KSG12",
+   {
+    "value": "{\"value\":\"KSG12のロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the Winchester",
+   {
+    "value": "{\"value\":\"ウィンチェスターのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Automatics Weapon Crafting",
+   {
+    "value": "{\"value\":\"自動武器クラフト\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Learn how to craft Automatics weapons.",
+   {
+    "value": "{\"value\":\"自動武器の作り方を学びましょう。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Automatics Weapons Level 10",
+   {
+    "value": "{\"value\":\"自動武器レベル10が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Automatics Weapons Level 20",
+   {
+    "value": "{\"value\":\"自動武器レベル20が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Automatics Weapons Level 30",
+   {
+    "value": "{\"value\":\"自動武器レベル30が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Automatics Weapons Level 40",
+   {
+    "value": "{\"value\":\"自動武器レベル40が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Automatics Weapons Level 50",
+   {
+    "value": "{\"value\":\"自動武器レベル50が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Automatics Weapons Level 60",
+   {
+    "value": "{\"value\":\"自動武器レベル60が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Automatics Weapons Level 70",
+   {
+    "value": "{\"value\":\"自動武器レベル70が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Automatics Weapons Level 80",
+   {
+    "value": "{\"value\":\"自動武器レベル80が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Automatics Weapons Level 90",
+   {
+    "value": "{\"value\":\"自動武器レベル90が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Automatics Weapons Level 100",
+   {
+    "value": "{\"value\":\"自動武器レベル100が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the AK-47",
+   {
+    "value": "{\"value\":\"AK-47のロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the Tactical Assault Rifle",
+   {
+    "value": "{\"value\":\"タクティカルアサルトライフルのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the M60",
+   {
+    "value": "{\"value\":\"M60のロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the FNFAL",
+   {
+    "value": "{\"value\":\"FNFALのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the SCAR",
+   {
+    "value": "{\"value\":\"SCARのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Rifle Weapon Crafting",
+   {
+    "value": "{\"value\":\"ライフルの武器製作\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Learn how to craft Rifle weapons.",
+   {
+    "value": "{\"value\":\"ライフルの武器を作る方法を学びましょう。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Rifle Weapons Level 10",
+   {
+    "value": "{\"value\":\"ライフル武器レベル10が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Rifle Weapons Level 20",
+   {
+    "value": "{\"value\":\"ライフル武器レベル20が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Rifle Weapons Level 30",
+   {
+    "value": "{\"value\":\"ライフル武器レベル30が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Rifle Weapons Level 40",
+   {
+    "value": "{\"value\":\"ライフル武器レベル40が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Rifle Weapons Level 50",
+   {
+    "value": "{\"value\":\"ライフル武器レベル50が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Rifle Weapons Level 60",
+   {
+    "value": "{\"value\":\"ライフル武器レベル60が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Rifle Weapons Level 70",
+   {
+    "value": "{\"value\":\"ライフル武器レベル70が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Rifle Weapons Level 80",
+   {
+    "value": "{\"value\":\"ライフル武器レベル80が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Rifle Weapons Level 90",
+   {
+    "value": "{\"value\":\"ライフル武器レベル90が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Rifle Weapons Level 100",
+   {
+    "value": "{\"value\":\"ライフル武器レベル100が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the Hunting Rifle",
+   {
+    "value": "{\"value\":\"狩猟用ライフルのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the Marksman Rifle",
+   {
+    "value": "{\"value\":\"マークスマンライフルのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the Sniper Rifle",
+   {
+    "value": "{\"value\":\"スナイパーライフルのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the JNG90",
+   {
+    "value": "{\"value\":\"JNG90のロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the M1 Garand and M98",
+   {
+    "value": "{\"value\":\"M1ガーランドとM98のロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Brawler Weapons Crafting",
+   {
+    "value": "{\"value\":\"喧嘩兵器の製作\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Learn how to craft Brawler weapons.",
+   {
+    "value": "{\"value\":\"ブロウラーの武器を作る方法を学びましょう。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Brawler Weapons Level 10",
+   {
+    "value": "{\"value\":\"ブローラー武器レベル10が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Brawler Weapons Level 20",
+   {
+    "value": "{\"value\":\"ブローラーウェポンレベル20が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Brawler Weapons Level 30",
+   {
+    "value": "{\"value\":\"ブローラー武器レベル30が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Brawler Weapons Level 40",
+   {
+    "value": "{\"value\":\"ブローラー武器レベル40が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Brawler Weapons Level 50",
+   {
+    "value": "{\"value\":\"ブローラー武器レベル50が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Brawler Weapons Level 60",
+   {
+    "value": "{\"value\":\"ブローラー武器レベル60が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Brawler Weapons Level 70",
+   {
+    "value": "{\"value\":\"ブローラー武器レベル70が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Brawler Weapons Level 80",
+   {
+    "value": "{\"value\":\"ブローラー武器レベル80が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Brawler Weapons Level 90",
+   {
+    "value": "{\"value\":\"ブローラー武器レベル90が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Brawler Weapons Level 100",
+   {
+    "value": "{\"value\":\"ブローラー武器レベル100が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the Leather Knucklewraps",
+   {
+    "value": "{\"value\":\"レザーナックルラップのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the Iron Knucklewraps",
+   {
+    "value": "{\"value\":\"アイアンナックルラップのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the Steel Knucklewraps",
+   {
+    "value": "{\"value\":\"スチールナックルラップのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Javelin Weapons Crafting",
+   {
+    "value": "{\"value\":\"やり投げの武器クラフト\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Learn how to craft Javelin weapons.",
+   {
+    "value": "{\"value\":\"やり投げの武器を作る方法を学びましょう。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Javelin Weapons Level 20",
+   {
+    "value": "{\"value\":\"やり投げ武器レベル20が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Javelin Weapons Level 40",
+   {
+    "value": "{\"value\":\"やり投げ武器レベル40が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Javelin Weapons Level 60",
+   {
+    "value": "{\"value\":\"やり投げ武器レベル60が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the Iron Spear",
+   {
+    "value": "{\"value\":\"アイアンスピアのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the Steel Spear",
+   {
+    "value": "{\"value\":\"鋼の槍のロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the Halberd",
+   {
+    "value": "{\"value\":\"ハルバードのロックを解除します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Athletics Level 20",
+   {
+    "value": "{\"value\":\"陸上競技レベル20が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Athletics Level 40",
+   {
+    "value": "{\"value\":\"陸上競技レベル40が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Athletics Level 60",
+   {
+    "value": "{\"value\":\"陸上競技レベル60が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Athletics Level 80",
+   {
+    "value": "{\"value\":\"陸上競技レベル80が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Athletics Level 100",
+   {
+    "value": "{\"value\":\"陸上競技レベル100が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:+5% stamina recovery while running. Increases at skill level 21. Caps at +25% at level 100. Decrease stamina use from jumping by 4% Increases at skill level 21.",
+   {
+    "value": "{\"value\":\"実行中に+ 5％のスタミナ回復。スキルレベル21で増加します。レベル100で+ 25％の上限。スタミナの使用を4％減少させます。スキルレベル21で増加します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:+10% stamina recovery while running. Increases at skill level 41. Caps at +25% at level 100. Decrease stamina use from jumping by 8% Increases at skill level 41.",
+   {
+    "value": "{\"value\":\"実行中に+ 10％のスタミナ回復。スキルレベル41で増加します。レベル100で+ 25％の上限。スタミナの使用を8％減少させます。スキルレベル41で増加します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Perk",
+   {
+    "value": "{\"value\":\"特典\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:+20% stamina recovery while running. Increases at skill level 81. Caps at +25% at level 100. Decrease stamina use from jumping by 16% Increases at skill level 81.",
+   {
+    "value": "{\"value\":\"実行中に+ 20％のスタミナ回復。スキルレベル81で増加します。レベル100で+ 25％の上限。スタミナの使用を16％減少させます。スキルレベル81で増加します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:+25% stamina recovery while running. Decrease stamina use from jumping by 20%",
+   {
+    "value": "{\"value\":\"実行中に+ 25％のスタミナ回復。スタミナの使用を20％ジャンプから減らします\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Athletics",
+   {
+    "value": "{\"value\":\"陸上競技\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Better stamina usage for jumping and better stamina regen while running.",
+   {
+    "value": "{\"value\":\"ジャンプのためのより良いスタミナ使用法とランニング中のより良いスタミナ再生。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Magazine: Construction Tools [e7a729](2 Points)[-]",
+   {
+    "value": "{\"value\":\"マガジン：建設ツール[e7a729]（2ポイント）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Magazine: Mining Tools [e7a729](2 Points)[-]",
+   {
+    "value": "{\"value\":\"雑誌：マイニングツール[e7a729]（2ポイント）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Magazine: Blunt Weapons [e7a729](2 Points)[-]",
+   {
+    "value": "{\"value\":\"マガジン：鈍器[e7a729]（2ポイント）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Magazine: Bladed Weapons [e7a729](2 Points)[-]",
+   {
+    "value": "{\"value\":\"マガジン：ブレードウェポン[e7a729]（2ポイント）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Magazine: Archery Weapons [e7a729](2 Points)[-]",
+   {
+    "value": "{\"value\":\"マガジン：アーチェリー武器[e7a729]（2ポイント）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Magazine: Pistol Weapons [e7a729](2 Points)[-]",
+   {
+    "value": "{\"value\":\"マガジン：ピストル武器[e7a729]（2ポイント）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Magazine: Shotgun Weapons [e7a729](2 Points)[-]",
+   {
+    "value": "{\"value\":\"マガジン：ショットガンウェポン[e7a729]（2ポイント）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Magazine: Rifle Weapons [e7a729](2 Points)[-]",
+   {
+    "value": "{\"value\":\"マガジン：ライフル武器[e7a729]（2ポイント）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Magazine: Automatic Weapons [e7a729](2 Points)[-]",
+   {
+    "value": "{\"value\":\"マガジン：自動武器[e7a729]（2ポイント）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Magazine: Electric Weapons [e7a729](2 Points)[-]",
+   {
+    "value": "{\"value\":\"マガジン：電気兵器[e7a729]（2ポイント）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Magazine: Turret Weapons [e7a729](2 Points)[-]",
+   {
+    "value": "{\"value\":\"マガジン：タレットウェポン[e7a729]（2ポイント）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Magazine: Javelin Weapons [e7a729](2 Points)[-]",
+   {
+    "value": "{\"value\":\"雑誌：やり投げ武器[e7a729]（2ポイント）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Magazine: Fist Weapons [e7a729](2 Points)[-]",
+   {
+    "value": "{\"value\":\"マガジン：拳武器[e7a729]（2ポイント）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Magazine: Sledgehammers [e7a729](2 Points)[-]",
+   {
+    "value": "{\"value\":\"マガジン：スレッジハンマー[e7a729]（2ポイント）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Magazine: Construction Tools [e7a729](3 Points)[-]",
+   {
+    "value": "{\"value\":\"雑誌：建設ツール[e7a729]（3ポイント）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Magazine: Mining Tools [e7a729](3 Points)[-]",
+   {
+    "value": "{\"value\":\"雑誌：マイニングツール[e7a729]（3ポイント）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Magazine: Blunt Weapons [e7a729](3 Points)[-]",
+   {
+    "value": "{\"value\":\"マガジン：鈍器[e7a729]（3ポイント）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Magazine: Bladed Weapons [e7a729](3 Points)[-]",
+   {
+    "value": "{\"value\":\"マガジン：ブレードウェポン[e7a729]（3ポイント）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Magazine: Archery Weapons [e7a729](3 Points)[-]",
+   {
+    "value": "{\"value\":\"マガジン：アーチェリー武器[e7a729]（3ポイント）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Magazine: Pistol Weapons [e7a729](3 Points)[-]",
+   {
+    "value": "{\"value\":\"マガジン：ピストル武器[e7a729]（3ポイント）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Magazine: Shotgun Weapons [e7a729](3 Points)[-]",
+   {
+    "value": "{\"value\":\"マガジン：ショットガンウェポン[e7a729]（3ポイント）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Magazine: Rifle Weapons [e7a729](3 Points)[-]",
+   {
+    "value": "{\"value\":\"マガジン：ライフル武器[e7a729]（3ポイント）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Magazine: Automatic Weapons [e7a729](3 Points)[-]",
+   {
+    "value": "{\"value\":\"マガジン：自動武器[e7a729]（3ポイント）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Magazine: Electric Weapons [e7a729](3 Points)[-]",
+   {
+    "value": "{\"value\":\"マガジン：電気兵器[e7a729]（3ポイント）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Magazine: Turret Weapons [e7a729](3 Points)[-]",
+   {
+    "value": "{\"value\":\"マガジン：タレットウェポン[e7a729]（3ポイント）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Magazine: Javelin Weapons [e7a729](3 Points)[-]",
+   {
+    "value": "{\"value\":\"雑誌：やり投げ武器[e7a729]（3ポイント）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Magazine: Fist Weapons [e7a729](3 Points)[-]",
+   {
+    "value": "{\"value\":\"マガジン：拳武器[e7a729]（3ポイント）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Magazine: Sledgehammers [e7a729](3 Points)[-]",
+   {
+    "value": "{\"value\":\"マガジン：スレッジハンマー[e7a729]（3ポイント）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Magazine: Construction Tools [e7a729](5 Points)[-]",
+   {
+    "value": "{\"value\":\"雑誌：建設ツール[e7a729]（5ポイント）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Magazine: Mining Tools [e7a729](5 Points)[-]",
+   {
+    "value": "{\"value\":\"雑誌：マイニングツール[e7a729]（5ポイント）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Magazine: Blunt Weapons [e7a729](5 Points)[-]",
+   {
+    "value": "{\"value\":\"マガジン：鈍器[e7a729]（5ポイント）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Magazine: Bladed Weapons [e7a729](5 Points)[-]",
+   {
+    "value": "{\"value\":\"マガジン：ブレードウェポン[e7a729]（5ポイント）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Magazine: Archery Weapons [e7a729](5 Points)[-]",
+   {
+    "value": "{\"value\":\"マガジン：アーチェリー武器[e7a729]（5ポイント）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Magazine: Pistol Weapons [e7a729](5 Points)[-]",
+   {
+    "value": "{\"value\":\"マガジン：ピストル武器[e7a729]（5ポイント）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Magazine: Shotgun Weapons [e7a729](5 Points)[-]",
+   {
+    "value": "{\"value\":\"マガジン：ショットガンウェポン[e7a729]（5ポイント）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Magazine: Rifle Weapons [e7a729](5 Points)[-]",
+   {
+    "value": "{\"value\":\"マガジン：ライフル武器[e7a729]（5ポイント）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Magazine: Automatic Weapons [e7a729](5 Points)[-]",
+   {
+    "value": "{\"value\":\"マガジン：自動武器[e7a729]（5ポイント）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Magazine: Electric Weapons [e7a729](5 Points)[-]",
+   {
+    "value": "{\"value\":\"マガジン：電気兵器[e7a729]（5ポイント）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Magazine: Turret Weapons [e7a729](5 Points)[-]",
+   {
+    "value": "{\"value\":\"マガジン：タレットウェポン[e7a729]（5ポイント）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Magazine: Javelin Weapons [e7a729](5 Points)[-]",
+   {
+    "value": "{\"value\":\"雑誌：やり投げ武器[e7a729]（5ポイント）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Magazine: Fist Weapons [e7a729](5 Points)[-]",
+   {
+    "value": "{\"value\":\"マガジン：拳武器[e7a729]（5ポイント）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Magazine: Sledgehammers [e7a729](5 Points)[-]",
+   {
+    "value": "{\"value\":\"マガジン：スレッジハンマー[e7a729]（5ポイント）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grants you three levels of the Action Skill Mining Tools.",
+   {
+    "value": "{\"value\":\"アクションスキルマイニングツールの3つのレベルを付与します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grants you three levels of the Action Skill Construction Tools.",
+   {
+    "value": "{\"value\":\"アクションスキル構築ツールの3つのレベルを付与します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grants you three levels of the Action Skill Blunt Weapons.",
+   {
+    "value": "{\"value\":\"アクションスキル鈍器の3つのレベルを付与します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grants you three levels of the Action Skill Bladed Weapons.",
+   {
+    "value": "{\"value\":\"アクションスキルブレードウェポンの3つのレベルを付与します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grants you three levels of the Action Skill Archery Weapons.",
+   {
+    "value": "{\"value\":\"アクションスキルアーチェリー武器の3つのレベルを付与します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grants you three levels of the Action Skill Pistol Weapons.",
+   {
+    "value": "{\"value\":\"アクションスキルピストル武器の3つのレベルを付与します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grants you three levels of the Action Skill Shotgun Weapons.",
+   {
+    "value": "{\"value\":\"アクションスキルショットガン武器の3つのレベルを付与します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grants you three levels of the Action Skill Rifle Weapons.",
+   {
+    "value": "{\"value\":\"アクションスキルライフル武器の3つのレベルを付与します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grants you three levels of the Action Skill Automatic Weapons.",
+   {
+    "value": "{\"value\":\"アクションスキル自動武器の3つのレベルを付与します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grants you three levels of the Action Skill Electric Weapons.",
+   {
+    "value": "{\"value\":\"アクションスキルの電気武器の3つのレベルを付与します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grants you three levels of the Action Skill Turret Weapons.",
+   {
+    "value": "{\"value\":\"アクションスキルタレット武器の3つのレベルを付与します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grants you three levels of the Action Skill Javelin Weapons.",
+   {
+    "value": "{\"value\":\"アクションスキルのやり投げ武器の3つのレベルを付与します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grants you three levels of the Action Skill Fist Weapons.",
+   {
+    "value": "{\"value\":\"アクションスキルフィストウェポンの3つのレベルを付与します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grants you three levels of the Action Skill Sledgehammers.",
+   {
+    "value": "{\"value\":\"アクションスキルスレッジハンマーの3つのレベルを付与します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grants you five levels of the Action Skill Mining Tools.",
+   {
+    "value": "{\"value\":\"アクションスキルマイニングツールの5つのレベルを付与します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grants you five levels of the Action Skill Construction Tools.",
+   {
+    "value": "{\"value\":\"アクションスキル構築ツールの5つのレベルを付与します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grants you five levels of the Action Skill Blunt Weapons.",
+   {
+    "value": "{\"value\":\"アクションスキル鈍器の5つのレベルを付与します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grants you five levels of the Action Skill Bladed Weapons.",
+   {
+    "value": "{\"value\":\"アクションスキルブレードウェポンの5つのレベルを付与します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grants you five levels of the Action Skill Archery Weapons.",
+   {
+    "value": "{\"value\":\"アクションスキルアーチェリー武器の5つのレベルを付与します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grants you five levels of the Action Skill Pistol Weapons.",
+   {
+    "value": "{\"value\":\"アクションスキルピストル武器の5つのレベルを付与します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grants you five levels of the Action Skill Shotgun Weapons.",
+   {
+    "value": "{\"value\":\"アクションスキルショットガン武器の5つのレベルを付与します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grants you five levels of the Action Skill Rifle Weapons.",
+   {
+    "value": "{\"value\":\"アクションスキルライフル武器の5つのレベルを付与します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grants you five levels of the Action Skill Automatic Weapons.",
+   {
+    "value": "{\"value\":\"アクションスキル自動武器の5つのレベルを付与します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grants you five levels of the Action Skill Electric Weapons.",
+   {
+    "value": "{\"value\":\"アクションスキルの電気武器の5つのレベルを付与します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grants you five levels of the Action Skill Turret Weapons.",
+   {
+    "value": "{\"value\":\"アクションスキルタレット武器の5つのレベルを付与します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grants you five levels of the Action Skill Javelin Weapons.",
+   {
+    "value": "{\"value\":\"アクションスキルのやり投げ武器の5つのレベルを付与します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grants you five levels of the Action Skill Fist Weapons.",
+   {
+    "value": "{\"value\":\"アクションスキルフィストウェポンの5つのレベルを付与します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grants you five levels of the Action Skill Sledgehammers.",
+   {
+    "value": "{\"value\":\"アクションスキルスレッジハンマーの5つのレベルを付与します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grants you two levels of the Action Skill Mining Tools.",
+   {
+    "value": "{\"value\":\"アクションスキルマイニングツールの2つのレベルを付与します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grants you two levels of the Action Skill Construction Tools.",
+   {
+    "value": "{\"value\":\"アクションスキル構築ツールの2つのレベルを付与します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grants you two levels of the Action Skill Blunt Weapons.",
+   {
+    "value": "{\"value\":\"アクションスキル鈍器の2つのレベルを付与します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grants you two levels of the Action Skill Bladed Weapons.",
+   {
+    "value": "{\"value\":\"アクションスキルブレードウェポンの2つのレベルを付与します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grants you two levels of the Action Skill Archery Weapons.",
+   {
+    "value": "{\"value\":\"アクションスキルアーチェリー武器の2つのレベルを付与します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grants you two levels of the Action Skill Pistol Weapons.",
+   {
+    "value": "{\"value\":\"アクションスキルピストル武器の2つのレベルを付与します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grants you two levels of the Action Skill Shotgun Weapons.",
+   {
+    "value": "{\"value\":\"アクションスキルショットガン武器の2つのレベルを付与します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grants you two levels of the Action Skill Rifle Weapons.",
+   {
+    "value": "{\"value\":\"アクションスキルライフル武器の2つのレベルを付与します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grants you two levels of the Action Skill Automatic Weapons.",
+   {
+    "value": "{\"value\":\"アクションスキル自動武器の2つのレベルを付与します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grants you two levels of the Action Skill Electric Weapons.",
+   {
+    "value": "{\"value\":\"アクションスキルの電気武器の2つのレベルを付与します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grants you two levels of the Action Skill Turret Weapons.",
+   {
+    "value": "{\"value\":\"アクションスキルタレット武器の2つのレベルを付与します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grants you two levels of the Action Skill Javelin Weapons.",
+   {
+    "value": "{\"value\":\"アクションスキルのやり投げ武器の2つのレベルを付与します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grants you two levels of the Action Skill Fist Weapons.",
+   {
+    "value": "{\"value\":\"アクションスキルフィストウェポンの2つのレベルを付与します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grants you two levels of the Action Skill Sledgehammers.",
+   {
+    "value": "{\"value\":\"アクションスキルスレッジハンマーの2つのレベルを付与します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Military Backpack",
+   {
+    "value": "{\"value\":\"ミリタリーバックパック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You are now carrying a military backpack and can store many items on you.",
+   {
+    "value": "{\"value\":\"あなたは今、軍用バックパックを持っており、あなたに多くのアイテムを保管することができます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires Pack Mule Level 10",
+   {
+    "value": "{\"value\":\"パックミュールレベル10が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Human Cargo",
+   {
+    "value": "{\"value\":\"人間の貨物\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocks the last row in your inventory",
+   {
+    "value": "{\"value\":\"インベントリの最後の行のロックを解除します\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121383
+}

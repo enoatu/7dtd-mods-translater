@@ -1,0 +1,59 @@
+{
+ "cache": [
+  [
+   "keyv:Spawn Free Terrain Schematic",
+   {
+    "value": "{\"value\":\"スポーンフリー地形概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Destroyed Stone (Spawn Free)",
+   {
+    "value": "{\"value\":\"破壊された石（スポーンフリー）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Dirt (Spawn Free)",
+   {
+    "value": "{\"value\":\"ダート（スポーンフリー）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Topsoil (Spawn Free)",
+   {
+    "value": "{\"value\":\"表土（スポーンフリー）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gravel (Spawn Free)",
+   {
+    "value": "{\"value\":\"砂利（スポーンフリー）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Asphalt (Spawn Free)",
+   {
+    "value": "{\"value\":\"アスファルト（スポーンフリー）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Stone (Spawn Free)",
+   {
+    "value": "{\"value\":\"ストーン（スポーンフリー）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Specially treated ground material that will keep you zombie free on the spot these are placed. Note: This will NOT prevent Blood Moon Spawning.",
+   {
+    "value": "{\"value\":\"これらが配置された場所でゾンビを解放するために特別に処理された地面の素材。注：これはブラッドムーンスポーンを防ぐことはできません。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Desert Ground (Spawn Free)",
+   {
+    "value": "{\"value\":\"デザートグラウンド（スポーンフリー）\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121085
+}

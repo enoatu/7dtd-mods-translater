@@ -1,0 +1,17 @@
+{
+ "cache": [
+  [
+   "keyv:Brass Hinge",
+   {
+    "value": "{\"value\":\"真ちゅう製のヒンジ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Door hinges can be used to make doors and storage or can be scrapped into scrap brass in your backpack or smelted in a forge as a core resource.",
+   {
+    "value": "{\"value\":\"ドアヒンジは、ドアや保管場所の作成に使用したり、バックパックで真ちゅうのスクラップに廃棄したり、コアリソースとして鍛造で製錬したりすることができます。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412120895
+}

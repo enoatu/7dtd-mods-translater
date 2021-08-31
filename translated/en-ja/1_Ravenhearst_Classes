@@ -1,0 +1,641 @@
+{
+ "cache": [
+  [
+   "keyv:Starter Kit",
+   {
+    "value": "{\"value\":\"スターターキット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Note from Jax\\n\\nThe rest of the club is either scattered or dead. You and I are all that is left. I had to head north. I have left you some stuff to help you get to us. Use your special skill wisely because it is all you have in this fucked up world.",
+   {
+    "value": "{\"value\":\"ジャックスからのメモ\\\\n\\\\nクラブの残りの部分は散らばっているか死んでいます。残っているのはあなたと私だけです。私は北に向かわなければなりませんでした。私はあなたが私たちに到達するのを助けるためにあなたにいくつかのものを残しました。このめちゃくちゃな世界であなたが持っているのはそれだけなので、あなたの特別なスキルを賢く使ってください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Class Selection",
+   {
+    "value": "{\"value\":\"クラスの選択\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Use this paper to select your weapons class. Classes do not lock you out of progressing but they do offer unique recipes for weapons you can craft in each category when you complete the line.",
+   {
+    "value": "{\"value\":\"このペーパーを使用して、武器クラスを選択します。クラスはあなたを進歩から締め出すことはありませんが、あなたがラインを完了するときにあなたが各カテゴリーで作ることができる武器のためのユニークなレシピを提供します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Support Class Selection",
+   {
+    "value": "{\"value\":\"サポートクラスの選択\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Use this paper to select your support class. Classes do not lock you out of progressing but they do offer unique recipes for your chosen profession you can craft when you complete the line.",
+   {
+    "value": "{\"value\":\"このペーパーを使用して、サポートクラスを選択してください。クラスはあなたを進歩から締め出すことはありませんが、あなたがラインを完了するときにあなたが作ることができるあなたが選んだ職業のためのユニークなレシピを提供します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Welcome to Ravenhearst",
+   {
+    "value": "{\"value\":\"Ravenhearstへようこそ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Read This First",
+   {
+    "value": "{\"value\":\"これを最初に読む\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The week before the outbreak began, the hospitals of Ravenhearst were bombarded with overdoses thanks to a new designer drug manufactured by the Makasin Cartel. Their towers were the first to be locked down. The Outlaw Bikers MC, screwed over by the Makasin, laid siege to their headquarters. \\n\\nThe government called in the military to take control and failed, all hell broke loose.",
+   {
+    "value": "{\"value\":\"発生が始まる1週間前に、マカシンカルテルによって製造された新しいデザイナードラッグのおかげで、レイヴンハーストの病院は過剰摂取で爆撃されました。彼らの塔は最初に封鎖されました。マカシンにねじ込まれたアウトローバイカーズMCは、本部を包囲しました。 \\\\n\\\\n政府は軍隊に支配権を握るよう呼びかけ、失敗しました。すべての地獄が崩壊しました。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Ravenhearst Has Fallen",
+   {
+    "value": "{\"value\":\"レイヴンハーストが倒れた\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The Outbreak Begins",
+   {
+    "value": "{\"value\":\"発生が始まる\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Magazine: Blunt Weapons Class Skills",
+   {
+    "value": "{\"value\":\"雑誌：鈍器クラスのスキル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Magazine: Brawler Weapons Class Skills",
+   {
+    "value": "{\"value\":\"マガジン：Brawler Weapons Class Skills\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Magazine: Archery Weapons Class Skills",
+   {
+    "value": "{\"value\":\"雑誌：アーチェリー武器クラススキル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Magazine: Pistol Weapons Class Skills",
+   {
+    "value": "{\"value\":\"マガジン：ピストル武器クラススキル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Magazine: Shotgun Weapons Class Skills",
+   {
+    "value": "{\"value\":\"マガジン：ショットガン武器クラススキル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Magazine: Rifle Weapons Class Skills",
+   {
+    "value": "{\"value\":\"マガジン：ライフル武器クラススキル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Magazine: Automatic Weapons Class Skills",
+   {
+    "value": "{\"value\":\"マガジン：自動武器クラススキル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Magazine: Javelin Weapons Class Skills",
+   {
+    "value": "{\"value\":\"雑誌：やり投げ武器クラススキル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Magazine: Bladed Weapons Class Skills",
+   {
+    "value": "{\"value\":\"マガジン：ブレードウェポンクラススキル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Magazine: Sledgehammer Weapons Class Skills",
+   {
+    "value": "{\"value\":\"マガジン：スレッジハンマー武器クラススキル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grants you 15 levels of the Action Skill Blunt Weapons.",
+   {
+    "value": "{\"value\":\"15レベルのアクションスキル鈍器を付与します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grants you 15 levels of the Action Skill Javelin Weapons.",
+   {
+    "value": "{\"value\":\"15レベルのアクションスキルやり投げ武器を付与します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grants you 15 levels of the Action Skill Archery Weapons.",
+   {
+    "value": "{\"value\":\"15レベルのアクションスキルアーチェリー武器を付与します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grants you 15 levels of the Action Skill Pistol Weapons.",
+   {
+    "value": "{\"value\":\"15レベルのアクションスキルピストル武器を付与します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grants you 15 levels of the Action Skill Shotgun Weapons.",
+   {
+    "value": "{\"value\":\"15レベルのアクションスキルショットガン武器を付与します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grants you 15 levels of the Action Skill Rifle Weapons.",
+   {
+    "value": "{\"value\":\"15レベルのアクションスキルライフル武器を付与します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grants you 15 levels of the Action Skill Automatic Weapons.",
+   {
+    "value": "{\"value\":\"15レベルのアクションスキル自動武器を付与します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grants you 15 levels of the Action Skill Brawler Weapons.",
+   {
+    "value": "{\"value\":\"15レベルのアクションスキルブロウラー武器を付与します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grants you 15 levels of the Action Skill Bladed Weapons.",
+   {
+    "value": "{\"value\":\"15レベルのアクションスキルブレードウェポンを付与します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grants you 15 levels of the Action Skill Sledgehammer Weapons.",
+   {
+    "value": "{\"value\":\"15レベルのアクションスキルスレッジハンマー武器を付与します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pistol Class",
+   {
+    "value": "{\"value\":\"ピストルクラス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Read this book to begin your training in pistols. When you have completed training you will receive a schematic that will teach you new craftable weapons for this class that will be exclusive to you.",
+   {
+    "value": "{\"value\":\"この本を読んで、ピストルのトレーニングを始めてください。トレーニングを完了すると、このクラス用の新しいクラフト可能な武器を教える概略図が届きます。これはあなただけのものです。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Shotgun Class",
+   {
+    "value": "{\"value\":\"ショットガンクラス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Read this book to begin your training in shotguns. When you have completed training you will receive a schematic that will teach you new craftable weapons for this class that will be exclusive to you.",
+   {
+    "value": "{\"value\":\"この本を読んで、ショットガンのトレーニングを始めましょう。トレーニングを完了すると、このクラス用の新しいクラフト可能な武器を教える概略図が届きます。これはあなただけのものです。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Rifle Class",
+   {
+    "value": "{\"value\":\"ライフルクラス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Read this book to begin your training in rifles. When you have completed training you will receive a schematic that will teach you new craftable weapons for this class that will be exclusive to you.",
+   {
+    "value": "{\"value\":\"この本を読んで、ライフルのトレーニングを始めましょう。トレーニングを完了すると、このクラス用の新しいクラフト可能な武器を教える概略図が届きます。これはあなただけのものです。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Automatics Class",
+   {
+    "value": "{\"value\":\"自動クラス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Read this book to begin your training in automatic weapons. When you have completed training you will receive a schematic that will teach you new craftable weapons for this class that will be exclusive to you.",
+   {
+    "value": "{\"value\":\"この本を読んで、自動兵器のトレーニングを始めてください。トレーニングを完了すると、このクラス用の新しいクラフト可能な武器を教える概略図が届きます。これはあなただけのものです。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Archer Class",
+   {
+    "value": "{\"value\":\"アーチャー級\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Read this book to begin your training in bows and crossbows. When you have completed training you will receive a schematic that will teach you new craftable weapons for this class that will be exclusive to you.",
+   {
+    "value": "{\"value\":\"この本を読んで、弓とクロスボウのトレーニングを始めましょう。トレーニングを完了すると、このクラス用の新しいクラフト可能な武器を教える概略図が届きます。これはあなただけのものです。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Blunt Class",
+   {
+    "value": "{\"value\":\"鈍いクラス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Read this book to begin your training in blunt weapons. When you have completed training you will receive a schematic that will teach you new craftable weapons for this class that will be exclusive to you.",
+   {
+    "value": "{\"value\":\"この本を読んで、鈍器の訓練を始めてください。トレーニングを完了すると、このクラス用の新しいクラフト可能な武器を教える概略図が届きます。これはあなただけのものです。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Blade Class",
+   {
+    "value": "{\"value\":\"ブレードクラス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Read this book to begin your training in bladed weapons. When you have completed training you will receive a schematic that will teach you new craftable weapons for this class that will be exclusive to you.",
+   {
+    "value": "{\"value\":\"この本を読んで、刃物の訓練を始めてください。トレーニングを完了すると、このクラス用の新しいクラフト可能な武器を教える概略図が届きます。これはあなただけのものです。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Brawler Class",
+   {
+    "value": "{\"value\":\"喧嘩屋クラス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Read this book to begin your training in fist weapons. When you have completed training you will receive a schematic that will teach you new craftable weapons for this class that will be exclusive to you.",
+   {
+    "value": "{\"value\":\"この本を読んで、拳兵器の訓練を始めてください。トレーニングを完了すると、このクラス用の新しいクラフト可能な武器を教える概略図が届きます。これはあなただけのものです。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sledgehammer Class",
+   {
+    "value": "{\"value\":\"スレッジハンマークラス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Javelin Class",
+   {
+    "value": "{\"value\":\"ジャベリンクラス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Read this book to begin your training in javelin weapons. When you have completed training you will receive a schematic that will teach you new craftable weapons for this class that will be exclusive to you.",
+   {
+    "value": "{\"value\":\"この本を読んで、やり投げの武器のトレーニングを始めましょう。トレーニングを完了すると、このクラス用の新しいクラフト可能な武器を教える概略図が届きます。これはあなただけのものです。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hardcore Class",
+   {
+    "value": "{\"value\":\"ハードコアクラス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Read this book to begin with nothing. Surviving is your proving grounds.",
+   {
+    "value": "{\"value\":\"この本を読んで、何もないところから始めましょう。生き残ることはあなたの証明の根拠です。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pistol Training",
+   {
+    "value": "{\"value\":\"ピストルトレーニング\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Beginning Your Training",
+   {
+    "value": "{\"value\":\"トレーニングの開始\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:In order to survive the apocalypse you will need to become familiar with your weapon of choice. You were good with this weapon before but you will need to be even better now. When I feel like your training is complete I will reward you with a book that will teach you some exclusive weapons that can be used to survive.",
+   {
+    "value": "{\"value\":\"黙示録を生き残るために、あなたはあなたの選んだ武器に精通する必要があるでしょう。以前はこの武器に慣れていましたが、今はさらに良くなる必要があります。あなたの訓練が完了したと感じたら、生き残るために使用できるいくつかの排他的な武器をあなたに教える本であなたに報酬を与えます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have been given 15 levels of your specialized skill.",
+   {
+    "value": "{\"value\":\"あなたはあなたの専門スキルの15レベルを与えられました。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Training",
+   {
+    "value": "{\"value\":\"トレーニング\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Using Your Pistol",
+   {
+    "value": "{\"value\":\"ピストルの使用\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:In order to survive the apocalypse you will need to become familiar with your weapon of choice. Get out there and kill some zombies. When I feel like your training is complete I will reward you with a book that will teach you some exclusive weapons that can be used to survive.",
+   {
+    "value": "{\"value\":\"黙示録を生き残るために、あなたはあなたの選んだ武器に精通する必要があるでしょう。そこに出て、ゾンビを殺してください。あなたの訓練が完了したと感じたら、生き残るために使用できるいくつかの排他的な武器をあなたに教える本であなたに報酬を与えます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Use the required weapon listed below to kill some zombies. Progressing to the end of this quest line will give you access to further weapons in your specialty.",
+   {
+    "value": "{\"value\":\"以下にリストされている必要な武器を使用して、いくつかのゾンビを殺します。このクエストラインの最後まで進むと、あなたの専門分野のさらなる武器にアクセスできるようになります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Kill Zombies",
+   {
+    "value": "{\"value\":\"ゾンビを殺す\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Shotgun Training",
+   {
+    "value": "{\"value\":\"ショットガントレーニング\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Using Your Shotgun",
+   {
+    "value": "{\"value\":\"ショットガンの使用\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Rifle Training",
+   {
+    "value": "{\"value\":\"ライフルトレーニング\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Using Your Rifle",
+   {
+    "value": "{\"value\":\"ライフルの使用\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Automatic Weapon Training",
+   {
+    "value": "{\"value\":\"自動武器訓練\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Using Your Automatic",
+   {
+    "value": "{\"value\":\"自動を使用する\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Archery Training",
+   {
+    "value": "{\"value\":\"アーチェリートレーニング\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Using Your Archery",
+   {
+    "value": "{\"value\":\"アーチェリーの使用\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Blunt Weapons Training",
+   {
+    "value": "{\"value\":\"鈍器の訓練\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Using Your Blunt Weapon",
+   {
+    "value": "{\"value\":\"鈍器の使用\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bladed Weapons Training",
+   {
+    "value": "{\"value\":\"ブレード武器トレーニング\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Using Your Blade Weapon",
+   {
+    "value": "{\"value\":\"ブレードウェポンの使用\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Javelin Weapons Training",
+   {
+    "value": "{\"value\":\"やり投げ武器訓練\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Using Your Javelin Weapon",
+   {
+    "value": "{\"value\":\"ジャベリンの武器を使う\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Brawler Weapons Training",
+   {
+    "value": "{\"value\":\"乱闘兵器訓練\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Using Your Brawler Weapon",
+   {
+    "value": "{\"value\":\"ブローラー武器の使用\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sledgehammer Weapons Training",
+   {
+    "value": "{\"value\":\"スレッジハンマー武器トレーニング\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Using Your Sledgehammer Weapon",
+   {
+    "value": "{\"value\":\"スレッジハンマー武器の使用\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Chef Class",
+   {
+    "value": "{\"value\":\"シェフクラス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You were a chef in your former life before all of this. Reading this will give you a Cooking Grill, a Cooking Pot, 2 Chili Dogs and 3 Berry Teas along with schematics for both.",
+   {
+    "value": "{\"value\":\"あなたはこのすべての前にあなたの前の人生のシェフでした。これを読むと、クッキンググリル、クッキングポット、チリドッグ2匹、ベリーティー3匹、および両方の概略図が表示されます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Miner Class",
+   {
+    "value": "{\"value\":\"マイナークラス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You were a trade worker in your former life before all of this. Reading this will give you a Pickaxe and schematics to craft a Pickaxe.",
+   {
+    "value": "{\"value\":\"あなたはこのすべての前にあなたの前の人生で貿易労働者でした。これを読むと、つるはしとつるはしを作成するための回路図が得られます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Lumberjack Class",
+   {
+    "value": "{\"value\":\"ランバージャッククラス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You were a trade worker in your former life before all of this. Reading this will give you a Fireaxe and schematics to craft a Fireaxe.",
+   {
+    "value": "{\"value\":\"あなたはこのすべての前にあなたの前の人生で貿易労働者でした。これを読むと、FireaxeとFireaxeを作成するための回路図が得られます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Explosives Class",
+   {
+    "value": "{\"value\":\"爆発物クラス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Medic Class",
+   {
+    "value": "{\"value\":\"メディッククラス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You were a paramedic in your former life before all of this. Reading this will give you 2 Painkillers, 1 Splint, 2 Herbal Antibiotics and schematics for the Herbal Antibiotic and First Aid Bandages.",
+   {
+    "value": "{\"value\":\"あなたはこのすべての前にあなたの前の人生の救急医療員でした。これを読むと、2つの鎮痛剤、1つのスプリント、2つのハーブ抗生物質、およびハーブ抗生物質と応急処置包帯の概略図が得られます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Farmer Class",
+   {
+    "value": "{\"value\":\"ファーマークラス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You were a farmer in your former life before all of this. Reading this will give you a Hoe, 2 Seed Packs, 5 Compost and a Farm Table.",
+   {
+    "value": "{\"value\":\"あなたはこのすべての前にあなたの前の人生の農夫でした。これを読むと、くわ、シードパック2個、堆肥5個、農場テーブルが手に入ります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You were a streamer in your former life. Good luck. Kappa. This means you start with nothing and your journey is much more difficult than others.",
+   {
+    "value": "{\"value\":\"あなたは以前の人生でストリーマーでした。幸運を。カッパ。これは、あなたが何もないところから始め、あなたの旅は他の人よりもはるかに難しいことを意味します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You set out to prove that you can tackle the apocalypse with help from no one. Your only set of skills are your eyes and ears.",
+   {
+    "value": "{\"value\":\"あなたは誰の助けも借りずに黙示録に取り組むことができることを証明しようと試みました。あなたの唯一のスキルセットはあなたの目と耳です。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Check your inventory. You have been given some items and schematics pertaining to your profession.",
+   {
+    "value": "{\"value\":\"在庫を確認してください。あなたはあなたの職業に関連するいくつかのアイテムと概略図を与えられました。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Specialization",
+   {
+    "value": "{\"value\":\"専門分野\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The skills that earned you money in your previous life will help you survive in this one. Use your former knowledge to gain an advantage in the Apocalypse.",
+   {
+    "value": "{\"value\":\"あなたの前の人生であなたにお金を稼いだスキルはあなたがこの人生で生き残るのを助けるでしょう。あなたの以前の知識を使って、黙示録でアドバンテージを得てください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Completed Melee Training",
+   {
+    "value": "{\"value\":\"近接訓練を完了\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This is a completed melee certificate. Hold on to this. It will be needed to complete the final step of the journal questline.",
+   {
+    "value": "{\"value\":\"これは完成した近接証明書です。これを握ってください。ジャーナルクエストラインの最終ステップを完了する必要があります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Completed Ranged Training",
+   {
+    "value": "{\"value\":\"遠隔トレーニングを完了\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This is a completed ranged certificate. Hold on to this. It will be needed to complete the final step of the journal questline.",
+   {
+    "value": "{\"value\":\"これは完成した遠隔証明書です。これを握ってください。ジャーナルクエストラインの最終ステップを完了する必要があります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Iron Fireaxe Schematic",
+   {
+    "value": "{\"value\":\"鉄のFireaxeの概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Iron Shovel Schematic",
+   {
+    "value": "{\"value\":\"鉄シャベルの概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Iron Pickaxe Schematic",
+   {
+    "value": "{\"value\":\"鉄のつるはしの概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Claw Hammer Schematic",
+   {
+    "value": "{\"value\":\"クローハンマーの概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Steel Fireaxe Schematic",
+   {
+    "value": "{\"value\":\"鋼のFireaxeの概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Steel Shovel Schematic",
+   {
+    "value": "{\"value\":\"鋼ショベルの概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Steel Pickaxe Schematic",
+   {
+    "value": "{\"value\":\"鋼のつるはしの概略図\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412120850
+}

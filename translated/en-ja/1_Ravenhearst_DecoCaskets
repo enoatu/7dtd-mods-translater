@@ -1,0 +1,137 @@
+{
+ "cache": [
+  [
+   "keyv:Vase",
+   {
+    "value": "{\"value\":\"花瓶\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Urn",
+   {
+    "value": "{\"value\":\"壷\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Weathered Park Bench",
+   {
+    "value": "{\"value\":\"風化した公園のベンチ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Caskets Schematic",
+   {
+    "value": "{\"value\":\"棺の概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Casket",
+   {
+    "value": "{\"value\":\"棺\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Casket Block",
+   {
+    "value": "{\"value\":\"棺ブロック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:= Casket = Random Helper",
+   {
+    "value": "{\"value\":\"=棺=ランダムヘルパー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Casket (Storage)",
+   {
+    "value": "{\"value\":\"棺（保管）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tombstones Schematic",
+   {
+    "value": "{\"value\":\"墓石の概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tombstone 01",
+   {
+    "value": "{\"value\":\"トゥームストーン01\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tombstone 02",
+   {
+    "value": "{\"value\":\"トゥームストーン02\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tombstone 03",
+   {
+    "value": "{\"value\":\"トゥームストーン03\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tombstone 04",
+   {
+    "value": "{\"value\":\"トゥームストーン04\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tombstone 05",
+   {
+    "value": "{\"value\":\"トゥームストーン05\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tombstone Block",
+   {
+    "value": "{\"value\":\"トゥームストーンブロック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Weathered Tombstone 01",
+   {
+    "value": "{\"value\":\"風化した墓石01\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Weathered Tombstone 02",
+   {
+    "value": "{\"value\":\"風化した墓石02\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Weathered Tombstone 03",
+   {
+    "value": "{\"value\":\"風化した墓石03\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Weathered Tombstone 04",
+   {
+    "value": "{\"value\":\"風化した墓石04\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Mourn your lost loved ones or celebrate the peace and quiet.",
+   {
+    "value": "{\"value\":\"失われた愛する人を悼むか、平和と静けさを祝いましょう。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cathedral Pulpit",
+   {
+    "value": "{\"value\":\"大聖堂の説教壇\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Church Schematic",
+   {
+    "value": "{\"value\":\"教会の概略図\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412120876
+}

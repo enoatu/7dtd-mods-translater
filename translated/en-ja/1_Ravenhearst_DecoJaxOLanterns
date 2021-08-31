@@ -1,0 +1,23 @@
+{
+ "cache": [
+  [
+   "keyv:Jax O' Lantern (Blue)",
+   {
+    "value": "{\"value\":\"ジャックスオランタン（ブルー）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Jax O' Lantern (Green)",
+   {
+    "value": "{\"value\":\"ジャックスオランタン（緑）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Jax O' Lantern (Red)",
+   {
+    "value": "{\"value\":\"ジャックスオランタン（赤）\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412120883
+}

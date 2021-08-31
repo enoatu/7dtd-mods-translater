@@ -1,0 +1,101 @@
+{
+ "cache": [
+  [
+   "keyv:Insect Trap (Beer)",
+   {
+    "value": "{\"value\":\"トラップ（ビール）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fill With Beer To Collect Insects",
+   {
+    "value": "{\"value\":\"昆虫を集めるためにビールで満たす\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Catching Insects",
+   {
+    "value": "{\"value\":\"虫を捕まえる\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Insect Trap (Full)",
+   {
+    "value": "{\"value\":\"昆虫トラップ（フル）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You Caught Some Insects",
+   {
+    "value": "{\"value\":\"あなたはいくつかの昆虫を捕まえました\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Insect Trap (Honey)",
+   {
+    "value": "{\"value\":\"昆虫の罠（蜂蜜）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fill With Honey To Collect Insects",
+   {
+    "value": "{\"value\":\"昆虫を集めるために蜂蜜で満たす\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Insect Trap Refill (Honey)",
+   {
+    "value": "{\"value\":\"トラップリフィル（ハニー）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This refill can be used to fill your insect trap up to catch more insects. It can be re-used.",
+   {
+    "value": "{\"value\":\"この詰め替えは、より多くの昆虫を捕まえるためにあなたの昆虫トラップを埋めるために使用することができます。再利用できます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Insect Trap Refill (Beer)",
+   {
+    "value": "{\"value\":\"トラップリフィル（ビール）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Insects",
+   {
+    "value": "{\"value\":\"昆虫\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Insects can provide a bit of food to help with hunger, but to get any benefit it is best to fry them in a can or jar.",
+   {
+    "value": "{\"value\":\"昆虫は空腹を助けるために少しの食物を提供することができます、しかしどんな利益を得るためにもそれは缶または瓶でそれらを揚げることが最善です。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Insects in a Jar",
+   {
+    "value": "{\"value\":\"瓶の中の昆虫\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Insects in a Can",
+   {
+    "value": "{\"value\":\"缶の中の昆虫\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bug Ka Bob",
+   {
+    "value": "{\"value\":\"バグカボブ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Frying insects is just nasty business. Leave that to the savages. I'll just stick these suckers on a stick and eat like a true aristocrat.",
+   {
+    "value": "{\"value\":\"虫を揚げるのは厄介な仕事です。それは野蛮人に任せなさい。これらの吸盤を棒に貼り付けて、本物の貴族のように食べます。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412120966
+}

@@ -1,0 +1,65 @@
+{
+ "cache": [
+  [
+   "keyv:Reinforced Steel Spikes",
+   {
+    "value": "{\"value\":\"鉄筋スパイク\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hard to destroy and with an excellent damage along with excellent explosion resistance this Spiked trap is one of the best traps in the game.",
+   {
+    "value": "{\"value\":\"破壊しにくく、優れたダメージと優れた耐爆性を備えたこのスパイクトラップは、ゲームで最高のトラップの1つです。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Reinforced Steel Wall Trap",
+   {
+    "value": "{\"value\":\"強化鋼壁トラップ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Used as armor for your base and as well acting as a trap. Not so damaging as the other traps but it has the best defence properties. The Reinforced Steel Wall is a must have in the mid-late game.",
+   {
+    "value": "{\"value\":\"ベースの鎧として使用され、トラップとしても機能します。他のトラップほどダメージはありませんが、最高の防御特性を備えています。強化鋼壁は、中期後半のゲームでなくてはならないものです。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Reinforced Steel Spiked Wire",
+   {
+    "value": "{\"value\":\"強化鋼スパイクワイヤー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Far better then the normal Barbed Wire the Reinforce Steel Spiked Wire has 3x Damage of the normal Barbed Wire and is far more resistant. Is like Barbed Wire on steroids.",
+   {
+    "value": "{\"value\":\"通常の有刺鉄線よりもはるかに優れており、強化鋼スパイクワイヤーは通常の有刺鉄線の3倍のダメージがあり、はるかに耐性があります。ステロイドの有刺鉄線のようなものです。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Reinforced Steel Armored Wall",
+   {
+    "value": "{\"value\":\"強化鋼装甲壁\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Used as armor for your base walls the Armored Wall has excellent defence properties and it will be a life saver for sure.",
+   {
+    "value": "{\"value\":\"ベースウォールのアーマーとして使用されるアーマードウォールは、優れた防御特性を備えており、確実に命を救うでしょう。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Reinforced Steel Entanglement Wire",
+   {
+    "value": "{\"value\":\"強化鋼エンタングルメントワイヤー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Doesn't do any damage but it slows down anything that moves. Pray you don't get entangled in one of those really.",
+   {
+    "value": "{\"value\":\"ダメージはありませんが、動くものはすべて遅くなります。本当にそれらの1つに巻き込まれないように祈ってください。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412120712
+}

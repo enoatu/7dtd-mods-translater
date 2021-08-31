@@ -1,0 +1,89 @@
+{
+ "cache": [
+  [
+   "keyv:Fiber Cordage",
+   {
+    "value": "{\"value\":\"ファイバーコード\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cordage can be used to bind together primitive items.",
+   {
+    "value": "{\"value\":\"ロープを使用して、プリミティブアイテムをバインドできます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Stone Arrowhead",
+   {
+    "value": "{\"value\":\"ストーンアローヘッド\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Crafted from stone, used to make arrows and bolts.",
+   {
+    "value": "{\"value\":\"石で作られており、矢やボルトを作るために使用されます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Arrow Shaft",
+   {
+    "value": "{\"value\":\"アローシャフト\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Crafted from wood, arrow shafts are necessary to make arrows.",
+   {
+    "value": "{\"value\":\"矢を作るには木で作られた矢の軸が必要です。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sticks",
+   {
+    "value": "{\"value\":\"スティック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Crafted from wood, sticks are useful in many survival situations.",
+   {
+    "value": "{\"value\":\"木で作られたスティックは、多くの生存状況で役立ちます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Plank",
+   {
+    "value": "{\"value\":\"板\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Crafted from wood, planks are used in building.",
+   {
+    "value": "{\"value\":\"木で作られた板は、建物に使用されています。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Twine",
+   {
+    "value": "{\"value\":\"ひも\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Use to craft clothing, armor, and weapons.",
+   {
+    "value": "{\"value\":\"衣類、鎧、武器を作るために使用します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sharp Stone",
+   {
+    "value": "{\"value\":\"シャープストーン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sharpening the stones you find helps you make deadly tools and weapons.",
+   {
+    "value": "{\"value\":\"あなたが見つけた石を研ぐことはあなたが致命的な道具と武器を作るのを助けます。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412120792
+}

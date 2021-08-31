@@ -1,0 +1,71 @@
+{
+ "cache": [
+  [
+   "keyv:Are you the undead?",
+   {
+    "value": "{\"value\":\"あなたはアンデッドですか？\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Maybe not but a bar of soap wouldn't kill ya none either.",
+   {
+    "value": "{\"value\":\"たぶんそうではないかもしれませんが、石鹸のバーはあなたを殺すことはありません。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:No I'm not dead yet.",
+   {
+    "value": "{\"value\":\"いいえ、私はまだ死んでいません。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gee thanks.",
+   {
+    "value": "{\"value\":\"よろしくお願いします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Be safe friend.",
+   {
+    "value": "{\"value\":\"安全な友達になりましょう。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:FoolsGold Quest",
+   {
+    "value": "{\"value\":\"FoolsGoldクエスト\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:There are rumors of a great treasure at this location.",
+   {
+    "value": "{\"value\":\"この場所には大きな宝物があるという噂があります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fools Gold",
+   {
+    "value": "{\"value\":\"愚か者の金\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Dear Survivor,\\nDont know if the source I got this from is reliable. Just keep in mind it was one of the Dukes guys.\\n\\nGood Luck, Crazy Jake.",
+   {
+    "value": "{\"value\":\"親愛なるサバイバー、\\\\n私がこれを入手したソースが信頼できるかどうかわからない。それは公爵夫人の一人だったことを覚えておいてください。\\\\n\\\\n幸運、クレイジージェイク。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Is this a joke?",
+   {
+    "value": "{\"value\":\"これは冗談ですか？\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Well Done...here are some things I found awhile ago. \\nTake it.  ",
+   {
+    "value": "{\"value\":\"よくできました...しばらく前に見つけたものがいくつかあります。 \\\\n取ってください。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412120586
+}

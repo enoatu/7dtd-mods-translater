@@ -1,0 +1,41 @@
+{
+ "cache": [
+  [
+   "keyv:Old Record Player Off (Use Remote on Radio to Change Record)",
+   {
+    "value": "{\"value\":\"古いレコードプレーヤーがオフになっています（ラジオのリモートを使用してレコードを変更します）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A collector item now you remember grandpa listening to the Dorseys on this. This newer model looks like it needs a remote to work.",
+   {
+    "value": "{\"value\":\"コレクターアイテムは、おじいちゃんがこれについてドーシーを聞いていたことを覚えています。この新しいモデルは、動作するためにリモコンが必要なようです。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Record - In The Mood",
+   {
+    "value": "{\"value\":\"記録-気分で\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Record - I Saw The Light",
+   {
+    "value": "{\"value\":\"記録-私は光を見た\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Record - Sing Sing",
+   {
+    "value": "{\"value\":\"記録-シンシン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Record - Boogie Woogie Bugle Boy",
+   {
+    "value": "{\"value\":\"記録-ブギウギバグルボーイ\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121079
+}

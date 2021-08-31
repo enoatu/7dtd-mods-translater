@@ -1,0 +1,233 @@
+{
+ "cache": [
+  [
+   "keyv:Wow, pallets filled with condensed materials! I'm so smart for saving space. Now I just need to build a warehouse...",
+   {
+    "value": "{\"value\":\"うわー、凝縮された材料で満たされたパレット！私はスペースを節約するのにとても賢いです。今、私は倉庫を建てる必要があります...\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Empty Pallet",
+   {
+    "value": "{\"value\":\"空のパレット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:An empty pallet, maybe I should stack some resources on top if it...",
+   {
+    "value": "{\"value\":\"空のパレット、多分それがあれば私はいくつかのリソースを上に積み重ねるべきです...\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pallet of Cement",
+   {
+    "value": "{\"value\":\"セメントのパレット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pallet of Iron",
+   {
+    "value": "{\"value\":\"鉄のパレット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pallet of Wood",
+   {
+    "value": "{\"value\":\"木のパレット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pallet of Sand",
+   {
+    "value": "{\"value\":\"砂のパレット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pallet of Clay",
+   {
+    "value": "{\"value\":\"粘土のパレット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pallet of Concrete",
+   {
+    "value": "{\"value\":\"コンクリートのパレット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pallet of Stone",
+   {
+    "value": "{\"value\":\"石のパレット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pallet of Plant Fibers",
+   {
+    "value": "{\"value\":\"植物繊維のパレット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pallet of Scrap Polymers",
+   {
+    "value": "{\"value\":\"スクラップポリマーのパレット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pallet of Scrap Lead",
+   {
+    "value": "{\"value\":\"スクラップ鉛のパレット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pallet of Scrap Brass",
+   {
+    "value": "{\"value\":\"真ちゅうスクラップのパレット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pallet of Cobblestone",
+   {
+    "value": "{\"value\":\"石畳のパレット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pallet of Electric Parts",
+   {
+    "value": "{\"value\":\"電気部品のパレット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pallet of Mechanical Parts",
+   {
+    "value": "{\"value\":\"機械部品のパレット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pallet of Coal",
+   {
+    "value": "{\"value\":\"石炭のパレット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pallet of Potassium Nitrate Powder",
+   {
+    "value": "{\"value\":\"硝酸カリウム火薬のパレット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pallet of Leather",
+   {
+    "value": "{\"value\":\"革のパレット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pallet of Paper",
+   {
+    "value": "{\"value\":\"紙のパレット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pallet of Cloth",
+   {
+    "value": "{\"value\":\"布のパレット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pallet of Short Iron Pipes",
+   {
+    "value": "{\"value\":\"短い鉄パイプのパレット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pallet of Oil Shale",
+   {
+    "value": "{\"value\":\"オイルシェールのパレット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pallet of Oil",
+   {
+    "value": "{\"value\":\"オイルのパレット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pallet of Bones",
+   {
+    "value": "{\"value\":\"骨のパレット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pallet of Gasoline",
+   {
+    "value": "{\"value\":\"ガソリンのパレット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pallet of Raw Iron",
+   {
+    "value": "{\"value\":\"生鉄のパレット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pallet of Raw Lead",
+   {
+    "value": "{\"value\":\"生鉛のパレット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pallet of Raw Brass",
+   {
+    "value": "{\"value\":\"生真鍮のパレット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pallet of Animal Hides",
+   {
+    "value": "{\"value\":\"動物の皮のパレット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pallet of Charcoal",
+   {
+    "value": "{\"value\":\"木炭のパレット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pallet of Sticks",
+   {
+    "value": "{\"value\":\"スティックのパレット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pallet of Twine",
+   {
+    "value": "{\"value\":\"麻ひものパレット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pallet of Copper",
+   {
+    "value": "{\"value\":\"銅のパレット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pallet of Limestone",
+   {
+    "value": "{\"value\":\"石灰岩のパレット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pallet of Zinc",
+   {
+    "value": "{\"value\":\"亜鉛のパレット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pallet of Wood Logs",
+   {
+    "value": "{\"value\":\"木の丸太のパレット\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121407
+}

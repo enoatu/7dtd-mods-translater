@@ -1,0 +1,47 @@
+{
+ "cache": [
+  [
+   "keyv:HellCar Schematic",
+   {
+    "value": "{\"value\":\"HellCar回路図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:HellDog Schematic",
+   {
+    "value": "{\"value\":\"HellDog回路図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:HellSpikey4x4 Schematic",
+   {
+    "value": "{\"value\":\"HellSpikey4x4回路図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:HellFire Schematic",
+   {
+    "value": "{\"value\":\"HellFire回路図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:HellHound4x4 Schematic",
+   {
+    "value": "{\"value\":\"HellHound4x4回路図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:HellBeast Schematic",
+   {
+    "value": "{\"value\":\"HellBeast回路図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:ATV Schematic",
+   {
+    "value": "{\"value\":\"ATV回路図\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121279
+}

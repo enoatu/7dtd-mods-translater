@@ -1,0 +1,155 @@
+{
+ "cache": [
+  [
+   "keyv:Sniper Auto Turret",
+   {
+    "value": "{\"value\":\"スナイパーオートタレット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The Sniper Auto Turret aims to provide precision to the turrets, moving and firing slowly. It's slow nature massively improves the single shot nature of it's 7.62 rounds.",
+   {
+    "value": "{\"value\":\"スナイパーオートタレットは、タレットに正確さを提供し、ゆっくりと移動して発射することを目的としています。それは遅い性質であり、7.62ラウンドのシングルショットの性質を大幅に改善します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Heavy Shotgun Turret",
+   {
+    "value": "{\"value\":\"ヘビーショットガンタレット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Watch zombies turn into fine mist as the Heavy Shotgun Turret dispatches anything that gets too close! Shorter range than it's regular counterpart, the Heavy Shotgun Turret trades range for fire speed.",
+   {
+    "value": "{\"value\":\"ヘビーショットガンタレットが近づきすぎるものをディスパッチすると、ゾンビが細かい霧に変わるのを見てください！通常の対応物よりも射程が短いヘビーショットガンタレットは、射程を射撃速度と交換します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:M60 Auto Turret",
+   {
+    "value": "{\"value\":\"M60オートタレット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The M60 Auto Turret sends a rain of semi accurate 7.62 to great effect in closer ranges. Great for narrow hallways and those with just a little too much ammo.",
+   {
+    "value": "{\"value\":\"M60オートタレットは、半精度の7.62の雨を送り、近距離で大きな効果を発揮します。狭い廊下や弾薬が少なすぎる廊下に最適です。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Heavy Auto Turret",
+   {
+    "value": "{\"value\":\"ヘビーオートタレット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A direct improvement on the SMG Auto Turret, the Heavy Auto Turret fires a more powerful magnum round at the cost of some speed.",
+   {
+    "value": "{\"value\":\"SMGオートタレットを直接改良したヘビーオートタレットは、速度を犠牲にしてより強力なマグナムラウンドを発射します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sniper Auto Turret (Steel)",
+   {
+    "value": "{\"value\":\"スナイパーオートタレット（スチール）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The Sniper Auto Turret (Steel) uses steelcased 7.62 rounds to a lesser effect than it's brass counterpart due to performance issues caused by the dirty nature of the round.",
+   {
+    "value": "{\"value\":\"スナイパーオートタレット（スチール）は、スチールケースの7.62ラウンドを使用しており、ラウンドの汚れた性質によってパフォーマンスの問題が発生するため、真ちゅう製のラウンドよりも効果が低くなっています。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:M60 Auto Turret (Steel)",
+   {
+    "value": "{\"value\":\"M60オートタレット（スチール）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The M60 Auto Turret (Steel) sprays steelcased 7.62 in the direction of enemies. Due to the dirtier nature of the round, the turret suffers from performance issues.",
+   {
+    "value": "{\"value\":\"M60オートタレット（スチール）は、7.62のスチールケースを敵の方向にスプレーします。ラウンドの汚れた性質のため、砲塔はパフォーマンスの問題に悩まされています。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Heavy Auto Turret (Steel)",
+   {
+    "value": "{\"value\":\"ヘビーオートタレット（スチール）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The Heavy Auto Turret (Steel) performs worse than it's regular counterpart, but retains it's core identity of a improved version of the regular SMG Auto Turret.",
+   {
+    "value": "{\"value\":\"ヘビーオートタレット（スチール）は通常のオートタレットよりも性能が劣りますが、通常のSMGオートタレットの改良版のコアアイデンティティを保持しています。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sniper Auto Turret (Schematic)",
+   {
+    "value": "{\"value\":\"スナイパーオートタレット（概略）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Heavy Shotgun Turret (Schematic)",
+   {
+    "value": "{\"value\":\"ヘビーショットガンタレット（概略）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:M60 Auto Turret (Schematic)",
+   {
+    "value": "{\"value\":\"M60オートタレット（概略）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Heavy Auto Turret (Schematic)",
+   {
+    "value": "{\"value\":\"ヘビーオートタレット（概略）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Turret Workbench",
+   {
+    "value": "{\"value\":\"タレットワークベンチ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A specialized workstation to build your turrets, the Turret Workbench builds turrets and only turrets.",
+   {
+    "value": "{\"value\":\"タレットを構築するための専用ワークステーションであるタレットワークステーションは、タレットとタレットのみを構築します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv: Sniper Auto Turret (Steel) (Schematic)",
+   {
+    "value": "{\"value\":\" スナイパーオートタレット（スチール）（概略）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:M60 Auto Turret (Steel) (Schematic)",
+   {
+    "value": "{\"value\":\"M60オートタレット（スチール）（概略）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Heavy Auto Turret (Steel) (Schematic)",
+   {
+    "value": "{\"value\":\"ヘビーオートタレット（スチール）（概略）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:SMG Auto Turret (Steel)",
+   {
+    "value": "{\"value\":\"SMGオートタレット（スチール）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:An SMG Auto Turret firing steel cased 9mm rounds, it functions the same as the regular SMG Auto Turret but with minor performance issues.",
+   {
+    "value": "{\"value\":\"SMGオートタレット発射鋼は9mmラウンドをケースに入れ、通常のSMGオートタレットと同じように機能しますが、パフォーマンスの問題はわずかです。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121160
+}

@@ -1,0 +1,53 @@
+{
+ "cache": [
+  [
+   "keyv:Forging Plate",
+   {
+    "value": "{\"value\":\"鍛造プレート\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Heated plate that allows for smelting. A part used in a forge.",
+   {
+    "value": "{\"value\":\"製錬を可能にする加熱プレート。鍛造で使用される部品。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Casting Tunnel",
+   {
+    "value": "{\"value\":\"キャスティングトンネル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Allow hot metals to be poured. A part used in a forge.",
+   {
+    "value": "{\"value\":\"溶銑を流し込みます。鍛造で使用される部品。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bunsen Burner",
+   {
+    "value": "{\"value\":\"ブンゼンバーナー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:If you wish to mix chemicals you need a strong burner. A part used in a chemistry station.",
+   {
+    "value": "{\"value\":\"化学薬品を混合したい場合は、強力なバーナーが必要です。化学ステーションで使用される部品。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Vise",
+   {
+    "value": "{\"value\":\"万力\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Able to clamp down items so you can get a firm grip, A part used in a workbench.",
+   {
+    "value": "{\"value\":\"しっかりと握れるように物を固定できる、ワークベンチで使用するパーツ。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412120866
+}

@@ -1,0 +1,125 @@
+{
+ "cache": [
+  [
+   "keyv:Crank Shaft",
+   {
+    "value": "{\"value\":\"クランクシャフト\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A vehicle part. This can be used to create a working vehicle.",
+   {
+    "value": "{\"value\":\"車両部品。これは、作業車両を作成するために使用できます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Piston",
+   {
+    "value": "{\"value\":\"ピストン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sparkplug",
+   {
+    "value": "{\"value\":\"スパークプラグ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Alternator",
+   {
+    "value": "{\"value\":\"オルタネーター\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Carburetor",
+   {
+    "value": "{\"value\":\"キャブレター\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Transmission",
+   {
+    "value": "{\"value\":\"伝染;感染\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bicycle Tire",
+   {
+    "value": "{\"value\":\"自転車タイヤ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bicycle Wheels",
+   {
+    "value": "{\"value\":\"自転車の車輪\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A vehicle part used in the assembly of vehicles.",
+   {
+    "value": "{\"value\":\"車両の組み立てに使用される車両部品。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Rubber Strips",
+   {
+    "value": "{\"value\":\"ラバーストリップ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pieces of rubber harvested from tires.",
+   {
+    "value": "{\"value\":\"タイヤから収穫されたゴム片。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tree Sap",
+   {
+    "value": "{\"value\":\"樹液\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sap obtained from trees can be used to cook into rubber.",
+   {
+    "value": "{\"value\":\"木から得られた樹液は、ゴムに調理するために使用することができます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gyrocopter Blade",
+   {
+    "value": "{\"value\":\"ジャイロコプターブレード\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Helicopter Blades",
+   {
+    "value": "{\"value\":\"ヘリコプターのブレード\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Propellor",
+   {
+    "value": "{\"value\":\"プロペラ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tire Rim",
+   {
+    "value": "{\"value\":\"タイヤリム\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:High Powered Engine",
+   {
+    "value": "{\"value\":\"ハイパワーエンジン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Only a specially built engine could power the types of vehicles you will need in the Apocalypse.",
+   {
+    "value": "{\"value\":\"特別に作られたエンジンだけが、黙示録で必要となる種類の車両に動力を供給することができます。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121118
+}

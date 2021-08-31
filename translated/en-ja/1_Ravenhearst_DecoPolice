@@ -1,0 +1,41 @@
+{
+ "cache": [
+  [
+   "keyv:Police Badge 1",
+   {
+    "value": "{\"value\":\"警察バッジ1\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Police Badge 2",
+   {
+    "value": "{\"value\":\"警察バッジ2\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sheriff Badge 1",
+   {
+    "value": "{\"value\":\"保安官バッジ1\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sheriff Badge 2",
+   {
+    "value": "{\"value\":\"保安官バッジ2\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sheriff Badge 3",
+   {
+    "value": "{\"value\":\"保安官バッジ3\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Police Locker",
+   {
+    "value": "{\"value\":\"警察のロッカー\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412120888
+}

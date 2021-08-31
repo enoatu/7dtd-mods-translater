@@ -1,0 +1,77 @@
+{
+ "cache": [
+  [
+   "keyv:Potted Plant 01",
+   {
+    "value": "{\"value\":\"鉢植え01\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Potted Plant 02",
+   {
+    "value": "{\"value\":\"鉢植え02\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Potted Plant 03",
+   {
+    "value": "{\"value\":\"鉢植え03\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Potted Plant 04",
+   {
+    "value": "{\"value\":\"鉢植え04\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Garden Flower 01",
+   {
+    "value": "{\"value\":\"ガーデンフラワー01\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Garden Flower 02",
+   {
+    "value": "{\"value\":\"ガーデンフラワー02\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Garden Flower 03",
+   {
+    "value": "{\"value\":\"ガーデンフラワー03\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Garden Flower 04",
+   {
+    "value": "{\"value\":\"ガーデンフラワー04\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Garden Flower 05",
+   {
+    "value": "{\"value\":\"ガーデンフラワー05\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:= RH Potted Plant = Random Helper",
+   {
+    "value": "{\"value\":\"= RH鉢植え=ランダムヘルパー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:= Garden Flower = Random Helper",
+   {
+    "value": "{\"value\":\"=ガーデンフラワー=ランダムヘルパー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Potted Plant",
+   {
+    "value": "{\"value\":\"鉢植え\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412120963
+}

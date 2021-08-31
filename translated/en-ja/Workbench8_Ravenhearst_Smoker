@@ -1,0 +1,23 @@
+{
+ "cache": [
+  [
+   "keyv:Smoker",
+   {
+    "value": "{\"value\":\"喫煙者\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The smoker is a good old country boy way of enjoying those meats. Slow cooking but damn good eating.",
+   {
+    "value": "{\"value\":\"喫煙者はそれらの肉を楽しむ古き良き田舎の少年の方法です。料理は遅いですが、おいしい食事をします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Smoker Schematic",
+   {
+    "value": "{\"value\":\"喫煙者の概略図\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121358
+}

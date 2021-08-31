@@ -1,0 +1,47 @@
+{
+ "cache": [
+  [
+   "keyv:Weathered Backpack (Storage)",
+   {
+    "value": "{\"value\":\"風化バックパック（収納）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Moldy Backpack (Storage)",
+   {
+    "value": "{\"value\":\"カビの生えたバックパック（収納）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Duffle Bag (Storage)",
+   {
+    "value": "{\"value\":\"ダッフルバッグ（収納）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Rotting Sports Bag (Storage)",
+   {
+    "value": "{\"value\":\"回転式スポーツバッグ（収納）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Weathered Sports Bag (Storage)",
+   {
+    "value": "{\"value\":\"風化スポーツバッグ（収納）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Purse (Storage)",
+   {
+    "value": "{\"value\":\"財布（収納）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The perfect grab bag for storing essentials on the run.",
+   {
+    "value": "{\"value\":\"ランニングで必需品を収納するのに最適なグラブバッグ。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412120776
+}

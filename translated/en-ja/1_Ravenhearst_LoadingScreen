@@ -1,0 +1,323 @@
+{
+ "cache": [
+  [
+   "keyv:Campfires, Survival campfires and Stoves, are all used to make different & better foods. Regular campfires are good for keeping you warm & alive, but in the long run you will want to make a survival campfire and/or make a stove for the best long-term survival.",
+   {
+    "value": "{\"value\":\"キャンプファイヤー、サバイバルキャンプファイヤー、ストーブはすべて、さまざまなより良い食品を作るために使用されます。定期的なキャンプファイヤーはあなたを暖かく生き生きと保つのに良いですが、長期的にはサバイバルキャンプファイヤーを作り、そして/または最高の長期生存のためにストーブを作りたいと思うでしょう。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Stoves and Campfires",
+   {
+    "value": "{\"value\":\"ストーブとキャンプファイヤー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You will want to pace yourself when exploring buildings. Looting is much slower in Ravenhearst and you will need to take your time and plan your day to make the needed scavenging runs for you or yourself or team. All loot containers, can no longer be used to store anything so you will need to make multiple loot runs or set up player made boxes outside the poi to store your goods.",
+   {
+    "value": "{\"value\":\"建物を探索するときは、自分のペースで進めたいと思うでしょう。 Ravenhearstでは略奪がはるかに遅く、あなた自身、あなた自身、またはチームのために必要な清掃を実行するために、時間をかけて1日の計画を立てる必要があります。すべての戦利品コンテナは、何も保管するために使用できなくなったため、複数の戦利品を実行するか、商品を保管するためにpoiの外にプレイヤーが作成したボックスを設定する必要があります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pace Yourself",
+   {
+    "value": "{\"value\":\"自分のペース\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:In Ravenhearst you are not able to place anything inside any loot container, inside a poi or found in the wild – you will need to build or find your own – like garbage bags many loot containers can be harvested & placed to expand your storage space, such as, backpacks, duffle bags, etc. In order to be able to build bigger & better storage containers you will need to find the proper schematics.",
+   {
+    "value": "{\"value\":\"Ravenhearstでは、戦利品コンテナ内、ポイ内、または野生で見つかったものを配置することはできません。ゴミ袋のように、多くの戦利品コンテナを収穫して配置し、保管スペースを拡張することができます。バックパック、ダッフルバッグなど。より大きく、より優れた保管コンテナを構築できるようにするには、適切な回路図を見つける必要があります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Storage",
+   {
+    "value": "{\"value\":\"ストレージ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Zombie population in Ravenhearst is much higher than that of vanilla. Once afternoon hits the undead will rise and you will need to hide or face the hordes of blood thirsty creatures after you. Cities and towns will spawn more zombies than usual, so find a quiet out of the way place as your initial headquarters and work your way to city raiding.",
+   {
+    "value": "{\"value\":\"Ravenhearstのゾンビの人口はバニラのそれよりはるかに多いです。午後になるとアンデッドが上昇し、血に飢えた生き物の大群を隠したり、直面したりする必要があります。都市や町は通常よりも多くのゾンビを生み出すので、最初の本部として邪魔にならない静かな場所を見つけて、都市の襲撃に向かって進んでください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Land of the Dead",
+   {
+    "value": "{\"value\":\"死者の国\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:All water sources have been contaminated. Even boiling water, no longer works. The water filtration unit is designed to remove almost all remaining pathogens from water so that you can drink it at a reduced risk of contamination. You can also use the water filtration unit to allow for safe planting of crops via use of a bucket of water that has been decontaminated by using the water filtration unit. With the proper knowledge eventually, you will be able to purify water and drink safely with no risk of dysentery.",
+   {
+    "value": "{\"value\":\"すべての水源が汚染されています。沸騰したお湯でさえ、もはや機能しません。水ろ過ユニットは、水から残っているほとんどすべての病原菌を除去するように設計されているため、汚染のリスクを減らして飲むことができます。また、水ろ過ユニットを使用して、水ろ過ユニットを使用して除染されたバケツの水を使用して、作物を安全に植えることができます。最終的には適切な知識があれば、赤痢のリスクなしに安全に水を浄化して飲むことができるようになります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Water",
+   {
+    "value": "{\"value\":\"水\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Food in Ravenhearst will spoil over time. Backpack and Toolbelt storage are the quickest way to spoil food. The best way to slow down spoilage is to store your food in made fridges or ice chests. A cooler is good for interim spoilage reduction. You can pick coolers up by destroying them in the world.",
+   {
+    "value": "{\"value\":\"Ravenhearstの食べ物は時間の経過とともに台無しになります。バックパックとツールベルトの保管は、食べ物を台無しにする最も簡単な方法です。腐敗を遅らせる最良の方法は、作った冷蔵庫やアイスチェストに食べ物を保管することです。クーラーは、暫定的な腐敗を減らすのに適しています。あなたは世界でそれらを破壊することによってクーラーを拾うことができます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Food Rots",
+   {
+    "value": "{\"value\":\"食品腐敗\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The personal crafting station in the early stages, is your one stop shop for all your crafting needs. It can easily be picked up by destroying it and is not expensive to craft.",
+   {
+    "value": "{\"value\":\"初期のパーソナルクラフトステーションは、すべてのクラフトニーズに対応するワンストップショップです。それはそれを破壊することによって簡単に拾うことができ、作るのに費用がかかりません。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Personal Workbench",
+   {
+    "value": "{\"value\":\"パーソナルワークベンチ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You will notice that as you gain skills in Living Off The Land eventually you will be able to use an Irrigation System on your crops. The Irrigation system is a series of connected pipes you can attach to a Irrigation Pump and run alongside your crops. Plants will check for irrigation pipes within 3 blocks. To begin place an Irrigation Pump within 4 meters or blocks of a CLEAN water source. Once the pump is full it will always remain full. Next you will need to connect your pipes, joints or elbows to the irrigation pump and run your pipes to your crops. They can be underneath your crops but all pipes MUST always remain connected. They piping will automatically fill every 60 minutes and water your crops. This process will keep repeating itself as long as the piping remains connected.",
+   {
+    "value": "{\"value\":\"Living Off The Landのスキルを習得すると、最終的には作物に灌漑システムを使用できるようになります。灌漑システムは、灌漑ポンプに取り付けて作物と一緒に走らせることができる一連の接続されたパイプです。植物は3ブロック以内の灌漑パイプをチェックします。灌漑ポンプをきれいな水源から4メートルまたはブロック以内に配置し始めます。ポンプが一杯になると、常に一杯のままになります。次に、パイプ、ジョイント、またはエルボーを灌漑ポンプに接続し、パイプを作物に接続する必要があります。それらは作物の下にある可能性がありますが、すべてのパイプは常に接続されたままでなければなりません。それらの配管は60分ごとに自動的に満たされ、作物に水を与えます。このプロセスは、配管が接続されている限り繰り返されます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Irrigation and Crops",
+   {
+    "value": "{\"value\":\"灌漑と作物\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Repairing Your Weapons",
+   {
+    "value": "{\"value\":\"武器の修理\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The Right Tool, For the Right Job - You will need to use proper tools to harvest resources. The Stone Axe and all axes are used primarily for wood based blocks. The Stone Pickaxe and other pickaxes for metal and stone mining. There are scrap variants as well. You will want to use various blades on corpses and animals and wrenches to harvest mechanical items. The crowbar is the premier choice for car parts.",
+   {
+    "value": "{\"value\":\"適切なツール、適切な仕事のために-リソースを収穫するには、適切なツールを使用する必要があります。ストーンアックスとすべての軸は、主に木質のブロックに使用されます。金属および石の採掘のための石のつるはしおよび他のつるはし。スクラップバリアントもあります。死体や動物、レンチにさまざまな刃を使って機械的なアイテムを収穫することをお勧めします。バールは自動車部品の最高の選択肢です。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Using The Right Tools",
+   {
+    "value": "{\"value\":\"適切なツールの使用\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Carrying too many items in your inventory will encumber and slow you down. Decisions will have to be made on what to keep and what to drop in early game stages. Finding special inventory backpacks in the world in various places such as - dressers, nightstands, garment bags and lockers will increase the size of your inventory.",
+   {
+    "value": "{\"value\":\"在庫にあまりにも多くのアイテムを運ぶと、邪魔になり、速度が低下します。ゲームの初期段階で何を保持し、何をドロップするかを決定する必要があります。ドレッサー、ナイトスタンド、ガーメントバッグ、ロッカーなど、世界中のさまざまな場所で特別な在庫バックパックを見つけると、在庫のサイズが大きくなります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Encumbrance and Backpacks",
+   {
+    "value": "{\"value\":\"予算引当とバックパック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Crafting is a major part of Ravenhearst and now - you can easily find what you need to craft anything and to know what station it needs to be crafted in by reading the description. On your crafting screen you can now click the ingredient in the list to bring up the ingredients you need to craft that particular ingredient. This makes tracking down recipes a lot faster and easier.",
+   {
+    "value": "{\"value\":\"クラフトはRavenhearstの主要な部分であり、今では、説明を読むことで、何かをクラフトするために必要なものを簡単に見つけ、どのステーションでクラフトする必要があるかを知ることができます。クラフト画面で、リスト内の材料をクリックして、その特定の材料を作成するために必要な材料を表示できるようになりました。これにより、レシピの追跡がはるかに高速かつ簡単になります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Clickable Ingredients",
+   {
+    "value": "{\"value\":\"クリック可能な成分\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Vehicles in Ravenhearst work a lot differently. For one - only bicycles can be stored in your inventory - all other vehicles, once placed can NOT be picked up again - Also be careful when you drive around if you get stuck you will have to dig yourself out. Some vehicles are made for off-road and some are not. At 18:00 in game on horde night a Severe thunderstorm from the Blood Moon will knock out your engine, preventing you from being able to flee hordes!",
+   {
+    "value": "{\"value\":\"Ravenhearstの車両の動作は大きく異なります。 1つは、在庫に保管できるのは自転車だけです。他のすべての車両は、一度配置すると再び拾うことはできません。また、行き詰まった場合は、車を運転するときに注意してください。オフロード用に作られた車両もあれば、そうでない車両もあります。大群の夜のゲームの18:00に、ブラッドムーンからの激しい雷雨がエンジンをノックアウトし、大群から逃げることができなくなります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Vehicles",
+   {
+    "value": "{\"value\":\"車両\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:High value scavenging sites like the Tier 5 buildings are washed in radiation, Barrels of green smoke bellow out and around all sections of the tier 5 POI’s and will kill you if you try to enter or even slightly go near them early on without wearing the proper gear. Find Hazmat Suits (standard or armored) to venture into them. You will need to wear all 5 pieces to enter any radiated areas. These buildings house special military and makasin crates with special loot in them! So bring Lock-picks.",
+   {
+    "value": "{\"value\":\"Tier 5の建物のような価値の高い清掃場所は放射線で洗い流され、緑の煙の樽がTier 5 POIのすべてのセクションの周りに吹き出され、適切なものを着用せずに早い段階でそれらに侵入しようとしたり、少しでも近づこうとしたりすると、あなたを殺します装備。それらに挑戦するために化学防護服（標準または装甲）を見つけてください。放射領域に入るには、5つすべてを着用する必要があります。これらの建物には、特別な戦利品が入った特別な軍用およびマカシンの木枠があります！だから、ロックピックを持ってきてください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radiation",
+   {
+    "value": "{\"value\":\"放射線\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:One of the greatest tragedies of the fall was the inability to bury our loved ones in soil without them returning to life. After years of rumors, a secret formula has been discovered that will allow your soil to keep the dead where they belong. Although it will not stop wanderers or blood moon events you can rest easy knowing freshly dead will not be appearing on your property when you use this soil. The Secret schematic is out there somewhere.",
+   {
+    "value": "{\"value\":\"秋の最大の悲劇の1つは、愛する人を生き返らせずに土に埋めることができなかったことです。何年にもわたる噂の後、あなたの土壌が彼らが属する場所で死者を保つことを可能にする秘密の公式が発見されました。放浪者や血の月の出来事を止めることはできませんが、この土壌を使用すると、死んだばかりの人があなたの財産に現れないので安心できます。秘密の回路図はどこかにあります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Safe Terrain",
+   {
+    "value": "{\"value\":\"安全な地形\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:If any item has a durability of less then 100 - If it is repaired it will break also any items that do not have a durability number on it i.e. Nail Guns if repaired will break.",
+   {
+    "value": "{\"value\":\"耐久性が100未満のアイテムがある場合-修理すると、耐久性番号が記載されていないアイテムも壊れます。つまり、修理した場合はネイルガンが壊れます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Breaking Your Stuff",
+   {
+    "value": "{\"value\":\"あなたのものを壊す\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You never really DIE in ANY version of 7 Days to Die - You have a  Near Death Experience - as the Crazy Jake Clan who is always watching you - carries you back to your bedroll (unconscious) you may or may not drop some things - back pack - tool bar - You will notice since you do not  DIE  - when you awake moments later on your bedroll - you will receive a  NEAR Death Penalty (a negative XP bar, you will have to earn back the loss of XP before gaining any new XP)  and or the Broken Legs or Arms or Infection (that originally may have almost  killed you) are still there. - this is because you have not died - you did not lose everything you have - you did not have to choose a new character - you did not have to start all over. You did not have to wipe your server or start on a new one.",
+   {
+    "value": "{\"value\":\"7 Days toDieのどのバージョンでも実際に死ぬことはありません-臨​​死体験があります-常にあなたを監視しているクレイジージェイククランがあなたを寝袋に戻します（無意識）あなたはいくつかのものを落とすかもしれないし、落とさないかもしれません-戻るパック-ツールバー-死ぬことはないので気付くでしょう-寝袋の後で目覚めたとき-死刑に近い（負のXPバー、新しいものを手に入れる前にXPの損失を取り戻す必要があります） XP）および/または壊れた足または腕または感染症（元々あなたをほとんど殺したかもしれない）はまだそこにあります。 -これはあなたが死んでいないからです-あなたはあなたが持っているすべてを失いませんでした-あなたは新しいキャラクターを選ぶ必要はありませんでした-あなたは最初からやり直す必要はありませんでした。サーバーをワイプしたり、新しいサーバーで起動したりする必要はありませんでした。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Near Death and Rebirth",
+   {
+    "value": "{\"value\":\"死と再生の近く\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Some cuts can be serious and cause you to bleed out. Carry bandages on your belt so you can quickly apply them with [action:local:Primary] to stop bleeding. Use [action:local:Secondary] on an ally to heal them. Some Cuts are so severe you will need to use a Sewing Kit directly on yourself to stop the bleeding.",
+   {
+    "value": "{\"value\":\"一部のカットは深刻で、出血を引き起こす可能性があります。ベルトに包帯を巻いて、[action：local：Primary]ですばやく包帯を巻いて出血を止められるようにします。味方に[action：local：Secondary]を使用してそれらをヒールします。いくつかのカットは非常にひどいので、出血を止めるために自分自身に直接ソーイングキットを使用する必要があります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bandages",
+   {
+    "value": "{\"value\":\"包帯\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Chopping up Tree Stumps will sometimes give you Honeycomb - Which in turn can be used with an empty Jar to make a jar of Honey which has a 5% cure of infection. So, if your infection has reached 20% you will need to consume 4 jars of honey to ensure that all of the infection will be cured.",
+   {
+    "value": "{\"value\":\"木の切り株を切り刻むと、ハニカムが得られることがあります。これを空の瓶と一緒に使用して、5％の感染症の治療法を持つ蜂蜜の瓶を作ることができます。したがって、感染が20％に達した場合は、すべての感染が確実に治癒するように、蜂蜜を4瓶消費する必要があります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Early Game Honey",
+   {
+    "value": "{\"value\":\"初期のゲームハニー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:If you notice there is a little small icon of a book in the corner of every book and schematic - this means you have not learned it yet. When you read the book you will see a green checkmark. When you get a schematic with a green checkmark this means you already know the recipe. Also, some books, like action skill books will have to be placed on your tool bar in-order to read them. You can also scrap the books and yellow quest sheets whether you have read them or not in order to get knowledge points.",
+   {
+    "value": "{\"value\":\"すべての本と回路図の隅に本の小さなアイコンがあることに気付いた場合、これはまだそれを学んでいないことを意味します。本を読むと、緑色のチェックマークが表示されます。緑のチェックマークが付いた回路図を取得した場合、これはレシピをすでに知っていることを意味します。また、アクションスキルブックなどの一部のブックは、それらを読むためにツールバーに配置する必要があります。知識ポイントを取得するために、本や黄色のクエストシートを読んだかどうかに関係なくスクラップすることもできます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Known Schematics",
+   {
+    "value": "{\"value\":\"既知の回路図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Forges, Workbenches, Chemistry Station and other Stations & Benches that are game generated – Can only be broken down for parts – you can NOT pick these items up, even if you place a land claim block – Also Trader Quests will reset the entire poi which include any and all stations or benches located within the POI’s radius – So if you find a Working Workbench and someone resets this POI to do their Quest it may NO longer be a working Workbench.",
+   {
+    "value": "{\"value\":\"ゲームで生成されたフォージ、ワークベンチ、ケミストリーステーション、その他のステーションとベンチ–パーツごとにのみ分解できます–土地請求ブロックを配置しても、これらのアイテムを拾うことはできません–また、トレーダークエストはポイ全体をリセットします。 POIの半径内にあるすべてのステーションまたはベンチを含める–したがって、作業中のワークベンチを見つけ、誰かがこのPOIをリセットしてクエストを実行すると、作業中のワークベンチではなくなる可能性があります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Benches and Stations In The World",
+   {
+    "value": "{\"value\":\"世界のベンチとステーション\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Having a hard time finding paint? The dyes in your inventory can be scrapped for paint. Experiment with recipes to discover more hidden treasures.",
+   {
+    "value": "{\"value\":\"絵の具を見つけるのに苦労していますか？あなたの在庫の染料はペンキのために廃棄することができます。より多くの隠された宝物を発見するためにレシピを試してみてください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Finding Paint",
+   {
+    "value": "{\"value\":\"ペンキを見つける\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The High End Metal Schematic and Blacksmith Forge Schematic can NOT be crafted in the Research Desk – You will either need to find the both of the schematics or you will have to put 16 Points into Intellect attribute to get Intellect 10 and 5 points into Advanced Engineering making the total 21 skill points in order to craft the Blacksmith Forge and Auto Workbench.",
+   {
+    "value": "{\"value\":\"ハイエンドメタルスケマティックと鍛冶屋フォージスケマティックはリサーチデスクでは作成できません–両方のスケマティックを見つけるか、IntellectをIntellect属性に16ポイント入れて、Intellect10ポイントと5ポイントをAdvancedEngineeringに入れる必要があります。鍛冶屋フォージとオートワークベンチを作るために合計21スキルポイントを作ります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:High End Metals",
+   {
+    "value": "{\"value\":\"ハイエンドメタル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:While using the Auger and the Nail gun do not expect to gain any mining or construction skills – Using a Pick-Axe for mining skill increases and a stone hammer or claw hammer for construction skill increases – It may be faster to mine and build with an Auger or Nail Gun but you don’t learn from it.",
+   {
+    "value": "{\"value\":\"オージェとネイルガンを使用している間は、採掘や建設のスキルを習得することは期待できません–採掘スキルにつるはしを使用すると、建設スキルにストーンハンマーまたはクローハンマーを使用すると、オージェまたはネイルガンですが、それから学ぶことはありません。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Construction Tools",
+   {
+    "value": "{\"value\":\"建設ツール\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bladed weapons such as knives and machetes are best at harvesting meat, hide and bones from animals and remains.\\nThese  weapons will cause a bleed debuff on every hit, which can be increased by leveling your skill in Blades.",
+   {
+    "value": "{\"value\":\"ナイフやマチェーテなどのブレード付き武器は、動物や遺体から肉、皮、骨を収穫するのに最適です。\\\\nこれらの武器は、ヒットするたびにブリードデバフを引き起こします。これは、ブレードのスキルを平準化することで増やすことができます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bladed Weapons",
+   {
+    "value": "{\"value\":\"ブレード武器\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Ravenhearst allows you to choose multiple UI's or HUDS. You can accomplish by going into Video Options, selecting your UI of choice and then restarting your game. Depending on your chosen HUD your health and stamina levels are shown as red and blue bars. Food and Water levels are shown as green and blue bars. Open your character screen to see detailed player stats in the tabs below your character name.",
+   {
+    "value": "{\"value\":\"Ravenhearstでは、複数のUIまたはHUDSを選択できます。ビデオオプションに移動し、選択したUIを選択してから、ゲームを再起動することで達成できます。選択したHUDに応じて、健康状態とスタミナレベルが赤と青のバーで表示されます。食物と水のレベルは、緑と青のバーとして表示されます。キャラクター画面を開いて、キャラクター名の下のタブに詳細なプレイヤー統計を表示します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The HUD",
+   {
+    "value": "{\"value\":\"HUD\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:If a recipe shows a lock item then you cannot craft it yet. Clicking on it will show you one or more ways to unlock it.\\nSome recipes and items can not be unlocked and some can only be unlocked by levelling up Action Skills.",
+   {
+    "value": "{\"value\":\"レシピにロックアイテムが表示されている場合は、まだ作成できません。それをクリックすると、ロックを解除する1つ以上の方法が表示されます。\\\\n一部のレシピとアイテムはロックを解除できず、一部はアクションスキルをレベルアップすることによってのみロックを解除できます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unlocking Recipes",
+   {
+    "value": "{\"value\":\"レシピのロックを解除する\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121026
+}

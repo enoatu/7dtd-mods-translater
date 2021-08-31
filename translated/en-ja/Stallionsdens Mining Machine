@@ -1,0 +1,65 @@
+{
+ "cache": [
+  [
+   "keyv:Excavator (Empty)",
+   {
+    "value": "{\"value\":\"掘削機（空）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Excavator (Finding Veins)",
+   {
+    "value": "{\"value\":\"掘削機（静脈を見つける）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Excavator (Starting Drill)",
+   {
+    "value": "{\"value\":\"掘削機（スターティングドリル）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Excavator (25% Full)",
+   {
+    "value": "{\"value\":\"掘削機（25％フル）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Excavator (50% Full)",
+   {
+    "value": "{\"value\":\"掘削機（50％フル）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Excavator (75% Full)",
+   {
+    "value": "{\"value\":\"掘削機（75％フル）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Excavator Recipe",
+   {
+    "value": "{\"value\":\"掘削機のレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Place this excavator on wide open terrain. After placing it will go through 6 phases at it looks for underground veins to mine and drills for ore. When the drill is done you will be able to loot it and it will begin drilling again.",
+   {
+    "value": "{\"value\":\"この掘削機を広く開いた地形に置きます。配置後、6つのフェーズを経て、採掘する地下の鉱脈を探し、鉱石を掘削します。ドリルが完了すると、それを略奪することができ、再びドリルを開始します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Excavator Full",
+   {
+    "value": "{\"value\":\"掘削機がいっぱい\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Excavator has found all the ore it can find.",
+   {
+    "value": "{\"value\":\"掘削機はそれが見つけることができるすべての鉱石を見つけました。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121293
+}

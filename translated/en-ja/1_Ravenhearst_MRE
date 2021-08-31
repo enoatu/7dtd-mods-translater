@@ -1,0 +1,17 @@
+{
+ "cache": [
+  [
+   "keyv:MRE",
+   {
+    "value": "{\"value\":\"MRE\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A Military grade meal that will go a long way in nourishing you. This comes with no food poisoning chances. Find more in military loot..",
+   {
+    "value": "{\"value\":\"あなたに栄養を与えるのに大いに役立つミリタリーグレードの食事。これには食中毒の可能性はありません。軍事戦利品で詳細をご覧ください。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121040
+}

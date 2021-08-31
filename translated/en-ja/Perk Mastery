@@ -1,0 +1,527 @@
+{
+ "cache": [
+  [
+   "keyv:Jax Of All Trades",
+   {
+    "value": "{\"value\":\"すべての取引のジャックス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Master the fine art of being beast like Jax!.",
+   {
+    "value": "{\"value\":\"ジャックスのような獣であることの芸術をマスターしてください！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Attribute: Jax Of All Trades",
+   {
+    "value": "{\"value\":\"属性：Jax Of All Trades\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Jax of All Trades",
+   {
+    "value": "{\"value\":\"すべての取引のジャックス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Melee Masteries",
+   {
+    "value": "{\"value\":\"近接マスタリー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Ranged Masteries",
+   {
+    "value": "{\"value\":\"遠距離マスタリー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Perks for everything!",
+   {
+    "value": "{\"value\":\"すべての特典！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Perks for Melee masteries!",
+   {
+    "value": "{\"value\":\"近接マスタリーの特典！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Perks for ranged masteries!",
+   {
+    "value": "{\"value\":\"遠距離マスタリーの特典！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sprinter",
+   {
+    "value": "{\"value\":\"スプリンター\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You are mastering the art of sprinting from/to any sound you hear. Your sprinting speed increases.",
+   {
+    "value": "{\"value\":\"あなたはあなたが聞くあらゆる音から/への全力疾走の芸術を習得しています。全力疾走速度が上がります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sprinter I",
+   {
+    "value": "{\"value\":\"スプリンターI\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Increase your sprinting speed by 2%.",
+   {
+    "value": "{\"value\":\"全力疾走速度を2％上げます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sprinter II",
+   {
+    "value": "{\"value\":\"スプリンターII\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Increase your sprinting speed by 4%.",
+   {
+    "value": "{\"value\":\"全力疾走速度を4％上げます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sprinter III",
+   {
+    "value": "{\"value\":\"スプリンターIII\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Increase your sprinting speed by 6%.",
+   {
+    "value": "{\"value\":\"全力疾走速度を6％上げます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sprinter IV",
+   {
+    "value": "{\"value\":\"スプリンターIV\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Increase your sprinting speed by 8%.",
+   {
+    "value": "{\"value\":\"全力疾走速度を8％上げます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sprinter V",
+   {
+    "value": "{\"value\":\"スプリンターV\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Increase your sprinting speed by 10%.",
+   {
+    "value": "{\"value\":\"全力疾走速度を10％上げます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sprinter VI",
+   {
+    "value": "{\"value\":\"スプリンターVI\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Increase your sprinting speed by 12%.",
+   {
+    "value": "{\"value\":\"全力疾走速度を12％上げます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sprinter VII",
+   {
+    "value": "{\"value\":\"スプリンターVII\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Increase your sprinting speed by 14%.",
+   {
+    "value": "{\"value\":\"全力疾走速度を14％上げます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sprinter VIII",
+   {
+    "value": "{\"value\":\"スプリンターVIII\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Increase your sprinting speed by 16%.",
+   {
+    "value": "{\"value\":\"全力疾走速度を16％上げます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sprinter IX",
+   {
+    "value": "{\"value\":\"スプリンターIX\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Increase your sprinting speed by 18%.",
+   {
+    "value": "{\"value\":\"全力疾走速度を18％上げます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Master Sprinter",
+   {
+    "value": "{\"value\":\"マスタースプリンター\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Your speed equals that of Usain Bolt. Increase your sprinting speed by 25%.",
+   {
+    "value": "{\"value\":\"あなたの速度はウサインボルトの速度と同じです。全力疾走速度を25％上げます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Survivalist",
+   {
+    "value": "{\"value\":\"サバイバリスト\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You are conditioning your body to the maximum limits. Your tolerance towards the elements increases.",
+   {
+    "value": "{\"value\":\"あなたはあなたの体を最大限に調整しています。要素に対するあなたの許容度が増加します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Survivalist I",
+   {
+    "value": "{\"value\":\"サバイバリストI\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Increase your resistance against heat and cold by 2.",
+   {
+    "value": "{\"value\":\"暑さと寒さに対するあなたの抵抗を2増やします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Survivalist II",
+   {
+    "value": "{\"value\":\"サバイバリストII\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Increase your resistance against heat and cold by 4.",
+   {
+    "value": "{\"value\":\"暑さと寒さに対するあなたの抵抗を4増やします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Survivalist III",
+   {
+    "value": "{\"value\":\"サバイバリストIII\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Increase your resistance against heat and cold by 6.",
+   {
+    "value": "{\"value\":\"暑さと寒さに対するあなたの抵抗を6増やします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Survivalist IV",
+   {
+    "value": "{\"value\":\"サバイバリストIV\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Increase your resistance against heat and cold by 8.",
+   {
+    "value": "{\"value\":\"暑さと寒さに対するあなたの抵抗を8増やします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Survivalist V",
+   {
+    "value": "{\"value\":\"サバイバリストV\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Increase your resistance against heat and cold by 10.",
+   {
+    "value": "{\"value\":\"暑さと寒さに対するあなたの抵抗を10増やします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Survivalist VI",
+   {
+    "value": "{\"value\":\"サバイバリストVI\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Increase your resistance against heat and cold by 12.",
+   {
+    "value": "{\"value\":\"暑さと寒さに対するあなたの抵抗を12増やします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Survivalist VII",
+   {
+    "value": "{\"value\":\"サバイバリストVII\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Increase your resistance against heat and cold by 14.",
+   {
+    "value": "{\"value\":\"暑さと寒さに対するあなたの抵抗を14増やします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Survivalist VIII",
+   {
+    "value": "{\"value\":\"サバイバリストVIII\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Increase your resistance against heat and cold by 16.",
+   {
+    "value": "{\"value\":\"暑さと寒さに対するあなたの抵抗を16増やします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Survivalist IX",
+   {
+    "value": "{\"value\":\"サバイバリストIX\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Increase your resistance against heat and cold by 18.",
+   {
+    "value": "{\"value\":\"暑さと寒さに対するあなたの抵抗を18増やします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Master Survivalist",
+   {
+    "value": "{\"value\":\"マスターサバイバリスト\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You've mastered the art of surviving in the wilderness",
+   {
+    "value": "{\"value\":\"あなたは荒野で生き残るための芸術を習得しました\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Calisthenics",
+   {
+    "value": "{\"value\":\"体操\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You are mastering the excercising method of only using your body",
+   {
+    "value": "{\"value\":\"あなたは自分の体だけを使うという運動方法をマスターしています\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Calisthenics I",
+   {
+    "value": "{\"value\":\"体操I\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Increase your maximum health and stamina by 3%.",
+   {
+    "value": "{\"value\":\"最大体力とスタミナを3％増やします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Calisthenics II",
+   {
+    "value": "{\"value\":\"体操II\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Increase your maximum health and stamina by 6%.",
+   {
+    "value": "{\"value\":\"最大体力とスタミナを6％増やします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Calisthenics III",
+   {
+    "value": "{\"value\":\"体操III\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Increase your maximum health and stamina by 9%.",
+   {
+    "value": "{\"value\":\"最大体力とスタミナを9％増やします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Calisthenics IV",
+   {
+    "value": "{\"value\":\"体操IV\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Increase your maximum health and stamina by 12%.",
+   {
+    "value": "{\"value\":\"最大体力とスタミナを12％増やします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Calisthenics V",
+   {
+    "value": "{\"value\":\"体操V\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Increase your maximum health and stamina by 15%.",
+   {
+    "value": "{\"value\":\"最大体力とスタミナを15％増やします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Calisthenics VI",
+   {
+    "value": "{\"value\":\"体操VI\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Increase your maximum health and stamina by 18%.",
+   {
+    "value": "{\"value\":\"最大体力とスタミナを18％増やします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Calisthenics VII",
+   {
+    "value": "{\"value\":\"体操VII\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Increase your maximum health and stamina by 21%.",
+   {
+    "value": "{\"value\":\"最大体力とスタミナを21％増やします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Calisthenics VIII",
+   {
+    "value": "{\"value\":\"体操VIII\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Increase your maximum health and stamina by 24%.",
+   {
+    "value": "{\"value\":\"最大体力とスタミナを24％増やします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Calisthenics IX",
+   {
+    "value": "{\"value\":\"体操IX\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Increase your maximum health and stamina by 27%.",
+   {
+    "value": "{\"value\":\"最大体力とスタミナを27％増やします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Master Calisthenics",
+   {
+    "value": "{\"value\":\"マスター体操\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have the features of Heracles. Increase your maximum health and stamina by 40%.",
+   {
+    "value": "{\"value\":\"あなたはヘラクレスの特徴を持っています。最大体力とスタミナを40％増やします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hammerer",
+   {
+    "value": "{\"value\":\"ハンマー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You are mastering the arts of the sledgehammer.",
+   {
+    "value": "{\"value\":\"あなたは大ハンマーの芸術を習得しています。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hammerer I",
+   {
+    "value": "{\"value\":\"ハンマーI\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hammerer II",
+   {
+    "value": "{\"value\":\"ハンマーII\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hammerer III",
+   {
+    "value": "{\"value\":\"ハンマーIII\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hammerer IV",
+   {
+    "value": "{\"value\":\"ハンマーIV\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hammerer V",
+   {
+    "value": "{\"value\":\"ハンマーV\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hammerer VI",
+   {
+    "value": "{\"value\":\"ハンマーVI\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hammerer VII",
+   {
+    "value": "{\"value\":\"ハンマーVII\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hammerer VIII",
+   {
+    "value": "{\"value\":\"ハンマーVIII\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hammerer IX",
+   {
+    "value": "{\"value\":\"ハンマーIX\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Master Hammerer",
+   {
+    "value": "{\"value\":\"マスターハンマー\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121251
+}

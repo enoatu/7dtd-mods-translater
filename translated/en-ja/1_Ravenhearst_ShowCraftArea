@@ -1,0 +1,41 @@
+{
+ "cache": [
+  [
+   "keyv:Crafting Area",
+   {
+    "value": "{\"value\":\"クラフトエリア\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tool",
+   {
+    "value": "{\"value\":\"道具\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Slots",
+   {
+    "value": "{\"value\":\"スロット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tanning Rack",
+   {
+    "value": "{\"value\":\"なめしラック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Survival Campfire",
+   {
+    "value": "{\"value\":\"サバイバルキャンプファイヤー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Personal Bench",
+   {
+    "value": "{\"value\":\"パーソナルベンチ\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121083
+}

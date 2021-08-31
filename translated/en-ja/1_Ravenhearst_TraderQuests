@@ -1,0 +1,89 @@
+{
+ "cache": [
+  [
+   "keyv:A small music Carousel",
+   {
+    "value": "{\"value\":\"小さな音楽カルーセル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A small Carousel to help fill the air with music and hope.",
+   {
+    "value": "{\"value\":\"音楽と希望で空気を満たすのに役立つ小さなカルーセル。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Preparing to Survive",
+   {
+    "value": "{\"value\":\"生き残るための準備\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:We have seen you lurking around the towns and figured that you could use a hand. There is something that we need first and if you can do it then I will provide you a very valuable survival tool.\\n\\nI need you to retrieve a bag of medicine from one of our overrun outposts. We need this for something we are working on and if it is successful it could turn the tide of this wasteland. Bring back this bag and I will hook you up with something I know you need.",
+   {
+    "value": "{\"value\":\"私たちはあなたが町の周りに潜んでいるのを見て、あなたが手を使うことができると考えました。最初に必要なものがあります。それができれば、非常に価値のあるサバイバルツールを提供します。\\\\n\\\\nオーバーランした前哨基地の1つから薬の袋を回収する必要があります。私たちが取り組んでいる何かのためにこれが必要であり、それが成功した場合、それはこの荒れ地の流れを変える可能性があります。このバッグを持ってきてください、そして私はあなたが必要であると私が知っている何かであなたを引っ掛けます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:God damn you did it! You have some moxy let me tell you! As promised here is something you can use to your benefit!",
+   {
+    "value": "{\"value\":\"なんてこった！あなたはいくつかのモクシーを持っています私にあなたに言わせてください！ここで約束されているように、あなたはあなたの利益のために使うことができるものです！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Preparing to Survive ([DECEA3]{poi.distance}[-])",
+   {
+    "value": "{\"value\":\"生き残るための準備（[DECEA3] {poi.distance} [-]）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Meat Sack",
+   {
+    "value": "{\"value\":\"ミートサック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Man am I glad to see you. I need a favor but it isn't going to be easy. I sent Lt. Foxcheckman and his team to check on a tip we received from one our moles . The Lt and his team have not responded in 3 days. They may still be there if you know what I mean.\\nOne of our rival gangs were taken out by some bad Makasin antibiotics and apparently those assholes had a huge supply of canned goods in a sack. We need all the food we can get. If you can find them for me I will make sure your time was worth it. What do you say?",
+   {
+    "value": "{\"value\":\"男はあなたに会えてうれしいです。お願いが必要ですが、簡単にはいきません。私はフォックスチェックマン中尉と彼のチームを送って、私たちのほくろから受け取ったヒントをチェックしました。 Ltと彼のチームは3日以内に応答しませんでした。私の言いたいことを知っていれば、彼らはまだそこにいるのかもしれません。私達は私達が得ることができるすべての食糧を必要とします。あなたが私のためにそれらを見つけることができれば、私はあなたの時間がそれだけの価値があることを確認します。あなたは何を言っていますか？\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You did it! My guys get to live another day! It is rather unfortunate about Foxcheckman though. We are going to take back this Apocalypse!",
+   {
+    "value": "{\"value\":\"できたね！私の男たちは別の日に生きるようになります！しかし、Foxcheckmanについてはかなり残念です。この黙示録を取り戻すつもりです！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Meat Sack ([DECEA3]{poi.distance}[-])",
+   {
+    "value": "{\"value\":\"ミートサック（[DECEA3] {poi.distance} [-]）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Missing Patches",
+   {
+    "value": "{\"value\":\"不足しているパッチ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Dammit! I can not believe this happened. Do you remember Constip and Dandelion? Those guys are two patched members of the Lone Wolves and now they are missing. Rizzano is NOT happy about this. I need you to help me out here before Rizz comes back looking for answers.\\n\\nI know where they were last headed. If you could head out there and make sure they are ok or.... if they aren't I would be very grateful.",
+   {
+    "value": "{\"value\":\"くそー！私はこれが起こったとは信じられません。コンスティップとタンポポを覚えていますか？それらの人は一匹狼の2人のパッチを当てられたメンバーであり、今彼らは行方不明です。リザーノはこれに満足していません。リズが答えを探しに戻ってくる前に、ここで私を助けてくれる必要があります。\\\\n\\\\n彼らが最後に向かった場所を知っています。あなたがそこに向かい、彼らが大丈夫であることを確認することができれば、または....そうでなければ、私は非常に感謝します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Son of a Bitch! Rizzano is not going to be happy to hear this. Thank you for bringing these patches back to me. Now we know what happened to them.",
+   {
+    "value": "{\"value\":\"クソ野郎！リザーノはこれを聞いて喜ぶつもりはありません。これらのパッチを私に返してくれてありがとう。今、私たちは彼らに何が起こったのかを知っています。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Missing Patches ([DECEA3]{poi.distance}[-])",
+   {
+    "value": "{\"value\":\"不足しているパッチ（[DECEA3] {poi.distance} [-]）\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121098
+}

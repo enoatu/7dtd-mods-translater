@@ -1,0 +1,23 @@
+{
+ "cache": [
+  [
+   "keyv:Telescopic Baton Schematic",
+   {
+    "value": "{\"value\":\"伸縮式バトン概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Telescopic Baton",
+   {
+    "value": "{\"value\":\"伸縮式バトン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Premiere choice for the Ravenhearst Police Department.\\n\\nRepair with an Advanced Repair Kit.",
+   {
+    "value": "{\"value\":\"レイヴンハースト警察署のプレミアチョイス。\\\\n\\\\n高度な修理キットで修理します。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412120794
+}

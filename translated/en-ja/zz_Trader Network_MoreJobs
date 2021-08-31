@@ -1,0 +1,707 @@
+{
+ "cache": [
+  [
+   "keyv:A Challenge from the Trader's Network",
+   {
+    "value": "{\"value\":\"トレーダーのネットワークからの挑戦\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Trader Network Challenges",
+   {
+    "value": "{\"value\":\"トレーダーネットワークの課題\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Horde Trainer",
+   {
+    "value": "{\"value\":\"大群トレーナー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Putrid Girl",
+   {
+    "value": "{\"value\":\"腐敗した少女\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Zombie Biker",
+   {
+    "value": "{\"value\":\"ゾンビバイカー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Infected Survivor",
+   {
+    "value": "{\"value\":\"感染した生存者\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Zombie Businessman",
+   {
+    "value": "{\"value\":\"ゾンビビジネスマン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cheerleader Zombie",
+   {
+    "value": "{\"value\":\"チアリーダーゾンビ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Decayed Mother",
+   {
+    "value": "{\"value\":\"腐った母\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Zombie Farmer",
+   {
+    "value": "{\"value\":\"ゾンビファーマー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Infected Policeman",
+   {
+    "value": "{\"value\":\"感染した警官\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disturbed Tourist",
+   {
+    "value": "{\"value\":\"邪魔された観光客\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hungry Zombie",
+   {
+    "value": "{\"value\":\"空腹のゾンビ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Festering Cadaver",
+   {
+    "value": "{\"value\":\"Festering Cadaver\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Departed Woman",
+   {
+    "value": "{\"value\":\"出発した女性\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bloated Walker",
+   {
+    "value": "{\"value\":\"膨満感ウォーカー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Plagued Nurse",
+   {
+    "value": "{\"value\":\"悩まされている看護師\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Zombie Cowboy",
+   {
+    "value": "{\"value\":\"ゾンビカウボーイ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Skater Punk Zombie",
+   {
+    "value": "{\"value\":\"スケーターパンクゾンビ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Frozen Lumberjack",
+   {
+    "value": "{\"value\":\"冷凍ランバージャック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fallen Soldier",
+   {
+    "value": "{\"value\":\"戦没者\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Spider Zombie",
+   {
+    "value": "{\"value\":\"スパイダーゾンビ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Reanimated Corpse",
+   {
+    "value": "{\"value\":\"僵屍\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Crawler",
+   {
+    "value": "{\"value\":\"昇降補助具\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Zombie Stripper",
+   {
+    "value": "{\"value\":\"ゾンビストリッパー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Utility Worker Zombie",
+   {
+    "value": "{\"value\":\"ユーティリティワーカーゾンビ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Rotting Carcass",
+   {
+    "value": "{\"value\":\"腐った死骸\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Zombie Janitor",
+   {
+    "value": "{\"value\":\"ゾンビジャニター\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Horde Training (Tier 1)",
+   {
+    "value": "{\"value\":\"大群訓練（Tier 1）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Horde Training (Tier 2)",
+   {
+    "value": "{\"value\":\"大群訓練（Tier 2）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Horde Training (Tier 3)",
+   {
+    "value": "{\"value\":\"大群訓練（Tier 3）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Horde Training (Tier 4)",
+   {
+    "value": "{\"value\":\"大群訓練（Tier 4）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Horde Training (Tier 5)",
+   {
+    "value": "{\"value\":\"大群訓練（Tier 5）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The Hunt (Tier 1)",
+   {
+    "value": "{\"value\":\"ハント（Tier 1）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The Hunt (Tier 2)",
+   {
+    "value": "{\"value\":\"ハント（ティア2）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The Hunt (Tier 3)",
+   {
+    "value": "{\"value\":\"ハント（Tier 3）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The Hunt (Tier 4)",
+   {
+    "value": "{\"value\":\"ハント（Tier 4）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The Hunt (Tier 5)",
+   {
+    "value": "{\"value\":\"ハント（Tier 5）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Mini Horde (Tier 1)",
+   {
+    "value": "{\"value\":\"ミニ大群（Tier 1）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Mini Horde (Tier 2)",
+   {
+    "value": "{\"value\":\"ミニ大群（ティア2）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Mini Horde (Tier 3)",
+   {
+    "value": "{\"value\":\"ミニ大群（Tier 3）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Mini Horde (Tier 4)",
+   {
+    "value": "{\"value\":\"ミニ大群（Tier 4）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Mini Horde (Tier 5)",
+   {
+    "value": "{\"value\":\"ミニ大群（Tier 5）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hold and Fetch (Tier 1)",
+   {
+    "value": "{\"value\":\"ホールドアンドフェッチ（Tier 1）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hold and Fetch (Tier 2)",
+   {
+    "value": "{\"value\":\"ホールドアンドフェッチ（Tier 2）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hold and Fetch (Tier 3)",
+   {
+    "value": "{\"value\":\"ホールドアンドフェッチ（Tier 3）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hold and Fetch (Tier 4)",
+   {
+    "value": "{\"value\":\"ホールドアンドフェッチ（Tier 4）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hold and Fetch (Tier 5)",
+   {
+    "value": "{\"value\":\"ホールドアンドフェッチ（Tier 5）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Mechanical Dog Prototype",
+   {
+    "value": "{\"value\":\"機械的な犬のプロトタイプ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Mechanical Wolf Prototype",
+   {
+    "value": "{\"value\":\"メカニカルウルフプロトタイプ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Mechanical Lion Prototype",
+   {
+    "value": "{\"value\":\"メカニカルライオンプロトタイプ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Mechanical Bear Prototype",
+   {
+    "value": "{\"value\":\"メカニカルベアプロトタイプ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Mechanical Android Prototype",
+   {
+    "value": "{\"value\":\"機械的なAndroidプロトタイプ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:(SINGLE PLAYER ONLY) Chest containing a single Dog prototype that regens your stamina.\\n\\nHas 3 minutes of power.",
+   {
+    "value": "{\"value\":\"（シングルプレイヤーのみ）スタミナを再生する犬のプロトタイプが1つ入っているチェスト。\\\\n\\\\n3分間のパワーがあります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:(SINGLE PLAYER ONLY) Chest containing a single Wolf prototype that regens your health.\\n\\nHas 3 minutes of power.",
+   {
+    "value": "{\"value\":\"（シングルプレイヤーのみ）体力を回復するオオカミのプロトタイプが1つ入っているチェスト。\\\\n\\\\n3分間のパワーがあります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:(SINGLE PLAYER ONLY) Chest containing a single Lion prototype that burns zombies.\\n\\nHas 3 minutes of power.",
+   {
+    "value": "{\"value\":\"（シングルプレイヤーのみ）ゾンビを燃やすライオンのプロトタイプが1つ入っているチェスト。\\\\n\\\\n3分間のパワーがあります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:(SINGLE PLAYER ONLY) Chest containing a single Bear prototype that knocks ennemies down via explosive damage.\\n\\nHas 3 minutes of power.",
+   {
+    "value": "{\"value\":\"（シングルプレイヤーのみ）爆発的なダメージで敵を倒すクマのプロトタイプが1つ入っているチェスト。\\\\n\\\\n3分間のパワーがあります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:(SINGLE PLAYER ONLY) Chest containing a single Android prototype that stuns ennemies.\\n\\nHas 3 minutes of power.",
+   {
+    "value": "{\"value\":\"（シングルプレイヤーのみ）敵を気絶させるAndroidプロトタイプが1つ入っているチェスト。\\\\n\\\\n3分間のパワーがあります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Mechanical Dog Dispatcher",
+   {
+    "value": "{\"value\":\"メカニカルドッグディスパッチャー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Mechanical Wolf Dispatcher",
+   {
+    "value": "{\"value\":\"メカニカルウルフディスパッチャー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Mechanical Lion Dispatcher",
+   {
+    "value": "{\"value\":\"メカニカルライオンディスパッチャー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Mechanical Bear Dispatcher",
+   {
+    "value": "{\"value\":\"メカニカルベアディスパッチャー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Mechanical Android Dispatcher",
+   {
+    "value": "{\"value\":\"メカニカルAndroidディスパッチャー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A Trader Network Dispatcher to call in a mechanical Dog prototype that regens your stamina.\\n\\nHas 3 minutes of power.",
+   {
+    "value": "{\"value\":\"スタミナを再生する機械的な犬のプロトタイプを呼び出すトレーダーネットワークディスパッチャー。\\\\n\\\\n3分間のパワーがあります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A Trader Network Dispatcher to call in a mechanical Wolf prototype that regens your health.\\n\\nHas 3 minutes of power.",
+   {
+    "value": "{\"value\":\"体力を回復させる機械的なウルフのプロトタイプを呼び出すトレーダーネットワークディスパッチャー。\\\\n\\\\n3分間の電力があります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A Trader Network Dispatcher to call in a mechanical Lion that burns zombies.\\n\\nHas 3 minutes of power.",
+   {
+    "value": "{\"value\":\"ゾンビを燃やす機械的なライオンを呼び出すトレーダーネットワークディスパッチャー。\\\\n\\\\n3分間の電力があります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A Trader Network Dispatcher to call in a mechanical Bear prototype that knocks ennemies down via explosive damage.\\n\\nHas 3 minutes of power.",
+   {
+    "value": "{\"value\":\"爆発的なダメージで敵を倒す機械的なベアのプロトタイプを呼び出すトレーダーネットワークディスパッチャー。\\\\n\\\\n3分間のパワーがあります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A Trader Network Dispatcher to call in a mechanical Android prototype that stuns ennemies.\\n\\nHas 3 minutes of power.",
+   {
+    "value": "{\"value\":\"敵を気絶させる機械的なAndroidプロトタイプを呼び出すトレーダーネットワークディスパッチャー。\\\\n\\\\n3分間の電力があります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hold and Fetch",
+   {
+    "value": "{\"value\":\"ホールドアンドフェッチ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The Trader wants me to fetch some supplies with a promise of a good reward.",
+   {
+    "value": "{\"value\":\"トレーダーは私に良い報酬を約束していくつかの物資を取りに来てほしいと思っています。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This one is a little tougher than usual. I've had a few courriers attempt it and they've all failed.\\n\\nI need you to retrieve some supplies from the [DECEA3]{poi.name}[-], but it seems like once the place is cleared out, more will come and you'll have to deal with them before you can fetch the supplies.",
+   {
+    "value": "{\"value\":\"これはいつもより少しタフです。いくつかの宅配便業者に試してもらいましたが、すべて失敗しました。\\\\n\\\\n[DECEA3] {poi.name} [-]からいくつかの物資を回収する必要がありますが、場所が片付けられたらどうやら、もっと来るでしょう、そしてあなたが物資をフェッチすることができる前にあなたはそれらに対処しなければならないでしょう。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hold and Fetch ([DECEA3]{poi.distance} {poi.direction}[-])",
+   {
+    "value": "{\"value\":\"ホールドアンドフェッチ（[DECEA3] {poi.distance} {poi.direction} [-]）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bring back the shipment.",
+   {
+    "value": "{\"value\":\"荷物を持ち帰ります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:I wasn't sure you'd be up to the task, but I was definitely wrong about you.\\n\\nYou've proven yourself to be quite the survivor.\\n\\nHere's your reward, well earned.",
+   {
+    "value": "{\"value\":\"あなたがその任務を遂行できるかどうかはわかりませんでしたが、私はあなたについて間違いなく間違っていました。\\\\n\\\\nあなたはかなりの生存者であることが証明されました。\\\\n\\\\nこれがあなたの報酬です。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Mini Horde",
+   {
+    "value": "{\"value\":\"ミニ大群\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The Trader wants me to get rid of a large number of zombies.",
+   {
+    "value": "{\"value\":\"トレーダーは私にたくさんのゾンビを追い払ってほしいと言っています。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:All of these zombies are bad for business.\\n\\nWe need your help with clearing the area from a number of them.\\n\\nIt'll help our courriers get through.\\n\\nYou may want to set up a bit of a defense before you draw them in.",
+   {
+    "value": "{\"value\":\"これらのゾンビはすべてビジネスに悪影響を及ぼします。\\\\n\\\\n多数のゾンビからエリアをクリアするためにあなたの助けが必要です。\\\\n\\\\nそれは私たちの宅配便業者が通り抜けるのに役立ちます。\\\\n\\\\nあなたがそれらを引き込む前の防御。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Defeat the horde.",
+   {
+    "value": "{\"value\":\"大群を倒します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Thank you so much.\\n\\nClearing the way for our courriers will help our entire trading network.\\n\\nPlease choose your reward.",
+   {
+    "value": "{\"value\":\"どうもありがとうございました。\\\\n\\\\n宅配便業者の道を切り開くと、取引ネットワーク全体に役立ちます。\\\\n\\\\n報酬を選択してください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Help clear an area from a number of zombies.\\n\\nIt may be wise to set up a bit of a defense before drawing them in.",
+   {
+    "value": "{\"value\":\"多数のゾンビからエリアをクリアするのを手伝ってください。\\\\n\\\\nゾンビを引き込む前に少し防御を設定するのが賢明かもしれません。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Help the Trader Network get rid of some mutated animals.\\n\\nYou keep whatever you kill, they just want them gone. They'll send in some support.",
+   {
+    "value": "{\"value\":\"トレーダーネットワークが変異した動物を取り除くのを手伝ってください。\\\\n\\\\n殺したものは何でも保持し、彼らはただそれらをなくしたいだけです。彼らはいくつかのサポートを送ります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A challenge to test out your horde base, luring a large population of walkers.\\n\\nThis is purely for training purposes, yields no rewards.",
+   {
+    "value": "{\"value\":\"大勢の歩行者を誘惑して、大群の基地をテストするという課題。\\\\n\\\\nこれは純粋にトレーニング目的であり、報酬は得られません。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Horde Training",
+   {
+    "value": "{\"value\":\"大群訓練\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The Trader gave me a challenge. To train for Horde Night.",
+   {
+    "value": "{\"value\":\"トレーダーは私に挑戦をしました。 HordeNightのトレーニングに。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:I can give you a challenge which will get you prepared for horde night.\\n\\nIt essentially reproduces a large population of walkers over time.\\n\\nThis is purely for training purposes, yields no rewards and you can keep it stored for whenever you wish to use it.\\n\\nStart the challenge in your base or out in the streets if you feel lucky.\\n\\nAre you up for it?",
+   {
+    "value": "{\"value\":\"大群の夜に備えるためのチャレンジを提供できます。\\\\n\\\\nこれは基本的に、時間の経過とともに多数の歩行者を再現します。\\\\n\\\\nこれは純粋にトレーニング目的であり、報酬は得られず、いつでも保存できます。使いたいと思います。\\\\n\\\\n運が良ければ、基地や街頭でチャレンジを始めましょう。\\\\n\\\\n準備はいいですか？\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Train to defeat a horde.",
+   {
+    "value": "{\"value\":\"大群を倒すために訓練する。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Shall we begin your Horde training?\\n\\nThe number and difficulty of zombies will slowly ramp up over a period of a few minutes.\\n\\nBeware... once you start this, there's no turning back.\\n\\nReady when you are...",
+   {
+    "value": "{\"value\":\"大群の訓練を始めましょうか？\\\\n\\\\nゾンビの数と難易度は数分かけてゆっくりと増加します。\\\\n\\\\n注意してください...一度これを開始すると、後戻りすることはありません。\\\\n\\\\nいつ準備ができますかあなたは...\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Train to defeat a Horde.",
+   {
+    "value": "{\"value\":\"大群を倒すために訓練する。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The Hunt",
+   {
+    "value": "{\"value\":\"狩り\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The Trader wants me to get rid of some mutated animals.",
+   {
+    "value": "{\"value\":\"トレーダーは私にいくつかの突然変異した動物を取り除くことを望んでいます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Would you help us get rid of some mutated animals in the area?\\n\\nThey keep eating our crops and will attack the locals.\\n\\nYou keep whatever you kill, we just want them gone.",
+   {
+    "value": "{\"value\":\"その地域の突然変異した動物を追い払うのを手伝ってくれませんか？\\\\n\\\\n彼らは私たちの作物を食べ続け、地元の人々を攻撃します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hunt down some mutated animals.",
+   {
+    "value": "{\"value\":\"いくつかの変異した動物を追い詰めます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Would you help us get rid of some mutated animals in the area?\\n\\nThey keep eating our crops and will attack the locals.\\n\\nYou keep whatever you kill, we just want them gone.\\n\\nWe'll send our mechanical Dog prototypes. If you stand close to them, you'll feel like you have better stamina.\\n\\nDon't be surprised if they don't always cooperate. We're still working on the technology.\\n\\nThey also only have enough power for 2 minutes though, make the most of it.",
+   {
+    "value": "{\"value\":\"この地域の変異した動物を追い払うのを手伝ってくれませんか？\\\\n\\\\n彼らは私たちの作物を食べ続け、地元の人々を攻撃します。私たちの機械的な犬のプロトタイプ。彼らの近くに立つと、スタミナが良くなったように感じるでしょう。\\\\n\\\\n彼らが常に協力していなくても驚かないでください。現在もこのテクノロジーに取り組んでいます。\\\\n\\\\n2分間しか十分な電力がありませんが、それを最大限に活用してください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Would you help us get rid of some mutated animals in the area?\\n\\nThey keep eating our crops and will attack the locals.\\n\\nYou keep whatever you kill, we just want them gone.\\n\\nWe'll send our mechanical Wolf prototypes. If you stand close to them, you'll feel like you are in better health.\\n\\nDon't be surprised if they don't always cooperate. We're still working on the technology.\\n\\nThey also only have enough power for 3 minutes though, make the most of it.",
+   {
+    "value": "{\"value\":\"その地域の突然変異した動物を追い払うのを手伝ってくれませんか？\\\\n\\\\n彼らは私たちの作物を食べ続け、地元の人々を攻撃します。私たちの機械的なウルフのプロトタイプ。彼らの近くに立つと、健康状態が良くなったように感じるでしょう。\\\\n\\\\n彼らが常に協力していなくても驚かないでください。現在もこのテクノロジーに取り組んでいます。\\\\n\\\\n3分間しか十分な電力がありませんが、それを最大限に活用してください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Would you help us get rid of some mutated animals in the area?\\n\\nThey keep eating our crops and will attack the locals.\\n\\nYou keep whatever you kill, we just want them gone.\\n\\nWe'll send our mechanical Lion prototypes. Zombies standing close to them will periodically get burned.\\n\\nDon't be surprised if they don't always cooperate. We're still working on the technology.\\n\\nThey also only have enough power for 4 minutes though, make the most of it.",
+   {
+    "value": "{\"value\":\"この地域の変異した動物を追い払うのを手伝ってくれませんか？\\\\n\\\\n彼らは私たちの作物を食べ続け、地元の人々を攻撃します。私たちの機械的なライオンのプロトタイプ。近くに立っているゾンビは定期的に火傷を負います。\\\\n\\\\n常に協力していなくても驚かないでください。現在もこのテクノロジーに取り組んでいます。\\\\n\\\\nただし、4分間しか十分な電力がないため、最大限に活用してください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Would you help us get rid of some mutated animals in the area?\\n\\nThey keep eating our crops and will attack the locals.\\n\\nYou keep whatever you kill, we just want them gone.\\n\\nWe'll send our mechanical Bear prototypes. Enemies standing close to them will periodically get knocked down by targetted explosions.\\n\\nDon't be surprised if they don't always cooperate. We're still working on the technology.\\n\\nThey also only have enough power for 5 minutes though, make the most of it.",
+   {
+    "value": "{\"value\":\"その地域の突然変異した動物を追い払うのを手伝ってくれませんか？\\\\n\\\\n彼らは私たちの作物を食べ続け、地元の人々を攻撃します。私たちの機械的なベアのプロトタイプ。近くに立っている敵は、標的を絞った爆発によって定期的にノックダウンされます。\\\\n\\\\n常に協力していなくても、驚かないでください。現在もこのテクノロジーに取り組んでいます。\\\\n\\\\n5分間しか十分な電力がありませんが、それを最大限に活用してください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Would you help us get rid of some mutated animals in the area?\\n\\nThey keep eating our crops and will attack the locals.\\n\\nYou keep whatever you kill, we just want them gone.\\n\\nWe'll send our mechanical Android prototypes. Ennemies standing close to them will periodically get stuned.\\n\\nDon't be surprised if they don't always cooperate. We're still working on the technology.\\n\\nThey also only have enough power for 6 minutes though, make the most of it.",
+   {
+    "value": "{\"value\":\"この地域の変異した動物を追い払うのを手伝ってくれませんか？\\\\n\\\\n彼らは私たちの作物を食べ続け、地元の人々を攻撃します。私たちの機械的なAndroidプロトタイプ。近くに立っている敵は定期的に気絶します。\\\\n\\\\n常に協力しなくても驚かないでください。現在もこのテクノロジーに取り組んでいます。\\\\n\\\\n6分間しか十分な電力がありませんが、それを最大限に活用してください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Trader Network Mechanical Dog",
+   {
+    "value": "{\"value\":\"トレーダーネットワークメカニカルドッグ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Trader Network Mechanical Wolf",
+   {
+    "value": "{\"value\":\"トレーダーネットワークメカニカルウルフ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Trader Network Mechanical Lion",
+   {
+    "value": "{\"value\":\"トレーダーネットワークメカニカルライオン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Trader Network Mechanical Bear",
+   {
+    "value": "{\"value\":\"トレーダーネットワークメカニカルベア\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Trader Network Mechanical Android",
+   {
+    "value": "{\"value\":\"Trader Network Mechanical Android\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Dispatch Mechanical Dog",
+   {
+    "value": "{\"value\":\"メカニカルドッグを派遣\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:I want to have the Trader Network dispatch a Mechanical Dog to assist me.",
+   {
+    "value": "{\"value\":\"TraderNetworkにMechanicalDogを派遣してもらいたいです。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:We can dispatch one of our mechanical Dog prototypes.\\n\\nIf you stand close to it, you'll feel like you have better stamina.\\n\\nDon't be surprised if it doesn't always cooperate. We're still working on the technology.\\n\\nIt also only has enough power for 3 minutes though, make the most of it.",
+   {
+    "value": "{\"value\":\"機械式の犬のプロトタイプの1つを発送できます。\\\\n\\\\n近くに立つと、スタミナが向上したように感じます。\\\\n\\\\n常に協力しなくても驚かないでください。現在もこのテクノロジーに取り組んでいます。\\\\n\\\\n3分間しか十分な電力がありませんが、最大限に活用してください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Dispatch Mechanical Wolf",
+   {
+    "value": "{\"value\":\"メカニカルウルフを派遣\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:I want to have the Trader Network dispatch a Mechanical Wolf to assist me.",
+   {
+    "value": "{\"value\":\"TraderNetworkにMechanicalWolfを派遣してもらいたいです。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:We can dispatch one of our mechanical Wolf prototypes.\\n\\nIf you stand close to it, you'll feel like you are in better health.\\n\\nDon't be surprised if it doesn't always cooperate. We're still working on the technology.\\n\\nIt also only has enough power for 3 minutes though, make the most of it.",
+   {
+    "value": "{\"value\":\"機械式のオオカミのプロトタイプの1つを発送できます。\\\\n\\\\n近くに立つと、健康状態が良くなったように感じます。\\\\n\\\\n常に協力していなくても、驚かないでください。現在もこのテクノロジーに取り組んでいます。\\\\n\\\\n3分間しか十分な電力がありませんが、最大限に活用してください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Dispatch Mechanical Lion",
+   {
+    "value": "{\"value\":\"メカニカルライオンを派遣\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:I want to have the Trader Network dispatch a Mechanical Lion to assist me.",
+   {
+    "value": "{\"value\":\"TraderNetworkにMechanicalLionを派遣してもらいたいです。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:We can dispatch one of our mechanical Lion prototypes.\\n\\nZombies standing close to it will periodically get burned.\\n\\nDon't be surprised if it doesn't always cooperate. We're still working on the technology.\\n\\nIt also only has enough power for 3 minutes though, make the most of it.",
+   {
+    "value": "{\"value\":\"機械的なライオンのプロトタイプの1つを発送できます。\\\\n\\\\n近くに立っているゾンビは定期的に火傷を負います。\\\\n\\\\n常に協力しなくても驚かないでください。現在もこのテクノロジーに取り組んでいます。\\\\n\\\\n3分間しか十分な電力がありませんが、最大限に活用してください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Dispatch Mechanical Bear",
+   {
+    "value": "{\"value\":\"メカニカルベアを派遣\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:I want to have the Trader Network dispatch a Mechanical Bear to assist me.",
+   {
+    "value": "{\"value\":\"TraderNetworkにMechanicalBearを派遣してもらいたいです。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:We can dispatch one of our mechanical Bear prototypes.\\n\\nEnemies standing close to it will periodically get knocked down by targetted explosions.\\n\\nDon't be surprised if it doesn't always cooperate. We're still working on the technology.\\n\\nIt also only has enough power for 3 minutes though, make the most of it.",
+   {
+    "value": "{\"value\":\"機械式のクマのプロトタイプの1つを発送できます。\\\\n\\\\n近くに立っている敵は、標的となる爆発によって定期的にノックダウンされます。\\\\n\\\\n常に協力しなくても、驚かないでください。現在もこのテクノロジーに取り組んでいます。\\\\n\\\\n3分間しか十分な電力がありませんが、最大限に活用してください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Dispatch Mechanical Android",
+   {
+    "value": "{\"value\":\"メカニカルAndroidをディスパッチ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:I want to have the Trader Network dispatch a Mechanical Android to assist me.",
+   {
+    "value": "{\"value\":\"TraderNetworkにMechanicalAndroidをディスパッチしてもらいたいです。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:We can dispatch one of our mechanical Android prototypes.\\n\\nEnnemies standing close to it will periodically get stuned.\\n\\nDon't be surprised if it doesn't always cooperate. We're still working on the technology.\\n\\nIt also only has enough power for 3 minutes though, make the most of it.",
+   {
+    "value": "{\"value\":\"機械的なAndroidプロトタイプの1つをディスパッチできます。\\\\n\\\\n近くに立っている敵は定期的に気絶します。\\\\n\\\\n常に協力しなくても驚かないでください。現在もこのテクノロジーに取り組んでいます。\\\\n\\\\n3分間しか十分な電力がありませんが、最大限に活用してください。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121415
+}

@@ -1,0 +1,65 @@
+{
+ "cache": [
+  [
+   "keyv:Childs Toys",
+   {
+    "value": "{\"value\":\"子供のおもちゃ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The sound of the children giggling can still be heard in the whistle of the wind.",
+   {
+    "value": "{\"value\":\"風の笛の中で、子供たちの笑い声が今でも聞こえます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Baby Crib",
+   {
+    "value": "{\"value\":\"ベビーベッド\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:What would you put in here?",
+   {
+    "value": "{\"value\":\"ここに何を入れますか？\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old Vanity (Storage)",
+   {
+    "value": "{\"value\":\"オールドバニティ（ストレージ）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sitting in front of this please make sure she doesn't catch you looking at her in the mirror. She is very shy.",
+   {
+    "value": "{\"value\":\"この前に座って、鏡で彼女を見ているのを彼女が捕まえないようにしてください。彼女はとても恥ずかしがり屋です。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Weathered Bed",
+   {
+    "value": "{\"value\":\"風化したベッド\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Someone probably died in this. But sleep is sleep!",
+   {
+    "value": "{\"value\":\"おそらく誰かがこれで亡くなりました。しかし、睡眠は睡眠です！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Jack in the Box",
+   {
+    "value": "{\"value\":\"ジャック・イン・ザ・ボックス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Round and round the handle goes what pops forth no one knows.",
+   {
+    "value": "{\"value\":\"ハンドルをぐるぐる回すと、誰も知らないものが飛び出します。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412120871
+}

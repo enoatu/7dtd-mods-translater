@@ -1,0 +1,167 @@
+{
+ "cache": [
+  [
+   "keyv:Cannabis (Seed)",
+   {
+    "value": "{\"value\":\"大麻（シード）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Plant Cannabis seeds in fertilized dirt to grow Cannabis plants.",
+   {
+    "value": "{\"value\":\"大麻の種子を肥料を与えた土に植えて、大麻の植物を育てます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cannabis (Seed) Recipe",
+   {
+    "value": "{\"value\":\"大麻（シード）レシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cannabis (Growing)",
+   {
+    "value": "{\"value\":\"大麻（成長中）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cannabis Plant 3 (POI)",
+   {
+    "value": "{\"value\":\"大麻植物3（POI）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cannabis Plant",
+   {
+    "value": "{\"value\":\"大麻植物\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:= Cannabis = Random Helper",
+   {
+    "value": "{\"value\":\"=大麻=ランダムヘルパー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You got high on cannabis and it made you feel better and also pretty hungry. Gained 15% damage reduction, +1 to Fortitude, and -1 to Perception.",
+   {
+    "value": "{\"value\":\"あなたは大麻を高く評価しました、そしてそれはあなたが気分が良くなりそしてまたかなり空腹になった。ダメージが15％減少し、Fortitudeが+ 1、Perceptionが-1になります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[9acc8b]Smoked Joint[-]",
+   {
+    "value": "{\"value\":\"[9acc8b]スモークジョイント[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:New",
+   {
+    "value": "{\"value\":\"新しい\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You got really high on cannabis and it made you feel better and also really hungry. Gained 25% damage reduction, +2 to Fortitude, and -2 to Perception.",
+   {
+    "value": "{\"value\":\"あなたは大麻で本当に高くなりました、そしてそれはあなたが気分が良くなりそしてまた本当に空腹になった。ダメージが25％減少し、Fortitudeが+ 2、Perceptionが-2になりました。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[9acc8b]Ripped Bong[-]",
+   {
+    "value": "{\"value\":\"[9acc8b]破れたボン[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You got really high.",
+   {
+    "value": "{\"value\":\"あなたは本当に高くなりました。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cannabis Bud",
+   {
+    "value": "{\"value\":\"大麻の芽\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Useful in a variety of 'medicinal' applications from rolling joints to filling bongs.",
+   {
+    "value": "{\"value\":\"ローリングジョイントから充填ボンまで、さまざまな「医療」アプリケーションで役立ちます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cannabis Joint [ccba8b](Unrolled)[-]",
+   {
+    "value": "{\"value\":\"大麻ジョイント[ccba8b]（展開）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You'll need to spend some time rolling this into a smokable joint. Until then, it's going to take up some space so you don't ruin it.",
+   {
+    "value": "{\"value\":\"これを喫煙可能なジョイントに転がすのに少し時間をかける必要があります。それまでは、スペースを取りますので、台無しにしないでください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cannabis Joint [9acc8b](Rolled)[-]",
+   {
+    "value": "{\"value\":\"大麻ジョイント[9acc8b]（ロール）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Smoking this cannabis joint will immediately improve your health and allow you to ignore some pain, but you'll become unfocused and a hungry hungry.",
+   {
+    "value": "{\"value\":\"この大麻の関節を吸うとすぐに健康が改善され、痛みを無視することができますが、集中力がなくなり、空腹になります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bong",
+   {
+    "value": "{\"value\":\"ボン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You can combine this with some cannabis buds to fill it up.",
+   {
+    "value": "{\"value\":\"あなたはそれを埋めるためにいくつかの大麻の芽とこれを組み合わせることができます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bong [ccba8b](Dirty)[-]",
+   {
+    "value": "{\"value\":\"ボン[ccba8b]（ダーティ）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gross! This needs to be cleaned out before you can use it. Take it to a river or lake?",
+   {
+    "value": "{\"value\":\"キモい！使用する前に、これをクリーンアップする必要があります。川や湖に持っていきますか？\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bong [9acc8b](Filled)[-]",
+   {
+    "value": "{\"value\":\"ボン[9acc8b]（塗りつぶし）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Ripping this bong will immediately improve your health and allow you to ignore a lot of pain, but you'll become quite unfocused and really hungry.",
+   {
+    "value": "{\"value\":\"このボンをリッピングすると、すぐに健康が改善され、多くの痛みを無視できるようになりますが、集中力がなくなり、本当に空腹になります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bong Schematic",
+   {
+    "value": "{\"value\":\"ボン概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Learn how to craft Bongs from existing glassware",
+   {
+    "value": "{\"value\":\"既存のガラス製品からボンを作る方法を学ぶ\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121210
+}

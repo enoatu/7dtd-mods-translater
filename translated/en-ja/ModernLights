@@ -1,0 +1,41 @@
+{
+ "cache": [
+  [
+   "keyv:Modern Ceiling Light",
+   {
+    "value": "{\"value\":\"モダンシーリングライト\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Modern Ceiling Light (Red)",
+   {
+    "value": "{\"value\":\"モダンシーリングライト（赤）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Modern Ceiling Light (Green)",
+   {
+    "value": "{\"value\":\"モダンシーリングライト（グリーン）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Modern Ceiling Light (Blue)",
+   {
+    "value": "{\"value\":\"モダンシーリングライト（ブルー）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Modern Ceiling Light (Violet)",
+   {
+    "value": "{\"value\":\"モダンシーリングライト（バイオレット）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Modern Ceiling Light (White)",
+   {
+    "value": "{\"value\":\"モダンシーリングライト（ホワイト）\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121213
+}

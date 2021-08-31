@@ -1,0 +1,65 @@
+{
+ "cache": [
+  [
+   "keyv:Backpack",
+   {
+    "value": "{\"value\":\"バックパック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have found a backpack. Learn this to unlock slots in your inventory. There are 10 backpacks to find. [a0ff94]The last row will remain locked until you open all normal slots. If you craft and read a military backpack BEFORE finding all 10 backpacks first nothing will happen and you will lose your materials.[-]",
+   {
+    "value": "{\"value\":\"あなたはバックパックを見つけました。インベントリのスロットのロックを解除するには、これを学びます。見つけるべき10のバックパックがあります。 [a0ff94]通常のスロットをすべて開くまで、最後の行はロックされたままになります。 10個すべてのバックパックを最初に見つける前に軍用バックパックを作成して読んだ場合、何も起こらず、材料を失うことになります。[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Backpack Slots",
+   {
+    "value": "{\"value\":\"バックパックスロット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have unlocked backpack slots",
+   {
+    "value": "{\"value\":\"バックパックスロットのロックを解除しました\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This will open up a few backpack slots in your inventory",
+   {
+    "value": "{\"value\":\"これにより、インベントリにいくつかのバックパックスロットが開きます\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Military Backpack",
+   {
+    "value": "{\"value\":\"ミリタリーバックパック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This backpack is military grade and can support any weight you can throw at it.[a0ff94]If you craft and read a military backpack BEFORE finding all 10 backpacks first nothing will happen and you will lose your materials.[-]",
+   {
+    "value": "{\"value\":\"このバックパックはミリタリーグレードであり、投げることができるあらゆる重量を支えることができます。[a0ff94] 10個すべてのバックパックを見つける前にミリタリーバックパックを作成して読むと、何も起こらず、材料が失われます。[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Military Backpack Upgrade",
+   {
+    "value": "{\"value\":\"ミリタリーバックパックのアップグレード\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have unlocked all backpack slots",
+   {
+    "value": "{\"value\":\"すべてのバックパックスロットのロックを解除しました\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This will open up the final row in your inventory",
+   {
+    "value": "{\"value\":\"これにより、インベントリの最後の行が開きます\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412120778
+}

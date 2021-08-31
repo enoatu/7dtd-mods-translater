@@ -1,0 +1,17 @@
+{
+ "cache": [
+  [
+   "keyv:Personal Craft Station",
+   {
+    "value": "{\"value\":\"パーソナルクラフトステーション\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Your main crafting station. To pick it back up just destroy it.",
+   {
+    "value": "{\"value\":\"あなたのメインクラフトステーション。それを取り戻すには、それを破壊するだけです。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121343
+}

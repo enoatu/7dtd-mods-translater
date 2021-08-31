@@ -1,0 +1,23 @@
+{
+ "cache": [
+  [
+   "keyv:Katana",
+   {
+    "value": "{\"value\":\"刀\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Great for slashing zombies and gutting animals for meat.\\nRegular attacks cause 1 Bleeding Wound and power attacks at least 2.\\nRepair with an Advanced Repair Kit.\\nScrap to Iron.",
+   {
+    "value": "{\"value\":\"ゾンビを斬ったり、動物を肉で殴ったりするのに最適です。\\\\n通常の攻撃では、出血による傷が1回発生し、少なくとも2回はパワーアタックが発生します。\\\\n高度な修復キットで修復します。\\\\n鉄にスクラップします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Katana Schematic",
+   {
+    "value": "{\"value\":\"カタナ回路図\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121023
+}

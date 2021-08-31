@@ -1,0 +1,65 @@
+{
+ "cache": [
+  [
+   "keyv:Blood Stain 1",
+   {
+    "value": "{\"value\":\"血痕1\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Blood Stain 2",
+   {
+    "value": "{\"value\":\"ブラッドステイン2\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Blood Stain 3",
+   {
+    "value": "{\"value\":\"ブラッドステイン3\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Blood Stain 4",
+   {
+    "value": "{\"value\":\"血痕4\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bloody Hand",
+   {
+    "value": "{\"value\":\"血まみれの手\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bloody Hands",
+   {
+    "value": "{\"value\":\"血まみれの手\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bloody Footprints 1",
+   {
+    "value": "{\"value\":\"血まみれの足跡1\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bloody Footprints 2",
+   {
+    "value": "{\"value\":\"血まみれの足跡2\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bloody Footprints 3",
+   {
+    "value": "{\"value\":\"血まみれの足跡3\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bloody Footprints 4",
+   {
+    "value": "{\"value\":\"血まみれの足跡4\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412120803
+}

@@ -1,0 +1,53 @@
+{
+ "cache": [
+  [
+   "keyv:Toolbox",
+   {
+    "value": "{\"value\":\"ツールボックス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Rolling Toolbox",
+   {
+    "value": "{\"value\":\"ローリングツールボックス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Weathered Backpack",
+   {
+    "value": "{\"value\":\"風化したバックパック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Moldy Backpack",
+   {
+    "value": "{\"value\":\"カビの生えたバックパック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Note from Crazy Jake (1 of 2)",
+   {
+    "value": "{\"value\":\"クレイジージェイクからのメモ（1/2）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hello Recruit, my informant tells me there is an army bunker at these coordinates. Go kill those bastards and take their shit. If those army fucks lock themselves in their bunker, hook up the generator to their powered door like I showed you and teach them not to mess with the Crazy Jake Clan!  -Crazy J",
+   {
+    "value": "{\"value\":\"こんにちはリクルート、私の情報提供者は、これらの座標に軍の掩蔽壕があると私に言います。それらのろくでなしを殺しに行き、彼らのたわごとを取りなさい。それらの軍隊が彼らのバンカーに閉じ込められたら、私があなたに示したように発電機を彼らの動力付きドアに接続し、クレイジージェイククランを台無しにしないように彼らに教えてください！ -クレイジーJ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Note from Crazy Jake (2 of 2)",
+   {
+    "value": "{\"value\":\"クレイジージェイクからのメモ（2/2）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hello Recruit, don't forget to bring an engine, wiring tool and some gas for the generator.  If you fucks forget, your going to have to search the bunker and hope they have what you need. Don't bother coming back empty handed or you'll find out why they call me Crazy Jake.  -Crazy J",
+   {
+    "value": "{\"value\":\"こんにちはリクルート、発電機用のエンジン、配線工具、ガスを忘れずに持参してください。忘れてしまったら、バンカーを探して、必要なものが揃っていることを願う必要があります。手ぶらで戻ってくるのを気にしないでください。そうしないと、なぜ彼らが私をクレイジージェイクと呼んでいるのかがわかります。 -クレイジーJ\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121209
+}

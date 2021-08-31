@@ -1,0 +1,269 @@
+{
+ "cache": [
+  [
+   "keyv:Tanning Rack",
+   {
+    "value": "{\"value\":\"なめしラック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The tanning rack is needed to dry animal hide for leather. The process is not perfect. You will need tannin and an armor bench to efficiently produce leather.",
+   {
+    "value": "{\"value\":\"皮革用の動物の皮を乾燥させるには、なめしラックが必要です。プロセスは完璧ではありません。革を効率的に生産するには、タンニンと鎧のベンチが必要になります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Animal Hide",
+   {
+    "value": "{\"value\":\"動物の皮\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Take this hide to your tanning rack to strip down and cure into leather. Tannin can be used to speed up the process but using an armor bench is the most efficient way to cure leather.",
+   {
+    "value": "{\"value\":\"この皮を日焼けラックに持っていき、剥がして革に硬化させます。タンニンはプロセスをスピードアップするために使用できますが、鎧のベンチを使用することが革を硬化させる最も効率的な方法です。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Leather Strips",
+   {
+    "value": "{\"value\":\"レザーストリップ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Strips of leather that can be taken to the tanning rack and combined to make leather.",
+   {
+    "value": "{\"value\":\"なめしラックに持って行って、革を作るために組み合わせることができる革のストリップ。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bone Fragments",
+   {
+    "value": "{\"value\":\"骨片\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fragment of bone. Collect enough of these and you can form bones.",
+   {
+    "value": "{\"value\":\"骨の断片。これらを十分に集めると、骨を形成することができます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Raw White Meat",
+   {
+    "value": "{\"value\":\"生の白身の肉\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Meat can be eaten raw but is better charred, grilled, boiled or made into stews at a campfire.",
+   {
+    "value": "{\"value\":\"肉は生で食べることができますが、キャンプファイヤーで焦がしたり、グリルしたり、茹でたり、シチューにしたりする方が良いでしょう。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Boiled White Meat",
+   {
+    "value": "{\"value\":\"白身の煮物\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:While not as yummy as grilled meat, boiling is an efficient way to prepare a meal.",
+   {
+    "value": "{\"value\":\"焼き肉ほど美味しくはありませんが、茹でることは食事を準備するための効率的な方法です。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Boiled White Meat Recipe",
+   {
+    "value": "{\"value\":\"白身の煮物レシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grilled White Meat",
+   {
+    "value": "{\"value\":\"白身のグリル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Meat! Meat on fire! Good! Meat fresh off the grill is nutritious, delicious, and filling.",
+   {
+    "value": "{\"value\":\"肉！肉が燃えている！良い！グリルから取り出したばかりの肉は、栄養価が高く、美味しく、そして満腹です。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grilled White Meat Recipe",
+   {
+    "value": "{\"value\":\"白身のグリルレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:White Meat Stew",
+   {
+    "value": "{\"value\":\"白身のシチュー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A survivor isn't worth his salt if he can't make a meat stew.",
+   {
+    "value": "{\"value\":\"彼が肉のシチューを作ることができないならば、生存者は彼の塩の価値がありません。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:White Meat Stew Recipe",
+   {
+    "value": "{\"value\":\"白身のシチューのレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Charred White Meat",
+   {
+    "value": "{\"value\":\"焦げた白身の肉\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Charring meat isn't the best way to cook it but it's much better than eating it raw.",
+   {
+    "value": "{\"value\":\"肉を焦がすのはそれを調理する最良の方法ではありませんが、生で食べるよりもはるかに優れています。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Raw Red Meat",
+   {
+    "value": "{\"value\":\"生の赤身の肉\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Boiled Red Meat",
+   {
+    "value": "{\"value\":\"赤身の煮物\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Boiled Red Meat Recipe",
+   {
+    "value": "{\"value\":\"茹でた赤身の肉のレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grilled Red Meat",
+   {
+    "value": "{\"value\":\"赤身のグリル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grilled Red Meat Recipe",
+   {
+    "value": "{\"value\":\"赤身のグリルレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Red Meat Stew",
+   {
+    "value": "{\"value\":\"赤身の肉のシチュー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Red Meat Stew Recipe",
+   {
+    "value": "{\"value\":\"赤身の肉のシチューのレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Charred Red Meat",
+   {
+    "value": "{\"value\":\"焦げた赤身の肉\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Armor Bench",
+   {
+    "value": "{\"value\":\"アーマーベンチ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Armor benches are used for making armor and clothing. They can also be used to efficiently make leather.",
+   {
+    "value": "{\"value\":\"鎧のベンチは、鎧や衣類を作るために使用されます。それらはまた効率的に革を作るのに使用することができます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Armor Bench Schematic",
+   {
+    "value": "{\"value\":\"アーマーベンチの概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tree Bark",
+   {
+    "value": "{\"value\":\"樹皮\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bark can be used to aid in the leatherworking process by using it in a survival campfire with water to make tannin.",
+   {
+    "value": "{\"value\":\"樹皮は、タンニンを作るために水を使ったサバイバルキャンプファイヤーで使用することにより、皮革加工プロセスを支援するために使用できます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tannin",
+   {
+    "value": "{\"value\":\"タンニン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tannin is used in leatherworking. It can speed up the process and also produce more useable leather from hide.",
+   {
+    "value": "{\"value\":\"タンニンは革細工に使用されます。それはプロセスをスピードアップすることができ、また皮からより使いやすい革を生産することができます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Survival Mix",
+   {
+    "value": "{\"value\":\"サバイバルミックス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Survival Mix is a great survival food that can be easily made and provides you with a nutritious snack.",
+   {
+    "value": "{\"value\":\"サバイバルミックスは、簡単に作ることができ、栄養価の高いスナックを提供する素晴らしいサバイバルフードです。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Dried Jerky",
+   {
+    "value": "{\"value\":\"ドライジャーキー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Jerky is made from drying and curing meat and can give a great boost to your hunger.",
+   {
+    "value": "{\"value\":\"ジャーキーは肉を乾燥させて硬化させることで作られ、空腹感を大幅に高めることができます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Salt",
+   {
+    "value": "{\"value\":\"塩\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Salt is worth it's weight in gold. In old times it was a precious resource. Salt can be used to cure meats and preserve food.",
+   {
+    "value": "{\"value\":\"塩は金の重さの価値があります。昔は貴重な資源でした。塩は肉を治し、食物を保存するために使用することができます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Salt Deposit",
+   {
+    "value": "{\"value\":\"塩鉱床\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Mined salt deposits can be collected and boiled with clean water to make useable salt.",
+   {
+    "value": "{\"value\":\"採掘された塩の堆積物を収集し、きれいな水で沸騰させて使用可能な塩にすることができます。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121349
+}

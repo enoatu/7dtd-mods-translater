@@ -1,0 +1,29 @@
+{
+ "cache": [
+  [
+   "keyv:Food Prep Table",
+   {
+    "value": "{\"value\":\"食品準備テーブル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Everyone needs a food preparation area and you are no exception. BAM baby.",
+   {
+    "value": "{\"value\":\"誰もが調理エリアを必要とし、あなたも例外ではありません。 BAMベイビー。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sliced Red Meat",
+   {
+    "value": "{\"value\":\"スライスした赤身の肉\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sliced White Meat",
+   {
+    "value": "{\"value\":\"スライスした白身の肉\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121340
+}

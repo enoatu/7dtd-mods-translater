@@ -1,0 +1,125 @@
+{
+ "cache": [
+  [
+   "keyv:Speaker - Ship Siren",
+   {
+    "value": "{\"value\":\"スピーカー-船のサイレン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Makes an alarm sound when powered on.",
+   {
+    "value": "{\"value\":\"電源を入れるとアラーム音が鳴ります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Speaker - Warning Alarm 1",
+   {
+    "value": "{\"value\":\"スピーカー-警告アラーム1\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Speaker - Warning Alarm 2",
+   {
+    "value": "{\"value\":\"スピーカー-警告アラーム2\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Speaker - Warning Alarm 3",
+   {
+    "value": "{\"value\":\"スピーカー-警告アラーム3\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Speaker - Warning Alarm 4",
+   {
+    "value": "{\"value\":\"スピーカー-警告アラーム4\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Speaker - Warning Alarm 5",
+   {
+    "value": "{\"value\":\"スピーカー-警告アラーム5\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Speaker - Security Breach Voice",
+   {
+    "value": "{\"value\":\"スピーカー-セキュリティ違反の声\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Speaker - Sci Fi 1",
+   {
+    "value": "{\"value\":\"スピーカー-SF1\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Speaker - Red Alert",
+   {
+    "value": "{\"value\":\"スピーカー-レッドアラート\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Speaker - Security Breach",
+   {
+    "value": "{\"value\":\"スピーカー-セキュリティ違反\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Speaker - Intruder Voice",
+   {
+    "value": "{\"value\":\"スピーカー-侵入者の声\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Speaker - Emergency Voice and Alarm",
+   {
+    "value": "{\"value\":\"スピーカー-緊急音声とアラーム\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Speaker - Emergency Voice",
+   {
+    "value": "{\"value\":\"スピーカー-緊急音声\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Speaker - All Hands On Deck Voice",
+   {
+    "value": "{\"value\":\"スピーカー-オールハンズオンデッキボイス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Speaker - Alarm Siren 1",
+   {
+    "value": "{\"value\":\"スピーカー-アラームサイレン1\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Speaker - Alarm Siren 2",
+   {
+    "value": "{\"value\":\"スピーカー-アラームサイレン2\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Speaker - Alarm Fire",
+   {
+    "value": "{\"value\":\"スピーカー-警報火災\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Speaker - Sci Fi 2",
+   {
+    "value": "{\"value\":\"スピーカー-SciFi 2\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Speaker - Sci Fi 3",
+   {
+    "value": "{\"value\":\"スピーカー-SciFi 3\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121277
+}

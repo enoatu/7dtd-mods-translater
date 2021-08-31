@@ -1,0 +1,41 @@
+{
+ "cache": [
+  [
+   "keyv:GrumStick (Green)",
+   {
+    "value": "{\"value\":\"GrumStick（緑）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:GrumStick (Red)",
+   {
+    "value": "{\"value\":\"GrumStick（赤）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:GrumStick (Blue)",
+   {
+    "value": "{\"value\":\"GrumStick（青）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:GrumStick (Orange)",
+   {
+    "value": "{\"value\":\"GrumStick（オレンジ）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:GrumStick (Yellow)",
+   {
+    "value": "{\"value\":\"GrumStick（黄色）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:GrumSticks can be used to shine a light in dark places. They can also be thrown into rooms or down hills to provide light ahead of you but be careful, they do burn out over time. Can be picked back up if you are fast enough.",
+   {
+    "value": "{\"value\":\"GrumSticksは、暗い場所で光を当てるために使用できます。それらはまたあなたの前に光を提供するために部屋や丘を下って投げることができますが、注意してください、それらは時間とともに燃え尽きます。あなたが十分に速いならば、取り戻すことができます。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412120953
+}

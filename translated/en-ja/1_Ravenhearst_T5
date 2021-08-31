@@ -1,0 +1,47 @@
+{
+ "cache": [
+  [
+   "keyv:Military Chest",
+   {
+    "value": "{\"value\":\"ミリタリーチェスト\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Makasin Supply Chest",
+   {
+    "value": "{\"value\":\"マカシンサプライチェスト\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Industrial Nailgun",
+   {
+    "value": "{\"value\":\"産業用ネイルガン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This industrial strength nailgun will repair and upgrade faster than the normal one.",
+   {
+    "value": "{\"value\":\"この工業用強度のネイルガンは、通常のものよりも速く修理およびアップグレードします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Industrial Nailgun Schematic",
+   {
+    "value": "{\"value\":\"産業用ネイルガンの概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Military Chest Insecure",
+   {
+    "value": "{\"value\":\"ミリタリーチェストが不安定\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Makasin Supply Chest Insecure",
+   {
+    "value": "{\"value\":\"マカシンサプライチェストが安全でない\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121090
+}

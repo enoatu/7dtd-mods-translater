@@ -1,0 +1,83 @@
+{
+ "cache": [
+  [
+   "keyv:Population Control 50",
+   {
+    "value": "{\"value\":\"人口管理50\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The King Collection",
+   {
+    "value": "{\"value\":\"キングコレクション\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Essential Survival Guides",
+   {
+    "value": "{\"value\":\"エッセンシャルサバイバルガイド\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Population Control 25",
+   {
+    "value": "{\"value\":\"人口管理25\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Population Control 100",
+   {
+    "value": "{\"value\":\"人口管理100\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Population Control 250",
+   {
+    "value": "{\"value\":\"人口管理250\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Writing Our Memoirs",
+   {
+    "value": "{\"value\":\"私たちの回想録を書く\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The undead are becoming a real problem. We need your help thinning them out a bit. Can you help us out?",
+   {
+    "value": "{\"value\":\"アンデッドは本当の問題になりつつあります。それらを少し薄くするためにあなたの助けが必要です。手伝ってくれませんか？\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Before the fall, citizens used to get their horror fix from the master of horror. I miss those books. If you can seek out a collection of Stephen Kings books for me I will be grateful and share some knowledge with you.",
+   {
+    "value": "{\"value\":\"秋の前に、市民はホラーのマスターからホラーフィックスを入手していました。私はそれらの本が恋しいです。あなたが私のためにスティーブンキングスの本のコレクションを探すことができれば、私は感謝し、あなたといくつかの知識を共有します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Recently we have picked up some new recruits. Problem is they are very untrained. We know there are some good guides out there that can help us get our point across. Could you pick up these books for us if you happen to run across them?",
+   {
+    "value": "{\"value\":\"最近、私たちはいくつかの新入社員を迎えました。問題は、彼らが非常に訓練されていないことです。私たちは、私たちの主張を理解するのに役立ついくつかの優れたガイドがあることを知っています。もしあなたがそれらに出くわした場合、私たちのためにこれらの本を手に入れてもらえますか？\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:As time lurks ahead we find ourselves with the need to share our knowledge with future generations. Our soldiers are beginning to write their memoirs as a blueprint for the future. But we need a few things. If you can help us to acquire them I will share some precious item with you so that perhaps you could begin your own self reflection.",
+   {
+    "value": "{\"value\":\"時が経つにつれ、私たちは自分たちの知識を将来の世代と共有する必要があることに気づきます。私たちの兵士たちは、将来の青写真として回想録を書き始めています。しかし、いくつか必要なものがあります。あなたが私たちがそれらを取得するのを手伝ってくれるなら、私はあなたといくつかの貴重なアイテムを共有しますので、おそらくあなたはあなた自身の内省を始めることができます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Guide To Survival",
+   {
+    "value": "{\"value\":\"サバイバルガイド\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old Phone",
+   {
+    "value": "{\"value\":\"古い電話\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121044
+}

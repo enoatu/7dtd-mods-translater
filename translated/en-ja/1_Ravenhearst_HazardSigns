@@ -1,0 +1,71 @@
+{
+ "cache": [
+  [
+   "keyv:Quarantine Sign",
+   {
+    "value": "{\"value\":\"検疫サイン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Biohazard Sign",
+   {
+    "value": "{\"value\":\"バイオハザードサイン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Biohazard Sign 2",
+   {
+    "value": "{\"value\":\"バイオハザードサイン2\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fallout Sign",
+   {
+    "value": "{\"value\":\"放射性降下物の兆候\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Nuclear Sign",
+   {
+    "value": "{\"value\":\"核サイン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Quarantine Sign 2",
+   {
+    "value": "{\"value\":\"検疫サイン2\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radiation Sign",
+   {
+    "value": "{\"value\":\"放射線サイン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radiation Sign 2",
+   {
+    "value": "{\"value\":\"放射線サイン2\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radioactive Sign",
+   {
+    "value": "{\"value\":\"放射性標識\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Respect Sign",
+   {
+    "value": "{\"value\":\"サインを尊重する\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:An official government issued warning.",
+   {
+    "value": "{\"value\":\"政府は警告を発した。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412120960
+}

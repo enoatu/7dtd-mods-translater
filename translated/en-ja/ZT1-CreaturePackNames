@@ -1,0 +1,1055 @@
+{
+ "cache": [
+  [
+   "keyv:Fox",
+   {
+    "value": "{\"value\":\"狐\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Robin",
+   {
+    "value": "{\"value\":\"ロビン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Crow",
+   {
+    "value": "{\"value\":\"カラス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Eagle",
+   {
+    "value": "{\"value\":\"鷲\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Alcatraz",
+   {
+    "value": "{\"value\":\"アルカトラズ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bloatfly",
+   {
+    "value": "{\"value\":\"ブロートフライ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Giant Bee",
+   {
+    "value": "{\"value\":\"ジャイアントビー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pug",
+   {
+    "value": "{\"value\":\"パグ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Beagle",
+   {
+    "value": "{\"value\":\"ビーグル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bat",
+   {
+    "value": "{\"value\":\"バット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bats",
+   {
+    "value": "{\"value\":\"コウモリ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Goat",
+   {
+    "value": "{\"value\":\"ヤギ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hound",
+   {
+    "value": "{\"value\":\"ハウンド\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:White Wolf",
+   {
+    "value": "{\"value\":\"白いオオカミ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bandit Wolf",
+   {
+    "value": "{\"value\":\"バンディットウルフ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Young Spider",
+   {
+    "value": "{\"value\":\"若いクモ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Spider",
+   {
+    "value": "{\"value\":\"クモ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hunter Spider",
+   {
+    "value": "{\"value\":\"ハンタースパイダー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Snow Swarm",
+   {
+    "value": "{\"value\":\"雪の群れ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Snow Tornado",
+   {
+    "value": "{\"value\":\"雪竜巻\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Blood Swarm",
+   {
+    "value": "{\"value\":\"ブラッドスウォーム\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:New",
+   {
+    "value": "{\"value\":\"新しい\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sledge Turret",
+   {
+    "value": "{\"value\":\"スレッジタレット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Turret",
+   {
+    "value": "{\"value\":\"タレット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Mountain Lion",
+   {
+    "value": "{\"value\":\"マウンテンライオン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Infected Dog",
+   {
+    "value": "{\"value\":\"感染した犬\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Coyote",
+   {
+    "value": "{\"value\":\"コヨーテ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Wolf",
+   {
+    "value": "{\"value\":\"狼\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Dire Wolf",
+   {
+    "value": "{\"value\":\"ダイアウルフ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Snake",
+   {
+    "value": "{\"value\":\"蛇\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Wild Bear",
+   {
+    "value": "{\"value\":\"ワイルドベア\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Infected Bear",
+   {
+    "value": "{\"value\":\"感染したクマ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Wild Boar",
+   {
+    "value": "{\"value\":\"イノシシ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radiated Boar",
+   {
+    "value": "{\"value\":\"放射されたイノシシ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Infected Vulture",
+   {
+    "value": "{\"value\":\"感染したハゲタカ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radiated Vulture",
+   {
+    "value": "{\"value\":\"放射されたハゲタカ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Infected Janitor",
+   {
+    "value": "{\"value\":\"感染したジャニター\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Feral Janitor",
+   {
+    "value": "{\"value\":\"フェラルジャニター\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radiated Janitor",
+   {
+    "value": "{\"value\":\"放射ジャニター\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radiated Putrid Girl",
+   {
+    "value": "{\"value\":\"放射された腐敗した少女\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Infected Biker",
+   {
+    "value": "{\"value\":\"感染したバイカー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Feral Biker",
+   {
+    "value": "{\"value\":\"フェラルバイカー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radiated Biker",
+   {
+    "value": "{\"value\":\"放射バイカー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Infected Skater Punk",
+   {
+    "value": "{\"value\":\"感染したスケーターパンク\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Feral Skater",
+   {
+    "value": "{\"value\":\"フェラルスケーター\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radiated Punk",
+   {
+    "value": "{\"value\":\"放射パンク\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radiated Infected Survivor",
+   {
+    "value": "{\"value\":\"放射性感染サバイバー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Infected Cheerleader",
+   {
+    "value": "{\"value\":\"感染したチアリーダー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Feral Cheerleader",
+   {
+    "value": "{\"value\":\"野生のチアリーダー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radiated Cheerleader",
+   {
+    "value": "{\"value\":\"放射されたチアリーダー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radiated Decayed Mother",
+   {
+    "value": "{\"value\":\"放射された腐敗した母親\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radiated Hungry Zombie",
+   {
+    "value": "{\"value\":\"放射された空腹のゾンビ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radiated Cadaver",
+   {
+    "value": "{\"value\":\"放射された死体\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radiated Woman",
+   {
+    "value": "{\"value\":\"放射された女性\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radiated Bloated Walker",
+   {
+    "value": "{\"value\":\"放射性膨満ウォーカー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radiated Zombie Cowboy",
+   {
+    "value": "{\"value\":\"放射ゾンビカウボーイ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radiated Screamer",
+   {
+    "value": "{\"value\":\"放射スクリーマー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radiated Soldier",
+   {
+    "value": "{\"value\":\"放射された兵士\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radiated Spider Zombie",
+   {
+    "value": "{\"value\":\"放射スパイダーゾンビ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Infected Utility Worker",
+   {
+    "value": "{\"value\":\"感染したユーティリティワーカー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Feral Utility Worker",
+   {
+    "value": "{\"value\":\"野生のユーティリティワーカー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radiated Carcass",
+   {
+    "value": "{\"value\":\"放射された死骸\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The Demolition Man",
+   {
+    "value": "{\"value\":\"デモリションマン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radiated Wight",
+   {
+    "value": "{\"value\":\"放射ワイト\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Infected Lab Assistant",
+   {
+    "value": "{\"value\":\"感染したラボアシスタント\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Feral Lab Assistant",
+   {
+    "value": "{\"value\":\"フェラルラボアシスタント\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radiated Lab Assistant",
+   {
+    "value": "{\"value\":\"放射ラボアシスタント\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Legendary Lab Assistant",
+   {
+    "value": "{\"value\":\"伝説のラボアシスタント\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Legendary Business Man",
+   {
+    "value": "{\"value\":\"伝説のビジネスマン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Legendary Utility Worker",
+   {
+    "value": "{\"value\":\"伝説のユーティリティワーカー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Arlene",
+   {
+    "value": "{\"value\":\"アーリーン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Feral Arlene",
+   {
+    "value": "{\"value\":\"フェラルアーリーン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radiated Arlene",
+   {
+    "value": "{\"value\":\"放射されたアーリーン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Boe",
+   {
+    "value": "{\"value\":\"ボー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Feral Boe",
+   {
+    "value": "{\"value\":\"フェラルボー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radiated Boe",
+   {
+    "value": "{\"value\":\"放射されたBoe\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Burnt Crawler",
+   {
+    "value": "{\"value\":\"焦げたクローラー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Moldy Crawler",
+   {
+    "value": "{\"value\":\"カビの生えたクローラー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Mossy Crawler",
+   {
+    "value": "{\"value\":\"苔むしたクローラー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Skinned Crawler",
+   {
+    "value": "{\"value\":\"スキンクローラー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Moe",
+   {
+    "value": "{\"value\":\"萌\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Feral Moe",
+   {
+    "value": "{\"value\":\"フェラル萌え\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radiated Moe",
+   {
+    "value": "{\"value\":\"放射萌え\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Mr. Yo",
+   {
+    "value": "{\"value\":\"ヨさん\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Feral Mr. Yo",
+   {
+    "value": "{\"value\":\"フェラルミスターヨー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radiated Mr. Yo",
+   {
+    "value": "{\"value\":\"放射されたヨさん\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Big Mama",
+   {
+    "value": "{\"value\":\"ビッグママ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Feral Big Mama",
+   {
+    "value": "{\"value\":\"フェラルビッグママ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radiated Big Mama",
+   {
+    "value": "{\"value\":\"放射されたビッグママ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Darlene",
+   {
+    "value": "{\"value\":\"ダーリーン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Feral Darlene",
+   {
+    "value": "{\"value\":\"フェラルダーリーン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radiated Darlene",
+   {
+    "value": "{\"value\":\"放射ダーリーン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Marlene",
+   {
+    "value": "{\"value\":\"マレーネ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Feral Marlene",
+   {
+    "value": "{\"value\":\"フェラルマレーネ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radiated Marlene",
+   {
+    "value": "{\"value\":\"放射されたマレーネ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The Janitor",
+   {
+    "value": "{\"value\":\"ジャニター\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The Feral Janitor",
+   {
+    "value": "{\"value\":\"野生のジャニター\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The Radiated Janitor",
+   {
+    "value": "{\"value\":\"放射されたジャニター\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Steve",
+   {
+    "value": "{\"value\":\"スティーブ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Feral Steve",
+   {
+    "value": "{\"value\":\"フェラルスティーブ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radiated Steve",
+   {
+    "value": "{\"value\":\"放射されたスティーブ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Joe",
+   {
+    "value": "{\"value\":\"ジョー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Feral Joe",
+   {
+    "value": "{\"value\":\"フェラルジョー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radiated Joe",
+   {
+    "value": "{\"value\":\"放射ジョー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Biker",
+   {
+    "value": "{\"value\":\"バイカー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Mall Santa",
+   {
+    "value": "{\"value\":\"モールサンタ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Feral Mall Santa",
+   {
+    "value": "{\"value\":\"フェラルモールサンタ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Infected Nurse",
+   {
+    "value": "{\"value\":\"感染した看護師\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Feral Nurse",
+   {
+    "value": "{\"value\":\"フェラルナース\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Infected Neighbor",
+   {
+    "value": "{\"value\":\"感染した隣人\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Feral Neighbor",
+   {
+    "value": "{\"value\":\"フェラルネイバー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Masked Soldier",
+   {
+    "value": "{\"value\":\"仮面の兵士\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Feral Masked Soldier",
+   {
+    "value": "{\"value\":\"野蛮な仮面の兵士\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Infected Soldier",
+   {
+    "value": "{\"value\":\"感染した兵士\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Feral Solder",
+   {
+    "value": "{\"value\":\"フェラルはんだ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Soldier",
+   {
+    "value": "{\"value\":\"兵隊\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Feral Soldier",
+   {
+    "value": "{\"value\":\"フェラルソルジャー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Crawler Soldier",
+   {
+    "value": "{\"value\":\"クローラーソルジャー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Feral Crawler Soldier",
+   {
+    "value": "{\"value\":\"フェラルクローラーソルジャー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Lieutenant",
+   {
+    "value": "{\"value\":\"中尉\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Feral Lieutenant",
+   {
+    "value": "{\"value\":\"野蛮な中尉\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cadet",
+   {
+    "value": "{\"value\":\"士官候補生\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Feral Cadet",
+   {
+    "value": "{\"value\":\"野生の士官候補生\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Infected General",
+   {
+    "value": "{\"value\":\"感染した一般\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Feral General",
+   {
+    "value": "{\"value\":\"フェラルジェネラル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Infected Doctor",
+   {
+    "value": "{\"value\":\"感染した医者\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Feral Doctor",
+   {
+    "value": "{\"value\":\"フェラルドクター\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Infected Surgeon",
+   {
+    "value": "{\"value\":\"感染した外科医\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Feral Surgeon",
+   {
+    "value": "{\"value\":\"野生の外科医\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Infected Physician",
+   {
+    "value": "{\"value\":\"感染した医師\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Feral Physician",
+   {
+    "value": "{\"value\":\"野生の医師\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Assistant Surgeon",
+   {
+    "value": "{\"value\":\"助手\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Feral Assistant Surgeon",
+   {
+    "value": "{\"value\":\"野生の助手\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The Quarantined",
+   {
+    "value": "{\"value\":\"検疫\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Feral Quarantined",
+   {
+    "value": "{\"value\":\"野生の検疫\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Patient Zero",
+   {
+    "value": "{\"value\":\"患者ゼロ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Stripper",
+   {
+    "value": "{\"value\":\"ストリッパー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Infected Child",
+   {
+    "value": "{\"value\":\"感染した子供\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Infected Farmer",
+   {
+    "value": "{\"value\":\"感染した農夫\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Feral Farmer",
+   {
+    "value": "{\"value\":\"フェラルファーマー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radiated Farmer",
+   {
+    "value": "{\"value\":\"放射農民\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Crazed",
+   {
+    "value": "{\"value\":\"狂った\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Frozen Hugh",
+   {
+    "value": "{\"value\":\"冷凍ヒュー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Feral Frozen Hugh",
+   {
+    "value": "{\"value\":\"フェラルフローズンヒュー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radiated Frozen Hugh",
+   {
+    "value": "{\"value\":\"放射された冷凍ヒュー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Infected Cop",
+   {
+    "value": "{\"value\":\"感染した警官\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Infected",
+   {
+    "value": "{\"value\":\"感染した\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Infected Deputy",
+   {
+    "value": "{\"value\":\"感染した副\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Infected Schoolgirl",
+   {
+    "value": "{\"value\":\"感染した女子高生\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The Walker",
+   {
+    "value": "{\"value\":\"ウォーカー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hungry Child",
+   {
+    "value": "{\"value\":\"空腹の子供\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Infected Civilian",
+   {
+    "value": "{\"value\":\"感染した民間人\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pete",
+   {
+    "value": "{\"value\":\"ピート\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Infected Teacher",
+   {
+    "value": "{\"value\":\"感染した教師\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hungry Jeff",
+   {
+    "value": "{\"value\":\"空腹のジェフ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Infected Nurse's Aid",
+   {
+    "value": "{\"value\":\"感染した看護師の援助\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Infected Hobo",
+   {
+    "value": "{\"value\":\"感染したホーボー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Officer Ralph",
+   {
+    "value": "{\"value\":\"ラルフ将校\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The Chosen One",
+   {
+    "value": "{\"value\":\"選ばれし者\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Infected Sheriff",
+   {
+    "value": "{\"value\":\"感染した保安官\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Feral Sheriff",
+   {
+    "value": "{\"value\":\"野生の保安官\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Infected Swat Member",
+   {
+    "value": "{\"value\":\"感染したSwatメンバー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Feral Swat Member",
+   {
+    "value": "{\"value\":\"フェラルスワットメンバー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Infected Officer",
+   {
+    "value": "{\"value\":\"感染した役員\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Feral Officer",
+   {
+    "value": "{\"value\":\"フェラルオフィサー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Lost Raver",
+   {
+    "value": "{\"value\":\"ロストレイバー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Feral Raver",
+   {
+    "value": "{\"value\":\"フェラルレイバー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pest",
+   {
+    "value": "{\"value\":\"害虫\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Burnt Wight",
+   {
+    "value": "{\"value\":\"焦げたワイト\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Clot",
+   {
+    "value": "{\"value\":\"血餅\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Creepy Crawly",
+   {
+    "value": "{\"value\":\"わらわら\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Infernal Dog",
+   {
+    "value": "{\"value\":\"地獄の犬\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Behemoth",
+   {
+    "value": "{\"value\":\"ベヒーモス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The Abomination",
+   {
+    "value": "{\"value\":\"アボミネーション\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Night Walker",
+   {
+    "value": "{\"value\":\"ナイトウォーカー\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121366
+}

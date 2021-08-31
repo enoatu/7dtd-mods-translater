@@ -1,0 +1,107 @@
+{
+ "cache": [
+  [
+   "keyv:Gather Logs and Wood",
+   {
+    "value": "{\"value\":\"ログと木材を収集する\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Wood is an important part of creating items and building materials. To gather wood attack a tree. You will receive logs. These wood logs can be crafted into wood. Wood has many purposes including the ability to make it into sticks and planks. You can also gather sticks by attacking small stick bushes in the world.",
+   {
+    "value": "{\"value\":\"木材は、アイテムや建築材料を作成する上で重要な部分です。木を集めるために木を攻撃します。ログを受け取ります。これらの木の丸太は木に細工することができます。木材には、棒や厚板にする機能など、多くの目的があります。世界の小さな棒の茂みを攻​​撃して棒を集めることもできます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Acquire Your Class Paper",
+   {
+    "value": "{\"value\":\"クラスペーパーを取得する\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Your class paper is extremely vital to defending against the undead. Opening your starter kit also provides you with basic items to survive. Read your starter kit note and acquire your class paper. Use the Persoanl Bench to craft a class and read it to gain skills and a weapon.",
+   {
+    "value": "{\"value\":\"あなたのクラスペーパーは、アンデッドから身を守るために非常に重要です。スターターキットを開くと、生き残るための基本的なアイテムも提供されます。スターターキットのメモを読み、クラスペーパーを入手します。 Persoanl Benchを使用してクラスを作成し、それを読んでスキルと武器を習得します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Craft A Stone Pickaxe",
+   {
+    "value": "{\"value\":\"石のツルハシを作る\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A stone axe is great for breaking down wood doors and trees but it will not get the job done when you need to break something made of stone or metal. Craft a stone pickaxe. Using it you can mine basic starter resources from boulders. As you gain access to better tiered pickaxes you will find you can mine for better resources.",
+   {
+    "value": "{\"value\":\"石斧は木製のドアや木を壊すのに最適ですが、石や金属でできたものを壊す必要があるときは仕事を終わらせません。石のつるはしを作ります。これを使用すると、岩から基本的なスターターリソースをマイニングできます。より良い階層のツルハシにアクセスできるようになると、より良いリソースを探すことができるようになります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Collect Some Ore",
+   {
+    "value": "{\"value\":\"鉱石を集める\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Use your stone pickaxe and find a boulder. Mining this boulder will give you some small traces of ore. You may have to hit 2. Other pickaxes will give you more precious metal. Underground mining will yield resources like limestone for cement.",
+   {
+    "value": "{\"value\":\"石のつるはしを使って、岩を見つけてください。この岩を採掘すると、鉱石の小さな痕跡がいくつか得られます。あなたは2を打たなければならないかもしれません。他のつるはしはあなたにもっと貴金属を与えるでしょう。地下採掘は、セメント用の石灰岩のような資源を生み出します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Find Storage",
+   {
+    "value": "{\"value\":\"ストレージを探す\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The trash you see in the streets is not only useful for things like twine, but they can also be used to store your items. For every 3 trash bags you collect you can make a bigger trash bag and store stuff inside. Find 3 bags and collect them by destroying them.",
+   {
+    "value": "{\"value\":\"通りに出てくるゴミは、ひもなどに役立つだけでなく、アイテムの保管にも使用できます。収集したゴミ袋3つごとに、より大きなゴミ袋を作成して、中に物を保管することができます。 3つのバッグを見つけて、破壊して集めます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Craft A Personal Workbench",
+   {
+    "value": "{\"value\":\"パーソナルワークベンチを作成する\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The Personal Workbench is the most important item in this world. In it you can craft a lot of items that you can not craft in your backpack. Attack stick bushes to gather sticks and collect fibers and craft cordage to make and place one.",
+   {
+    "value": "{\"value\":\"パーソナルワークベンチは、この世界で最も重要なアイテムです。その中であなたはあなたのバックパックで作ることができない多くのアイテムを作ることができます。スティックの茂みを攻​​撃してスティックを集め、繊維を集めてロープを作り、それを作って配置します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gather wood and break chairs and other wooden objects in the world to gather bent nails. Use your personal craft station to straighten the nails. Craft Wooden Frames from the Basics category of the Crafting window. Place Wooden Frames in the world by equipping them and using the secondary action. Frames themselves can not be used to jump up to higher places. Upgrade them with a Stone Axe using the secondary action while you have extra wood in your Inventory.",
+   {
+    "value": "{\"value\":\"曲がった釘を集めるために、世界中の木材を集め、椅子やその他の木製の物体を壊します。爪をまっすぐにするためにあなたの個人的なクラフトステーションを使用してください。 CraftingウィンドウのBasicsカテゴリからCraftWoodenFramesを作成します。それらを装備し、二次アクションを使用して、世界に木製フレームを配置します。フレーム自体を使用して、より高い場所にジャンプすることはできません。インベントリに余分な木材がある間に、セカンダリアクションを使用してストーンアックスでそれらをアップグレードします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Craft A Blade",
+   {
+    "value": "{\"value\":\"ブレードを作る\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Having a blade at the ready not only will provide you a way to skin animals for meat but also is very useful for crowd control by slashing away at the undead and causing them to bleed out. Craft bones using bone fragments you find by attacking corpses and destroying bird nests. Make a bone shiv.",
+   {
+    "value": "{\"value\":\"ブレードを用意しておくと、動物の肉の皮を剥ぐ方法が提供されるだけでなく、アンデッドを切り倒して出血させることで群集を制御するのにも非常に役立ちます。死体を攻撃し、鳥の巣を破壊して見つけた骨片を使って骨を作ります。骨のシブを作ります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Find Your Cure",
+   {
+    "value": "{\"value\":\"あなたの治療法を見つける\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:One of the keys to survival is curing infections. The easiest way to do this is to collect honey combs by destroying tree stumps. Find a stump or two and collect 3 honey combs. Use the provided jar to make some honey and hold on to it for later use.",
+   {
+    "value": "{\"value\":\"生き残るための鍵の1つは、感染症の治療です。これを行う最も簡単な方法は、木の切り株を破壊して蜂蜜の櫛を集めることです。切り株を1つか2つ見つけて、ハニーコームを3つ集めます。付属の瓶を使って蜂蜜を作り、後で使用するためにそれを保持します。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412120787
+}

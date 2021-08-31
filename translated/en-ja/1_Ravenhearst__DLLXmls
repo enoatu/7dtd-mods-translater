@@ -1,0 +1,113 @@
+{
+ "cache": [
+  [
+   "keyv:Stash Inventory",
+   {
+    "value": "{\"value\":\"スタッシュインベントリ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Stash Matching Items To Inventory",
+   {
+    "value": "{\"value\":\"マッチングアイテムを在庫に隠します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hover over a slot and press X to lock or unlock a slot. Quest Items can not be locked. Slots need to be resaved upon reboot.",
+   {
+    "value": "{\"value\":\"スロットにカーソルを合わせ、Xを押してスロットをロックまたはロック解除します。クエストアイテムはロックできません。再起動時にスロットを再保存する必要があります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Crafting Area",
+   {
+    "value": "{\"value\":\"クラフトエリア\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tool",
+   {
+    "value": "{\"value\":\"道具\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Slots",
+   {
+    "value": "{\"value\":\"スロット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Survival Campfire",
+   {
+    "value": "{\"value\":\"サバイバルキャンプファイヤー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Research Desk",
+   {
+    "value": "{\"value\":\"リサーチデスク\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Coffeemaker",
+   {
+    "value": "{\"value\":\"コーヒーメーカー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Microwave",
+   {
+    "value": "{\"value\":\"電子レンジ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Stove",
+   {
+    "value": "{\"value\":\"ストーブ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Personal Craft Station",
+   {
+    "value": "{\"value\":\"パーソナルクラフトステーション\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Table Saw",
+   {
+    "value": "{\"value\":\"テーブルソー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tanning Rack",
+   {
+    "value": "{\"value\":\"なめしラック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Armor Bench",
+   {
+    "value": "{\"value\":\"アーマーベンチ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Water Filtration Unit",
+   {
+    "value": "{\"value\":\"水ろ過ユニット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Blacksmith Forge",
+   {
+    "value": "{\"value\":\"鍛冶屋フォージ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Farm Table",
+   {
+    "value": "{\"value\":\"ファームテーブル\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121133
+}

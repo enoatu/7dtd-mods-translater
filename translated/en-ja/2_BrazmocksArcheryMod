@@ -1,0 +1,641 @@
+{
+ "cache": [
+  [
+   "keyv:Stone Arrow (Ammo)",
+   {
+    "value": "{\"value\":\"ストーンアロー（弾薬）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A stone-tipped arrow. Ammunition for all Bows. Hold reload to use alternate ammo.",
+   {
+    "value": "{\"value\":\"石の先端の矢。すべての弓の弾薬。代替弾薬を使用するには、リロードを押し続けます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Iron Arrow (Ammo)",
+   {
+    "value": "{\"value\":\"アイアンアロー（弾薬）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:An iron arrow does more damage than the basic stone arrow. Ammunition for all Bows. Hold reload to use alternate ammo.",
+   {
+    "value": "{\"value\":\"鉄の矢は基本的な石の矢よりも多くのダメージを与えます。すべての弓の弾薬。代替弾薬を使用するには、リロードを押し続けます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Steel Arrow (Ammo)",
+   {
+    "value": "{\"value\":\"スチールアロー（弾薬）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Steel-tipped arrows do yet more damage and fly straighter. Ammunition for all Bows.\\nHold reload to use alternate ammo.",
+   {
+    "value": "{\"value\":\"先端が鋼の矢はさらにダメージを与え、まっすぐ飛ぶ。すべての弓の弾薬。\\\\n別の弾薬を使用するには、リロードを押し続けます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Carbon Steel Arrow (Ammo)",
+   {
+    "value": "{\"value\":\"炭素鋼の矢（弾薬）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Carbon Steel-tipped arrows do more damage and fly straighter than the Steel arrows. Ammunition for all Bows.\\nHold reload to use alternate ammo.",
+   {
+    "value": "{\"value\":\"炭素鋼の先端の矢は、鋼の矢よりも多くのダメージを与え、まっすぐ飛ぶ。すべての弓の弾薬。\\\\n別の弾薬を使用するには、リロードを押し続けます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Aluminium Stone Arrow (Ammo)",
+   {
+    "value": "{\"value\":\"アルミストーンアロー（弾薬）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A stone-tipped aluminium arrow. Ammunition for all Bows. Hold reload to use alternate ammo.",
+   {
+    "value": "{\"value\":\"先端が石のアルミ製の矢。すべての弓の弾薬。代替弾薬を使用するには、リロードを押し続けます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Aluminium Iron Arrow (Ammo)",
+   {
+    "value": "{\"value\":\"アルミアイアンアロー（弾薬）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The aluminium iron arrow does more damage than the aluminium stone arrow. Ammunition for all Bows. Hold reload to use alternate ammo.",
+   {
+    "value": "{\"value\":\"アルミ鉄の矢はアルミ石の矢よりもダメージが大きい。すべての弓の弾薬。代替弾薬を使用するには、リロードを押し続けます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Aluminium Steel Arrow (Ammo)",
+   {
+    "value": "{\"value\":\"アルミスチールアロー（弾薬）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Aluminium Steel-tipped arrows do yet more damage and fly straighter. Ammunition for all Bows.\\nHold reload to use alternate ammo.",
+   {
+    "value": "{\"value\":\"先端がアルミニウム鋼の矢はさらにダメージを与え、まっすぐ飛ぶ。すべての弓の弾薬。\\\\n別の弾薬を使用するには、リロードを押し続けます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Aluminium Carbon Steel Arrow (Ammo)",
+   {
+    "value": "{\"value\":\"アルミ炭素鋼矢（弾薬）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Aluminium Carbon Steel-tipped arrows do more damage and fly straighter than the aluminium Steel arrows. Ammunition for all Bows.\\nHold reload to use alternate ammo.",
+   {
+    "value": "{\"value\":\"先端がアルミニウムの炭素鋼の矢は、アルミニウムの鋼の矢よりもダメージが大きく、まっすぐ飛ぶ。すべての弓の弾薬。\\\\n別の弾薬を使用するには、リロードを押し続けます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Carbon Fiber Stone Arrow (Ammo)",
+   {
+    "value": "{\"value\":\"カーボンファイバーストーンアロー（弾薬）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A stone-tipped carbon fiber arrow. Ammunition for all Bows. Hold reload to use alternate ammo.",
+   {
+    "value": "{\"value\":\"先端が石のカーボンファイバーの矢。すべての弓の弾薬。代替弾薬を使用するには、リロードを押し続けます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Carbon Fiber Iron Arrow (Ammo)",
+   {
+    "value": "{\"value\":\"カーボンファイバーアイアンアロー（弾薬）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The carbon fiber iron arrow does more damage than the aluminium stone arrow. Ammunition for all Bows. Hold reload to use alternate ammo.",
+   {
+    "value": "{\"value\":\"炭素繊維の鉄の矢は、アルミニウムの石の矢よりも多くのダメージを与えます。すべての弓の弾薬。代替弾薬を使用するには、リロードを押し続けます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Carbon Fiber Steel Arrow (Ammo)",
+   {
+    "value": "{\"value\":\"カーボンファイバースチールアロー（弾薬）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Carbon Fiber Steel-tipped arrows do yet more damage and fly straighter. Ammunition for all Bows.\\nHold reload to use alternate ammo.",
+   {
+    "value": "{\"value\":\"カーボンファイバースチールの先端の矢はさらにダメージを与え、まっすぐ飛ぶ。すべての弓の弾薬。\\\\n別の弾薬を使用するには、リロードを押し続けます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Carbon Fiber Carbon Steel Arrow (Ammo)",
+   {
+    "value": "{\"value\":\"カーボンファイバーカーボンスチールアロー（弾薬）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Electric Shock Arrow (Ammo)",
+   {
+    "value": "{\"value\":\"感電矢（弾薬）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A Electric Shock arrow. Ammunition for a bow. Shocks the target with electricity for 5 seconds. Hold reload to use alternate ammo.",
+   {
+    "value": "{\"value\":\"感電の矢。弓の弾薬。 5秒間電気でターゲットに衝撃を与えます。代替弾薬を使用するには、リロードを押し続けます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Stone Stun Arrow (Ammo)",
+   {
+    "value": "{\"value\":\"ストーンスタンアロー（弾薬）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A Stone Stun arrow. Ammunition for a bow. Knocks the target to the ground for 5 seconds. Hold reload to use alternate ammo.",
+   {
+    "value": "{\"value\":\"ストーンスタンアロー。弓の弾薬。ターゲットを5秒間地面にノックします。代替弾薬を使用するには、リロードを押し続けます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Carbon Steel Arrowhead",
+   {
+    "value": "{\"value\":\"炭素鋼の矢じり\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:An Carbon Steel arrowhead used to craft Carbon Composite Arrow and bolts.",
+   {
+    "value": "{\"value\":\"カーボンコンポジットアローとボルトの製作に使用される炭素鋼の矢じり。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Electric Shock Arrowhead",
+   {
+    "value": "{\"value\":\"感電矢じり\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:An Electric Shock arrowhead used to craft Shock arrows and bolts.",
+   {
+    "value": "{\"value\":\"ショックアローとボルトの作成に使用される電気ショックアローヘッド。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Stone Stun Arrowhead",
+   {
+    "value": "{\"value\":\"ストーンスタンアローヘッド\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:An Stone Stun arrowhead used to craft Stun arrows and bolts.",
+   {
+    "value": "{\"value\":\"スタンの矢とボルトを作るために使用されるストーンスタンの矢じり。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Stone Crossbow Bolt (Ammo)",
+   {
+    "value": "{\"value\":\"ストーンクロスボウボルト（弾薬）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A stone-tipped crossbow bolt. Hold reload to use alternate ammo.",
+   {
+    "value": "{\"value\":\"先端が石のクロスボウボルト。代替弾薬を使用するには、リロードを押し続けます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Iron Crossbow Bolt (Ammo)",
+   {
+    "value": "{\"value\":\"鉄クロスボウボルト（弾薬）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:An iron-tipped bolt for the crossbow. Hold reload to use alternate ammo.",
+   {
+    "value": "{\"value\":\"クロスボウ用の先端が鉄のボルト。代替弾薬を使用するには、リロードを押し続けます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Steel Crossbow Bolt (Ammo)",
+   {
+    "value": "{\"value\":\"スチールクロスボウボルト（弾薬）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Steel-tipped bolts do yet more damage and fly straighter.\\nHold reload to use alternate ammo.",
+   {
+    "value": "{\"value\":\"先端がスチール製のボルトはさらにダメージを与え、まっすぐ飛んでいきます。\\\\n別の弾薬を使用するには、リロードを押し続けます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Carbon Steel Crossbow Bolt (Ammo)",
+   {
+    "value": "{\"value\":\"炭素鋼クロスボウボルト（弾薬）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Steel-tipped bolts do yet more damage and fly straighter than Steel Bolts.\\nHold reload to use alternate ammo.",
+   {
+    "value": "{\"value\":\"先端がスチール製のボルトは、スチール製ボルトよりもさらに多くのダメージを与え、まっすぐ飛んでいきます。\\\\nリロードを押したままにして、別の弾薬を使用します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Aluminium Stone Crossbow Bolt (Ammo)",
+   {
+    "value": "{\"value\":\"アルミストーンクロスボウボルト（弾薬）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A Aluminium stone-tipped crossbow bolt. Hold reload to use alternate ammo.",
+   {
+    "value": "{\"value\":\"先端がアルミ製のクロスボウボルト。代替弾薬を使用するには、リロードを押し続けます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Aluminium Iron Crossbow Bolt (Ammo)",
+   {
+    "value": "{\"value\":\"アルミ鉄クロスボウボルト（弾薬）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A Aluminium iron-tipped bolt for the crossbow. Hold reload to use alternate ammo.",
+   {
+    "value": "{\"value\":\"クロスボウ用の先端が鉄製のアルミニウム製ボルト。代替弾薬を使用するには、リロードを押し続けます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Aluminium Steel Crossbow Bolt (Ammo)",
+   {
+    "value": "{\"value\":\"アルミ鋼クロスボウボルト（弾薬）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A Aluminium Steel-tipped bolts do yet more damage and fly straighter.\\nHold reload to use alternate ammo.",
+   {
+    "value": "{\"value\":\"先端がアルミニウム鋼のボルトはさらにダメージを与え、真っ直ぐに飛ぶ。\\\\n別の弾薬を使用するには、リロードを押し続ける。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Aluminium Carbon Steel Crossbow Bolt (Ammo)",
+   {
+    "value": "{\"value\":\"アルミ炭素鋼クロスボウボルト（弾薬）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A Aluminium Carbon Steel-tipped bolts do yet more damage and fly straighter than Steel Bolts.\\nHold reload to use alternate ammo.",
+   {
+    "value": "{\"value\":\"アルミニウム炭素鋼の先端のボルトは、鋼のボルトよりもさらに多くのダメージを与え、まっすぐに飛ぶ。\\\\n別の弾薬を使用するには、リロードを押し続ける。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Carbon Fiber Stone Crossbow Bolt (Ammo)",
+   {
+    "value": "{\"value\":\"カーボンファイバーストーンクロスボウボルト（弾薬）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A Carbon Fiber stone-tipped crossbow bolt. Hold reload to use alternate ammo.",
+   {
+    "value": "{\"value\":\"カーボンファイバー製の先端が石のクロスボウボルト。代替弾薬を使用するには、リロードを押し続けます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Carbon Fiber Iron Crossbow Bolt (Ammo)",
+   {
+    "value": "{\"value\":\"カーボンファイバーアイアンクロスボウボルト（弾薬）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A Carbon Fiber iron-tipped bolt for the crossbow. Hold reload to use alternate ammo.",
+   {
+    "value": "{\"value\":\"クロスボウ用のカーボンファイバー製の先端が鉄製のボルト。代替弾薬を使用するには、リロードを押し続けます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Carbon Fiber Steel Crossbow Bolt (Ammo)",
+   {
+    "value": "{\"value\":\"カーボンファイバースチールクロスボウボルト（弾薬）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A Carbon Fiber Steel-tipped bolts do yet more damage and fly straighter.\\nHold reload to use alternate ammo.",
+   {
+    "value": "{\"value\":\"カーボンファイバー製の先端が付いたボルトはさらにダメージを与え、まっすぐ飛ぶ。\\\\nリロードを押して別の弾薬を使用する。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Carbon Fiber Carbon Steel Crossbow Bolt (Ammo)",
+   {
+    "value": "{\"value\":\"カーボンファイバーカーボンスチールクロスボウボルト（弾薬）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A Carbon Fiber Carbon Steel-tipped bolts do yet more damage and fly straighter than Steel Bolts.\\nHold reload to use alternate ammo.",
+   {
+    "value": "{\"value\":\"カーボンファイバーカーボンスチールチップボルトは、スチールボルトよりもさらに多くのダメージを与え、真っ直ぐに飛ぶ。\\\\n別の弾薬を使用するには、リロードを押し続ける。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Iron Bolthead",
+   {
+    "value": "{\"value\":\"アイアンボルトヘッド\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:An iron bolthead used to craft iron bolts.",
+   {
+    "value": "{\"value\":\"鉄のボルトを作るために使用される鉄のボルトヘッド。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Steel Bolthead",
+   {
+    "value": "{\"value\":\"スチールボルトヘッド\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:An steel bolthead used to craft Targetpoint steel bolts.",
+   {
+    "value": "{\"value\":\"Targetpointスチールボルトの作成に使用されるスチールボルトヘッド。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Carbon Steel Bolthead",
+   {
+    "value": "{\"value\":\"炭素鋼ボルトヘッド\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:An Carbon Steel bolthead used to craft Carbon Fiber bolts.",
+   {
+    "value": "{\"value\":\"炭素繊維ボルトの製造に使用される炭素鋼ボルトヘッド。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bottle of Resin",
+   {
+    "value": "{\"value\":\"樹脂のボトル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:An high end liquid used in the creation of Carbon Fiber.",
+   {
+    "value": "{\"value\":\"カーボンファイバーの作成に使用されるハイエンドの液体。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Carbon Fiber",
+   {
+    "value": "{\"value\":\"カーボンファイバー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:An high end Fiber used in the creation of Carbon Weaponry.",
+   {
+    "value": "{\"value\":\"カーボンウェポンリーの作成に使用されるハイエンドファイバー。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Aluminium Arrow Shaft",
+   {
+    "value": "{\"value\":\"アルミアローシャフト\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A Aluminium arrow shaft used to craft Aluminium Arrows.",
+   {
+    "value": "{\"value\":\"アルミアローの製作に使用されるアルミアローシャフト。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Carbon Fiber Arrow Shaft",
+   {
+    "value": "{\"value\":\"カーボンファイバーアローシャフト\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A Carbon Fiber arrow shaft used to craft Carbon Arrows.",
+   {
+    "value": "{\"value\":\"カーボンアローの製作に使用されるカーボンファイバーアローシャフト。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Aluminium Bolt Shaft",
+   {
+    "value": "{\"value\":\"アルミボルトシャフト\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A Aluminium bolt shaft used to craft Aluminium Bolts.",
+   {
+    "value": "{\"value\":\"アルミボルトの製作に使用されるアルミボルトシャフト。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Carbon Fiber Bolt Shaft",
+   {
+    "value": "{\"value\":\"カーボンファイバーボルトシャフト\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A Carbon Fiber bolt shaft used to craft Carbon Bolts.",
+   {
+    "value": "{\"value\":\"カーボンボルトの製作に使用されるカーボンファイバーボルトシャフト。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fletchers Bow Schematic",
+   {
+    "value": "{\"value\":\"Fletchers BowSchematic\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Recurve Bow Schematic",
+   {
+    "value": "{\"value\":\"後ろに反らす弓の概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hybrid Cam Compound Bow Schematic",
+   {
+    "value": "{\"value\":\"ハイブリッドカムコンパウンドボウの概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Recurve Crossbow Schematic",
+   {
+    "value": "{\"value\":\"後ろに反らすクロスボウの概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hybrid Cam Compound Crossbow Schematic",
+   {
+    "value": "{\"value\":\"ハイブリッドカムコンパウンドクロスボウの概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Mini Legolas Mod Schematic",
+   {
+    "value": "{\"value\":\"ミニレゴラスMod回路図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Legolas Mod Schematic",
+   {
+    "value": "{\"value\":\"レゴラスMod回路図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Carbon Fiber Schematic",
+   {
+    "value": "{\"value\":\"炭素繊維の概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Stone Stun Arrow Schematic",
+   {
+    "value": "{\"value\":\"ストーンスタンアローの概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Mini Legolas Arrow Capacity Mod",
+   {
+    "value": "{\"value\":\"ミニレゴラスアローキャパシティモッズ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Increases Arrow capacity. Allows an extra arrow to be ready to fire before having to reload.",
+   {
+    "value": "{\"value\":\"アローの容量を増やします。リロードする前に、追加の矢印を発射できるようにします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Legolas Arrow Capacity Mod",
+   {
+    "value": "{\"value\":\"レゴラスアローキャパシティモッズ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Increases Arrow capacity. Allows an extra 4 arrows to be ready to fire before having to reload.",
+   {
+    "value": "{\"value\":\"アローの容量を増やします。リロードする前に、追加の4本の矢を発射できるようにします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Primitive Bow",
+   {
+    "value": "{\"value\":\"プリミティブボウ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Good for hunting and killing zombies. Uses Wooden arrows for ammunition.\\nHold reload to use alternate ammo.\\n\\nRepair with Primitive Repair Kit.\\nScrap to Wood.",
+   {
+    "value": "{\"value\":\"ゾンビを狩ったり殺したりするのに適しています。弾薬に木製の矢を使用します。\\\\nリロードを押し続けて代替弾薬を使用します。\\\\n\\\\nプリミティブ修理キットで修理します。\\\\n木にスクラップします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Wooden Bow",
+   {
+    "value": "{\"value\":\"木製の弓\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Good for hunting and killing zombies. Uses Wooden and Aluminium arrows for ammunition.\\nHold reload to use alternate ammo.\\n\\nRepair with a Repair Kit.\\nScrap to Iron.",
+   {
+    "value": "{\"value\":\"ゾンビを狩ったり殺したりするのに適しています。弾薬に木製とアルミニウムの矢を使用します。\\\\n別の弾薬を使用するには、リロードを押し続けます。\\\\n\\\\n修理キットで修理します。\\\\n鉄にスクラップします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Compound Bow",
+   {
+    "value": "{\"value\":\"コンパウンドボウ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A compound bow does more damage and arrows fly straighter which makes it easier to aim. Uses Wooden and Aluminium arrows.\\n\\nRepair with an Advanced Repair Kit.\\nScrap to Iron.",
+   {
+    "value": "{\"value\":\"コンパウンドボウはより多くのダメージを与え、矢はまっすぐ飛ぶため、狙いを定めやすくなります。木製とアルミニウムの矢を使用します。\\\\n\\\\n高度な修理キットで修理します。\\\\n鉄にスクラップします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fletchers Bow",
+   {
+    "value": "{\"value\":\"フレッチャーズボウ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Good for hunting and killing zombies. Uses Wooden and Aluminium Arrows for ammunition.\\nHold reload to use alternate ammo.\\n\\nRepair with Primitive Repair Kit.\\nScrap to Wood.",
+   {
+    "value": "{\"value\":\"ゾンビを狩ったり殺したりするのに適しています。弾薬に木製とアルミニウムの矢を使用します。\\\\nリロードを押し続けて代替弾薬を使用します。\\\\n\\\\nプリミティブ修理キットで修理します。\\\\n木にスクラップします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Recurve Bow",
+   {
+    "value": "{\"value\":\"後ろに反らす弓\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Good for hunting and killing zombies. Uses Steel and Carbon Steel tipped Wooden",
+   {
+    "value": "{\"value\":\"ゾンビを狩ったり殺したりするのに適しています。先端が木製の鋼と炭素鋼を使用\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hybrid Cam Compound Bow",
+   {
+    "value": "{\"value\":\"ハイブリッドカムコンパウンドボウ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A compound bow does more damage and arrows fly straighter which makes it easier to aim. Uses Aluminium and Carbon Fiber Arrows for ammunition.\\nHold reload to use alternate ammo.\\n\\nRepair with an Advanced Repair Kit.\\nScrap to Iron.",
+   {
+    "value": "{\"value\":\"コンパウンドボウはより多くのダメージを与え、矢はまっすぐ飛ぶため、狙いを定めやすくなります。弾薬にアルミニウムとカーボンファイバーの矢を使用します。\\\\nリロードを押し続けて代替弾薬を使用します。\\\\n\\\\n高度な修理キットで修理します。\\\\n鉄にスクラップします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Primitive Crossbow",
+   {
+    "value": "{\"value\":\"プリミティブクロスボウ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A crossbow is slow to reload but does more damage than a bow.\\nThe primitive Crossbow is slower and more cumbersome than other Crossbows",
+   {
+    "value": "{\"value\":\"クロスボウはリロードに時間がかかりますが、弓よりもダメージが大きくなります。\\\\nプリミティブクロスボウは他のクロスボウよりも遅く、扱いにくいです。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Recurve Crossbow",
+   {
+    "value": "{\"value\":\"後ろに反らすクロスボウ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A crossbow is slow to reload but does more damage than a bow.\\nThis weapon can be fired underwater.\\nHold reload to use alternate ammo.\\nRepair with a Repair Kit.\\nScrap to Iron.",
+   {
+    "value": "{\"value\":\"クロスボウはリロードに時間がかかりますが、ボウよりもダメージが大きくなります。\\\\nこの武器は水中で発射できます。\\\\nリロードを押し続けて代替弾薬を使用します。\\\\n修理キットで修理します。\\\\n鉄にスクラップします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hybrid Cam Compound Crossbow",
+   {
+    "value": "{\"value\":\"ハイブリッドカムコンパウンドクロスボウ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A crossbow is slow to reload but does more damage than a bow.\\nThis weapon can be fired underwater.\\nHold reload to use alternate ammo.\\nRepair with an Advanced Repair Kit.\\nScrap to Iron.",
+   {
+    "value": "{\"value\":\"クロスボウはリロードに時間がかかりますが、ボウよりもダメージが大きくなります。\\\\nこの武器は水中で発射できます。\\\\nリロードを押し続けて代替弾薬を使用します。\\\\n高度な修理キットで修理します。\\\\n鉄にスクラップします。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121143
+}

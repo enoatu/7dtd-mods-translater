@@ -1,0 +1,23 @@
+{
+ "cache": [
+  [
+   "keyv:Brewery",
+   {
+    "value": "{\"value\":\"醸造所\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Make fermented liquor and beer.",
+   {
+    "value": "{\"value\":\"発酵液とビールを作ります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Brewery Schematic",
+   {
+    "value": "{\"value\":\"醸造所の概略図\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121336
+}

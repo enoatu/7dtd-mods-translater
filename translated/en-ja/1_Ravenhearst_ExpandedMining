@@ -1,0 +1,509 @@
+{
+ "cache": [
+  [
+   "keyv:Crush",
+   {
+    "value": "{\"value\":\"打ち砕く\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[A6A09E]Iron[-]",
+   {
+    "value": "{\"value\":\"[A6A09E]鉄[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[EDD079]Brass[-]",
+   {
+    "value": "{\"value\":\"[EDD079]真ちゅう[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[AEACA8]Lead[-]",
+   {
+    "value": "{\"value\":\"[AEACA8]リード[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[E5EDEC]Glass[-]",
+   {
+    "value": "{\"value\":\"[E5EDEC]ガラス[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[BBC2CB]Stone[-]",
+   {
+    "value": "{\"value\":\"[BBC2CB]ストーン[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[B8C5BE]Clay[-]",
+   {
+    "value": "{\"value\":\"[B8C5BE]クレイ[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[E89267]Copper[-]",
+   {
+    "value": "{\"value\":\"[E89267]銅[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[B3B6BB]Zinc[-]",
+   {
+    "value": "{\"value\":\"[B3B6BB]亜鉛[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Copper",
+   {
+    "value": "{\"value\":\"銅\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Zinc",
+   {
+    "value": "{\"value\":\"亜鉛\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[E89267]Carbon[-]",
+   {
+    "value": "{\"value\":\"[E89267]カーボン[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[B3B6BB]Aluminum[-]",
+   {
+    "value": "{\"value\":\"[B3B6BB]アルミニウム[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Carbon",
+   {
+    "value": "{\"value\":\"炭素\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Aluminum",
+   {
+    "value": "{\"value\":\"アルミニウム\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[E89267]Chromium[-]",
+   {
+    "value": "{\"value\":\"[E89267]クロム[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[B3B6BB]Tungsten[-]",
+   {
+    "value": "{\"value\":\"[B3B6BB]タングステン[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Chromium",
+   {
+    "value": "{\"value\":\"クロム\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tungsten",
+   {
+    "value": "{\"value\":\"タングステン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Copper Ore",
+   {
+    "value": "{\"value\":\"銅鉱石\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Zinc Ore",
+   {
+    "value": "{\"value\":\"亜鉛鉱石\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:= Copper Vein = Helper",
+   {
+    "value": "{\"value\":\"=銅鉱脈=ヘルパー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Copper / Stone / Sandstone",
+   {
+    "value": "{\"value\":\"銅/石/砂岩\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Carbon Ore",
+   {
+    "value": "{\"value\":\"炭素鉱石\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:= Carbon Vein = Helper",
+   {
+    "value": "{\"value\":\"=カーボンベイン=ヘルパー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Carbon / Stone / Sandstone",
+   {
+    "value": "{\"value\":\"カーボン/ストーン/サンドストーン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Chromium Ore",
+   {
+    "value": "{\"value\":\"クロム鉱石\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:= Chromium Vein = Helper",
+   {
+    "value": "{\"value\":\"=クロム静脈=ヘルパー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Chromium / Stone / Sandstone",
+   {
+    "value": "{\"value\":\"クロム/石/砂岩\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Aluminum Ore",
+   {
+    "value": "{\"value\":\"アルミ鉱石\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:= Aluminum Vein = Helper",
+   {
+    "value": "{\"value\":\"=アルミニウム鉱脈=ヘルパー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Aluminum / Stone / Sandstone",
+   {
+    "value": "{\"value\":\"アルミ/石/砂岩\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tungsten Ore",
+   {
+    "value": "{\"value\":\"タングステン鉱石\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:= Tungsten Vein = Helper",
+   {
+    "value": "{\"value\":\"=タングステン静脈=ヘルパー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tungsten / Stone / Sandstone",
+   {
+    "value": "{\"value\":\"タングステン/石/砂岩\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:= Zinc Vein = Helper",
+   {
+    "value": "{\"value\":\"=亜鉛静脈=ヘルパー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Zinc / Stone / Sandstone",
+   {
+    "value": "{\"value\":\"亜鉛/石/砂岩\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Copper Ore Boulder",
+   {
+    "value": "{\"value\":\"銅鉱石ボルダー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Zinc Ore Boulder",
+   {
+    "value": "{\"value\":\"亜鉛鉱石ボルダー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Carbon Ore Boulder",
+   {
+    "value": "{\"value\":\"カーボン鉱石ボルダー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Aluminum Ore Boulder",
+   {
+    "value": "{\"value\":\"アルミ鉱石ボルダー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tungsten Ore Boulder",
+   {
+    "value": "{\"value\":\"タングステン鉱石ボルダー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Chromium Ore Boulder",
+   {
+    "value": "{\"value\":\"クロム鉱石ボルダー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Scrap Copper Pile",
+   {
+    "value": "{\"value\":\"銅の山をスクラップ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Copper is a metal that can be combined with zinc in a forge to produce brass.  As a fantastic conductor of heat, it's often found in air conditioning parts, plumbing, electrical components, and various appliances.",
+   {
+    "value": "{\"value\":\"銅は、鍛造で亜鉛と組み合わせて真ちゅうを製造できる金属です。素晴らしい熱伝導体として、エアコン部品、配管、電気部品、およびさまざまな電化製品によく見られます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Zinc is a metal that can be combined with copper in a forge to produce brass.  As galvanized protection against rusting metals, it's often found in air conditioning parts, vehicles, chainlink fences, washing machines, and street lights.",
+   {
+    "value": "{\"value\":\"亜鉛は、鍛造で銅と組み合わせて真ちゅうを製造できる金属です。錆びた金属に対する亜鉛メッキ保護として、エアコン部品、車両、金網フェンス、洗濯機、街灯によく見られます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Silver Ore",
+   {
+    "value": "{\"value\":\"銀鉱石\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gold Ore",
+   {
+    "value": "{\"value\":\"金鉱石\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Diamond Ore",
+   {
+    "value": "{\"value\":\"ダイヤモンド鉱石\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Limestone",
+   {
+    "value": "{\"value\":\"石灰岩\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Limestone can be found mining underground and is used in the production of concrete.",
+   {
+    "value": "{\"value\":\"石灰岩は地下で採掘されており、コンクリートの製造に使用されています。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Carbon is a metal used in the process of making steel.",
+   {
+    "value": "{\"value\":\"炭素は製鋼の過程で使われる金属です。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Aluminum is the third tier of hard metal after steel. It can be used to reinforce tools and weapons to perform better.",
+   {
+    "value": "{\"value\":\"アルミニウムは、鋼に次ぐ硬質金属の3番目の層です。ツールや武器を強化してパフォーマンスを向上させるために使用できます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Chromium is an ore used to make chrome. Chrome is the fourth tier of metal and strengthens your tools, weapons and arrows.",
+   {
+    "value": "{\"value\":\"クロムはクロムを作るために使用される鉱石です。 Chromeは金属の第4層であり、ツール、武器、矢を強化します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tungsten is the highest tier of metal and can provide the best tools and weapons as well as arrows and bolts.",
+   {
+    "value": "{\"value\":\"タングステンは金属の最高層であり、矢やボルトだけでなく、最高の道具や武器を提供することができます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Scrap Chromium",
+   {
+    "value": "{\"value\":\"クロムくず\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Scrap Aluminum",
+   {
+    "value": "{\"value\":\"アルミニウムくず\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Scrap Carbon",
+   {
+    "value": "{\"value\":\"スクラップカーボン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Scrap Copper",
+   {
+    "value": "{\"value\":\"銅くず\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Scrap Zinc",
+   {
+    "value": "{\"value\":\"亜鉛くず\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Scrap Tungsten",
+   {
+    "value": "{\"value\":\"スクラップタングステン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Aluminum Fireaxe",
+   {
+    "value": "{\"value\":\"アルミFireaxe\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Chrome Fireaxe",
+   {
+    "value": "{\"value\":\"Chrome Fireaxe\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tungsten Fireaxe",
+   {
+    "value": "{\"value\":\"タングステンFireaxe\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Aluminum Pickaxe",
+   {
+    "value": "{\"value\":\"アルミつるはし\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Chrome Pickaxe",
+   {
+    "value": "{\"value\":\"ChromePickaxe\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tungsten Pickaxe",
+   {
+    "value": "{\"value\":\"タングステンつるはし\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Chrome Club",
+   {
+    "value": "{\"value\":\"Chrome Club\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tungsten Club",
+   {
+    "value": "{\"value\":\"タングステンクラブ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tungsten Machete",
+   {
+    "value": "{\"value\":\"タングステンマチェーテ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Chrome Machete",
+   {
+    "value": "{\"value\":\"クロームマチェーテ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Swings heavier but does way more damage.\\nRepair with High End Repair Kit.",
+   {
+    "value": "{\"value\":\"スイングは重くなりますが、ダメージが大きくなります。\\\\nハイエンド修理キットで修理してください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Swings heavier but does way more damage.\\nRepair with Top Tier Repair Kit.",
+   {
+    "value": "{\"value\":\"スイングは重くなりますが、ダメージははるかに大きくなります。\\\\nトップティア修理キットで修理してください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Swings heavier but does way more damage.\\nRepair with Legendary Repair Kit.",
+   {
+    "value": "{\"value\":\"スイングは重くなりますが、ダメージははるかに大きくなります。\\\\nレジェンダリーリペアキットで修理してください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Aluminum Pickaxe grants more aluminum as well as opens up the possibilities of mining chromium.\\nRepair with High End Repair Kit.",
+   {
+    "value": "{\"value\":\"アルミニウムつるはしは、より多くのアルミニウムを与えるだけでなく、クロムを採掘する可能性を開きます。\\\\nハイエンド修理キットで修理します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Chrome Pickaxe grants more chromium as well as opens up the possibilities of mining tungsten.\\nRepair with Top Tier Repair Kit.",
+   {
+    "value": "{\"value\":\"Chrome Pickaxeは、より多くのクロムを付与するだけでなく、タングステンを採掘する可能性を開きます。\\\\nトップティア修理キットで修理します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tungsten Pickaxe grants more tungsten and is the best pickaxe with the most yields of all metals and stones.\\nRepair with Legendary Repair Kit.",
+   {
+    "value": "{\"value\":\"タングステンつるはしはより多くのタングステンを付与し、すべての金属と石の中で最も収量が多い最高のつるはしです。\\\\n伝説の修理キットで修理してください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Forged metal bar that allows you to process and create items from it.",
+   {
+    "value": "{\"value\":\"あなたがそれからアイテムを処理して作成することを可能にする鍛造金属棒。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Forged Aluminum",
+   {
+    "value": "{\"value\":\"鍛造アルミニウム\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Forged Carbon",
+   {
+    "value": "{\"value\":\"鍛造カーボン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Forged Chrome",
+   {
+    "value": "{\"value\":\"鍛造クローム\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Forged Tungsten",
+   {
+    "value": "{\"value\":\"鍛造タングステン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:High End Metals Schematic",
+   {
+    "value": "{\"value\":\"ハイエンド金属の概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have in your hands all you need to know to create high end weapons and tools made from tungsten and chrome. Life just got a little more interesting.",
+   {
+    "value": "{\"value\":\"タングステンとクロムで作られたハイエンドの武器や道具を作るために知っておくべきことはすべてあなたの手にあります。人生はもう少し面白くなった。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412120900
+}

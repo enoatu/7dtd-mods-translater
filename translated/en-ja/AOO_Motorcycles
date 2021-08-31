@@ -1,0 +1,59 @@
+{
+ "cache": [
+  [
+   "keyv:Chopper",
+   {
+    "value": "{\"value\":\"チョッパー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Why walk with the dead when you can ride!",
+   {
+    "value": "{\"value\":\"乗れるのになぜ死者と一緒に歩くのか！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Chopper Schematic",
+   {
+    "value": "{\"value\":\"チョッパーの概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sports Bike",
+   {
+    "value": "{\"value\":\"スポーツバイク\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sports Bike Schematic",
+   {
+    "value": "{\"value\":\"スポーツバイクの概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Harley",
+   {
+    "value": "{\"value\":\"ハーレー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Harley Schematic",
+   {
+    "value": "{\"value\":\"ハーレー回路図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Dirt Rocket",
+   {
+    "value": "{\"value\":\"ダートロケット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Dirt Rocket Schematic",
+   {
+    "value": "{\"value\":\"ダートロケットの概略図\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121164
+}

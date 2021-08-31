@@ -1,0 +1,17 @@
+{
+ "cache": [
+  [
+   "keyv:Mortar",
+   {
+    "value": "{\"value\":\"モルタル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Used in the creation of cobblestone.",
+   {
+    "value": "{\"value\":\"石畳の作成に使用されます。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121050
+}

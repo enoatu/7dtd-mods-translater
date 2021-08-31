@@ -1,0 +1,233 @@
+{
+ "cache": [
+  [
+   "keyv:Legendary Bow Schematic",
+   {
+    "value": "{\"value\":\"伝説の弓の概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hatchet Schematic",
+   {
+    "value": "{\"value\":\"手斧の概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:War Hammer Schematic",
+   {
+    "value": "{\"value\":\"ウォーハンマー概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Battle Maul Schematic",
+   {
+    "value": "{\"value\":\"バトルモールの概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gate Crasher Schematic",
+   {
+    "value": "{\"value\":\"ゲートクラッシャーの概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Mace Schematic",
+   {
+    "value": "{\"value\":\"メイス回路図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:War Mace Schematic",
+   {
+    "value": "{\"value\":\"ウォーメイスの概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Crown Splitter Schematic",
+   {
+    "value": "{\"value\":\"クラウンスプリッターの概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Dane Schematic",
+   {
+    "value": "{\"value\":\"デーン回路図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Battle Axe Schematic",
+   {
+    "value": "{\"value\":\"戦斧の概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Corpse Maker Schematic",
+   {
+    "value": "{\"value\":\"死体メーカーの概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Claymore Schematic",
+   {
+    "value": "{\"value\":\"クレイモア回路図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Dragon Slayer Schematic",
+   {
+    "value": "{\"value\":\"ドラゴンスレイヤーの概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Javelin Schematic",
+   {
+    "value": "{\"value\":\"やり投げの概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Spear Schematic",
+   {
+    "value": "{\"value\":\"槍の概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Halberd Schematic",
+   {
+    "value": "{\"value\":\"ハルバードの概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A barbaric and vicious weapon. Repair with Forged Chromium",
+   {
+    "value": "{\"value\":\"野蛮で悪質な武器。鍛造クロムによる修理\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A barbaric and vicious weapon. Repair with Forged Aluminum",
+   {
+    "value": "{\"value\":\"野蛮で悪質な武器。鍛造アルミニウムによる修理\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A barbaric and vicious weapon. Repair with Forged Tungsten",
+   {
+    "value": "{\"value\":\"野蛮で悪質な武器。鍛造タングステンで修理\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A barbaric and vicious throwing weapon. Repair with Forged Chromium",
+   {
+    "value": "{\"value\":\"野蛮で悪質な投げ武器。鍛造クロムによる修理\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A barbaric and vicious throwing weapon. Repair with Forged Aluminum",
+   {
+    "value": "{\"value\":\"野蛮で悪質な投げ武器。鍛造アルミニウムによる修理\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A barbaric and vicious throwing weapon. Repair with Forged Tungsten",
+   {
+    "value": "{\"value\":\"野蛮で悪質な投げ武器。鍛造タングステンで修理\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Legendary Bow",
+   {
+    "value": "{\"value\":\"レジェンダリーボウ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hatchet",
+   {
+    "value": "{\"value\":\"手斧\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:War Hammer",
+   {
+    "value": "{\"value\":\"ウォーハンマー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Battle Maul",
+   {
+    "value": "{\"value\":\"バトルモール\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gate Crasher",
+   {
+    "value": "{\"value\":\"ゲートクラッシャー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Mace",
+   {
+    "value": "{\"value\":\"メース\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:War Mace",
+   {
+    "value": "{\"value\":\"ウォーメイス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Crown Splitter",
+   {
+    "value": "{\"value\":\"クラウンスプリッター\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Dane",
+   {
+    "value": "{\"value\":\"デーン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Battle Axe",
+   {
+    "value": "{\"value\":\"バトルアックス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Corpse Maker",
+   {
+    "value": "{\"value\":\"死体メーカー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Claymore",
+   {
+    "value": "{\"value\":\"クレイモア\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Dragon Slayer",
+   {
+    "value": "{\"value\":\"ドラゴンスレイヤー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Javelin",
+   {
+    "value": "{\"value\":\"やり投げ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Spear",
+   {
+    "value": "{\"value\":\"槍\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Halberd",
+   {
+    "value": "{\"value\":\"ハルバード\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121134
+}

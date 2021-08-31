@@ -1,0 +1,29 @@
+{
+ "cache": [
+  [
+   "keyv:Weather Vane",
+   {
+    "value": "{\"value\":\"風向計\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Primitive Bench",
+   {
+    "value": "{\"value\":\"プリミティブベンチ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Large Target",
+   {
+    "value": "{\"value\":\"大きなターゲット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Watering Can",
+   {
+    "value": "{\"value\":\"じょうろ\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412120880
+}

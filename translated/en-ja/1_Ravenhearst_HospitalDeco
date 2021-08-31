@@ -1,0 +1,83 @@
+{
+ "cache": [
+  [
+   "keyv:Autopsy Table",
+   {
+    "value": "{\"value\":\"剖検表\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Corpse On A Gurney",
+   {
+    "value": "{\"value\":\"ガーニーの死体\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gurney",
+   {
+    "value": "{\"value\":\"ガーニー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hospital Cart",
+   {
+    "value": "{\"value\":\"病院用カート\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hospital Worktable",
+   {
+    "value": "{\"value\":\"病院の作業台\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Abby Normal",
+   {
+    "value": "{\"value\":\"アビーノーマル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Empty Brain Jar",
+   {
+    "value": "{\"value\":\"空の脳の瓶\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Medical Trash Can",
+   {
+    "value": "{\"value\":\"医療ゴミ箱\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old Hospital Bed 1",
+   {
+    "value": "{\"value\":\"古い病院のベッド1\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old Hospital Bed 2",
+   {
+    "value": "{\"value\":\"古い病院のベッド2\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Organ Scale",
+   {
+    "value": "{\"value\":\"オルガンスケール\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Rocking Chair",
+   {
+    "value": "{\"value\":\"ロッキングチェア\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Wheelchair",
+   {
+    "value": "{\"value\":\"車椅子\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412120961
+}

@@ -1,0 +1,65 @@
+{
+ "cache": [
+  [
+   "keyv:Bullet Casing Mold",
+   {
+    "value": "{\"value\":\"薬莢型\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bullet Tip Mold",
+   {
+    "value": "{\"value\":\"弾丸チップモールド\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Iron Arrowhead Mold",
+   {
+    "value": "{\"value\":\"鉄の矢じり型\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Nail Mold",
+   {
+    "value": "{\"value\":\"ネイルモールド\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Screw Mold",
+   {
+    "value": "{\"value\":\"スクリューモールド\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Steel Arrowhead Mold",
+   {
+    "value": "{\"value\":\"スチールアローヘッドモールド\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pipe Mold",
+   {
+    "value": "{\"value\":\"パイプモールド\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Empty Jar Mold",
+   {
+    "value": "{\"value\":\"空のジャーモールド\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Empty Blank Mold",
+   {
+    "value": "{\"value\":\"空のブランクモールド\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This mold can be used to craft items in the forge. To make one use the resource you wish to make the mold of and some clay and water and craft your mold. You can then place the appropriate mold in the forges and craft your desired item.",
+   {
+    "value": "{\"value\":\"この型は、鍛造でアイテムを作るために使用できます。型を作りたい資源と粘土と水を使って型を作ります。次に、適切な型を鍛造に配置して、目的のアイテムを作成できます。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121047
+}

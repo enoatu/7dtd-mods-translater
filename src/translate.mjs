@@ -10,9 +10,10 @@ const csvParse = require('csv-parse/lib/sync')
 const csvStringifySync = require('csv-stringify/lib/sync')
 const Config = require('./config')
 const Counter = require('./counter')
-const translateCacher = require('./translate_cacher')
+const TranslateCacher = require('./translate_cacher')
 
 const counter = new Counter()
+const translateCacher = new TranslateCacher()
 
 const paths = await globby([
   './resource/*/config/localization.txt',
@@ -22,6 +23,7 @@ const paths = await globby([
 ])
 
 for (const [pathIndex, path] of paths.entries()) {
+  const modName = path.split('/')[2]
   console.info(`--- start input: ${path} ---`)
   // parse
   let rows = fs.readFileSync(path)
@@ -86,7 +88,10 @@ for (const [pathIndex, path] of paths.entries()) {
     if (!source) {
       continue
     }
-    let cache = await translateCacher.get(source)
+    let cache = await translateCacher.get(modName, source)
+    if (!cache) {
+      process.exit(1)
+    }
     if (cache) {
       // console.log(`use cache ${source} => ${cache}`)
       rows[index][expectedTargetLangColumnIndex] = cache
@@ -105,7 +110,7 @@ for (const [pathIndex, path] of paths.entries()) {
       if (json.status == 200) {
         const text = modifyText(json.text)
         console.log(text)
-        await translateCacher.set(source, text)
+        await translateCacher.set(modName, source, text)
         rows[index][expectedTargetLangColumnIndex] = text
       } else {
         console.err(`bad req => ${json}`)

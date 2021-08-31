@@ -1,0 +1,23 @@
+{
+ "cache": [
+  [
+   "keyv:Garage Shelf (Storage)",
+   {
+    "value": "{\"value\":\"ガレージ棚（収納）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old Toolbox (Storage)",
+   {
+    "value": "{\"value\":\"古いツールボックス（ストレージ）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This rusty toolbox has seen better days but can hold a quite a few tools.",
+   {
+    "value": "{\"value\":\"このさびたツールボックスは良い時代を迎えていますが、かなりの数のツールを収納できます。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412120882
+}

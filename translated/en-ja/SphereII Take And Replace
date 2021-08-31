@@ -1,0 +1,17 @@
+{
+ "cache": [
+  [
+   "keyv:Zombie Barricades",
+   {
+    "value": "{\"value\":\"ゾンビバリケード\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:These pried loose boards can be used to board up windows and doorways while hunting for supplies. They are easily picked up and transported.",
+   {
+    "value": "{\"value\":\"これらのこじ開けられたルーズボードは、物資を探している間、窓や出入り口に乗り込むために使用できます。それらは簡単に拾い上げて輸送することができます。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121291
+}

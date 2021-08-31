@@ -1,0 +1,293 @@
+{
+ "cache": [
+  [
+   "keyv:Mod",
+   {
+    "value": "{\"value\":\"モッド\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:2 Skill Point Book",
+   {
+    "value": "{\"value\":\"2スキルポイントブック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:5 Skill Point Book",
+   {
+    "value": "{\"value\":\"5スキルポイントブック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:10 Skill Point Book",
+   {
+    "value": "{\"value\":\"10スキルポイントブック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:15 Skill Point Book",
+   {
+    "value": "{\"value\":\"15スキルポイントブック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:500 Experience Book",
+   {
+    "value": "{\"value\":\"500エクスペリエンスブック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:1000 Experience Book",
+   {
+    "value": "{\"value\":\"1000体験本\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:2000 Experience Book",
+   {
+    "value": "{\"value\":\"2000年体験本\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:5000 Experience Book",
+   {
+    "value": "{\"value\":\"5000エクスペリエンスブック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:10000 Experience Book",
+   {
+    "value": "{\"value\":\"10000エクスペリエンスブック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:50000 Experience Book",
+   {
+    "value": "{\"value\":\"50000エクスペリエンスブック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:500000 Experience Book",
+   {
+    "value": "{\"value\":\"500000エクスペリエンスブック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:1 Skill Point",
+   {
+    "value": "{\"value\":\"1スキルポイント\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gain 1 Skill Point.",
+   {
+    "value": "{\"value\":\"スキルポイントを1つ獲得します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have gained 1 Skill Point.",
+   {
+    "value": "{\"value\":\"あなたは1スキルポイントを獲得しました。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:2 Skill Points",
+   {
+    "value": "{\"value\":\"2スキルポイント\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gain 2 Skill Points.",
+   {
+    "value": "{\"value\":\"2スキルポイントを獲得します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have gained 2 Skill Points.",
+   {
+    "value": "{\"value\":\"あなたは2スキルポイントを獲得しました。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:5 Skill Points",
+   {
+    "value": "{\"value\":\"5スキルポイント\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gain 4 Skill Points.",
+   {
+    "value": "{\"value\":\"4スキルポイントを獲得します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have gained 5 Skill Points.",
+   {
+    "value": "{\"value\":\"あなたは5スキルポイントを獲得しました。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:10 Skill Points",
+   {
+    "value": "{\"value\":\"10スキルポイント\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gain 10 Skill Points.",
+   {
+    "value": "{\"value\":\"10スキルポイントを獲得します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have gained 10 Skill Points.",
+   {
+    "value": "{\"value\":\"あなたは10スキルポイントを獲得しました。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:15 Skill Points",
+   {
+    "value": "{\"value\":\"15スキルポイント\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gain 15 Skill Points.",
+   {
+    "value": "{\"value\":\"15スキルポイントを獲得します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have gained 15 Skill Points.",
+   {
+    "value": "{\"value\":\"15スキルポイントを獲得しました。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:500 Experience",
+   {
+    "value": "{\"value\":\"500経験\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gain 500 Experience.",
+   {
+    "value": "{\"value\":\"500の経験を積む。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have gained 500 Experience.",
+   {
+    "value": "{\"value\":\"あなたは500の経験を積んだ。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:1000 Experience",
+   {
+    "value": "{\"value\":\"1000経験\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gain 1000 Experience.",
+   {
+    "value": "{\"value\":\"1000の経験を積む。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have gained 1000 Experience.",
+   {
+    "value": "{\"value\":\"あなたは1000の経験を積んでいます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:2000 Experience",
+   {
+    "value": "{\"value\":\"2000年の経験\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gain 2000 Experience.",
+   {
+    "value": "{\"value\":\"2000年の経験を積む。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have gained 2000 Experience.",
+   {
+    "value": "{\"value\":\"あなたは2000の経験を積んでいます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:5000 Experience",
+   {
+    "value": "{\"value\":\"5000経験\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gain 5000 Experience.",
+   {
+    "value": "{\"value\":\"5000の経験を積む。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have gained 5000 Experience.",
+   {
+    "value": "{\"value\":\"あなたは5000の経験を積んでいます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:10000 Experience",
+   {
+    "value": "{\"value\":\"10000経験\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gain 10000 Experience.",
+   {
+    "value": "{\"value\":\"10000の経験を積む。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have gained 10000 Experience.",
+   {
+    "value": "{\"value\":\"あなたは10000の経験を積んでいます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:50000 Experience",
+   {
+    "value": "{\"value\":\"50000経験\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gain 50000 Experience.",
+   {
+    "value": "{\"value\":\"50000の経験を積む。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have gained 50000 Experience.",
+   {
+    "value": "{\"value\":\"あなたは50000の経験を積んでいます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:500000 Experience",
+   {
+    "value": "{\"value\":\"500000経験\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gain 500000 Experience.",
+   {
+    "value": "{\"value\":\"500000の経験を積む。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have gained 500000 Experience.",
+   {
+    "value": "{\"value\":\"あなたは500000の経験を積んでいます。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412120724
+}

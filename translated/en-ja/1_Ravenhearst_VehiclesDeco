@@ -1,0 +1,107 @@
+{
+ "cache": [
+  [
+   "keyv:= Ravenhearst Cars = Random Helper",
+   {
+    "value": "{\"value\":\"= Ravenhearst Cars =ランダムヘルパー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old Sedan",
+   {
+    "value": "{\"value\":\"オールドセダン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:City Bus",
+   {
+    "value": "{\"value\":\"市バス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Mail Truck",
+   {
+    "value": "{\"value\":\"メールトラック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Taxi Cab",
+   {
+    "value": "{\"value\":\"タクシー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Food Truck",
+   {
+    "value": "{\"value\":\"屋台\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Forklift",
+   {
+    "value": "{\"value\":\"フォークリフト\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old Hauler",
+   {
+    "value": "{\"value\":\"オールドハウラー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Semi Truck",
+   {
+    "value": "{\"value\":\"セミトラック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old Police Car",
+   {
+    "value": "{\"value\":\"古いパトカー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Ambulance",
+   {
+    "value": "{\"value\":\"救急車\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fire Truck",
+   {
+    "value": "{\"value\":\"消防車\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old Jeep",
+   {
+    "value": "{\"value\":\"オールドジープ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hummer",
+   {
+    "value": "{\"value\":\"ハマー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:SWAT Truck",
+   {
+    "value": "{\"value\":\"SWATトラック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:M1A1 Abrams",
+   {
+    "value": "{\"value\":\"M1A1エイブラムス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Wreck",
+   {
+    "value": "{\"value\":\"難破船\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121123
+}

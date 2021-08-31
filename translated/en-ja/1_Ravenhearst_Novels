@@ -1,0 +1,119 @@
+{
+ "cache": [
+  [
+   "keyv:Novel: The Amityville Horror",
+   {
+    "value": "{\"value\":\"小説：悪魔の棲む家\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Novel: Cujo",
+   {
+    "value": "{\"value\":\"小説：クジョー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Novel: Handbook of the Recently Deceased",
+   {
+    "value": "{\"value\":\"小説：最近亡くなった人のハンドブック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Novel: The Lurking Fear",
+   {
+    "value": "{\"value\":\"小説：潜んでいる恐怖\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Novel: Night of the Living Dead",
+   {
+    "value": "{\"value\":\"小説：リビングデッドの夜\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Novel: Pet Sematary",
+   {
+    "value": "{\"value\":\"小説：ペットセマタリー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Novel: Pride and Zombies",
+   {
+    "value": "{\"value\":\"小説：プライドとゾンビ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Novel: Psycho",
+   {
+    "value": "{\"value\":\"小説：サイコ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Novel: Survivors Guide to Ravenhearst",
+   {
+    "value": "{\"value\":\"小説：Ravenhearstへの生存者ガイド\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Novel: Return of the Living Dead",
+   {
+    "value": "{\"value\":\"小説：生きている死者の帰還\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Novel: The Walking Dead",
+   {
+    "value": "{\"value\":\"小説：ウォーキング・デッド\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Novel: Weird Tales",
+   {
+    "value": "{\"value\":\"小説：ウィアードテイルズ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You used to really enjoy reading, now you just wonder how many shotgun shells this will get you. Can be used for some extra paper.",
+   {
+    "value": "{\"value\":\"以前は読書を本当に楽しんでいましたが、今ではこれでショットガンの砲弾がいくつあるのか疑問に思っています。余分な紙に使用できます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Novel: It",
+   {
+    "value": "{\"value\":\"小説：それ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Novel: Misery",
+   {
+    "value": "{\"value\":\"小説：悲惨\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Novel: The Shining",
+   {
+    "value": "{\"value\":\"小説：シャイニング\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Novel: The Stand",
+   {
+    "value": "{\"value\":\"小説：スタンド\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Novel: The Zombie Survival Guide",
+   {
+    "value": "{\"value\":\"小説：ゾンビサバイバルガイド\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Novel: World War Z",
+   {
+    "value": "{\"value\":\"小説：第二次世界大戦\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121057
+}

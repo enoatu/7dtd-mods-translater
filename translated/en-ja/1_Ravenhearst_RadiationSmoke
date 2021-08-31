@@ -1,0 +1,125 @@
+{
+ "cache": [
+  [
+   "keyv:Aqua colored fire with smoke",
+   {
+    "value": "{\"value\":\"煙と水色の火\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A flame with aqua color and smoke burning",
+   {
+    "value": "{\"value\":\"アクアカラーと煙が燃える炎\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Dark Blue colored fire with smoke",
+   {
+    "value": "{\"value\":\"煙のある紺色の火\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A flame with Dark Blue color and smoke burning",
+   {
+    "value": "{\"value\":\"紺色の炎と煙が燃える\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Dark Purple colored fire with smoke",
+   {
+    "value": "{\"value\":\"煙と濃紫色の火\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A flame with Dark Purple color and smoke burning",
+   {
+    "value": "{\"value\":\"濃紫の色と煙が燃える炎\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Green colored fire with smoke",
+   {
+    "value": "{\"value\":\"煙と緑色の火\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A flame with Green color and smoke burning",
+   {
+    "value": "{\"value\":\"緑色の炎と煙が燃える\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Light Blue colored fire with smoke",
+   {
+    "value": "{\"value\":\"煙と水色の火\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A flame with Light Blue color and smoke burning",
+   {
+    "value": "{\"value\":\"水色と煙が燃える炎\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Orange colored fire with smoke",
+   {
+    "value": "{\"value\":\"煙とオレンジ色の火\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A flame with Orange color and smoke burning",
+   {
+    "value": "{\"value\":\"オレンジ色と煙が燃える炎\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pink colored fire with smoke",
+   {
+    "value": "{\"value\":\"煙とピンク色の火\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A flame with Pink color and smoke burning",
+   {
+    "value": "{\"value\":\"ピンク色の炎と煙が燃える\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Red colored fire with smoke",
+   {
+    "value": "{\"value\":\"煙と赤い色の火\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A flame with Red color and smoke burning",
+   {
+    "value": "{\"value\":\"赤い色と煙が燃える炎\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Yellow colored fire with smoke",
+   {
+    "value": "{\"value\":\"煙と黄色の火\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A flame with Yellow color and smoke burning",
+   {
+    "value": "{\"value\":\"黄色と煙が燃える炎\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:White colored fire with smoke",
+   {
+    "value": "{\"value\":\"煙と白い色の火\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Big white thick smoke for factories.",
+   {
+    "value": "{\"value\":\"工場用の大きな白い濃い煙。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121071
+}

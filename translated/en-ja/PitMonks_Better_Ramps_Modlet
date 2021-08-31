@@ -1,0 +1,41 @@
+{
+ "cache": [
+  [
+   "keyv:(PM) 1 in 4 Ramps",
+   {
+    "value": "{\"value\":\"（PM）4つのランプに1つ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:(PM) 1 in 4 Ramps Wood-Brick-Concrete Only",
+   {
+    "value": "{\"value\":\"（PM）4分の1ランプウッド-レンガ-コンクリートのみ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:(PM) Ramp 1 TIP",
+   {
+    "value": "{\"value\":\"（PM）ランプ1のヒント\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:(PM) Ramp 2 LOW",
+   {
+    "value": "{\"value\":\"（PM）ランプ2低\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:(PM) Ramp 3 MID",
+   {
+    "value": "{\"value\":\"（PM）ランプ3 MID\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:(PM) Ramp 4 TOP",
+   {
+    "value": "{\"value\":\"（PM）ランプ4 TOP\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121258
+}

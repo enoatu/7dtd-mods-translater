@@ -1,0 +1,11 @@
+{
+ "cache": [
+  [
+   "keyv:[FF0000]WARNING[-] - You are currently crafting a quest item in that workstation you just closed!",
+   {
+    "value": "{\"value\":\"[FF0000]警告[-]-あなたは現在、閉じたばかりのワークステーションでクエストアイテムを作成しています！\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121068
+}

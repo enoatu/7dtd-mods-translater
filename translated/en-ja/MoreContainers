@@ -1,0 +1,269 @@
+{
+ "cache": [
+  [
+   "keyv:Generic Box (Storage)",
+   {
+    "value": "{\"value\":\"ジェネリックボックス（収納）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Ammo Box (Storage)",
+   {
+    "value": "{\"value\":\"弾薬箱（保管）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Armors Box (Storage)",
+   {
+    "value": "{\"value\":\"アーマーボックス（収納）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Auto Parts Box (Storage)",
+   {
+    "value": "{\"value\":\"自動車部品ボックス（保管）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Barter Box (Storage)",
+   {
+    "value": "{\"value\":\"物々交換ボックス（保管）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Building Box (Storage)",
+   {
+    "value": "{\"value\":\"ビルディングボックス（ストレージ）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Explosive Box (Storage)",
+   {
+    "value": "{\"value\":\"爆発物ボックス（保管）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Food Box (Storage)",
+   {
+    "value": "{\"value\":\"フードボックス（収納）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Forge Box (Storage)",
+   {
+    "value": "{\"value\":\"フォージボックス（収納）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Health Box (Storage)",
+   {
+    "value": "{\"value\":\"ヘルスボックス（収納）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Mining Box (Storage)",
+   {
+    "value": "{\"value\":\"マイニングボックス（ストレージ）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Recycling Box (Storage)",
+   {
+    "value": "{\"value\":\"リサイクルボックス（保管）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Weapons Box (Storage)",
+   {
+    "value": "{\"value\":\"武器箱（収納）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Workbench Box (Storage)",
+   {
+    "value": "{\"value\":\"ワークベンチボックス（ストレージ）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Generic Box XL (Storage)",
+   {
+    "value": "{\"value\":\"ジェネリックボックスXL（ストレージ）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Ammo Box XL (Storage)",
+   {
+    "value": "{\"value\":\"弾薬箱XL（保管）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Armors Box XL (Storage)",
+   {
+    "value": "{\"value\":\"アーマーボックスXL（ストレージ）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Auto Parts Box XL (Storage)",
+   {
+    "value": "{\"value\":\"自動車部品ボックスXL（保管）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Barter Box XL (Storage)",
+   {
+    "value": "{\"value\":\"バーターボックスXL（ストレージ）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Building Box XL (Storage)",
+   {
+    "value": "{\"value\":\"ビルディングボックスXL（ストレージ）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Explosive Box XL (Storage)",
+   {
+    "value": "{\"value\":\"爆発物ボックスXL（保管）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Food Box XL (Storage)",
+   {
+    "value": "{\"value\":\"フードボックスXL（収納）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Forge Box XL (Storage)",
+   {
+    "value": "{\"value\":\"フォージボックスXL（ストレージ）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Health Box XL (Storage)",
+   {
+    "value": "{\"value\":\"ヘルスボックスXL（ストレージ）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Mining Box XL (Storage)",
+   {
+    "value": "{\"value\":\"マイニングボックスXL（ストレージ）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Recycling Box XL (Storage)",
+   {
+    "value": "{\"value\":\"リサイクルボックスXL（保管）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Weapons Box XL (Storage)",
+   {
+    "value": "{\"value\":\"ウェポンボックスXL（収納）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Workbench Box XL (Storage)",
+   {
+    "value": "{\"value\":\"ワークベンチボックスXL（ストレージ）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Halfblock Generic Storage Box",
+   {
+    "value": "{\"value\":\"ハーフブロック汎用収納ボックス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Halfblock Amo Storage Box",
+   {
+    "value": "{\"value\":\"ハーフブロックアモ収納ボックス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Halfblock Armors Storage Box",
+   {
+    "value": "{\"value\":\"ハーフブロックアーマー収納ボックス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Halfblock Auto Parts Storage Box",
+   {
+    "value": "{\"value\":\"ハーフブロック自動車部品収納ボックス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Halfblock Barter Storage Box",
+   {
+    "value": "{\"value\":\"ハーフブロック物々交換収納ボックス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Halfblock Building Storage Box",
+   {
+    "value": "{\"value\":\"ハーフブロックビルディング収納ボックス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Halfblock Explosive Storage Box",
+   {
+    "value": "{\"value\":\"ハーフブロック爆発物収納ボックス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Halfblock Food Storage Box",
+   {
+    "value": "{\"value\":\"ハーフブロック食品収納ボックス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Halfblock Forge Storage Box",
+   {
+    "value": "{\"value\":\"ハーフブロックフォージ収納ボックス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Halfblock Health Storage Box",
+   {
+    "value": "{\"value\":\"ハーフブロック健康収納ボックス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Halfblock Mining Storage Box",
+   {
+    "value": "{\"value\":\"ハーフブロックマイニング収納ボックス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Halfblock Recycling Storage Box",
+   {
+    "value": "{\"value\":\"ハーフブロックリサイクル収納ボックス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Halfblock Weapons Storage Box",
+   {
+    "value": "{\"value\":\"ハーフブロック武器収納ボックス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Halfblock Workbench Storage Box",
+   {
+    "value": "{\"value\":\"ハーフブロックワークベンチ収納ボックス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:XL Storage Schematic",
+   {
+    "value": "{\"value\":\"XLストレージ回路図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A very large lockable crate.",
+   {
+    "value": "{\"value\":\"非常に大きなロック可能な木枠。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121239
+}

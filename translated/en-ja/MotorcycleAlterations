@@ -1,0 +1,23 @@
+{
+ "cache": [
+  [
+   "keyv:Motorcyle, spikes removed",
+   {
+    "value": "{\"value\":\"モーターサイクル、スパイクが削除されました\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Motorcyle, shield removed",
+   {
+    "value": "{\"value\":\"モーターサイクル、シールドを取り外した\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Motorcyle, hood removed",
+   {
+    "value": "{\"value\":\"モーターサイクル、フードを取り外した\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121242
+}

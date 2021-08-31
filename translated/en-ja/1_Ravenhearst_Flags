@@ -1,0 +1,161 @@
+{
+ "cache": [
+  [
+   "keyv:Flag Pole",
+   {
+    "value": "{\"value\":\"旗竿\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This pole is used to create a flag.",
+   {
+    "value": "{\"value\":\"このポールは旗を作成するために使用されます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Flag Canvas",
+   {
+    "value": "{\"value\":\"フラグキャンバス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This canvas can be used to design a logo for a flag.",
+   {
+    "value": "{\"value\":\"このキャンバスは、旗のロゴをデザインするために使用できます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Flag SOA",
+   {
+    "value": "{\"value\":\"SOAにフラグを立てる\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Flag Mayans",
+   {
+    "value": "{\"value\":\"マヤ人の旗\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Flag Hello Kitty",
+   {
+    "value": "{\"value\":\"ハローキティに旗を立てる\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A flag that can be planted in the ground",
+   {
+    "value": "{\"value\":\"地面に植えることができる旗\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Flag Grumbul",
+   {
+    "value": "{\"value\":\"フラッググランブル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Flag MSgt Porkins",
+   {
+    "value": "{\"value\":\"MSgtポーキンスにフラグを立てる\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Flag Jax",
+   {
+    "value": "{\"value\":\"フラグジャックス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Flag IR8 Gang",
+   {
+    "value": "{\"value\":\"フラグIR8ギャング\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Flag Overlord",
+   {
+    "value": "{\"value\":\"旗の大君主\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Flag Ravenhearst",
+   {
+    "value": "{\"value\":\"フラグレイヴンハースト\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Flag Pirate Warning",
+   {
+    "value": "{\"value\":\"海賊警告にフラグを立てる\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Flag Pirate Bounty",
+   {
+    "value": "{\"value\":\"フラッグパイレーツバウンティ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Flag Knight Rath 1",
+   {
+    "value": "{\"value\":\"フラッグナイトラス1\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Flag Knight Rath 2",
+   {
+    "value": "{\"value\":\"フラッグナイトラス2\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Flag Acolytes of Sin 1",
+   {
+    "value": "{\"value\":\"罪1の旗の侍者\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Flag Acolytes of Sin 2",
+   {
+    "value": "{\"value\":\"罪2の旗の侍者\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Flag Dotar Fife",
+   {
+    "value": "{\"value\":\"フラッグドタールファイフ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Flag Guardian Angelz 1",
+   {
+    "value": "{\"value\":\"フラッグガーディアンエンジェルス1\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Flag Guardian Angelz 2",
+   {
+    "value": "{\"value\":\"フラッグガーディアンエンジェルス2\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Flag Makasin",
+   {
+    "value": "{\"value\":\"マカシン旗\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Flag Dawn of Day",
+   {
+    "value": "{\"value\":\"旗の夜明け\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Flag Looted",
+   {
+    "value": "{\"value\":\"略奪された旗\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412120947
+}

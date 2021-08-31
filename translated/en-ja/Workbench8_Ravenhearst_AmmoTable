@@ -1,0 +1,35 @@
+{
+ "cache": [
+  [
+   "keyv:Ammunition Press",
+   {
+    "value": "{\"value\":\"弾薬プレス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The ammunition press is a more efficient way of crafting ammunition at greater yields. It can also be used to disassemble ammunition.",
+   {
+    "value": "{\"value\":\"弾薬プレスは、より高い収量で弾薬を製造するためのより効率的な方法です。弾薬の分解にも使用できます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Ammunition Press Schematic",
+   {
+    "value": "{\"value\":\"弾薬プレスの概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Calipers",
+   {
+    "value": "{\"value\":\"キャリパー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Calipers are essential for disassembling ammo.",
+   {
+    "value": "{\"value\":\"キャリパーは弾薬を分解するために不可欠です。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121357
+}

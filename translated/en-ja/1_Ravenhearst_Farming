@@ -1,0 +1,1271 @@
+{
+ "cache": [
+  [
+   "keyv:Irrigation Pump (Empty)",
+   {
+    "value": "{\"value\":\"灌漑ポンプ（空）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Irrigation Pump (Full)",
+   {
+    "value": "{\"value\":\"灌漑ポンプ（フル）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Irrigation Pipe Straight (Empty)",
+   {
+    "value": "{\"value\":\"灌漑パイプストレート（空）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Irrigation Pipe Corner (Empty)",
+   {
+    "value": "{\"value\":\"灌漑パイプコーナー（空）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Irrigation Pipe Joint (Empty)",
+   {
+    "value": "{\"value\":\"灌漑パイプジョイント（空）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Irrigation Pipe Cap (Empty)",
+   {
+    "value": "{\"value\":\"灌漑パイプキャップ（空）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Irrigation Pipe Straight (Full)",
+   {
+    "value": "{\"value\":\"灌漑パイプストレート（フル）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Irrigation Pipe Corner (Full)",
+   {
+    "value": "{\"value\":\"灌漑パイプコーナー（フル）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Irrigation Pipe Joint (Full)",
+   {
+    "value": "{\"value\":\"灌漑パイプジョイント（フル）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Irrigation Pipe Cap (Full)",
+   {
+    "value": "{\"value\":\"灌漑パイプキャップ（フル）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Irrigation Pipe Straight (Filling)",
+   {
+    "value": "{\"value\":\"灌漑パイプストレート（充填）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Irrigation Pipe Corner (Filling)",
+   {
+    "value": "{\"value\":\"灌漑パイプコーナー（充填）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Irrigation Pipe Joint (Filling)",
+   {
+    "value": "{\"value\":\"灌漑パイプジョイント（充填）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Irrigation Pipe Cap (Filling)",
+   {
+    "value": "{\"value\":\"灌漑パイプキャップ（充填）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Your irrigation system is working and water is flowing through it.",
+   {
+    "value": "{\"value\":\"あなたの灌漑システムは機能していて、水がそれを通って流れています。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Water is being provided to your crops.",
+   {
+    "value": "{\"value\":\"水はあなたの作物に供給されています。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Your irrigation system has no water flowing through it. Please check your pump and connections.",
+   {
+    "value": "{\"value\":\"あなたの灌漑システムには水が流れていません。ポンプと接続を確認してください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Your pump is full and providing water to your crops.",
+   {
+    "value": "{\"value\":\"ポンプがいっぱいで、作物に水を供給しています。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Your pump is empty. Please place it next to or over a water source to provide it with water so it may begin to flow through your irrigation system.",
+   {
+    "value": "{\"value\":\"ポンプが空です。水源の隣または上に置いて水を供給し、灌漑システムに水が流れ始めるようにしてください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Wheat (Seed)",
+   {
+    "value": "{\"value\":\"小麦（種）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Plant yucca seeds in fertile dirt to grow yucca plants.",
+   {
+    "value": "{\"value\":\"ユッカの種を肥沃な土に植えて、ユッカの植物を育てます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Wheat (Growing)",
+   {
+    "value": "{\"value\":\"小麦（成長中）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Wheat Plant 3 (POI)",
+   {
+    "value": "{\"value\":\"小麦植物3（POI）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Wheat Plant",
+   {
+    "value": "{\"value\":\"小麦植物\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Lettuce (Seed)",
+   {
+    "value": "{\"value\":\"レタス（シード）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Lettuce (Growing)",
+   {
+    "value": "{\"value\":\"レタス（成長中）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Lettuce Plant 3 (POI)",
+   {
+    "value": "{\"value\":\"レタス植物3（POI）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Lettuce Plant",
+   {
+    "value": "{\"value\":\"レタス植物\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tomato (Seed)",
+   {
+    "value": "{\"value\":\"トマト（種）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tomato (Growing)",
+   {
+    "value": "{\"value\":\"トマト（成長中）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tomato Plant 3 (POI)",
+   {
+    "value": "{\"value\":\"トマト植物3（POI）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tomato Plant",
+   {
+    "value": "{\"value\":\"トマト植物\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Carrot (Seed)",
+   {
+    "value": "{\"value\":\"にんじん（種）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Carrot (Growing)",
+   {
+    "value": "{\"value\":\"にんじん（成長中）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Carrot Plant 3 (POI)",
+   {
+    "value": "{\"value\":\"キャロットプラント3（POI）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Carrot Plant",
+   {
+    "value": "{\"value\":\"にんじん植物\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cabbage (Seed)",
+   {
+    "value": "{\"value\":\"キャベツ（種）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cabbage (Growing)",
+   {
+    "value": "{\"value\":\"キャベツ（成長中）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cabbage Plant 3 (POI)",
+   {
+    "value": "{\"value\":\"キャベツプラント3（POI）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cabbage Plant",
+   {
+    "value": "{\"value\":\"キャベツ工場\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cucumber (Seed)",
+   {
+    "value": "{\"value\":\"きゅうり（種）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cucumber (Growing)",
+   {
+    "value": "{\"value\":\"きゅうり（成長中）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cucumber Plant 3 (POI)",
+   {
+    "value": "{\"value\":\"キュウリ植物3（POI）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cucumber Plant",
+   {
+    "value": "{\"value\":\"きゅうり工場\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Onion (Seed)",
+   {
+    "value": "{\"value\":\"タマネギ（種）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Plant onion seeds in fertile dirt to grow onion plants.",
+   {
+    "value": "{\"value\":\"タマネギの種を肥沃な土に植えて、タマネギを育てます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Onion (Growing)",
+   {
+    "value": "{\"value\":\"タマネギ（成長中）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Onion Plant 3 (POI)",
+   {
+    "value": "{\"value\":\"タマネギ植物3（POI）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Onion Plant",
+   {
+    "value": "{\"value\":\"タマネギ植物\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Marijuana (Seed)",
+   {
+    "value": "{\"value\":\"マリファナ（シード）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Marijuana (Growing)",
+   {
+    "value": "{\"value\":\"マリファナ（成長中）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Marijuana Plant 3 (POI)",
+   {
+    "value": "{\"value\":\"マリファナプラント3（POI）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Marijuana Plant",
+   {
+    "value": "{\"value\":\"マリファナ工場\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Strawberry (Seed)",
+   {
+    "value": "{\"value\":\"いちご（種）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Plant strawberry seeds in fertile dirt to grow strawberry plants.",
+   {
+    "value": "{\"value\":\"肥沃な土にイチゴの種を植えて、イチゴを育てます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Strawberry (Growing)",
+   {
+    "value": "{\"value\":\"いちご（成長中）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Strawberry Plant 3 (POI)",
+   {
+    "value": "{\"value\":\"ストロベリープラント3（POI）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Strawberry Plant",
+   {
+    "value": "{\"value\":\"いちご工場\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Strawberry",
+   {
+    "value": "{\"value\":\"いちご\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Strawberry can be eaten or turned into strawberry seeds.",
+   {
+    "value": "{\"value\":\"イチゴは食べたり、イチゴの種に変えたりすることができます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Wheat",
+   {
+    "value": "{\"value\":\"小麦\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Wheat can be eaten or turned into wheat seeds.",
+   {
+    "value": "{\"value\":\"小麦は食べたり、小麦の種に変えたりすることができます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Lettuce",
+   {
+    "value": "{\"value\":\"レタス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Lettuce can be eaten or turned into lettuce seeds.",
+   {
+    "value": "{\"value\":\"レタスは食べたり、レタスの種に変えたりすることができます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tomato",
+   {
+    "value": "{\"value\":\"トマト\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tomato can be eaten or turned into tomato seeds.",
+   {
+    "value": "{\"value\":\"トマトは食べたり、トマトの種に変えたりすることができます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cabbage",
+   {
+    "value": "{\"value\":\"キャベツ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cabbage can be eaten or turned into cabbage seeds.",
+   {
+    "value": "{\"value\":\"キャベツは食べたり、キャベツの種に変えたりすることができます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Carrot",
+   {
+    "value": "{\"value\":\"にんじん\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Carrot can be eaten or turned into carrot seeds.",
+   {
+    "value": "{\"value\":\"にんじんは食べたり、にんじんの種に変えたりすることができます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cucumber",
+   {
+    "value": "{\"value\":\"キュウリ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cucumber can be eaten or turned into cucumber seeds.",
+   {
+    "value": "{\"value\":\"キュウリは食べたり、キュウリの種に変えたりすることができます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Onion can be eaten or turned into onion seeds.",
+   {
+    "value": "{\"value\":\"タマネギは食べたり、タマネギの種に変えたりすることができます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Onion",
+   {
+    "value": "{\"value\":\"玉ねぎ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hemp",
+   {
+    "value": "{\"value\":\"麻\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hemp can be used in the making of clothing and paper.",
+   {
+    "value": "{\"value\":\"麻は衣類や紙の製造に使用できます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:= Wheat = Random Helper",
+   {
+    "value": "{\"value\":\"=小麦=ランダムヘルパー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:= Carrot = Random Helper",
+   {
+    "value": "{\"value\":\"=ニンジン=ランダムヘルパー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:= Cabbage = Random Helper",
+   {
+    "value": "{\"value\":\"=キャベツ=ランダムヘルパー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:= Cucumber = Random Helper",
+   {
+    "value": "{\"value\":\"=キュウリ=ランダムヘルパー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:= Lettuce = Random Helper",
+   {
+    "value": "{\"value\":\"=レタス=ランダムヘルパー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:= Tomato = Random Helper",
+   {
+    "value": "{\"value\":\"=トマト=ランダムヘルパー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:= Onion = Random Helper",
+   {
+    "value": "{\"value\":\"=タマネギ=ランダムヘルパー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:= Strawberry = Random Helper",
+   {
+    "value": "{\"value\":\"=ストロベリー=ランダムヘルパー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:= Marijuana = Random Helper",
+   {
+    "value": "{\"value\":\"=マリファナ=ランダムヘルパー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Lettuce (Seed) Recipe",
+   {
+    "value": "{\"value\":\"レタス（シード）レシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cucumber (Seed) Recipe",
+   {
+    "value": "{\"value\":\"きゅうり（種）レシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cabbage (Seed) Recipe",
+   {
+    "value": "{\"value\":\"キャベツ（種）レシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Wheat (Seed) Recipe",
+   {
+    "value": "{\"value\":\"小麦（シード）レシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Carrot (Seed) Recipe",
+   {
+    "value": "{\"value\":\"にんじん（種）レシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tomato (Seed) Recipe",
+   {
+    "value": "{\"value\":\"トマト（シード）レシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Onion (Seed) Recipe",
+   {
+    "value": "{\"value\":\"タマネギ（シード）レシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Strawberry (Seed) Recipe",
+   {
+    "value": "{\"value\":\"いちご（種）レシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Marijuana (Seed) Recipe",
+   {
+    "value": "{\"value\":\"マリファナ（シード）レシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fertilizer",
+   {
+    "value": "{\"value\":\"肥料\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Using ferilizer on planted seeds will yield more crops in return and also will allow an unfertilized seed to be left behind.",
+   {
+    "value": "{\"value\":\"植えられた種子に肥料を使用すると、見返りにより多くの作物が得られ、未施肥の種子が残される可能性もあります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Strawberry Pie",
+   {
+    "value": "{\"value\":\"ストロベリーパイ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:If there is one thing to be thankful for in the apocalypse, it's strawberry pie.",
+   {
+    "value": "{\"value\":\"黙示録で感謝すべきことが一つあるとすれば、それはストロベリーパイです。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Strawberry Pie Recipe",
+   {
+    "value": "{\"value\":\"ストロベリーパイのレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Garden Salad",
+   {
+    "value": "{\"value\":\"グリーンサラダ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A healthy salad is a good use for those leftover veggies.",
+   {
+    "value": "{\"value\":\"ヘルシーなサラダは、残り物の野菜に適しています。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Shorty Stew",
+   {
+    "value": "{\"value\":\"ショーティーシチュー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The perfect stew to keep you warm on a cold apocalyptic day. Just do not add hot sauce.",
+   {
+    "value": "{\"value\":\"寒い終末論的な日にあなたを暖かく保つのに最適なシチュー。ホットソースを加えないでください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Shorty Stew Recipe",
+   {
+    "value": "{\"value\":\"ショーティーシチューレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Flour",
+   {
+    "value": "{\"value\":\"小麦粉\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Used for making bread and pies. NOT what you thought it was. Better wipe your nose before the gang suspects something.",
+   {
+    "value": "{\"value\":\"パンやパイを作るために使用されます。あなたが思っていたものではありません。ギャングが何かを疑う前に、鼻を拭いたほうがいいです。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bowl of Fruit",
+   {
+    "value": "{\"value\":\"フルーツボウル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Perfect and simple to make and healthy too. A great way to get by if you have some spare fruit laying around.",
+   {
+    "value": "{\"value\":\"完璧で簡単に作ることができ、健康的でもあります。あなたがいくつかの予備の果物を置いているならば、通り抜ける素晴らしい方法。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bowl of Veggies",
+   {
+    "value": "{\"value\":\"野菜のボウル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Perfect and simple to make and healthy too. A great way to get by if you have some spare veggies laying around.",
+   {
+    "value": "{\"value\":\"完璧で簡単に作ることができ、健康的でもあります。あなたがいくつかの予備の野菜を置いているならば、通り抜ける素晴らしい方法。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Iron Hoe",
+   {
+    "value": "{\"value\":\"アイアンホー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Indispensable tool for Plowing the land for farming.",
+   {
+    "value": "{\"value\":\"農地を耕すのに欠かせない道具。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Iron Hoe Schematic",
+   {
+    "value": "{\"value\":\"鉄くわの概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Seeds can be planted on tilled terrain soil. They must be placed next to water to grow. This water will deplete every harvest unless you have an irrigation system. When your plant is ready punch to harvest it. You will then need to plant a new seed.\\n\\nAs you unlock Living off the Land you will be able to make Farm Plots, which allow underground farming and Irrigation Pipes which allow you to run water from larger bodies of water.",
+   {
+    "value": "{\"value\":\"種子は耕作地の土壌に植えることができます。それらは成長するために水の隣に置かれなければなりません。あなたが灌漑システムを持っていない限り、この水はすべての収穫を使い果たします。あなたの植物がそれを収穫するためにパンチする準備ができたら。次に、新しい種子を植える必要があります。\\\\n\\\\nLiving off the Landのロックを解除すると、より大きな水域から水を流すことができる地下農業と灌漑パイプを可能にするファームプロットを作成できるようになります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Seed Pack",
+   {
+    "value": "{\"value\":\"シードパック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You can use this seed pack to create a new set of crop seeds that you can use to grow and create better foods.",
+   {
+    "value": "{\"value\":\"このシードパックを使用して、より良い食品を育てて作成するために使用できる作物シードの新しいセットを作成できます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Composter (Collecting)",
+   {
+    "value": "{\"value\":\"堆肥（収集）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Composting in Progress",
+   {
+    "value": "{\"value\":\"堆肥化が進行中\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Composter",
+   {
+    "value": "{\"value\":\"堆肥\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires 1 Compost to Begin",
+   {
+    "value": "{\"value\":\"開始するには1つの堆肥が必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Composter (Full)",
+   {
+    "value": "{\"value\":\"堆肥（フル）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Composting Complete",
+   {
+    "value": "{\"value\":\"堆肥化完了\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Compost",
+   {
+    "value": "{\"value\":\"堆肥\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Compost is used to begin the composting process to make fertilizer in the Composter.",
+   {
+    "value": "{\"value\":\"堆肥は、堆肥で肥料を作るための堆肥化プロセスを開始するために使用されます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Healthy Turd",
+   {
+    "value": "{\"value\":\"健康な糞\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Yeah, you're holding it. So now what partner? You could put it back, or you could use it to make some fertilizer. Good luck unloading that backpack later and explaining this to the others.",
+   {
+    "value": "{\"value\":\"ええ、あなたはそれを持っています。では、どのパートナーですか？あなたはそれを元に戻すことができました、あるいはあなたはそれを使って肥料を作ることができました。後でそのバックパックを降ろして、他の人にこれを説明して頑張ってください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Live Worm",
+   {
+    "value": "{\"value\":\"ライブワーム\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Save these worms to use in your composter.",
+   {
+    "value": "{\"value\":\"これらのワームを保存して、堆肥に使用します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Garden Salad Recipe",
+   {
+    "value": "{\"value\":\"ガーデンサラダレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Potato [a0ff94](Fertilized Seed)[-]",
+   {
+    "value": "{\"value\":\"じゃがいも[a0ff94]（施肥種子）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Potato [a0ff94](Fertilized Growing)[-]",
+   {
+    "value": "{\"value\":\"じゃがいも[a0ff94]（肥料栽培）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Potato Plant 3 (POI)",
+   {
+    "value": "{\"value\":\"ジャガイモ植物3（POI）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Potato Plant [a0ff94](Fertilized)[-]",
+   {
+    "value": "{\"value\":\"じゃがいも[a0ff94]（施肥）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Spoiled Crops",
+   {
+    "value": "{\"value\":\"甘やかされて育った作物\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Well these will not be on the dinner plate. Dont worry though we can still use this to begin the composting process to make fertilizer in the Composter.",
+   {
+    "value": "{\"value\":\"さて、これらはディナープレートにはありません。これを使用して堆肥化プロセスを開始し、コンポストで肥料を作ることはできますが、心配しないでください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Aloe [a0ff94](Fertilized Seed)[-]",
+   {
+    "value": "{\"value\":\"アロエ[a0ff94]（施肥種子）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Aloe [a0ff94](Fertilized Growing)[-]",
+   {
+    "value": "{\"value\":\"アロエ[a0ff94]（肥沃な成長）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Aloe Plant 3 (POI)",
+   {
+    "value": "{\"value\":\"アロエプラント3（POI）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Aloe Plant [a0ff94](Fertilized)[-]",
+   {
+    "value": "{\"value\":\"アロエ植物[a0ff94]（施肥）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Blueberry [a0ff94](Fertilized Seed)[-]",
+   {
+    "value": "{\"value\":\"ブルーベリー[a0ff94]（施肥種子）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Blueberry [a0ff94](Fertilized Growing)[-]",
+   {
+    "value": "{\"value\":\"ブルーベリー[a0ff94]（Fertilized Growing）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Blueberry Plant 3 (POI)",
+   {
+    "value": "{\"value\":\"ブルーベリープラント3（POI）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Blueberry Plant [a0ff94](Fertilized)[-]",
+   {
+    "value": "{\"value\":\"ブルーベリー植物[a0ff94]（施肥）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cabbage [a0ff94](Fertilized Seed)[-]",
+   {
+    "value": "{\"value\":\"キャベツ[a0ff94]（施肥種子）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cabbage [a0ff94](Fertilized Growing)[-]",
+   {
+    "value": "{\"value\":\"キャベツ[a0ff94]（施肥栽培）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cabbage Plant [a0ff94](Fertilized)[-]",
+   {
+    "value": "{\"value\":\"キャベツ植物[a0ff94]（施肥）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Carrot [a0ff94](Fertilized Seed)[-]",
+   {
+    "value": "{\"value\":\"にんじん[a0ff94]（施肥種子）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Carrot [a0ff94](Fertilized Growing)[-]",
+   {
+    "value": "{\"value\":\"にんじん[a0ff94]（肥沃な成長）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Carrot Plant [a0ff94](Fertilized)[-]",
+   {
+    "value": "{\"value\":\"にんじん植物[a0ff94]（施肥）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Chrysanthemum [a0ff94](Fertilized Seed)[-]",
+   {
+    "value": "{\"value\":\"菊[a0ff94]（施肥種子）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Chrysanthemum [a0ff94](Fertilized Growing)[-]",
+   {
+    "value": "{\"value\":\"菊[a0ff94]（肥沃な成長）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Chrysanthemum Plant 3 (POI)",
+   {
+    "value": "{\"value\":\"菊植物3（POI）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Chrysanthemum Plant [a0ff94](Fertilized)[-]",
+   {
+    "value": "{\"value\":\"菊植物[a0ff94]（施肥）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Coffee [a0ff94](Fertilized Seed)[-]",
+   {
+    "value": "{\"value\":\"コーヒー[a0ff94]（施肥シード）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Coffee [a0ff94](Fertilized Growing)[-]",
+   {
+    "value": "{\"value\":\"コーヒー[a0ff94]（Fertilized Growing）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Coffee Plant 3 (POI)",
+   {
+    "value": "{\"value\":\"コーヒープラント3（POI）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Coffee Plant [a0ff94](Fertilized)[-]",
+   {
+    "value": "{\"value\":\"コーヒー植物[a0ff94]（施肥）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Corn [a0ff94](Fertilized Seed)[-]",
+   {
+    "value": "{\"value\":\"とうもろこし[a0ff94]（施肥種子）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Corn [a0ff94](Fertilized Growing)[-]",
+   {
+    "value": "{\"value\":\"とうもろこし[a0ff94]（施肥栽培）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Corn Plant 3 (POI)",
+   {
+    "value": "{\"value\":\"コーンプラント3（POI）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Corn Plant [a0ff94](Fertilized)[-]",
+   {
+    "value": "{\"value\":\"トウモロコシ植物[a0ff94]（施肥）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cotton [a0ff94](Fertilized Seed)[-]",
+   {
+    "value": "{\"value\":\"綿[a0ff94]（施肥種子）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cotton [a0ff94](Fertilized Growing)[-]",
+   {
+    "value": "{\"value\":\"綿[a0ff94]（施肥栽培）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cotton Plant 3 (POI)",
+   {
+    "value": "{\"value\":\"ワタ植物3（POI）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cotton Plant [a0ff94](Fertilized)[-]",
+   {
+    "value": "{\"value\":\"ワタ植物[a0ff94]（施肥）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cucumber [a0ff94](Fertilized Seed)[-]",
+   {
+    "value": "{\"value\":\"きゅうり[a0ff94]（施肥種子）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cucumber [a0ff94](Fertilized Growing)[-]",
+   {
+    "value": "{\"value\":\"きゅうり[a0ff94]（肥料栽培）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cucumber Plant [a0ff94](Fertilized)[-]",
+   {
+    "value": "{\"value\":\"キュウリ[a0ff94]（施肥）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Goldenrod [a0ff94](Fertilized Seed)[-]",
+   {
+    "value": "{\"value\":\"アキノキリンソウ[a0ff94]（施肥種子）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Goldenrod [a0ff94](Fertilized Growing)[-]",
+   {
+    "value": "{\"value\":\"アキノキリンソウ[a0ff94]（Fertilized Growing）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Goldenrod Plant 3 (POI)",
+   {
+    "value": "{\"value\":\"ゴールデンロッドプラント3（POI）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Goldenrod Plant [a0ff94](Fertilized)[-]",
+   {
+    "value": "{\"value\":\"アキノキリンソウ[a0ff94]（施肥）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Super Corn [a0ff94](Fertilized Seed)[-]",
+   {
+    "value": "{\"value\":\"スーパーコーン[a0ff94]（施肥種子）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Super Corn [a0ff94](Fertilized Growing)[-]",
+   {
+    "value": "{\"value\":\"スーパーコーン[a0ff94]（Fertilized Growing）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Super Corn 3 (POI)",
+   {
+    "value": "{\"value\":\"スーパーコーン3（POI）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Super Corn [a0ff94](Fertilized)[-]",
+   {
+    "value": "{\"value\":\"スーパーコーン[a0ff94]（施肥）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hop [a0ff94](Fertilized Seed)[-]",
+   {
+    "value": "{\"value\":\"ホップ[a0ff94]（施肥シード）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hop [a0ff94](Fertilized Growing)[-]",
+   {
+    "value": "{\"value\":\"ホップ[a0ff94]（Fertilized Growing）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hop Plant 3 (POI)",
+   {
+    "value": "{\"value\":\"ホッププラント3（POI）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hop Plant [a0ff94](Fertilized)[-]",
+   {
+    "value": "{\"value\":\"ホップ植物[a0ff94]（施肥）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Lettuce [a0ff94](Fertilized Seed)[-]",
+   {
+    "value": "{\"value\":\"レタス[a0ff94]（施肥シード）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Lettuce [a0ff94](Fertilized Growing)[-]",
+   {
+    "value": "{\"value\":\"レタス[a0ff94]（Fertilized Growing）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Lettuce Plant [a0ff94](Fertilized)[-]",
+   {
+    "value": "{\"value\":\"レタス植物[a0ff94]（施肥）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Mushroom [a0ff94](Fertilized Seed)[-]",
+   {
+    "value": "{\"value\":\"きのこ[a0ff94]（施肥種子）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Mushroom [a0ff94](Fertilized Growing)[-]",
+   {
+    "value": "{\"value\":\"きのこ[a0ff94]（肥料栽培）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Mushroom Plant 3 (POI)",
+   {
+    "value": "{\"value\":\"きのこ植物3（POI）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Mushroom Plant [a0ff94](Fertilized)[-]",
+   {
+    "value": "{\"value\":\"きのこ植物[a0ff94]（施肥）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Onion [a0ff94](Fertilized Seed)[-]",
+   {
+    "value": "{\"value\":\"タマネギ[a0ff94]（施肥種子）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Onion [a0ff94](Fertilized Growing)[-]",
+   {
+    "value": "{\"value\":\"タマネギ[a0ff94]（Fertilized Growing）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Onion Plant [a0ff94](Fertilized)[-]",
+   {
+    "value": "{\"value\":\"タマネギ植物[a0ff94]（施肥）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pumpkin [a0ff94](Fertilized Seed)[-]",
+   {
+    "value": "{\"value\":\"カボチャ[a0ff94]（施肥シード）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pumpkin [a0ff94](Fertilized Growing)[-]",
+   {
+    "value": "{\"value\":\"カボチャ[a0ff94]（Fertilized Growing）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pumpkin Plant 3 (POI)",
+   {
+    "value": "{\"value\":\"カボチャ植物3（POI）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pumpkin Plant [a0ff94](Fertilized)[-]",
+   {
+    "value": "{\"value\":\"カボチャ植物[a0ff94]（施肥）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Snowberry [a0ff94](Fertilized Seed)[-]",
+   {
+    "value": "{\"value\":\"スノーベリー[a0ff94]（施肥シード）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Snowberry [a0ff94](Fertilized Growing)[-]",
+   {
+    "value": "{\"value\":\"スノーベリー[a0ff94]（Fertilized Growing）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Snowberry Plant 3 (POI)",
+   {
+    "value": "{\"value\":\"スノーベリープラント3（POI）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Snowberry Plant [a0ff94](Fertilized)[-]",
+   {
+    "value": "{\"value\":\"スノーベリー植物[a0ff94]（施肥）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Strawberry [a0ff94](Fertilized Seed)[-]",
+   {
+    "value": "{\"value\":\"いちご[a0ff94]（施肥種子）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Strawberry [a0ff94](Fertilized Growing)[-]",
+   {
+    "value": "{\"value\":\"いちご[a0ff94]（肥料栽培）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Strawberry Plant [a0ff94](Fertilized)[-]",
+   {
+    "value": "{\"value\":\"いちご植物[a0ff94]（施肥）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tomato [a0ff94](Fertilized Seed)[-]",
+   {
+    "value": "{\"value\":\"トマト[a0ff94]（施肥種子）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tomato [a0ff94](Fertilized Growing)[-]",
+   {
+    "value": "{\"value\":\"トマト[a0ff94]（肥料栽培）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tomato Plant [a0ff94](Fertilized)[-]",
+   {
+    "value": "{\"value\":\"トマト植物[a0ff94]（施肥）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Wheat [a0ff94](Fertilized Seed)[-]",
+   {
+    "value": "{\"value\":\"小麦[a0ff94]（施肥種子）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Wheat [a0ff94](Fertilized Growing)[-]",
+   {
+    "value": "{\"value\":\"小麦[a0ff94]（施肥栽培）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Wheat Plant [a0ff94](Fertilized)[-]",
+   {
+    "value": "{\"value\":\"小麦植物[a0ff94]（施肥）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Yucca [a0ff94](Fertilized Seed)[-]",
+   {
+    "value": "{\"value\":\"ユッカ[a0ff94]（施肥シード）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Yucca [a0ff94](Fertilized Growing)[-]",
+   {
+    "value": "{\"value\":\"ユッカ[a0ff94]（Fertilized Growing）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Yucca Plant 3 (POI)",
+   {
+    "value": "{\"value\":\"ユッカプラント3（POI）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Yucca Plant [a0ff94](Fertilized)[-]",
+   {
+    "value": "{\"value\":\"ユッカ植物[a0ff94]（施肥）[-]\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412120927
+}

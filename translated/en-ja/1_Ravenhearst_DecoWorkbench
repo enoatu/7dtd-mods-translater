@@ -1,0 +1,23 @@
+{
+ "cache": [
+  [
+   "keyv:Decorating Table Schematic",
+   {
+    "value": "{\"value\":\"テーブルの概略図を飾る\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Decorating Table",
+   {
+    "value": "{\"value\":\"飾るテーブル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The decorating table is your base renovating dream come true. In this table you can craft and construct all sorts of new and interesting items to deck out your bachelor pad.",
+   {
+    "value": "{\"value\":\"飾るテーブルはあなたのベースの革新的な夢が叶うことです。このテーブルでは、独身者のパッドを飾るために、あらゆる種類の新しくて興味深いアイテムを作成して構築することができます。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412120895
+}

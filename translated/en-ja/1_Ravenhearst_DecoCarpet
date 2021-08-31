@@ -1,0 +1,59 @@
+{
+ "cache": [
+  [
+   "keyv:Medieval Rug 1",
+   {
+    "value": "{\"value\":\"中世の敷物1\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Medieval Rug 2",
+   {
+    "value": "{\"value\":\"中世の敷物2\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Medieval Rug 3",
+   {
+    "value": "{\"value\":\"中世の敷物3\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Medieval Rug 4",
+   {
+    "value": "{\"value\":\"中世の敷物4\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Area Rug 1",
+   {
+    "value": "{\"value\":\"エリアラグ1\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Area Rug 2",
+   {
+    "value": "{\"value\":\"エリアラグ2\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Area Rug 3",
+   {
+    "value": "{\"value\":\"エリアラグ3\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Rugs and Carpets Block",
+   {
+    "value": "{\"value\":\"ラグとカーペットブロック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Rugs and Carpets Schematic",
+   {
+    "value": "{\"value\":\"ラグとカーペットの概略図\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412120873
+}

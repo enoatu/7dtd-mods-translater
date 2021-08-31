@@ -1,0 +1,17 @@
+{
+ "cache": [
+  [
+   "keyv:Pitchfork",
+   {
+    "value": "{\"value\":\"ピッチフォーク\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A farmer and his pitchfork are nothing to be messed with.\\nRepair with Repair Kit.",
+   {
+    "value": "{\"value\":\"農夫と彼の熊手は、いじられるものではありません。\\\\n修理キットで修理してください。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121063
+}

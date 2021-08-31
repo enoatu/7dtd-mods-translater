@@ -1,0 +1,17 @@
+{
+ "cache": [
+  [
+   "keyv:Universal Remote",
+   {
+    "value": "{\"value\":\"ユニバーサルリモコン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This old remote still seems to work. I wonder what I can use this on.",
+   {
+    "value": "{\"value\":\"この古いリモコンはまだ機能しているようです。これは何に使えるのかしら。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121081
+}

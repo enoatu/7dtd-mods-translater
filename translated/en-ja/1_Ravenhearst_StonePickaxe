@@ -1,0 +1,35 @@
+{
+ "cache": [
+  [
+   "keyv:Stone Pickaxe",
+   {
+    "value": "{\"value\":\"ストーンツルハシ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A primitive tool useful for mining stone. Not the best weapon.\\nRepair with Primitive Repair Kit.",
+   {
+    "value": "{\"value\":\"石の採掘に役立つ原始的な道具。最高の武器ではありません。\\\\nプリミティブ修理キットで修理してください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A primitive tool useful for cutting wood, repairing & upgrading walls, doors & windows. Not the best weapon.\\nRepair with Primitive Repair Kit.",
+   {
+    "value": "{\"value\":\"木材の切断、壁、ドア、窓の修理とアップグレードに役立つ原始的なツール。最高の武器ではありません。\\\\nプリミティブ修理キットで修理してください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Taza's Stone Pickaxe",
+   {
+    "value": "{\"value\":\"タザの石のツルハシ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Taza's stone pick axe is a rare, powerful, ancient Indian artifact. The Apache believed those who wielded it could tear through stone.\\nRepair with Small Stone.",
+   {
+    "value": "{\"value\":\"タザの石のつるはしは、珍しい、強力な、古代インドの遺物です。アパッチ族は、それを振るった人々が石を破ることができると信じていました。\\\\n小さな石で修理してください。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121086
+}

@@ -1,0 +1,71 @@
+{
+ "cache": [
+  [
+   "keyv:Icee",
+   {
+    "value": "{\"value\":\"Icee\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Can of Soda",
+   {
+    "value": "{\"value\":\"ソーダ缶\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You remember these from a happier time. You can not believe this machine still works. Wonder if the water is still good in this. You can not resist. It's cherry! This helps you survive in severely warm environments.",
+   {
+    "value": "{\"value\":\"あなたは幸せな時代からこれらを覚えています。このマシンがまだ機能しているとは信じられません。これでも水はいいのかな。あなたは抵抗することはできません。さくらんぼです！これは、非常に暖かい環境で生き残るのに役立ちます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The diabeetus was sure kicking your ass before all this happened but it's the end of the world as we know it anyway and you feel fine so.",
+   {
+    "value": "{\"value\":\"diabeetusは、これがすべて起こる前に確かにあなたのお尻を蹴っていましたが、とにかくそれを知っているので、それは世界の終わりであり、あなたはとても気分がいいです。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This smoothie helps you survive in severely warm environments.",
+   {
+    "value": "{\"value\":\"このスムージーは、非常に暖かい環境で生き残るのに役立ちます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Dried Chrysanthemum Leaves",
+   {
+    "value": "{\"value\":\"乾燥した菊の葉\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Dried chrysanthemum leaves can be used to make red tea.",
+   {
+    "value": "{\"value\":\"乾燥した菊の葉を使って赤茶を作ることができます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Dried Goldenrod Leaves",
+   {
+    "value": "{\"value\":\"乾燥したアキノキリンソウの葉\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Dried goldenrod leaves can be used to make goldenrod tea.",
+   {
+    "value": "{\"value\":\"乾燥したアキノキリンソウの葉は、アキノキリンソウ茶を作るために使用することができます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Kook Aid",
+   {
+    "value": "{\"value\":\"クックエイド\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Nothing gets you busting through walls with energy better than a red drink!",
+   {
+    "value": "{\"value\":\"赤い飲み物ほどエネルギーで壁を突き破ることはできません！\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121048
+}

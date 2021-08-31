@@ -1,0 +1,83 @@
+{
+ "cache": [
+  [
+   "keyv:Nuts",
+   {
+    "value": "{\"value\":\"ナッツ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Nuts provide much needed nutrition. Keep a bunch of these on you for emergencies. Eating a handful may provide an extra boost.",
+   {
+    "value": "{\"value\":\"ナッツは非常に必要な栄養を提供します。緊急時に備えて、これらをたくさん保管してください。一握りを食べることは余分な後押しを提供するかもしれません。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Berries",
+   {
+    "value": "{\"value\":\"ベリー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Safe to eat and can provide a boost to your energy. Eating a handful may provide an extra boost.",
+   {
+    "value": "{\"value\":\"安全に食べて、あなたのエネルギーを後押しすることができます。一握りを食べることは余分な後押しを提供するかもしれません。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Handful of Nuts",
+   {
+    "value": "{\"value\":\"一握りのナッツ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This handful of nuts will provide the boost you are looking for out there.",
+   {
+    "value": "{\"value\":\"この一握りのナッツはあなたがそこに探している後押しを提供します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Handful of Berries",
+   {
+    "value": "{\"value\":\"一握りのベリー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This handful of berries will provide the boost you are looking for out there.",
+   {
+    "value": "{\"value\":\"この一握りのベリーはあなたがそこに探している後押しを提供します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Nuts Tree (Seed)",
+   {
+    "value": "{\"value\":\"ナッツツリー（シード）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Plant yucca seeds in fertile dirt to grow yucca plants.",
+   {
+    "value": "{\"value\":\"ユッカの種を肥沃な土に植えて、ユッカの植物を育てます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Nuts Tree (Growing)",
+   {
+    "value": "{\"value\":\"ナッツの木（成長中）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Nuts Tree 3 (POI)",
+   {
+    "value": "{\"value\":\"ナッツツリー3（POI）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Nuts Tree",
+   {
+    "value": "{\"value\":\"ナッツの木\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121060
+}

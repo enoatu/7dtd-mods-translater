@@ -1,0 +1,29 @@
+{
+ "cache": [
+  [
+   "keyv:Trash Bag (Storage)",
+   {
+    "value": "{\"value\":\"ゴミ袋（収納）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Trash bag that can be used to store your belongings.",
+   {
+    "value": "{\"value\":\"持ち物の収納に使えるゴミ袋。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Filthy Trash Bag",
+   {
+    "value": "{\"value\":\"不潔なゴミ袋\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Trash bag that can be combined with other trash bags to make makeshift storage.",
+   {
+    "value": "{\"value\":\"他のゴミ袋と組み合わせて、その場しのぎの収納ができるゴミ袋。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121100
+}

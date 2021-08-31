@@ -1,0 +1,59 @@
+{
+ "cache": [
+  [
+   "keyv:Cooler (Storage)",
+   {
+    "value": "{\"value\":\"クーラー（保管）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Retro Refrigerator (Storage)",
+   {
+    "value": "{\"value\":\"レトロ冷蔵庫（収納）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Steel Refrigerator (Storage)",
+   {
+    "value": "{\"value\":\"スチール冷蔵庫（保管）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Rotting Ice Machine (Storage)",
+   {
+    "value": "{\"value\":\"回転製氷機（保管）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A nice way of storing your food and crops. Very basic at slowing spoilage and not much room but it will do for now.[ccba8b](Preserve Bonus 1.00)[-]",
+   {
+    "value": "{\"value\":\"あなたの食物と作物を保存する良い方法。腐敗を遅らせるのは非常に基本的で、余地はあまりありませんが、今のところは問題ありません。[ccba8b]（ボーナス1.00を保持）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A nice way of storing your food and crops. Turning this into a powered fridge will help preserve your food longer but this can also slow down spoilage a bit.[ccba8b](Preserve Bonus 1.75)[-]",
+   {
+    "value": "{\"value\":\"あなたの食物と作物を保存する良い方法。これを電動冷蔵庫に変えると、食べ物をより長く保存するのに役立ちますが、腐敗を少し遅くすることもできます。[ccba8b]（ボーナス1.75を保存）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A nice way of storing your food and crops. Turning this into a powered ice machine will help preserve your food the best but this can also slow down spoilage a bit.[ccba8b](Preserve Bonus 2.25)[-]",
+   {
+    "value": "{\"value\":\"あなたの食物と作物を保存する良い方法。これを電動製氷機に変えると、食べ物を最高に保存するのに役立ちますが、腐敗を少し遅らせることもできます。[ccba8b]（ボーナス2.25を保存）[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Refrigerator Schematic",
+   {
+    "value": "{\"value\":\"冷蔵庫の概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A nice way of storing your food and crops. Turning this into a powered fridge will help preserve your food better than a normal fridge but this can also slow down spoilage a bit.[ccba8b](Preserve Bonus 3.25)[-]",
+   {
+    "value": "{\"value\":\"あなたの食物と作物を保存する良い方法。これを電動冷蔵庫に変えると、通常の冷蔵庫よりも食品を保存しやすくなりますが、腐敗を少し遅らせることもできます。[ccba8b]（ボーナス3.25を保存）[-]\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412120948
+}

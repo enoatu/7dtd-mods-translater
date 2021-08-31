@@ -1,0 +1,35 @@
+{
+ "cache": [
+  [
+   "keyv:Table Saw",
+   {
+    "value": "{\"value\":\"テーブルソー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Create furniture, advanced shapes and decorations for your base.",
+   {
+    "value": "{\"value\":\"ベースの家具、高度な形状、装飾を作成します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Table Saw Schematic",
+   {
+    "value": "{\"value\":\"テーブルソーの概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Saw Blade",
+   {
+    "value": "{\"value\":\"鋸刃\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A sharp blade from a table saw. You can use this later on to make your own table saw.",
+   {
+    "value": "{\"value\":\"丸のこ盤の鋭い刃。後でこれを使用して、独自のテーブルソーを作成できます。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121345
+}

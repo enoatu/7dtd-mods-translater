@@ -1,0 +1,29 @@
+{
+ "cache": [
+  [
+   "keyv:Crowbar",
+   {
+    "value": "{\"value\":\"バール\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The best tool for harvesting vehicle parts from wrecks found in the world.\\nRepair with an Advanced Repair Kit.",
+   {
+    "value": "{\"value\":\"世界で見つかった残骸から車両部品を収穫するための最良のツール。\\\\n高度な修理キットで修理します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Great for disassembling mechanical devices like cars, air conditioners and more.\\n\\nUsing a Crowbar on cars nets you more complex parts.\\n\\nRepair with a Repair Kit.\\nScrap to Iron.",
+   {
+    "value": "{\"value\":\"車やエアコンなどの機械装置を分解するのに最適です。\\\\n\\\\n車にクローバーを使用すると、より複雑な部品が必要になります。\\\\n\\\\n修理キットで修理します。\\\\n鉄にスクラップします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Great for disassembling mechanical devices like cars, air conditioners and more.\\n\\nUsing a Crowbar on cars nets you more complex parts.\\n\\nRepair with a Repair Kit.\\nScrap to Motor Tool Parts.",
+   {
+    "value": "{\"value\":\"車やエアコンなどの機械装置を分解するのに最適です。\\\\n\\\\n車にクローバーを使用すると、より複雑な部品が必要になります。\\\\n\\\\n修理キットで修理します。\\\\nモーターツール部品にスクラップします。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412120870
+}

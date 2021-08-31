@@ -1,0 +1,179 @@
+{
+ "cache": [
+  [
+   "keyv:Starving Mummy",
+   {
+    "value": "{\"value\":\"飢えたミイラ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hungry Mummy",
+   {
+    "value": "{\"value\":\"空腹のミイラ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Feral Mummy",
+   {
+    "value": "{\"value\":\"野生のミイラ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Vengeful Feral Mummy",
+   {
+    "value": "{\"value\":\"復讐に燃える野生のミイラ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radioactive Mummy",
+   {
+    "value": "{\"value\":\"放射性ミイラ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Shoddy Receiver",
+   {
+    "value": "{\"value\":\"粗雑な受信機\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hastily constructed receiver, capable of tuning to a wide range of commonly used radio frequencies.  Survivors commonly communicate with each other using short range radios.  Maybe you can pick something up?",
+   {
+    "value": "{\"value\":\"急いで構築された受信機で、一般的に使用される広範囲の無線周波数にチューニングできます。生存者は通常、短距離無線を使用して相互に通信します。多分あなたは何かを拾うことができますか？\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Weak Receiver",
+   {
+    "value": "{\"value\":\"弱いレシーバー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A low quality receiver with an adjustable gain switch to increase its range.  This should help you find other survivors, and start to build an assistance network.",
+   {
+    "value": "{\"value\":\"範囲を広げるために調整可能なゲインスイッチを備えた低品質のレシーバー。これは、他の生存者を見つけ、支援ネットワークの構築を開始するのに役立つはずです。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Emergency Receiver",
+   {
+    "value": "{\"value\":\"緊急受信機\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A standard radio receiver with electronic volume and frequency control.  Comes with two presets: Channel 2, the most common for survivors, and Channel 17 for emergency broadcasts.",
+   {
+    "value": "{\"value\":\"電子音量と周波数制御を備えた標準的なラジオ受信機。 2つのプリセットが付属しています。生存者に最も一般的なチャンネル2と、緊急放送用のチャンネル17です。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:White River Broadcast Receiver",
+   {
+    "value": "{\"value\":\"ホワイトリバー放送受信機\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:White River's own custom receiver, complete with broadcast encryption to prevent snooping by bandits.  Goooooood Mooorning, Navezgane!!!",
+   {
+    "value": "{\"value\":\"ホワイトリバー独自のカスタムレシーバー。盗賊による詮索を防ぐためのブロードキャスト暗号化を備えています。 Goooooood Mooorning、Navezgane !!!\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:White River Emergency Receiver",
+   {
+    "value": "{\"value\":\"ホワイトリバー緊急受信機\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The White River Emergency Receiver comes with an autoscanner that alerts when any White River citizen broadcasts on any of their emergency channels.  The ultimate choice in calling for help in the wasteland.",
+   {
+    "value": "{\"value\":\"ホワイトリバー緊急受信機には、ホワイトリバー市民が緊急チャネルのいずれかで放送したときに警告する自動スキャナーが付属しています。荒れ地で助けを求める究極の選択。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Defend Others",
+   {
+    "value": "{\"value\":\"他人を守る\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Provide for the Common Defense",
+   {
+    "value": "{\"value\":\"共通の防衛を提供する\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Construct a receiver and monitor the radio waves for distress calls.  Successfully defend others, then return to the trader for a reward.",
+   {
+    "value": "{\"value\":\"受信機を構築し、遭難信号の電波を監視します。他の人をうまく防御し、報酬を得るためにトレーダーに戻ります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Help other survivors defend their homes.  You'll need to build a receiver and listen for any distress calls.  Prove you're willing to help others, and White River will see what it can do to help you.",
+   {
+    "value": "{\"value\":\"他の生存者が彼らの家を守るのを手伝ってください。レシーバーを構築し、遭難信号を聞く必要があります。あなたが他の人を助けても構わないと思っていることを証明してください。そうすれば、ホワイトリバーはあなたを助けるために何ができるかを見るでしょう。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Assist other survivors.",
+   {
+    "value": "{\"value\":\"他の生存者を支援します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Defend Others (?)",
+   {
+    "value": "{\"value\":\"他人を守る（？）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Nice job, survivor!  You got there just in time to help destroy that mummy.  You have our thanks.",
+   {
+    "value": "{\"value\":\"お疲れ様でした、サバイバー！あなたはそのミイラを破壊するのを手伝うのにちょうど間に合うようにそこに着きました。感謝します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Distress Call",
+   {
+    "value": "{\"value\":\"遭難信号\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Defend Location",
+   {
+    "value": "{\"value\":\"場所を守る\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You've received a distress call from another survivor.  Head to their location and help defend them.",
+   {
+    "value": "{\"value\":\"別の生存者から遭難信号を受信しました。彼らの場所に向かい、彼らを守るのを手伝ってください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:*ksshhht* Is anyone out there?  This is Citizen *kshtssst* -rlene.  Help, we're be- *shvvvt* -nvaded.  Please, w-*scrrrrrssh* -ocated at *ksshtsshhhtt*. Hurry!\\n\\nSounds like their transmitter is going out.  You didn't catch their location, but you should be able to triangulate on the signal.  What are you waiting for?",
+   {
+    "value": "{\"value\":\"* ksshhht *誰かいますか？これは市民* kshtssst * -rleneです。助けてください、私たちは-* shvvvt * -nvadedです。お願いします、w- * scrrrrrssh * -ocated at * ksshtsshhhtt *。急いでください！\\\\n\\\\n送信機が消えているようです。あなたは彼らの位置を捕らえませんでした、しかしあなたは信号で三角測量することができるはずです。何を待っていますか？\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hello, White River Defense?  This is Citiz- *kshtssst* -oe.  We are under attack!  Please, send help to *scrrrrrssh* near the old *ksshtsshhhtt*. Oh, God!  They're runn- *brzzrz* being swarmed by ferals!  Hel-*zzzzt*\\n\\nSounds like their transmitter is going out.  You didn't catch their location, but you should be able to triangulate on the signal.  What are you waiting for?",
+   {
+    "value": "{\"value\":\"こんにちは、ホワイトリバーディフェンス？これはCitiz- * kshtssst * -oeです。攻撃を受けています！古い* ksshtsshhhtt *の近くの* scrrrrrssh *にヘルプを送信してください。ああ、神様！彼らは実行されています-* brzzrz *は野生動物に群がっています！ Hel- * zzzzt * \\\\n\\\\n送信機が切れているように聞こえます。あなたは彼らの位置を捕らえませんでした、しかしあなたは信号で三角測量することができるはずです。何を待っていますか？\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:*ksshhht* Calling all White River Defense Forces.  Code Red!  This is Elder B- *kshtssst*  We have fera- *shvvvt* -dioactive zombies assaulting our position.  All units respond to *scrrrrrssh* behind the *ksshtsshhhtt*.  We can't hold out much longer!\\n\\nSounds like their transmitter is going out.  You didn't catch their location, but you should be able to triangulate on the signal.  What are you waiting for?",
+   {
+    "value": "{\"value\":\"* ksshhht *すべてのホワイトリバー国防軍に電話をかけます。コード・レッド！これはB長老です-* kshtssst *私たちの立場を攻撃するfera- * shvvvt * -dioactiveゾンビがいます。すべてのユニットは、* ksshtsshhhtt *の背後にある* scrrrrrssh *に応答します。私たちはこれ以上我慢できません！\\\\n\\\\n彼らの送信機が消えているように聞こえます。あなたは彼らの位置を捕らえませんでした、しかしあなたは信号で三角測量することができるはずです。何を待っていますか？\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Yeah, I heard from the others that you really made the difference there.  Here's a small token of White River's appreciation.",
+   {
+    "value": "{\"value\":\"ええ、私はあなたが本当にそこで違いを生んだと他の人から聞いた。これがホワイトリバーの感謝の印です。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121296
+}

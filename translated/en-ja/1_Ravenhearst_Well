@@ -1,0 +1,17 @@
+{
+ "cache": [
+  [
+   "keyv:Stone Well",
+   {
+    "value": "{\"value\":\"ストーンウェル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This stone well can be use on your property to produce a water source.",
+   {
+    "value": "{\"value\":\"この石の井戸は、水源を生産するためにあなたの財産で使用することができます。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121127
+}

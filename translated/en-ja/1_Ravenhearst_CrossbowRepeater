@@ -1,0 +1,17 @@
+{
+ "cache": [
+  [
+   "keyv:Crossbow Repeater",
+   {
+    "value": "{\"value\":\"クロスボウリピーター\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Crossbow Repeater Schematic",
+   {
+    "value": "{\"value\":\"クロスボウリピーターの概略図\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412120868
+}

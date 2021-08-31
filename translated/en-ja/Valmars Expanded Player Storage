@@ -1,0 +1,89 @@
+{
+ "cache": [
+  [
+   "keyv:Munitions Box",
+   {
+    "value": "{\"value\":\"弾薬箱\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Player Storage for your stuff.",
+   {
+    "value": "{\"value\":\"あなたのもののためのプレーヤーストレージ。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Lockers",
+   {
+    "value": "{\"value\":\"ロッカー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:File Cabinet",
+   {
+    "value": "{\"value\":\"ファイルキャビネット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cardboard Storage",
+   {
+    "value": "{\"value\":\"段ボール収納\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Stainless Steel Refrigerator",
+   {
+    "value": "{\"value\":\"ステンレス製冷蔵庫\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Retro Fridge",
+   {
+    "value": "{\"value\":\"レトロ冷蔵庫\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pill Case",
+   {
+    "value": "{\"value\":\"ピルケース\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Medicine Cabinet",
+   {
+    "value": "{\"value\":\"薬箱\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bookcase",
+   {
+    "value": "{\"value\":\"本棚\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Wall Safe",
+   {
+    "value": "{\"value\":\"ウォールセーフ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Coffin",
+   {
+    "value": "{\"value\":\"棺\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gas Pump",
+   {
+    "value": "{\"value\":\"ガスポンプ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Expanded Storage Schematic",
+   {
+    "value": "{\"value\":\"拡張ストレージ回路図\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121333
+}

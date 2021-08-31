@@ -1,0 +1,23 @@
+{
+ "cache": [
+  [
+   "keyv:Electrician Table",
+   {
+    "value": "{\"value\":\"電気技師テーブル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The electrician table is used to construct electrical items such as doors and lights.",
+   {
+    "value": "{\"value\":\"電気技師のテーブルは、ドアや照明などの電気製品を構築するために使用されます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Electrician Table Schematic",
+   {
+    "value": "{\"value\":\"電気技師のテーブルの概略図\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121338
+}

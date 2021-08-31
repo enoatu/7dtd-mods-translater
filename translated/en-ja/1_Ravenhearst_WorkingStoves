@@ -1,0 +1,29 @@
+{
+ "cache": [
+  [
+   "keyv:Stove Repair Kit",
+   {
+    "value": "{\"value\":\"ストーブ修理キット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This stove repair kit is used with a hammer to take a broken stove and make it a working one that you can use.",
+   {
+    "value": "{\"value\":\"このストーブ修理キットは、ハンマーで壊れたストーブを取り出して、使用できるようにするために使用されます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Working Stove",
+   {
+    "value": "{\"value\":\"ワーキングストーブ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A working stove can be used to cook food and some chemicals in a safe environment.",
+   {
+    "value": "{\"value\":\"作業用ストーブは、安全な環境で食品や一部の化学物質を調理するために使用できます。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121130
+}

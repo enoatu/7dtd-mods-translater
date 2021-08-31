@@ -1,0 +1,125 @@
+{
+ "cache": [
+  [
+   "keyv:Beehive (Empty)",
+   {
+    "value": "{\"value\":\"蜂の巣（空）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires 8 Bees",
+   {
+    "value": "{\"value\":\"8匹のミツバチが必要\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Beehive (Colonizing)",
+   {
+    "value": "{\"value\":\"蜂の巣（植民地化）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The Bees Are Working",
+   {
+    "value": "{\"value\":\"ミツバチは働いています\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Beehive (Ready)",
+   {
+    "value": "{\"value\":\"蜂の巣（準備完了）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Honeycombs Are Ready",
+   {
+    "value": "{\"value\":\"ハニカムは準備ができています\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Beehive Schematic",
+   {
+    "value": "{\"value\":\"蜂の巣の概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Honeycomb",
+   {
+    "value": "{\"value\":\"ハニカム\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Honeycombs can be used as an ingredient to make jars of honey.",
+   {
+    "value": "{\"value\":\"ハニカムは、蜂蜜の瓶を作るための材料として使用できます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bee",
+   {
+    "value": "{\"value\":\"蜂\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bees gathered from trees are used in a Bee Hive and will produce honey combs over time.",
+   {
+    "value": "{\"value\":\"木から集められたミツバチはミツバチの巣箱で使用され、時間の経過とともに養蜂箱を生産します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tarp",
+   {
+    "value": "{\"value\":\"タープ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tarps are used in the creation of composters and beehives as well as used to refresh rain collectors.",
+   {
+    "value": "{\"value\":\"防水シートは、作曲家や蜂の巣の作成に使用されるだけでなく、レインコレクターをリフレッシュするためにも使用されます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Rain Catcher (Collecting)",
+   {
+    "value": "{\"value\":\"レインキャッチャー（収集）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Catching Water",
+   {
+    "value": "{\"value\":\"水を引く\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Rain Catcher",
+   {
+    "value": "{\"value\":\"レインキャッチャー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Requires 1 Tarp to Upgrade",
+   {
+    "value": "{\"value\":\"アップグレードには1タープが必要\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Rain Catcher (Full)",
+   {
+    "value": "{\"value\":\"レインキャッチャー（フル）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Ready to Collect",
+   {
+    "value": "{\"value\":\"収集する準備ができました\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Rain Catcher Schematic",
+   {
+    "value": "{\"value\":\"レインキャッチャーの概略図\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412120799
+}

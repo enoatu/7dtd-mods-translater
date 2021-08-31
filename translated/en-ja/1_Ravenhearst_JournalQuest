@@ -1,0 +1,569 @@
+{
+ "cache": [
+  [
+   "keyv:Survival Journal",
+   {
+    "value": "{\"value\":\"サバイバルジャーナル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Creating a Journal",
+   {
+    "value": "{\"value\":\"ジャーナルの作成\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:I guess I'm starting from scratch. First, I'll need to find some paper and a way to bind it.\\n\\n[eaa1a1]Note: After completing making the journal go into your bag and read it to continue this questline.",
+   {
+    "value": "{\"value\":\"私はゼロから始めていると思います。まず、紙とそれを綴じる方法を見つける必要があります。\\\\n\\\\n[eaa1a1]注：ジャーナルの作成が完了したら、バッグに入れて読んで、このクエストラインを続けてください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:I guess I'm starting from scratch. First, I'll need to find some paper and a way to bind it.",
+   {
+    "value": "{\"value\":\"私はゼロから始めていると思います。まず、紙とそれを綴じる方法を見つける必要があります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gathering Information",
+   {
+    "value": "{\"value\":\"情報の収集\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:I remember Old Navezgane. Before the Mists War started. Its a shell of its former self now but I should make a drawing to remember, just in case I need to go there again. After I am done I should collect the rest of the things I will need to get started on my journey. This dye I have been give can scrap to paint.",
+   {
+    "value": "{\"value\":\"OldNavezganeを覚えています。ミスト戦争が始まる前。今は以前の自分の殻ですが、もう一度そこに行く必要がある場合に備えて、覚えておくべき絵を描く必要があります。終わったら、旅を始めるために必要な残りのものを集めなければなりません。私が与えられたこの染料は、ペンキにスクラップすることができます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This is a good time to start taking notes on how to survive. After I make this map I will collect the things I need to start my journal and survive the rest of today. This dye I have been give can scrap to paint.",
+   {
+    "value": "{\"value\":\"これは、生き残る方法についてメモを取り始める良い機会です。この地図を作った後、日記を書き始めて今日の残りを生き残るために必要なものを集めます。私が与えられたこの染料は、ペンキにスクラップすることができます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Journal Chapter Entries",
+   {
+    "value": "{\"value\":\"仕訳章のエントリ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Well, I could start with 'Dear diary'.\\n\\nEach chapter can cover a topic. I just need to find subjects for each chapter. Time to look around for inspiration.",
+   {
+    "value": "{\"value\":\"さて、私は「親愛なる日記」から始めることができます。\\\\n\\\\n各章はトピックをカバーすることができます。各章の主題を見つける必要があります。インスピレーションを得るために周りを見回す時間です。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Completing Your Journal",
+   {
+    "value": "{\"value\":\"ジャーナルを完成させる\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Now that you have learned the basics of Ravenhearst, it is time to take the knowledge you have learned and complete your journal. When you have acquired all Completed Journal Chapters your training will be complete and you will receive a special gift left in your care by two brothers who devoted their lives to stopping this Apocalypse, but ultimately failed. \\n\\nThey have entrusted to you. Use it wisely.",
+   {
+    "value": "{\"value\":\"Ravenhearstの基本を学んだので、今度は学んだ知識を取り入れてジャーナルを完成させます。完成したジャーナルの章をすべて取得すると、トレーニングが完了し、この黙示録を止めることに人生を捧げたが最終的に失敗した2人の兄弟から特別な贈り物が届きます。 \\\\n\\\\n彼らはあなたに委託しました。賢く使ってください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Now that you have learned the basics and some new tricks as well, it is time to complete your journey. When you have acquired all Completed Journal Entries combine them and you will unlock some nice rewards.",
+   {
+    "value": "{\"value\":\"基本といくつかの新しいトリックも学んだので、旅を完了する時が来ました。完了したジャーナルエントリをすべて取得したら、それらを組み合わせて、いくつかの素晴らしい報酬のロックを解除します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Advanced Survival Tactics",
+   {
+    "value": "{\"value\":\"高度なサバイバル戦術\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Craft a Survival Campfire",
+   {
+    "value": "{\"value\":\"サバイバルキャンプファイヤーを作る\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The survival campfire can cook more advanced recipes than the campfire and is very important to survival.",
+   {
+    "value": "{\"value\":\"サバイバルキャンプファイヤーは、キャンプファイヤーよりも高度なレシピを調理することができ、サバイバルにとって非常に重要です。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Scrap A Schematic and Collect KP",
+   {
+    "value": "{\"value\":\"回路図面をスクラップしてKPを収集する\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Scrapping Schematics can give you Knowledge Points that you use to craft quests and schematic volumes at a research desk.",
+   {
+    "value": "{\"value\":\"回路図を廃棄すると、リサーチデスクでクエストや回路図のボリュームを作成するために使用するナレッジポイントが得られます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Absorbing the knowledge through scrapping books is a great way to gain knowledge. The more knowledge you gain the easier it will be to learn exclusive recipes and more. Take an unneeded schematic and scrap it to gain Knowledge Points that can be used in the Research Desk.",
+   {
+    "value": "{\"value\":\"本を廃棄することで知識を吸収することは、知識を得るための素晴らしい方法です。知識が多ければ多いほど、独自のレシピなどを学ぶのが簡単になります。不要な回路図を取り、それを廃棄して、リサーチデスクで使用できるナレッジポイントを取得します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Filtering The Water",
+   {
+    "value": "{\"value\":\"水をろ過する\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Ever since the outbreak began reports were that the infection initially spread through the waters around Ravenhearst. Makasin Pharmaceuticals were seen dumping chemicals into the rivers. In order to ensure your safety you will need to initiate a process to filter the outbreak from the waters in the town.\\n\\nConstructing a special Water Filtration Unit should be good enough to rid the water of the infection but it won't be enough to make it safe. The next step is to fill the unit with infected water so that you can process it for safe use. Take a filled bucket or can or jar and add it to the unit and boil it into the unit. From there you can make safe water for farming or drinking.\\n\\n[eaa1a1]Recipes can have more than 5 ingredients now. In order to tell which ones do look for the little arrow in the description. If an arrow is present it means you can switch pages to see the rest of the ingredients.",
+   {
+    "value": "{\"value\":\"発生が始まって以来、感染は最初にレイヴンハースト周辺の海域に広がったという報告がありました。 MakasinPharmaceuticalsが化学物質を川に投棄しているのが見られました。安全を確保するために、町の水域からの発生をろ過するプロセスを開始する必要があります。\\\\n\\\\n特別な水ろ過ユニットを建設することで、水から感染を取り除くのに十分なはずですが、そうではありません。それを安全にするのに十分です。次のステップは、安全に使用できるようにユニットを処理できるように、感染した水でユニットを充填することです。満たされたバケツまたは缶または瓶を取り、それをユニットに追加し、それをユニットに沸騰させます。そこから、農業や飲用に安全な水を作ることができます。\\\\n\\\\n[eaa1a1]レシピには現在5つ以上の材料を含めることができます。どれが説明の小さな矢印を探すのかを見分けるために。矢印が表示されている場合は、ページを切り替えて残りの材料を表示できることを意味します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Craft A Water Filtration Unit.",
+   {
+    "value": "{\"value\":\"水ろ過ユニットを作成します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Infected Waters",
+   {
+    "value": "{\"value\":\"感染した水域\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Filling The Unit",
+   {
+    "value": "{\"value\":\"装置への充填\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The next step is to fill the unit with infected water so that you can process it for safe use. Take a filled bucket or can or jar and add it to the unit and boil it into the unit. From there you can make safe water for farming or drinking.\\n\\n[eaa1a1]Recipes can have more than 5 ingredients now. In order to tell which ones do look for the little arrow in the description. If an arrow is present it means you can switch pages to see the rest of the ingredients.",
+   {
+    "value": "{\"value\":\"次のステップは、安全に使用できるようにユニットを処理できるように、感染した水でユニットを充填することです。満たされたバケツまたは缶または瓶を取り、それをユニットに追加し、それをユニットに沸騰させます。そこから、農業や飲用に安全な水を作ることができます。\\\\n\\\\n[eaa1a1]レシピには現在5つ以上の材料を含めることができます。どれが説明の小さな矢印を探すのかを見分けるために。矢印が表示されている場合は、ページを切り替えて残りの材料を表示できることを意味します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fill the WFU.",
+   {
+    "value": "{\"value\":\"WFUに記入します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cleaning The Water",
+   {
+    "value": "{\"value\":\"水をきれいにする\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Now that you have ensured the water is free from the outbreak, you will need to take that water and boil it so that any leftover bacteria in it will be thoroughly cooked out. Take the water you just cleansed and boil it over a fire. It will then be safe to drink.",
+   {
+    "value": "{\"value\":\"水が発生しないことを確認したので、その水を取り、沸騰させて、残っているバクテリアが完全に調理されるようにする必要があります。洗ったばかりの水を取り、火で沸騰させます。そうすれば安全に飲むことができます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Boil Your Water.",
+   {
+    "value": "{\"value\":\"水を沸騰させます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Storing Your Resources",
+   {
+    "value": "{\"value\":\"リソースの保存\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:After a while you will notice that you have an abundance of resources from all of your hard work. Some resources can be stored in pallets in large amounts. Some of these will need to be unlocked but some are available now. Craft a pallet from wood and place it. To unpack pick it back up and craft it back into your resource.",
+   {
+    "value": "{\"value\":\"しばらくすると、すべてのハードワークからのリソースが豊富にあることに気付くでしょう。一部のリソースは、パレットに大量に保管できます。これらのいくつかはロックを解除する必要がありますが、いくつかは現在利用可能です。木からパレットを作り、それを置きます。開梱するには、それを拾い上げて、リソースに作り戻します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The War For Gas",
+   {
+    "value": "{\"value\":\"ガス戦争\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gas is going to become very valuable as you obtain vehicles and powered tools. Unfortunately gas is in limited supply. You are going to have to fight for every drop. Take 50 empty gas cans that you have found or made and go to a gas pump. Once the pump is empty use the gas cans on it. The pump will begin to fill.\\nOnce the pump is filled you will be able to loot it for some gas. You can repeat this process as often as you can.",
+   {
+    "value": "{\"value\":\"車両や電動工具を手に入れると、ガスは非常に価値のあるものになります。残念ながら、ガスの供給は限られています。あなたはすべてのドロップのために戦わなければならないでしょう。あなたが見つけた、または作った50個の空のガス缶を取り、ガスポンプに行きます。ポンプが空になったら、ガス缶を使用します。ポンプがいっぱいになり始めます。\\\\nポンプがいっぱいになると、ガスを探すためにポンプを略奪することができます。このプロセスは何度でも繰り返すことができます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Farming Journal",
+   {
+    "value": "{\"value\":\"農業ジャーナル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Making A Farm Table",
+   {
+    "value": "{\"value\":\"農場のテーブルを作る\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The farm table is a farmers hub for producing seeds and resources. It is essential to build one.",
+   {
+    "value": "{\"value\":\"農場のテーブルは、種子や資源を生産するための農家のハブです。構築することが不可欠です。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Starting your Farm",
+   {
+    "value": "{\"value\":\"あなたの農場を始める\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Before I start my farm I am going to want to make a Composter.\\n\\nA Composter uses compost to create various amounts of Fertilizer. The Composter must be placed in a well ventilated area with access to sunlight.",
+   {
+    "value": "{\"value\":\"農場を始める前に、堆肥を作りたいと思っています。\\\\n\\\\n堆肥は、堆肥を使ってさまざまな量の肥料を作ります。堆肥は、日光が当たる換気の良い場所に置く必要があります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Start Composting",
+   {
+    "value": "{\"value\":\"堆肥化を開始します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Now that I have a Composter I will need Compost to produce Fertilizer. It shouldn't take me long to gather what I need to make some compost.\\n\\nHolding the Compost in my hand use the Action Button to place it in the Composter.It will take some time to produce Fertilizer.",
+   {
+    "value": "{\"value\":\"堆肥ができたので、肥料を作るために堆肥が必要になります。堆肥を作るのに必要なものを集めるのにそれほど時間はかからないはずです。\\\\n\\\\n堆肥を手に持って、アクションボタンを使って堆肥に入れます。肥料の生産には時間がかかります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Till The Land",
+   {
+    "value": "{\"value\":\"土地まで\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You can till land to start your farm. You will need to make a bucket of water and use it next to tilled soil in order to grow your seeds. If you do not use water your seed will never grow. Find a hoe and till some land. Dont forget to dig a hole for water placement.",
+   {
+    "value": "{\"value\":\"あなたはあなたの農場を始めるために土地まですることができます。種子を育てるには、バケツの水を作り、耕作した土壌の隣で使用する必要があります。水を使わないと、種子は成長しません。鍬を見つけて、土地まで。水の配置のための穴を掘ることを忘れないでください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Making Seeds",
+   {
+    "value": "{\"value\":\"種を作る\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Now it is time to start your garden. Take the seed pack you were given and use it in the farm table. Craft a Blueberry Seed and plant it next to the water. Take the fertilizer you received from the composter and with it in your hand right click on the blueberry seed. Your seed is now fertilized and will yield you extra crops. Then in a few hours it will grow and can be picked. Here are some extra seed packs as well to help you get your farm started.",
+   {
+    "value": "{\"value\":\"今、あなたの庭を始める時が来ました。与えられたシードパックを取り、農場のテーブルで使用します。ブルーベリーシードを作り、水の横に植えます。堆肥から受け取った肥料を手に取り、ブルーベリーの種を右クリックします。あなたの種子は今や受精し、あなたに余分な作物をもたらすでしょう。それから数時間でそれは成長し、選ぶことができます。ファームを開始するのに役立つ追加のシードパックもいくつかあります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Preserving Crops",
+   {
+    "value": "{\"value\":\"作物の保存\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You are now on your way to sustaianble food. But as you know crops expire pretty quicky. Luckily you can craft a preservation barrel that will help your crops last a bit longer. This should get you by until you have enough crops collected to make multiples. Go ahead and craft and place one and start living off the land.",
+   {
+    "value": "{\"value\":\"あなたは今、持続可能な食べ物への道を進んでいます。しかし、ご存知のように、作物はかなり早く期限切れになります。幸いなことに、作物が少し長持ちするのに役立つ保存バレルを作ることができます。これにより、倍数を作成するのに十分な作物が収集されるまで、問題が解決するはずです。先に進んで、それを作り、配置して、土地から離れて生活を始めてください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Building Workstations",
+   {
+    "value": "{\"value\":\"ワークステーションの構築\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Craft a Tanning Rack",
+   {
+    "value": "{\"value\":\"なめしラックを作る\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fighting isn't the only thing I need to survive. I have to rebuild.\\n\\nIn order to rebuild, I'll need the tools and stations to do that.",
+   {
+    "value": "{\"value\":\"私が生き残るために必要なのは戦いだけではありません。再構築する必要があります。\\\\n\\\\n再構築するには、そのためのツールとステーションが必要です。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A tanning rack is your primary source for curing hides and leather. Kill an animal and grab some hide and craft a tanning rack.",
+   {
+    "value": "{\"value\":\"なめしラックは、皮革や皮革を硬化させるための主要な供給源です。動物を殺し、いくつかの皮をつかんで、なめしラックを作ります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Craft a Forge",
+   {
+    "value": "{\"value\":\"フォージを作る\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A forge is used to smelt basic metals and craft just the basics. You will need a blacksmith forge to craft more complex materials.",
+   {
+    "value": "{\"value\":\"鍛造は、基本的な金属を精錬し、基本的なものだけを作るために使用されます。より複雑な材料を作るには、鍛冶屋の鍛造が必要になります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Create A Mold",
+   {
+    "value": "{\"value\":\"型を作成する\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Molds are used to shape items so you can craft them.",
+   {
+    "value": "{\"value\":\"型はアイテムを形作るために使用されるので、あなたはそれらを作ることができます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Creating a blank mold will allow you to use it in the creation of additional molds. Craft a blank mold, which you can then use with an item to make a mold out of it. That mold can be placed in forges and is used to create additional items like arrowheads and jars.",
+   {
+    "value": "{\"value\":\"空の金型を作成すると、追加の金型の作成に使用できるようになります。空の型を作り、それをアイテムと一緒に使用して型を作ります。その型は鍛造に置くことができ、鏃や瓶のような追加のアイテムを作成するために使用されます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Craft a Table Saw",
+   {
+    "value": "{\"value\":\"丸のこ盤を作る\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A table saw is mandatory for crafting wood planks which is used in many recipes. You can also use it to create new storage and decorative items. They can be found in many garages and homes under construction. Find a table saw and look at the recipes. Once you have done this wrench the table saw and receive a saw blade. You will be rewarded the ability to create your own table saw.",
+   {
+    "value": "{\"value\":\"多くのレシピで使用されている木の板を作るには、テーブルソーが必須です。また、新しい収納や装飾品を作成するために使用することもできます。それらは建設中の多くのガレージや家で見つけることができます。丸のこ盤を見つけてレシピを見てください。このレンチを実行したら、テーブルソーを使用して鋸刃を受け取ります。あなたはあなた自身のテーブルソーを作る能力に報われるでしょう。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Craft a Workbench",
+   {
+    "value": "{\"value\":\"ワークベンチを作成する\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A workbench not only can craft items from you personal bench but it is used to craft more complex recipes.",
+   {
+    "value": "{\"value\":\"ワークベンチは、個人のベンチからアイテムを作成できるだけでなく、より複雑なレシピを作成するためにも使用されます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Craft an Armor Bench",
+   {
+    "value": "{\"value\":\"アーマーベンチを作る\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:An Armor Bench is crucial to crafting better armor and clothing.",
+   {
+    "value": "{\"value\":\"アーマーベンチは、より良いアーマーと衣服を作るために不可欠です。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Craft a Chemistry Station",
+   {
+    "value": "{\"value\":\"化学ステーションを作成する\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The chemistry station is the epicenter of being able to stay alive. From gas production to healing items and antibiotics, no one should be without one.",
+   {
+    "value": "{\"value\":\"化学ステーションは、生き続けることができることの震源地です。ガスの生産から癒しのアイテムや抗生物質まで、誰もがそれなしではいけません。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Craft a Blacksmith Forge",
+   {
+    "value": "{\"value\":\"鍛冶屋の鍛冶場を作る\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A Blacksmith Forge unlocks access to more forged recipes like Steel.",
+   {
+    "value": "{\"value\":\"鍛冶屋フォージは、スチールのようなより鍛造されたレシピへのアクセスのロックを解除します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cooking in the Wastelands",
+   {
+    "value": "{\"value\":\"荒れ地での料理\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fry Some Insects",
+   {
+    "value": "{\"value\":\"いくつかの昆虫を炒める\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Often you will find yourself needing food in a pinch. Punching grass will sometimes yield you insects. These can be eaten as is for a small food boost or you can take your collection and a can or jar and fry them in a campfire. Frying them reduces their food benefit slightly but will reduce the chance of illness and will offer a small boost in health as well.",
+   {
+    "value": "{\"value\":\"多くの場合、あなたは自分がピンチで食べ物を必要としていることに気付くでしょう。草を殴ると虫が出ることがあります。これらは、小さなフードブーストのためにそのまま食べることができます。または、コレクションと缶または瓶を持ってキャンプファイヤーで揚げることができます。それらを揚げると、食べ物の利点がわずかに減少しますが、病気の可能性が減少し、健康もわずかに向上します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Often you will find yourself needing food in a pinch. Punching grass will sometimes yield you insects. These can be eaten as is for a small food boost or you can take your collection and a can or jar and fry them in a campfire. Frying them reduces their food benefit slightly but will guarantee no illness and will offer a small boost in health as well.",
+   {
+    "value": "{\"value\":\"多くの場合、あなたは自分がピンチで食べ物を必要としていることに気付くでしょう。草を殴ると虫が出ることがあります。これらは、小さなフードブーストのためにそのまま食べることができます。または、コレクションと缶または瓶を持ってキャンプファイヤーで揚げることができます。それらを揚げることは彼らの食物利益をわずかに減らしますが、病気がないことを保証し、健康のわずかな向上も提供します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Catch More Insects",
+   {
+    "value": "{\"value\":\"より多くの昆虫を捕まえる\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Now that you have tasted those buggy little morsels I know you can not get enough of it. An alternate to punching grass is leaving out insect traps using honey or beer. Try it. Craft a Beer Trap and some refill for it and place it. You can use the refill on the trap to upgrade it after you have taken the insects you caught.",
+   {
+    "value": "{\"value\":\"あなたがそれらのバグのある小さなモーゼルを味わったので、私はあなたがそれを十分に得ることができないことを知っています。草を殴る代わりに、蜂蜜やビールを使ってトラップを省くこともできます。それを試してみてください。ビールトラップとそれのためのいくつかの詰め替えを作り、それを置きます。捕まえた虫を捕まえたら、トラップのリフィルを使ってアップグレードできます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Craft Some Survival Mix",
+   {
+    "value": "{\"value\":\"サバイバルミックスを作成する\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Aside from making jerky in a rack, another way you can make nature work for you is by collecting 5 of any seed type from trees and combining them with blueberries to make survival mix. Make some survival mix now.",
+   {
+    "value": "{\"value\":\"ラックでぎくしゃくする以外に、自然を機能させるもう1つの方法は、木から任意の種類のシードを5つ収集し、それらをブルーベリーと組み合わせてサバイバルミックスを作成することです。今すぐサバイバルミックスを作ってください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Spear Some Fish",
+   {
+    "value": "{\"value\":\"いくつかの魚を槍\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fishing is extremely important to survival. You can dig up some worms by using a shovel on dirt. Craft a Fishing Spear and find a body of water. Left Click on the water with the spear until you see a fish icon. You will have a short period of time to right click the fish off of your spear, placing a bucket in your inventory. Place the bucket on the ground then use a knife on the bucket to see if you caught anything!",
+   {
+    "value": "{\"value\":\"釣りは生き残るために非常に重要です。あなたは土の上にシャベルを使うことによっていくつかのワームを掘ることができます。釣り槍を作り、水域を見つけます。魚のアイコンが表示されるまで、槍で水を左クリックします。槍から魚を右クリックして、在庫にバケツを置くまでの時間が短くなります。バケツを地面に置き、バケツにナイフを使って何かを捕まえたかどうかを確認します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Use A Fishing Rod",
+   {
+    "value": "{\"value\":\"釣り竿を使う\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fishing is extremely important to survival. You can dig up some worms by using a shovel on dirt. Craft a Fishing Rod and find a body of water. Right Click on the water with the pole until you see a fish icon. With the full rod in your hand right click the ground in front of you. It will place a bucket. Use a knife on the bucket to see if you caught anything!",
+   {
+    "value": "{\"value\":\"釣りは生き残るために非常に重要です。あなたは土の上にシャベルを使うことによっていくつかのワームを掘ることができます。釣り竿を作り、水域を見つけます。魚のアイコンが表示されるまで、ポールで水を右クリックします。フルロッドを手に持って、目の前の地面を右クリックします。バケツを置きます。バケツにナイフを使って何かを捕まえたかどうかを確認してください！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Additional Food: Rain Collector",
+   {
+    "value": "{\"value\":\"追加の食べ物：レインコレクター\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Water is vital to survival but you won't always have running water or a water source. The rain collector is a great way to catch water for use in the filtration unit. Using some tarps you can upgrade an empty rain collector. In a few hours it should yield various water for you to collect. The process can be repeated by using more tarps.",
+   {
+    "value": "{\"value\":\"水は生き残るために不可欠ですが、常に流水や水源があるとは限りません。レインコレクターは、ろ過ユニットで使用する水を捕らえるのに最適な方法です。いくつかの防水シートを使用して、空のレインコレクターをアップグレードできます。数時間でそれはあなたが集めるために様々な水を生み出すはずです。より多くの防水シートを使用することにより、このプロセスを繰り返すことができます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Additional Food: Bee Hives",
+   {
+    "value": "{\"value\":\"追加の食べ物：ミツバチの巣箱\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Honey is a leading source of both food recipes and infection cures. You can start a bee hive by collecting bees and using them to upgrade a beehive. After some time has passed you will be able to collect honeycombs from it. This process can be repeated with more bees.",
+   {
+    "value": "{\"value\":\"蜂蜜は、食品レシピと感染症治療の両方の主要な情報源です。ミツバチを集め、それを使ってミツバチの巣箱をアップグレードすることで、ミツバチの巣箱を始めることができます。しばらくすると、そこからハニカムを集めることができるようになります。このプロセスは、より多くのミツバチで繰り返すことができます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Additional Food: Microwaves",
+   {
+    "value": "{\"value\":\"追加の食品：電子レンジ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:There are lots of cans you can collect in the world. Finding a working microwave in the world is the best use of these cans. You can take a few cans and turn them into a nutritious filling meal. Find a microwave and bring it back home by destroying microwaves you find in houses. Be careful though, you may not always receive a working one on your first try.",
+   {
+    "value": "{\"value\":\"世界にはたくさんの缶を集めることができます。世界で機能する電子レンジを見つけることは、これらの缶の最良の使用法です。あなたはいくつかの缶を取り、それらを栄養価の高い詰め物の食事に変えることができます。電子レンジを見つけて、家にある電子レンジを破壊して家に持ち帰りましょう。ただし、最初の試行で常に機能するものを受け取るとは限らないことに注意してください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Additional Food: Food Sealer",
+   {
+    "value": "{\"value\":\"追加食品：フードシーラー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:As you know by now food in the world spoils. You can preserve some meat and veggies by finding a working sealer in the world. To take one home destroy it. You may not always get a working one on your first try. Loot cling wrap to use with meat and veggies in your new sealer and food will no longer spoil until you are ready to use it.",
+   {
+    "value": "{\"value\":\"ご存知のように、今では世界の食べ物は台無しになっています。あなたは世界で働くシーラーを見つけることによっていくつかの肉と野菜を保存することができます。家に持ち帰るにはそれを破壊します。最初の試行で常に機能するものが得られるとは限りません。新しいシーラーで肉や野菜と一緒に使用するための戦利品のラップは、使用する準備ができるまで食品が損なわれることはありません。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Empty Survival Journal",
+   {
+    "value": "{\"value\":\"空のサバイバルジャーナル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A binder to hold all of your notes on survival in the apocalypse. You'll need something to write with to start the journal. When you finish a questline you will receive a completed chapter. Hold on to these! You will need them to craft the completed journal later on.",
+   {
+    "value": "{\"value\":\"黙示録での生存に関するすべてのメモを保持するためのバインダー。ジャーナルを始めるには、何か書くものが必要です。クエストラインを終了すると、完成したチャプターを受け取ります。これらを握ってください！後で完成したジャーナルを作成するためにそれらが必要になります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Ink Pen",
+   {
+    "value": "{\"value\":\"インクペン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This ink pen is nearly dry. You'll have to be careful how you use it.",
+   {
+    "value": "{\"value\":\"このインクペンはほとんど乾いています。使い方には注意が必要です。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The journal is now ready to be written in. As you craft your chapters you'll receive quest lines from them. When you finish a quest line you will receive completed chapters. Hold on to these along with this book to craft your completed journal later on.",
+   {
+    "value": "{\"value\":\"これでジャーナルを書き込む準備ができました。チャプターを作成すると、チャプターからクエストラインを受け取ります。クエストラインを終了すると、完了したチャプターを受け取ります。後で完成したジャーナルを作成するために、この本と一緒にこれらを保持してください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Food Chapter",
+   {
+    "value": "{\"value\":\"食品章\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:With all of the restaurants closed, it's time to start improvising new things to eat. This bug has to be... nutritious, right?",
+   {
+    "value": "{\"value\":\"すべてのレストランが閉店したので、新しいものを即興で食べる時が来ました。このバグは...栄養価が高いはずですよね？\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Workstation Chapter",
+   {
+    "value": "{\"value\":\"ワークステーションの章\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A simple worktable will do to start, but there has to be other options.",
+   {
+    "value": "{\"value\":\"簡単な作業台で開始できますが、他のオプションが必要です。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Farming Chapter",
+   {
+    "value": "{\"value\":\"農業章\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412120978
+}

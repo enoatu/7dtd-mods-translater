@@ -1,0 +1,161 @@
+{
+ "cache": [
+  [
+   "keyv:Bandit",
+   {
+    "value": "{\"value\":\"盗賊\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Farmer",
+   {
+    "value": "{\"value\":\"農家\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Farmer Cole",
+   {
+    "value": "{\"value\":\"ファーマーコール\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cowboy",
+   {
+    "value": "{\"value\":\"カウボーイ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Raider",
+   {
+    "value": "{\"value\":\"レイダー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Yakuza",
+   {
+    "value": "{\"value\":\"ヤクザ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Warehouse Raider",
+   {
+    "value": "{\"value\":\"倉庫侵入者\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Robber",
+   {
+    "value": "{\"value\":\"強盗\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Slugger",
+   {
+    "value": "{\"value\":\"スラッガー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Kidnapper",
+   {
+    "value": "{\"value\":\"誘拐犯\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The Dirty Chef",
+   {
+    "value": "{\"value\":\"汚いシェフ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Baker Bentlee",
+   {
+    "value": "{\"value\":\"ベイカーベントリー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bandit Leader",
+   {
+    "value": "{\"value\":\"盗賊リーダー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Nurse Claire",
+   {
+    "value": "{\"value\":\"ナースクレア\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Soldier Casi",
+   {
+    "value": "{\"value\":\"ソルジャーカシ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Soldier Sig",
+   {
+    "value": "{\"value\":\"ソルジャーシグ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hunter Harris",
+   {
+    "value": "{\"value\":\"ハンターハリス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Guard Giovanni",
+   {
+    "value": "{\"value\":\"ガードジョバンニ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Ranger Matt",
+   {
+    "value": "{\"value\":\"レンジャーマット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Zola",
+   {
+    "value": "{\"value\":\"ゾラ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Ilario",
+   {
+    "value": "{\"value\":\"イラリオ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Security Guard Brynn",
+   {
+    "value": "{\"value\":\"警備員ブリン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Security Guard Braxis",
+   {
+    "value": "{\"value\":\"警備員Braxis\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Doctor Veronica",
+   {
+    "value": "{\"value\":\"ベロニカ博士\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Armored Security Guard",
+   {
+    "value": "{\"value\":\"装甲警備員\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Vault Boss Willem",
+   {
+    "value": "{\"value\":\"ボールトボスウィレム\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121361
+}

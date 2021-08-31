@@ -1,0 +1,17 @@
+{
+ "cache": [
+  [
+   "keyv:Modern doors",
+   {
+    "value": "{\"value\":\"モダンなドア\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Modern doors 2",
+   {
+    "value": "{\"value\":\"モダンドア2\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121207
+}

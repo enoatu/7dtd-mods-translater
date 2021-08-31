@@ -1,0 +1,17 @@
+{
+ "cache": [
+  [
+   "keyv:Appliance Table",
+   {
+    "value": "{\"value\":\"アプライアンステーブル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Put all of your appliances on this table for ease of access.",
+   {
+    "value": "{\"value\":\"アクセスしやすいように、すべてのアプライアンスをこのテーブルに置いてください。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121359
+}

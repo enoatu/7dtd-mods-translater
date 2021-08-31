@@ -1,0 +1,77 @@
+{
+ "cache": [
+  [
+   "keyv:Old Armchair",
+   {
+    "value": "{\"value\":\"古いアームチェア\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Classic Couch",
+   {
+    "value": "{\"value\":\"クラシックソファ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Classic Lounge Chair",
+   {
+    "value": "{\"value\":\"クラシックラウンジチェア\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Victorian Clock",
+   {
+    "value": "{\"value\":\"ビクトリア朝の時計\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Victorian Couch 01",
+   {
+    "value": "{\"value\":\"ビクトリア朝のソファ01\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Victorian Couch 02",
+   {
+    "value": "{\"value\":\"ビクトリア朝のソファ02\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:1980s Atari",
+   {
+    "value": "{\"value\":\"1980年代アタリ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fun for the entire family. As long as you are not the one holding controller 2.",
+   {
+    "value": "{\"value\":\"家族全員で楽しめます。あなたがコントローラー2を持っている人でない限り。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:1980s Computer",
+   {
+    "value": "{\"value\":\"1980年代のコンピューター\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Where it all started for you. Does it have Pong?",
+   {
+    "value": "{\"value\":\"それがすべてあなたのために始まったところ。ポンはありますか？\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:1980s VCR",
+   {
+    "value": "{\"value\":\"1980年代のVCR\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Kick back and enjoy your 9th viewing of Re-Animator. Dont forget to be kind and rewind!",
+   {
+    "value": "{\"value\":\"キックバックして、Re-Animatorの9回目の視聴をお楽しみください。親切にして巻き戻すことを忘れないでください！\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412120886
+}

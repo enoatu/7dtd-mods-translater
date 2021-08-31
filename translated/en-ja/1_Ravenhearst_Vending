@@ -1,0 +1,101 @@
+{
+ "cache": [
+  [
+   "keyv:= Custom Vending = Random Helper",
+   {
+    "value": "{\"value\":\"=カスタム販売=ランダムヘルパー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Vintage Vending Machine",
+   {
+    "value": "{\"value\":\"ヴィンテージ自動販売機\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Arcade Machine",
+   {
+    "value": "{\"value\":\"アーケードマシン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:ATM ",
+   {
+    "value": "{\"value\":\"ATM\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gumball Machine",
+   {
+    "value": "{\"value\":\"ガムボールマシン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:= Slot Machine = Random Helper",
+   {
+    "value": "{\"value\":\"=スロットマシン=ランダムヘルパー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Casino Chip",
+   {
+    "value": "{\"value\":\"カジノチップ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Casino Chips can be traded in for Tellers but the real value is finding a one armed bandit and using it to test your luck!",
+   {
+    "value": "{\"value\":\"カジノチップはテラーと交換できますが、本当の価値は片腕の盗賊を見つけてそれを使って運を試すことです！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Insert 25 Chips to Spin",
+   {
+    "value": "{\"value\":\"スピンする25チップを挿入\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Winner, Winner! Chicken Dinner!",
+   {
+    "value": "{\"value\":\"勝者、勝者！チキンディナー！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Slot Machine (100)",
+   {
+    "value": "{\"value\":\"スロットマシン（100）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Slot Machine (25)",
+   {
+    "value": "{\"value\":\"スロットマシン（25）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Slot Machine (500)",
+   {
+    "value": "{\"value\":\"スロットマシン（500）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Insert 100 Chips to Spin",
+   {
+    "value": "{\"value\":\"スピンするチップを100個挿入\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Insert 500 Chips to Spin",
+   {
+    "value": "{\"value\":\"スピンする500チップを挿入\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Broken Slot Machine",
+   {
+    "value": "{\"value\":\"壊れたスロットマシン\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121125
+}

@@ -1,0 +1,107 @@
+{
+ "cache": [
+  [
+   "keyv:Hardened Chest (Storage)",
+   {
+    "value": "{\"value\":\"硬化チェスト（収納）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Highest level of security for storing your items. Lots of extra space too.",
+   {
+    "value": "{\"value\":\"アイテムを保管するための最高レベルのセキュリティ。余分なスペースもたくさんあります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hardened Chest",
+   {
+    "value": "{\"value\":\"硬化したチェスト\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gun Safe (Storage)",
+   {
+    "value": "{\"value\":\"ガンセーフ（保管）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Desk Safe (Storage)",
+   {
+    "value": "{\"value\":\"デスクセーフ（ストレージ）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Wall Safe (Storage)",
+   {
+    "value": "{\"value\":\"ウォールセーフ（保管）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Drawer (Storage)",
+   {
+    "value": "{\"value\":\"引き出し（収納）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cardboard Box (Storage)",
+   {
+    "value": "{\"value\":\"段ボール箱（収納）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Have to store your stuff somewhere.",
+   {
+    "value": "{\"value\":\"自分のものをどこかに保管する必要があります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cardboard Storage Schematic",
+   {
+    "value": "{\"value\":\"段ボール収納概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Writable Storage Box Large (Storage)",
+   {
+    "value": "{\"value\":\"書き込み可能な収納ボックス大（収納）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Writable Storage Box Large Insecure",
+   {
+    "value": "{\"value\":\"書き込み可能な収納ボックス大規模な安全ではない\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Large Storage Schematic",
+   {
+    "value": "{\"value\":\"大容量ストレージの概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Armored Chest (Storage)",
+   {
+    "value": "{\"value\":\"アーマードチェスト（収納）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Armored Chest Insecure",
+   {
+    "value": "{\"value\":\"装甲胸が安全でない\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Secure Storage Chest",
+   {
+    "value": "{\"value\":\"安全な収納チェスト\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Storage Chest",
+   {
+    "value": "{\"value\":\"収納チェスト\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121088
+}

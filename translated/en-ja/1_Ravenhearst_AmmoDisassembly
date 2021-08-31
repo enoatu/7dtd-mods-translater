@@ -1,0 +1,461 @@
+{
+ "cache": [
+  [
+   "keyv:Disassemble this type of ammo and get back half the original resources used to make them",
+   {
+    "value": "{\"value\":\"このタイプの弾薬を分解し、それらを作るために使用された元のリソースの半分を取り戻します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble 7.62mm (10)",
+   {
+    "value": "{\"value\":\"7.62mm（10）を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble 7.62mm (50)",
+   {
+    "value": "{\"value\":\"7.62mm（50）を分解する\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble 7.62mm (250)",
+   {
+    "value": "{\"value\":\"7.62mm（250）を分解する\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble AP 7.62mm (10)",
+   {
+    "value": "{\"value\":\"AP 7.62mmを分解します（10）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble AP 7.62mm (50)",
+   {
+    "value": "{\"value\":\"AP 7.62mm（50）を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble AP 7.62mm (250)",
+   {
+    "value": "{\"value\":\"AP 7.62mm（250）を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble HP 7.62mm (10)",
+   {
+    "value": "{\"value\":\"HP 7.62mm（10）を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble HP 7.62mm (50)",
+   {
+    "value": "{\"value\":\"HP 7.62mm（50）を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble HP 7.62mm (250)",
+   {
+    "value": "{\"value\":\"HP 7.62mm（250）を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble 9mm (10)",
+   {
+    "value": "{\"value\":\"9mm（10）を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble 9mm (50)",
+   {
+    "value": "{\"value\":\"9mm（50）を分解する\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble 9mm (250)",
+   {
+    "value": "{\"value\":\"9mm（250）を分解する\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble AP 9mm (10)",
+   {
+    "value": "{\"value\":\"AP 9mm（10）を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble AP 9mm (50)",
+   {
+    "value": "{\"value\":\"AP 9mm（50）を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble AP 9mm (250)",
+   {
+    "value": "{\"value\":\"AP 9mm（250）を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble HP 9mm (10)",
+   {
+    "value": "{\"value\":\"HP 9mm（10）を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble HP 9mm (50)",
+   {
+    "value": "{\"value\":\"HP 9mm（50）を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble HP 9mm (250)",
+   {
+    "value": "{\"value\":\"HP 9mm（250）を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble 44Magnum (10)",
+   {
+    "value": "{\"value\":\"44マグナム弾を分解する（10）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble 44Magnum (50)",
+   {
+    "value": "{\"value\":\"44マグナム弾を分解する（50）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble 44Magnum (250)",
+   {
+    "value": "{\"value\":\"44マグナム弾（250）を分解する\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble AP 44Magnum (10)",
+   {
+    "value": "{\"value\":\"AP 44マグナム弾を分解する（10）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble AP 44Magnum (50)",
+   {
+    "value": "{\"value\":\"AP 44マグナム（50）を分解する\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble AP 44Magnum (250)",
+   {
+    "value": "{\"value\":\"AP 44マグナム（250）を分解する\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble HP 44Magnum (10)",
+   {
+    "value": "{\"value\":\"HP 44マグナム（10）を分解する\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble HP 44Magnum (50)",
+   {
+    "value": "{\"value\":\"HP 44マグナム（50）を分解する\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble HP 44Magnum (250)",
+   {
+    "value": "{\"value\":\"HP 44マグナム（250）を分解する\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble Shotgun Shells (10)",
+   {
+    "value": "{\"value\":\"ショットガンシェルを分解する（10）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble Shotgun Shells (50)",
+   {
+    "value": "{\"value\":\"ショットガンシェルを分解する（50）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble Shotgun Shells (250)",
+   {
+    "value": "{\"value\":\"ショットガンシェルを分解する（250）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble Shotgun Slugs (10)",
+   {
+    "value": "{\"value\":\"ショットガンスラッグを分解する（10）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble Shotgun Slugs (50)",
+   {
+    "value": "{\"value\":\"ショットガンスラッグを分解する（50）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble Shotgun Slugs (250)",
+   {
+    "value": "{\"value\":\"ショットガンスラッグを分解する（250）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble Shotgun Breaching Slugs (10)",
+   {
+    "value": "{\"value\":\"ショットガン破砕スラッグを分解する（10）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble Shotgun Breaching Slugs (50)",
+   {
+    "value": "{\"value\":\"ショットガン破砕スラッグを分解する（50）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble Shotgun Breaching Slugs (250)",
+   {
+    "value": "{\"value\":\"ショットガン破砕スラッグを分解する（250）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble 10 of this type of ammo and get back half the original resources used to make them",
+   {
+    "value": "{\"value\":\"このタイプの弾薬を10個分解し、それらを作るために使用された元のリソースの半分を取り戻します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble 50 of this type of ammo and get back half the original resources used to make them",
+   {
+    "value": "{\"value\":\"このタイプの弾薬を50個分解し、それらを作るために使用された元のリソースの半分を取り戻します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble 250 of this type of ammo and get back half the original resources used to make them",
+   {
+    "value": "{\"value\":\"このタイプの弾薬を250個分解し、それらを作るために使用された元のリソースの半分を取り戻します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble 7.62mm x 10",
+   {
+    "value": "{\"value\":\"7.62mm x10を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble 7.62mm x 50",
+   {
+    "value": "{\"value\":\"7.62mm x50を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble 7.62mm x 250",
+   {
+    "value": "{\"value\":\"7.62mm x250を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble HP 7.62mm x 10",
+   {
+    "value": "{\"value\":\"HP 7.62mm x10を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble HP 7.62mm x 50",
+   {
+    "value": "{\"value\":\"HP 7.62mm x50を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble HP 7.62mm x 250",
+   {
+    "value": "{\"value\":\"HP 7.62mm x250を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble AP 7.62mm x 10",
+   {
+    "value": "{\"value\":\"AP 7.62mm x10を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble AP 7.62mm x 50",
+   {
+    "value": "{\"value\":\"AP 7.62mm x50を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble AP 7.62mm x 250",
+   {
+    "value": "{\"value\":\"AP 7.62mm x250を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble 9mm x 10",
+   {
+    "value": "{\"value\":\"9mm x10を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble 9mm x 50",
+   {
+    "value": "{\"value\":\"9mm x50を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble 9mm x 250",
+   {
+    "value": "{\"value\":\"9mm x250を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble HP 9mm x 10",
+   {
+    "value": "{\"value\":\"HP 9mm x10を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble HP 9mm x 50",
+   {
+    "value": "{\"value\":\"HP 9mm x50を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble HP 9mm x 250",
+   {
+    "value": "{\"value\":\"HP 9mm x250を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble AP 9mm x 10",
+   {
+    "value": "{\"value\":\"AP 9mm x10を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble AP 9mm x 50",
+   {
+    "value": "{\"value\":\"AP 9mm x50を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble AP 9mm x 250",
+   {
+    "value": "{\"value\":\"AP 9mm x250を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble 44 Magnum x 10",
+   {
+    "value": "{\"value\":\"44マグナムx10を分解する\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble 44 Magnum x 50",
+   {
+    "value": "{\"value\":\"44マグナムx50を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble 44 Magnum x 250",
+   {
+    "value": "{\"value\":\"44マグナムx250を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble HP 44 Magnum x 10",
+   {
+    "value": "{\"value\":\"HP44マグナムx10を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble HP 44 Magnum x 50",
+   {
+    "value": "{\"value\":\"HP44マグナムx50を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble HP 44 Magnum x 250",
+   {
+    "value": "{\"value\":\"HP44マグナムx250を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble AP 44 Magnum x 10",
+   {
+    "value": "{\"value\":\"AP44マグナムx10を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble AP 44 Magnum x 50",
+   {
+    "value": "{\"value\":\"AP44マグナムx50を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble AP 44 Magnum x 250",
+   {
+    "value": "{\"value\":\"AP44マグナムx250を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble Shotgun Shell x 10",
+   {
+    "value": "{\"value\":\"ショットガンシェルx10を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble Shotgun Shell x 50",
+   {
+    "value": "{\"value\":\"ショットガンシェルx50を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble Shotgun Shell x 250",
+   {
+    "value": "{\"value\":\"ショットガンシェルx250を分解します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble Shotgun Slug x 10",
+   {
+    "value": "{\"value\":\"ショットガンスラッグx10を分解する\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble Shotgun Slug x 50",
+   {
+    "value": "{\"value\":\"ショットガンスラッグx50を分解する\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble Shotgun Slug x 250",
+   {
+    "value": "{\"value\":\"ショットガンスラッグx250を分解する\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble Shotgun Breaching Slug x 10",
+   {
+    "value": "{\"value\":\"ショットガン破砕スラグx10を分解する\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble Shotgun Breaching Slug x 50",
+   {
+    "value": "{\"value\":\"ショットガン破砕スラグx50を分解する\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Disassemble Shotgun Breaching Slug x 250",
+   {
+    "value": "{\"value\":\"ショットガン破砕スラグx250を分解する\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412120741
+}

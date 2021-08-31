@@ -1,0 +1,227 @@
+{
+ "cache": [
+  [
+   "keyv:Toolhead: Stone Axe",
+   {
+    "value": "{\"value\":\"ツールヘッド：ストーンアックス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Use this toolhead and attach it to a handle to create a tool or weapon.",
+   {
+    "value": "{\"value\":\"このツールヘッドを使用してハンドルに取り付け、ツールまたは武器を作成します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Toolhead: Stone Pickaxe",
+   {
+    "value": "{\"value\":\"ツールヘッド：Stone Pickaxe\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Toolhead: Stone Shovel",
+   {
+    "value": "{\"value\":\"ツールヘッド：ストーンシャベル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Toolhead: Stone Sledgehammer",
+   {
+    "value": "{\"value\":\"ツールヘッド：ストーンスレッジハンマー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Primitive Handle",
+   {
+    "value": "{\"value\":\"プリミティブハンドル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A flimsy handle designed to get the job done. Attach a toolhead to it with cordage for a perfectly fine primitive tool.",
+   {
+    "value": "{\"value\":\"仕事を成し遂げるために設計された薄っぺらなハンドル。完全に細かい原始的なツールのために、コードでツールヘッドをそれに取り付けます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Toolhead: Iron Axe",
+   {
+    "value": "{\"value\":\"ツールヘッド：アイアンアックス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Toolhead: Iron Pickaxe",
+   {
+    "value": "{\"value\":\"ツールヘッド：Iron Pickaxe\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Toolhead: Iron Shovel",
+   {
+    "value": "{\"value\":\"ツールヘッド：鉄のシャベル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Toolhead: Iron Sledgehammer",
+   {
+    "value": "{\"value\":\"ツールヘッド：アイアンスレッジハンマー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sturdy Handle",
+   {
+    "value": "{\"value\":\"丈夫なハンドル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Toolhead: Steel Axe",
+   {
+    "value": "{\"value\":\"ツールヘッド：鋼の斧\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Toolhead: Steel Pickaxe",
+   {
+    "value": "{\"value\":\"ツールヘッド：スチールつるはし\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Toolhead: Steel Shovel",
+   {
+    "value": "{\"value\":\"ツールヘッド：スチールショベル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Toolhead: Steel Sledgehammer",
+   {
+    "value": "{\"value\":\"ツールヘッド：スチールスレッジハンマー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Toolhead: Steel Machete",
+   {
+    "value": "{\"value\":\"ツールヘッド：スチールマチェーテ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Toolhead: Chrome Axe",
+   {
+    "value": "{\"value\":\"ツールヘッド：Chrome Axe\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Toolhead: Chrome Pickaxe",
+   {
+    "value": "{\"value\":\"ツールヘッド：Chrome Pickaxe\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Toolhead: Aluminum Axe",
+   {
+    "value": "{\"value\":\"ツールヘッド：アルミ斧\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Toolhead: Aluminum Pickaxe",
+   {
+    "value": "{\"value\":\"ツールヘッド：アルミニウムつるはし\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Toolhead: Tungsten Axe",
+   {
+    "value": "{\"value\":\"ツールヘッド：タングステン斧\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Toolhead: Tungsten Pickaxe",
+   {
+    "value": "{\"value\":\"ツールヘッド：タングステンつるはし\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Toolhead: Chrome Machete",
+   {
+    "value": "{\"value\":\"ツールヘッド：Chrome Machete\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Toolhead: Tungsten Machete",
+   {
+    "value": "{\"value\":\"ツールヘッド：タングステンマチェーテ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Chrome Crossbow Bolt (Ammo)",
+   {
+    "value": "{\"value\":\"クロームクロスボウボルト（弾薬）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A chrome-tipped bolt for the crossbow. Hold reload to use alternate ammo.",
+   {
+    "value": "{\"value\":\"クロスボウ用の先端がクロームのボルト。代替弾薬を使用するには、リロードを押し続けます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Chrome Arrow (Ammo)",
+   {
+    "value": "{\"value\":\"クロームアロー（弾薬）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Chrome-tipped arrows do yet more damage and fly straighter.\\nHold reload to use alternate ammo.",
+   {
+    "value": "{\"value\":\"先端がクロームの矢はさらにダメージを与え、まっすぐ飛んでいきます。\\\\nリロードを押し続けると、別の弾薬が使用されます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Chrome Arrowhead",
+   {
+    "value": "{\"value\":\"ChromeArrowhead\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A chrome broadhead tip used to craft iron arrows and bolts.",
+   {
+    "value": "{\"value\":\"鉄の矢とボルトを作るために使用されるクロムブロードヘッドチップ。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tungsten Arrowhead",
+   {
+    "value": "{\"value\":\"タングステンアローヘッド\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A tungsten broadhead tip used to craft iron arrows and bolts.",
+   {
+    "value": "{\"value\":\"鉄の矢とボルトを作るために使用されるタングステンブロードヘッドチップ。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tungsten Arrow (Ammo)",
+   {
+    "value": "{\"value\":\"タングステンアロー（弾薬）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tungsten-tipped arrows do yet more damage and fly straighter.\\nHold reload to use alternate ammo.",
+   {
+    "value": "{\"value\":\"先端がタングステンの矢はさらにダメージを与え、まっすぐ飛んでいきます。\\\\nリロードを押し続けると、別の弾薬が使用されます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tungsten Crossbow Bolt (Ammo)",
+   {
+    "value": "{\"value\":\"タングステンクロスボウボルト（弾薬）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A tungsten-tipped bolt for the crossbow. Hold reload to use alternate ammo.",
+   {
+    "value": "{\"value\":\"クロスボウ用の先端がタングステンのボルト。代替弾薬を使用するには、リロードを押し続けます。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121094
+}

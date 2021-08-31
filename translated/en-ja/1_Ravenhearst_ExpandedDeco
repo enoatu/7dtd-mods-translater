@@ -1,0 +1,41 @@
+{
+ "cache": [
+  [
+   "keyv:Doors Block",
+   {
+    "value": "{\"value\":\"ドアブロック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Kitchen Furniture Block",
+   {
+    "value": "{\"value\":\"キッチン家具ブロック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Home Furniture Block",
+   {
+    "value": "{\"value\":\"家の家具ブロック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Construction Block",
+   {
+    "value": "{\"value\":\"建設ブロック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Technology Block",
+   {
+    "value": "{\"value\":\"テクノロジーブロック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pedestal Sink",
+   {
+    "value": "{\"value\":\"ペデスタルシンク\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412120898
+}

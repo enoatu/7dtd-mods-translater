@@ -1,0 +1,425 @@
+{
+ "cache": [
+  [
+   "keyv:#spawn_normhorde",
+   {
+    "value": "{\"value\":\"#spawn_normhorde\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Spawns 4 normal zombies.",
+   {
+    "value": "{\"value\":\"通常のゾンビを4体スポーンします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Normal Zombies",
+   {
+    "value": "{\"value\":\"通常のゾンビ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Boomer Zombies",
+   {
+    "value": "{\"value\":\"ブーマーゾンビ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:#spawn_boomers",
+   {
+    "value": "{\"value\":\"#spawn_boomers\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Spawns 3 Cop or Demo Zombies.",
+   {
+    "value": "{\"value\":\"3つの警官またはデモゾンビをスポーンします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Screamer Zombie",
+   {
+    "value": "{\"value\":\"スクリーマーゾンビ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:#spawn_screamer",
+   {
+    "value": "{\"value\":\"#spawn_screamer\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Spawns a Screamer Zombie.",
+   {
+    "value": "{\"value\":\"スクリーマーゾンビをスポーンします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Feral Screamer Zombie",
+   {
+    "value": "{\"value\":\"フェラルスクリーマーゾンビ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:#spawn_screamerferal",
+   {
+    "value": "{\"value\":\"#spawn_screamerferal\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Spawns a Feral Screamer Zombie.",
+   {
+    "value": "{\"value\":\"フェラルスクリーマーゾンビをスポーンします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Burning Zombies",
+   {
+    "value": "{\"value\":\"燃えるゾンビ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:#spawn_lovers",
+   {
+    "value": "{\"value\":\"#spawn_lovers\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Spawns a large burning Arlene and Cowboy (Much to a Woodle's Dismay).",
+   {
+    "value": "{\"value\":\"大きく燃えるアーリーンとカウボーイをスポーンします（Woodle's Dismayに大いに）。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Football Zombies",
+   {
+    "value": "{\"value\":\"サッカーゾンビ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:#spawn_peewee",
+   {
+    "value": "{\"value\":\"#spawn_peewee\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Spawns a horde of mini football players.",
+   {
+    "value": "{\"value\":\"ミニサッカー選手の大群を生み出します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Stupid Birds",
+   {
+    "value": "{\"value\":\"愚かな鳥\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:#spawn_capp",
+   {
+    "value": "{\"value\":\"#spawn_capp\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Spawns a horde of Stupid Birds.",
+   {
+    "value": "{\"value\":\"愚かな鳥の大群を生み出します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Titan Zombie",
+   {
+    "value": "{\"value\":\"タイタンゾンビ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:#spawn_armortitan",
+   {
+    "value": "{\"value\":\"#spawn_armortitan\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Spawns a Titan.",
+   {
+    "value": "{\"value\":\"タイタンをスポーンします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:#spawn_femaletitan",
+   {
+    "value": "{\"value\":\"#spawn_femaletitan\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:#spawn_coltitan",
+   {
+    "value": "{\"value\":\"#spawn_coltitan\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:#spawn_aot",
+   {
+    "value": "{\"value\":\"#spawn_aot\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Spawns all Titans.",
+   {
+    "value": "{\"value\":\"すべてのタイタンをスポーンします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Spider Zombie",
+   {
+    "value": "{\"value\":\"スパイダーゾンビ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:#spawn_spiderswarm",
+   {
+    "value": "{\"value\":\"#spawn_spiderswarm\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Spawns 3 spider zombies.",
+   {
+    "value": "{\"value\":\"3つのスパイダーゾンビをスポーンします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Female Zombies",
+   {
+    "value": "{\"value\":\"女性ゾンビ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:#spawn_bookclub",
+   {
+    "value": "{\"value\":\"#spawn_bookclub\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Spawns BIG MAMA and her book club (Idea from Tinfoil_Tim_Gaming).",
+   {
+    "value": "{\"value\":\"BIG MAMAと彼女のブッククラブ（Tinfoil_Tim_Gamingのアイデア）を生成します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Rocket Boots",
+   {
+    "value": "{\"value\":\"ロケットブーツ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:#rocketman",
+   {
+    "value": "{\"value\":\"＃ロケットマン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:20 seconds of Rocket Boots (Idea from Zedtubegaming).",
+   {
+    "value": "{\"value\":\"20秒のロケットブーツ（Zedtubegamingのアイデア）。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Wolf Pack",
+   {
+    "value": "{\"value\":\"オオカミの群れ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:#spawn_wolfpack",
+   {
+    "value": "{\"value\":\"#spawn_wolfpack\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Spawns 2 Jimmy Wolves (Idea from J1mmybo1000).",
+   {
+    "value": "{\"value\":\"ジミーオオカミを2体スポーンします（J1mmybo1000のアイデア）。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Try your luck",
+   {
+    "value": "{\"value\":\"運試しを\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:#roulette",
+   {
+    "value": "{\"value\":\"＃ルーレット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Spawns either a chicken a rabbit or a special Demolition Zombie.",
+   {
+    "value": "{\"value\":\"鶏、ウサギ、または特別な解体ゾンビのいずれかをスポーンします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Ring of Fire",
+   {
+    "value": "{\"value\":\"炎の輪\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:#fried",
+   {
+    "value": "{\"value\":\"#fried\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:20 seconds of Ring of Fire Dev Item (Idea from FriedFrogin).",
+   {
+    "value": "{\"value\":\"20秒のRingof Fire Dev Item（FriedFroginのアイデア）。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Wolves",
+   {
+    "value": "{\"value\":\"オオカミ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:#spawn_anklebiters",
+   {
+    "value": "{\"value\":\"#spawn_anklebiters\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Spawns 7 mini wolves(Idea from Tinfoil_Tim_Gaming).",
+   {
+    "value": "{\"value\":\"7匹のミニオオカミをスポーンします（Tinfoil_Tim_Gamingのアイデア）。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Dysentery",
+   {
+    "value": "{\"value\":\"赤痢\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:#poopybutt",
+   {
+    "value": "{\"value\":\"#poopybutt\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gives Dysentery.",
+   {
+    "value": "{\"value\":\"赤痢を起こします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Broken leg",
+   {
+    "value": "{\"value\":\"足の骨折\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:#brokenleg",
+   {
+    "value": "{\"value\":\"#brokenleg\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gives a Broken Leg.",
+   {
+    "value": "{\"value\":\"足の骨折をします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Biker Zombies",
+   {
+    "value": "{\"value\":\"バイカーゾンビ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:#spawn_hellsangels",
+   {
+    "value": "{\"value\":\"#spawn_hellsangels\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Spawns a Radiated Biker and 2 normal bikers (Idea from MorbidlyMorose).",
+   {
+    "value": "{\"value\":\"Radiated Bikerと2人の通常のバイカー（MorbidlyMoroseのアイデア）をスポーンします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Medical Zombies",
+   {
+    "value": "{\"value\":\"医療ゾンビ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:#spawn_whambulance",
+   {
+    "value": "{\"value\":\"#spawn_whambulance\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Spawns 2 Feral Nurses and a Hazmat Zombie (Idea from MorbidlyMorose).",
+   {
+    "value": "{\"value\":\"2人の野生の看護師と危険物ゾンビ（MorbidlyMoroseのアイデア）をスポーンします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Super Fast Buff",
+   {
+    "value": "{\"value\":\"超高速バフ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:#sonic",
+   {
+    "value": "{\"value\":\"#sonic\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cancels [FFAFAF]Slow[-] if enabled on Target or Massively increases the running speed of the target and their party for 60 seconds.",
+   {
+    "value": "{\"value\":\"ターゲットで有効になっている場合は[FFAFAF] Slow [-]をキャンセルするか、ターゲットとそのパーティの実行速度を60秒間大幅に上げます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Mega Crawler Zombie",
+   {
+    "value": "{\"value\":\"メガクローラーゾンビ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:#spawn_simon",
+   {
+    "value": "{\"value\":\"#spawn_simon\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Spawns Simon the Killer Crawler.",
+   {
+    "value": "{\"value\":\"サイモン・ザ・キラー・クローラーをスポーンします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Lucky Looting",
+   {
+    "value": "{\"value\":\"ラッキー略奪\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:#looter",
+   {
+    "value": "{\"value\":\"#looter\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:90 Seconds of Eye Kandy.",
+   {
+    "value": "{\"value\":\"アイキャンディーの90秒。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121327
+}

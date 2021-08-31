@@ -1,0 +1,59 @@
+{
+ "cache": [
+  [
+   "keyv:Roulette Table",
+   {
+    "value": "{\"value\":\"ルーレットテーブル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Blackjack Table",
+   {
+    "value": "{\"value\":\"ブラックジャックテーブル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Step right up everyone and take a game of chance with Mikes Casino! Never mind the tokens and cards in the back pocket of our dealer Dan.",
+   {
+    "value": "{\"value\":\"みんなをステップアップして、マイクカジノで運が左右するゲームをしましょう！ディーラーのダンの後ろポケットにあるトークンやカードは気にしないでください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Liquor Bottles Standing",
+   {
+    "value": "{\"value\":\"立っている酒瓶\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Liquor Bottles Mixed Few",
+   {
+    "value": "{\"value\":\"酒瓶混合数少ない\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Liquor Bottles Mixed Many",
+   {
+    "value": "{\"value\":\"酒瓶混合多\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:= Liquor Bottles = Random Helper",
+   {
+    "value": "{\"value\":\"=リカーボトル=ランダムヘルパー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Wine Bottle",
+   {
+    "value": "{\"value\":\"ワインボトル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bottle Container",
+   {
+    "value": "{\"value\":\"ボトルコンテナ\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412120881
+}

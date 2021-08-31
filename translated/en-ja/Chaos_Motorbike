@@ -1,0 +1,83 @@
+{
+ "cache": [
+  [
+   "keyv:Chaos Motorbike",
+   {
+    "value": "{\"value\":\"カオスバイク\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Why walk with the dead when you can ride!",
+   {
+    "value": "{\"value\":\"乗れるのになぜ死者と一緒に歩くのか！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Chaos Motorbike Chassis Body",
+   {
+    "value": "{\"value\":\"カオスバイクシャーシボディ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The beginning of something...awesome!",
+   {
+    "value": "{\"value\":\"何かの始まり...すごい！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Chaos Motorbike Completed Chassis",
+   {
+    "value": "{\"value\":\"ChaosMotorbike完成シャーシ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv: Nearly there !",
+   {
+    "value": "{\"value\":\" ほぼそこに！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Chaos Motorbike Handlebars",
+   {
+    "value": "{\"value\":\"カオスバイクハンドルバー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You might need these.",
+   {
+    "value": "{\"value\":\"これらが必要になる場合があります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Chaos Motorbike Seat",
+   {
+    "value": "{\"value\":\"カオスバイクシート\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Ride in Comfort.",
+   {
+    "value": "{\"value\":\"快適に乗る。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Chaos Motorbike Engine",
+   {
+    "value": "{\"value\":\"カオスバイクエンジン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv: For that extra power.",
+   {
+    "value": "{\"value\":\" その余分な力のために。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Chaos Motorbike Schematic",
+   {
+    "value": "{\"value\":\"カオスバイクの概略図\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121195
+}

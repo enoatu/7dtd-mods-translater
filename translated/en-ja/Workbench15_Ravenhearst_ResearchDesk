@@ -1,0 +1,47 @@
+{
+ "cache": [
+  [
+   "keyv:Research Desk",
+   {
+    "value": "{\"value\":\"リサーチデスク\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Study recipes and schematics at this desk.",
+   {
+    "value": "{\"value\":\"このデスクでレシピと回路図を勉強してください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Research Desk Schematic",
+   {
+    "value": "{\"value\":\"研究デスクの概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Knowledge Point",
+   {
+    "value": "{\"value\":\"ナレッジポイント\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Knowledge Points are gained by using collections of schematics and books in the Research Desk. You can also find them in the world.",
+   {
+    "value": "{\"value\":\"ナレッジポイントは、リサーチデスクの回路図や書籍のコレクションを使用して取得します。また、世界でそれらを見つけることができます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Ink",
+   {
+    "value": "{\"value\":\"インク\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Ink is used in the crafting of classes and quests.",
+   {
+    "value": "{\"value\":\"インクは、クラスやクエストの作成に使用されます。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121341
+}

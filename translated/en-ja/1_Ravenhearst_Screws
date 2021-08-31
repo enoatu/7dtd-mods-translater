@@ -1,0 +1,17 @@
+{
+ "cache": [
+  [
+   "keyv:Screws",
+   {
+    "value": "{\"value\":\"ネジ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Screws are needed in crafting metal objects",
+   {
+    "value": "{\"value\":\"金属製の物体を作るにはネジが必要です\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121082
+}

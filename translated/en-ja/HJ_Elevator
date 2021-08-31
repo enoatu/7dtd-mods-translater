@@ -1,0 +1,17 @@
+{
+ "cache": [
+  [
+   "keyv:Service lift",
+   {
+    "value": "{\"value\":\"サービスリフト\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Service lift «Camo»",
+   {
+    "value": "{\"value\":\"サービスリフト«カモ»\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121205
+}

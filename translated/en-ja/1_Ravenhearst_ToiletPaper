@@ -1,0 +1,17 @@
+{
+ "cache": [
+  [
+   "keyv:Toilet Paper",
+   {
+    "value": "{\"value\":\"トイレットペーパー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Score! Make sure you take it all just to be safe.",
+   {
+    "value": "{\"value\":\"スコア！安全のためにすべてを服用してください。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121091
+}

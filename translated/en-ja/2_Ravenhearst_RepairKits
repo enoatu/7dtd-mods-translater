@@ -1,0 +1,329 @@
+{
+ "cache": [
+  [
+   "keyv:Primitive Repair Kit",
+   {
+    "value": "{\"value\":\"プリミティブ修理キット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Kit to repair primitive tools and weapons",
+   {
+    "value": "{\"value\":\"原始的な道具や武器を修理するためのキット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Advanced Repair Kit",
+   {
+    "value": "{\"value\":\"高度な修理キット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Kit to repair advanced tools and weapons",
+   {
+    "value": "{\"value\":\"高度なツールや武器を修理するためのキット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:High End Repair Kit",
+   {
+    "value": "{\"value\":\"ハイエンド修理キット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Kit to repair aluminum tools and weapons",
+   {
+    "value": "{\"value\":\"アルミ工具や武器を修理するためのキット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Top Tier Repair Kit",
+   {
+    "value": "{\"value\":\"トップティア修理キット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Kit to repair chrome tools and weapons",
+   {
+    "value": "{\"value\":\"クロームツールと武器を修理するためのキット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Legendary Repair Kit",
+   {
+    "value": "{\"value\":\"伝説の修理キット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Kit to repair tungsten tools and weapons",
+   {
+    "value": "{\"value\":\"タングステン工具と武器を修理するためのキット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gun Repair Kit",
+   {
+    "value": "{\"value\":\"ガン修理キット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Kit to repair guns",
+   {
+    "value": "{\"value\":\"銃を修理するためのキット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Vehicle Repair Kit",
+   {
+    "value": "{\"value\":\"車両修理キット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Kit to repair vehicles",
+   {
+    "value": "{\"value\":\"車両を修理するためのキット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cloth Armor Repair Kit",
+   {
+    "value": "{\"value\":\"布鎧修理キット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Kit to repair cloth armor",
+   {
+    "value": "{\"value\":\"布の鎧を修理するためのキット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Leather Armor Repair Kit",
+   {
+    "value": "{\"value\":\"レザーアーマー修理キット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Kit to repair leather armor",
+   {
+    "value": "{\"value\":\"革の鎧を修理するためのキット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Iron Armor Repair Kit",
+   {
+    "value": "{\"value\":\"鉄鎧修理キット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Kit to repair iron armor",
+   {
+    "value": "{\"value\":\"鉄の鎧を修理するためのキット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Steel Armor Repair Kit",
+   {
+    "value": "{\"value\":\"スチールアーマー修理キット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Kit to repair steel armor",
+   {
+    "value": "{\"value\":\"鋼の鎧を修理するためのキット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Military Armor Repair Kit",
+   {
+    "value": "{\"value\":\"ミリタリーアーマー修理キット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Kit to repair military armor",
+   {
+    "value": "{\"value\":\"軍用鎧を修理するためのキット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Scrap Armor Repair Kit",
+   {
+    "value": "{\"value\":\"スクラップアーマー修理キット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Kit to repair scrap armor",
+   {
+    "value": "{\"value\":\"スクラップアーマーを修理するためのキット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A primitive tool useful for cutting wood, repairing & upgrading walls, doors & windows. Not the best weapon.\\nRepair with Primitive Repair Kit.\\nScrap to Small Stone.",
+   {
+    "value": "{\"value\":\"木材の切断、壁、ドア、窓の修理とアップグレードに役立つ原始的なツール。最高の武器ではありません。\\\\nプリミティブ修理キットで修理してください。\\\\n小さな石にスクラップしてください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The stone shovel is a primitive tool useful for digging dirt, sand or snow.\\nRepair with Primitive Repair Kit.\\nScrap to Small Stone.",
+   {
+    "value": "{\"value\":\"石のシャベルは、土、砂、雪を掘るのに役立つ原始的な道具です。\\\\n原始的な修理キットで修理します。\\\\n小さな石にスクラップします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The sledgehammer is one of the best weapons for cracking skulls.\\nRepair with Primitive Repair Kit.\\nScrap to Small Stone.",
+   {
+    "value": "{\"value\":\"スレッジハンマーは頭蓋骨を割るのに最適な武器の1つです。\\\\nプリミティブ修理キットで修理してください。\\\\n小さな石にスクラップしてください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Good for hunting and killing zombies. Uses arrows for ammunition.\\nHold reload to use alternate ammo.\\n\\nRepair with Primitive Repair Kit.\\nScrap to Wood.",
+   {
+    "value": "{\"value\":\"ゾンビを狩ったり殺したりするのに適しています。弾薬に矢印を使用します。\\\\nリロードを押し続けて代替弾薬を使用します。\\\\n\\\\nプリミティブ修理キットで修理します。\\\\n木にスクラップします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Spears have more range than other weapons and can also be thrown.\\nRepair with Primitive Repair Kit.\\nScrap to Small Stone.",
+   {
+    "value": "{\"value\":\"槍は他の武器よりも射程が広く、投げることもできます。\\\\nプリミティブ修理キットで修理します。\\\\n小さな石にスクラップします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A common part for a vehicles or generators.\\n\\n\\nRepair with an Advanced Repair Kit.",
+   {
+    "value": "{\"value\":\"車両または発電機の一般的な部品。\\\\n\\\\n\\\\n高度な修理キットで修理します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The nail gun is the best tool for repairing and upgrading base walls and not a bad weapon to boot if you have nails.\\n\\nRepair with an Advanced Repair Kit.\\nScrap to Mechanical parts.",
+   {
+    "value": "{\"value\":\"ネイルガンは、ベースの壁を修理およびアップグレードするための最良のツールであり、釘がある場合に起動するのに悪い武器ではありません。\\\\n\\\\n高度な修理キットで修理します。\\\\n機械部品にスクラップします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The steel pickaxe is best for breaking stone and harvesting minerals.\\n\\nRepair with an Advanced Repair Kit.\\nScrap to Iron.",
+   {
+    "value": "{\"value\":\"鋼のつるはしは、石を砕いたり鉱物を収穫したりするのに最適です。\\\\n\\\\n高度な修理キットで修理します。\\\\n鉄にスクラップします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The steel shovel is very durable and the ideal tool for digging through earth, sand or snow.\\n\\nRepair with an Advanced Repair Kit.\\nScrap to Iron.",
+   {
+    "value": "{\"value\":\"鋼製のシャベルは非常に耐久性があり、土、砂、雪を掘るのに理想的なツールです。\\\\n\\\\n高度な修理キットで修理します。\\\\n鉄にスクラップします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Chop down the biggest trees or zombies faster than Paul Bunyan with this great chainsaw that uses gasoline for fuel.\\n\\nRepair with an Advanced Repair Kit.\\nScrap to Motor Tool Parts.",
+   {
+    "value": "{\"value\":\"燃料にガソリンを使用するこの素晴らしいチェーンソーで、ポールバニヤンよりも速く最大の木やゾンビを切り倒します。\\\\n\\\\n高度な修理キットで修理します。\\\\nモーターツールパーツにスクラップします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Rock out with your auger out and be the envy of every miner when they see you sporting this sexy gas-powered auger.\\n\\nRepair with an Advanced Repair Kit.\\nScrap to Motor Tool Parts.",
+   {
+    "value": "{\"value\":\"オーガーを外に出して、このセクシーなガス式オーガーをスポーツしているのを見ると、すべての鉱夫の羨望の的になります。\\\\n\\\\n高度な修理キットで修理します。\\\\nモーターツールの部品にスクラップします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Time to get into a festive and stabby mood!\\nRegular attacks cause 1 Bleeding Wound and power attacks at least 2.\\n\\nRepair with an Advanced Repair Kit.",
+   {
+    "value": "{\"value\":\"お祝いのどろどろした気分に入る時が来ました！\\\\n通常の攻撃は1回の出血傷を引き起こし、少なくとも2回は力の攻撃を引き起こします。\\\\n\\\\n高度な修理キットで修理します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Great for chopping zombies and sometimes trees and gutting animals for meat.\\nRegular attacks cause 1 Bleeding Wound and power attacks at least 2.\\nRepair with an Advanced Repair Kit.\\nScrap to Iron.",
+   {
+    "value": "{\"value\":\"ゾンビを切り刻んだり、時には木を切り刻んだり、動物を肉用に内臓したりするのに最適です。\\\\n通常の攻撃では、出血による傷が1回発生し、少なくとも2回は力による攻撃が発生します。\\\\n高度な修理キットで修理します。\\\\n鉄にスクラップします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Happy beatdown days!\\n\\n\\nRepair with an Advanced Repair Kit.",
+   {
+    "value": "{\"value\":\"ビートダウンの日をお過ごしください！\\\\n\\\\n\\\\n高度な修理キットで修理してください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Steel clubs are very durable and hard-hitting.\\n\\nRepair with an Advanced Repair Kit.\\nScrap to Iron.",
+   {
+    "value": "{\"value\":\"スチールクラブは非常に耐久性があり、打撃を与えます。\\\\n\\\\n高度な修理キットで修理します。\\\\n鉄にスクラップします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Goes zap.\\n\\nRepair with an Advanced Repair Kit.\\nScrap to Stun Baton parts.",
+   {
+    "value": "{\"value\":\"ザップになります。\\\\n\\\\n高度な修理キットで修理します。\\\\nバトンの部品を気絶させるためにスクラップします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This high tech gadget made from junk can shred through metal and has a chance to dismember with each charged hit.",
+   {
+    "value": "{\"value\":\"がらくたから作られたこのハイテクガジェットは、金属を細断することができ、充電されたヒットごとに分解するチャンスがあります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The sledgehammer is one of the best weapons for cracking skulls.\\n\\nRepair with an Advanced Repair Kit.\\nScrap to Iron.",
+   {
+    "value": "{\"value\":\"スレッジハンマーは頭蓋骨を割るのに最適な武器の1つです。\\\\n\\\\n高度な修理キットで修理します。\\\\n鉄にスクラップします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A Rocket Launcher shoots rocket propelled grenades.\\n\\nRepair with an Advanced Repair Kit.\\nScrap to Rocket Launcher parts.",
+   {
+    "value": "{\"value\":\"ロケットランチャーはロケット推進手榴弾を発射します。\\\\n\\\\n高度な修理キットで修理します。\\\\nロケットランチャーの部品にスクラップします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A compound bow does more damage and arrows fly straighter which makes it easier to aim.\\n\\nRepair with an Advanced Repair Kit.\\nScrap to Iron.",
+   {
+    "value": "{\"value\":\"コンパウンドボウはより多くのダメージを与え、矢はまっすぐ飛ぶため、狙いを定めるのが簡単になります。\\\\n\\\\n高度な修理キットで修理します。\\\\n鉄にスクラップします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A crossbow is slow to reload but does more damage than a bow.\\nThis weapon can be fired underwater.\\nHold reload to use alternate ammo.\\nRepair with an Advanced Repair Kit.\\nScrap to Iron.",
+   {
+    "value": "{\"value\":\"クロスボウはリロードに時間がかかりますが、ボウよりもダメージが大きくなります。\\\\nこの武器は水中で発射できます。\\\\nリロードを押し続けて代替弾薬を使用します。\\\\n高度な修理キットで修理します。\\\\n鉄にスクラップします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This contraption can be fired and reloaded like a gun. It uses Robotic Turret Ammo for ammunition.\\nYou can also deploy it on the ground using the Secondary action.\\nRepair with an Advanced Repair Kit.\\nScrap to Robotics Parts.",
+   {
+    "value": "{\"value\":\"この仕掛けは、銃のように発射して再装填することができます。弾薬にロボット砲塔弾薬を使用します。\\\\n二次アクションを使用して地上に配備することもできます。\\\\n高度な修理キットで修理します。\\\\nロボット部品にスクラップします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The best tool for harvesting vehicle parts from wrecks found in the world.\\nRepair with an Advanced Repair Kit.",
+   {
+    "value": "{\"value\":\"世界で見つかった残骸から車両部品を収穫するための最良のツール。\\\\n高度な修理キットで修理します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Heavy armor will encumber you but provides good protection against damage.\\nIt will not protect you from the weather.\\n\\nRepair with an Advanced Repair Kit.\\nScrap to Iron.",
+   {
+    "value": "{\"value\":\"重装甲は邪魔になりますが、損傷からの保護は良好です。\\\\n天候からの保護にはなりません。\\\\n\\\\n高度な修理キットで修理してください。\\\\n鉄にスクラップしてください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This helmet offers very good defense & added heat resistance.\\n\\nRepair with an Advanced Repair Kit.\\nScrap to Iron.",
+   {
+    "value": "{\"value\":\"このヘルメットは非常に優れた防御力と追加の耐熱性を提供します。\\\\n\\\\n高度な修理キットで修理します。\\\\n鉄にスクラップします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Spears have more range than other weapons and can also be thrown.\\n\\nRepair with an Advanced Repair Kit.\\nScrap to Iron.",
+   {
+    "value": "{\"value\":\"槍は他の武器よりも射程が広く、投げることもできます。\\\\n\\\\n高度な修理キットで修理します。\\\\n鉄にスクラップします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Protect your hands and put some weight into those swings. These blades can also be useful for gutting animals.\\n\\nRepair with an Advanced Repair Kit.\\nScrap to Iron.",
+   {
+    "value": "{\"value\":\"あなたの手を保護し、それらのブランコにいくらかの重さを置いてください。これらのブレードは、動物を内臓するのにも役立ちます。\\\\n\\\\n高度な修理キットで修理します。\\\\n鉄にスクラップします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The steel axe has a durable blade and is great for harvesting wood.\\n\\nRepair with an Advanced Repair Kit.\\nScrap to Iron.",
+   {
+    "value": "{\"value\":\"鋼の斧は耐久性のある刃を持っており、木材の収穫に最適です。\\\\n\\\\n高度な修理キットで修理します。\\\\n鉄にスクラップします。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630412121153
+}
