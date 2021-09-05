@@ -7,7 +7,7 @@ by enoatu
 ## 開発用インストール
 7Days To Die のMods でディレクトリ構造を保ったままコピーする
 ```
-gfind . -type f -name "*ocalization*" | gsed "s/ /\\\ /g" | gsed "s/'/\\\'/g" | gxargs -i rsync -R {}  ../7dtd-rh-localization-japanese/resource && cd ../7dtd-rh-localization-japanese
+gfind . -type f -name "*ocalization*" | gsed "s/ /\\\ /g" | gsed "s/'/\\\'/g" | gxargs -i rsync -R {}  ../7dtd-mods-translater/resource/ZombieDayz/V9.2
 ```
 実行する(すでに翻訳されていない場合はGoogle翻訳で翻訳される)
 ```

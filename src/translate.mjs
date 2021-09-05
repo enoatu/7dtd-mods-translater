@@ -86,8 +86,8 @@ for (const [pathIndex, path] of paths.entries()) {
       continue
     }
 
-    if (rows[index].length < 4) {
-      // shortest: key,source,english
+    if (rows[index].length < 2) {
+      // shortest: key,english
       // sometime, comment
       delete rows[index]
       continue
@@ -181,7 +181,8 @@ function getFirstRowInfo(path, rows) {
     const isTranslated =
       rows[1] && utilsString.isTranslated(Config.targetLangNames.short, rows[1][lowerIndex]) ||
       rows[2] && utilsString.isTranslated(Config.targetLangNames.short, rows[2][lowerIndex]) ||
-      rows[3] && utilsString.isTranslated(Config.targetLangNames.short, rows[3][lowerIndex])
+      rows[3] && utilsString.isTranslated(Config.targetLangNames.short, rows[3][lowerIndex]) ||
+      rows[4] && utilsString.isTranslated(Config.targetLangNames.short, rows[4][lowerIndex])
     return {
       err: null,
       sourceColumnName,
@@ -195,7 +196,8 @@ function getFirstRowInfo(path, rows) {
     const isTranslated =
       rows[1] && utilsString.isTranslated(Config.targetLangNames.short, rows[1][lowerIndex]) ||
       rows[2] && utilsString.isTranslated(Config.targetLangNames.short, rows[2][lowerIndex]) ||
-      rows[3] && utilsString.isTranslated(Config.targetLangNames.short, rows[3][lowerIndex])
+      rows[3] && utilsString.isTranslated(Config.targetLangNames.short, rows[3][lowerIndex]) ||
+      rows[4] && utilsString.isTranslated(Config.targetLangNames.short, rows[4][lowerIndex])
     return {
       err: null,
       sourceColumnName,
