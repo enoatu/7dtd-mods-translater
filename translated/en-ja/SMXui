@@ -1,0 +1,17 @@
+{
+ "cache": [
+  [
+   "keyv:ChangeLog - SMXui...",
+   {
+    "value": "{\"value\":\"ChangeLog-SMXui..。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[AF1E19]*[-] Stepped away from build numbers in version numbering.\\n[AF1E19]*[-] Fixed: Twitch Integration changes added.\\n",
+   {
+    "value": "{\"value\":\"[AF1E19] * [-]バージョン番号のビルド番号から離れました。\\\\n[AF1E19] * [-]修正：Twitch統合の変更が追加されました。\\\\n\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630848793362
+}

@@ -1,0 +1,35 @@
+{
+ "cache": [
+  [
+   "keyv:wine Barrel Empty",
+   {
+    "value": "{\"value\":\"ワイン樽が空\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:wine Barrel Set Empty ",
+   {
+    "value": "{\"value\":\"ワイン樽セットが空\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:wine Barrel Plain Empty ",
+   {
+    "value": "{\"value\":\"ワイン樽プレーンエンプティ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:wine Barrel",
+   {
+    "value": "{\"value\":\"ワイン樽\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:wine Barrel Plain",
+   {
+    "value": "{\"value\":\"ワイン樽平野\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630848818366
+}

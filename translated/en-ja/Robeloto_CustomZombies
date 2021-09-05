@@ -1,0 +1,209 @@
+{
+ "cache": [
+  [
+   "keyv:Drugged",
+   {
+    "value": "{\"value\":\"薬漬け\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have been drugged. Take Amoxillin to cure it instantly",
+   {
+    "value": "{\"value\":\"あなたは薬を飲まされました。アモキシシリンを服用してすぐに治してください\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Candy",
+   {
+    "value": "{\"value\":\"あめ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:CandyGirl gave you super speed!",
+   {
+    "value": "{\"value\":\"CandyGirlはあなたに超高速を与えました！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Brightness",
+   {
+    "value": "{\"value\":\"輝度\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have been touched by Chroma. Wait for your eyes to recover or find Amoxillin!",
+   {
+    "value": "{\"value\":\"あなたはクロマに感動しました。目が回復するのを待つか、アモキシシリンを見つけてください！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Blind",
+   {
+    "value": "{\"value\":\"盲目\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have been blinded! Take an Amoxil pill to cure it instantly!",
+   {
+    "value": "{\"value\":\"あなたは盲目です！アモキシシリンの錠剤を服用して、すぐに治してください！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Freezed",
+   {
+    "value": "{\"value\":\"凍結\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have been freezed! Drink some BlackStrapCoffee or Hot Cocoa",
+   {
+    "value": "{\"value\":\"あなたは凍結されました！ BlackStrapCoffeeまたはホットココアを飲む\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pneumonia",
+   {
+    "value": "{\"value\":\"肺炎\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have Pneumonia. Get some Amoxil before you lose health!",
+   {
+    "value": "{\"value\":\"あなたは肺炎を患っています。健康を失う前にアモキシシリンを手に入れましょう！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Open wound",
+   {
+    "value": "{\"value\":\"傷が開く\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have a open wound! Treat it with medical bandage or first aid",
+   {
+    "value": "{\"value\":\"あなたは開いた傷を持っています！医療用包帯または応急処置で治療してください\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:WhiteNoise",
+   {
+    "value": "{\"value\":\"白色雑音\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The White noise zombie have affected your sight!",
+   {
+    "value": "{\"value\":\"ホワイトノイズゾンビがあなたの視力に影響を与えました！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Severe wound",
+   {
+    "value": "{\"value\":\"重傷\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have been wounded by a Predator! Apply bandage or first aid bandage",
+   {
+    "value": "{\"value\":\"あなたは捕食者によって負傷しました！包帯または応急処置包帯を適用します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:StaminaLoss_BadSight",
+   {
+    "value": "{\"value\":\"StaminaLoss_BadSight\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Your stamina and sight has been reduced. Take an Amoxil pill to regain sight and some stamina",
+   {
+    "value": "{\"value\":\"スタミナと視力が低下しました。アモキシシリンの錠剤を服用して、視力とスタミナを取り戻します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The Mummy Quest",
+   {
+    "value": "{\"value\":\"ミイラクエスト\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hunt down a Mummy",
+   {
+    "value": "{\"value\":\"ミイラを追い詰める\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Challenge Mummy",
+   {
+    "value": "{\"value\":\"ミイラに挑戦\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Find a Mummy and kill it",
+   {
+    "value": "{\"value\":\"ミイラを見つけて殺す\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Kill the Mummy located at these coordinates",
+   {
+    "value": "{\"value\":\"これらの座標にあるミイラを殺す\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Prove your worth! \\nThese Mummys are dangerous! \\nYou need to find a Mummy and kill it. \\nCome on ...Get to work!",
+   {
+    "value": "{\"value\":\"あなたの価値を証明してください！ \\\\nこれらのミイラは危険です！ \\\\nミイラを見つけて殺す必要があります。 \\\\nさあ...仕事に取り掛かりましょう！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Great work Survivor",
+   {
+    "value": "{\"value\":\"素晴らしい仕事サバイバー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The Ghost Quest",
+   {
+    "value": "{\"value\":\"ゴーストクエスト\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Kill some Ghosts",
+   {
+    "value": "{\"value\":\"いくつかの幽霊を殺す\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Challenge Ghosts",
+   {
+    "value": "{\"value\":\"ゴーストに挑戦\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Find some Ghosts and kill them",
+   {
+    "value": "{\"value\":\"いくつかの幽霊を見つけて殺します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Kill the Ghosts located at these coordinates",
+   {
+    "value": "{\"value\":\"これらの座標にある幽霊を殺します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Show what you are capable of! \\nThese Ghosts are haunting these lands! \\nYou need to find them and kill them. \\nAnd good luck ...You will need it!",
+   {
+    "value": "{\"value\":\"あなたができることを示してください！ \\\\nこれらの幽霊はこれらの土地に出没しています！ \\\\nあなたはそれらを見つけて殺す必要があります。 \\\\nそして幸運...あなたはそれを必要とするでしょう！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Splendid work Survivor",
+   {
+    "value": "{\"value\":\"素晴らしい作品サバイバー\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630848757698
+}

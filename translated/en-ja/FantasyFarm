@@ -1,0 +1,713 @@
+{
+ "cache": [
+  [
+   "keyv:Pepperoni (Seed)",
+   {
+    "value": "{\"value\":\"ペパロニ（シード）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pepperoni (Seed) Recipe",
+   {
+    "value": "{\"value\":\"ペパロニ（シード）レシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pepperoni (Growing)",
+   {
+    "value": "{\"value\":\"ペパロニ（成長中）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pepperoni Plant ",
+   {
+    "value": "{\"value\":\"ペパロニ工場\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pepperoni",
+   {
+    "value": "{\"value\":\"ペパロニ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cucumber (Seed)",
+   {
+    "value": "{\"value\":\"きゅうり（種）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cucumber (Seed) Recipe",
+   {
+    "value": "{\"value\":\"きゅうり（種）レシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cucumber (Growing)",
+   {
+    "value": "{\"value\":\"きゅうり（成長中）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cucumber Plant",
+   {
+    "value": "{\"value\":\"きゅうり工場\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cucumber",
+   {
+    "value": "{\"value\":\"キュウリ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Aubergine (Seed)",
+   {
+    "value": "{\"value\":\"茄子（シード）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Aubergine (Seed) Recipe",
+   {
+    "value": "{\"value\":\"茄子（シード）レシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Aubergine (Growing)",
+   {
+    "value": "{\"value\":\"茄子（成長中）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Aubergine Plant",
+   {
+    "value": "{\"value\":\"茄子工場\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Aubergine",
+   {
+    "value": "{\"value\":\"茄子\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:grilled Aubergine",
+   {
+    "value": "{\"value\":\"焼きなす\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Beet (Seed)",
+   {
+    "value": "{\"value\":\"ビート（シード）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Beet (Seed) Recipe",
+   {
+    "value": "{\"value\":\"ビート（シード）レシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Beet (Growing)",
+   {
+    "value": "{\"value\":\"ビート（成長中）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Beet Plant",
+   {
+    "value": "{\"value\":\"ビートプラント\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Beet",
+   {
+    "value": "{\"value\":\"ビート\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cabbage (Seed)",
+   {
+    "value": "{\"value\":\"キャベツ（種）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cabbage (Seed) Recipe",
+   {
+    "value": "{\"value\":\"キャベツ（種）レシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cabbage (Growing)",
+   {
+    "value": "{\"value\":\"キャベツ（成長中）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cabbage Plant",
+   {
+    "value": "{\"value\":\"キャベツ工場\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cabbage",
+   {
+    "value": "{\"value\":\"キャベツ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Carrot (Seed)",
+   {
+    "value": "{\"value\":\"にんじん（種）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Carrot (Seed) Recipe",
+   {
+    "value": "{\"value\":\"にんじん（種）レシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Carrot (Growing)",
+   {
+    "value": "{\"value\":\"にんじん（成長中）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Carrot Plant",
+   {
+    "value": "{\"value\":\"にんじん植物\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Carrot",
+   {
+    "value": "{\"value\":\"にんじん\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pepper (Seed)",
+   {
+    "value": "{\"value\":\"コショウ（種）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pepper (Seed) Recipe",
+   {
+    "value": "{\"value\":\"コショウ（種）レシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pepper (Growing)",
+   {
+    "value": "{\"value\":\"コショウ（成長中）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pepper Plant",
+   {
+    "value": "{\"value\":\"コショウ植物\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pepper",
+   {
+    "value": "{\"value\":\"コショウ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radishes (Seed)",
+   {
+    "value": "{\"value\":\"大根（種）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radishes (Seed) Recipe",
+   {
+    "value": "{\"value\":\"大根（種）レシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radishes (Growing)",
+   {
+    "value": "{\"value\":\"大根（成長）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radishes Plant",
+   {
+    "value": "{\"value\":\"大根植物\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radishes",
+   {
+    "value": "{\"value\":\"ラディッシュ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sunflower (Seed)",
+   {
+    "value": "{\"value\":\"ヒマワリの種）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sunflower (Seed) Recipe",
+   {
+    "value": "{\"value\":\"ひまわり（種）レシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sunflower (Growing)",
+   {
+    "value": "{\"value\":\"ひまわり（成長中）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sunflower Plant",
+   {
+    "value": "{\"value\":\"ひまわり植物\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sunflower",
+   {
+    "value": "{\"value\":\"ひまわり\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sunflower Oil ",
+   {
+    "value": "{\"value\":\"ひまわり油\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sunflower oil is used for frying ",
+   {
+    "value": "{\"value\":\"ひまわり油は揚げ物に使用されます\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sunflower oil ricept recipe",
+   {
+    "value": "{\"value\":\"ひまわり油のレシピレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Basil (Seed)",
+   {
+    "value": "{\"value\":\"バジル（シード）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Basil (Seed) Recipe",
+   {
+    "value": "{\"value\":\"バジル（シード）レシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Basil (Growing)",
+   {
+    "value": "{\"value\":\"バジル（成長中）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Basil Plant",
+   {
+    "value": "{\"value\":\"バジルプラント\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Basil",
+   {
+    "value": "{\"value\":\"バジル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tomato (Seed) Recipe",
+   {
+    "value": "{\"value\":\"トマト（シード）レシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tomato (Seed)",
+   {
+    "value": "{\"value\":\"トマト（種）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tomato (Growing)",
+   {
+    "value": "{\"value\":\"トマト（成長中）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tomato Plant",
+   {
+    "value": "{\"value\":\"トマト植物\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tomato",
+   {
+    "value": "{\"value\":\"トマト\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grilled Aubergine",
+   {
+    "value": "{\"value\":\"焼きなす\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A nutritious grilled eggplant is a real treat ",
+   {
+    "value": "{\"value\":\"栄養価の高い焼きなすは本物の御馳走です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Grilled Aubergine Recipe",
+   {
+    "value": "{\"value\":\"焼きなすのレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Salad",
+   {
+    "value": "{\"value\":\"サラダ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A hearty salad full of vitamins",
+   {
+    "value": "{\"value\":\"ビタミンたっぷりのボリュームたっぷりサラダ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Salad Recipe",
+   {
+    "value": "{\"value\":\"サラダレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Carrot Salad",
+   {
+    "value": "{\"value\":\"にんじんサラダ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A crunchy carrot salad",
+   {
+    "value": "{\"value\":\"カリカリにんじんサラダ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Carrot Salad Recipe",
+   {
+    "value": "{\"value\":\"にんじんサラダのレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tomato Salad",
+   {
+    "value": "{\"value\":\"トマトサラダ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A juicy tomato salad full of vitamins.",
+   {
+    "value": "{\"value\":\"ビタミンたっぷりのジューシーなトマトサラダ。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tomato Salad Recipe",
+   {
+    "value": "{\"value\":\"トマトサラダレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:vegetarian carrot soup",
+   {
+    "value": "{\"value\":\"ベジタリアンにんじんスープ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A delicious vegetarian carrot soup rich in vitamins",
+   {
+    "value": "{\"value\":\"ビタミンが豊富な美味しいベジタリアンにんじんスープ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:vegetarian carrot soup Recipe",
+   {
+    "value": "{\"value\":\"ベジタリアンにんじんスープのレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:carrot soup",
+   {
+    "value": "{\"value\":\"人参スープ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A delicious carrot soup rich in vitamins",
+   {
+    "value": "{\"value\":\"ビタミンが豊富な美味しいにんじんスープ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:carrot soup Recipe",
+   {
+    "value": "{\"value\":\"にんじんスープのレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Stuffed Peppers",
+   {
+    "value": "{\"value\":\"ピーマンの詰め物\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The modder's favorite dish is stuffed peppers",
+   {
+    "value": "{\"value\":\"モッダーのお気に入りの料理はピーマンの詰め物です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Stuffed Peppers Recipe",
+   {
+    "value": "{\"value\":\"ピーマンのぬいぐるみレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sweet Hot Pot",
+   {
+    "value": "{\"value\":\"甘い鍋\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A hearty",
+   {
+    "value": "{\"value\":\"心のこもった\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sweet Hot Pot Recipe",
+   {
+    "value": "{\"value\":\"甘い鍋レシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pasta",
+   {
+    "value": "{\"value\":\"パスタ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Noodles fill you up well",
+   {
+    "value": "{\"value\":\"麺はあなたをよく満たします\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pasta Recipe",
+   {
+    "value": "{\"value\":\"パスタレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Potato Pan",
+   {
+    "value": "{\"value\":\"ポテトパン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hearty Potato Pan for in between",
+   {
+    "value": "{\"value\":\"心のこもったポテトパン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Potato Pan Recipe",
+   {
+    "value": "{\"value\":\"ポテトパンレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cabbage Potatoes",
+   {
+    "value": "{\"value\":\"キャベツポテト\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:a good potato pan with cabbage always tastes good",
+   {
+    "value": "{\"value\":\"キャベツが入ったおいしいポテトパンはいつもおいしい\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cabbage Potatoes Recipe",
+   {
+    "value": "{\"value\":\"キャベツポテトレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:chicken coop",
+   {
+    "value": "{\"value\":\"鶏舎\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Rabbit",
+   {
+    "value": "{\"value\":\"うさぎ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:\"slaughter him he gives you meat",
+   {
+    "value": "{\"value\":\"「彼はあなたに肉を与える彼を虐殺する\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Rabbit cage",
+   {
+    "value": "{\"value\":\"うさぎの檻\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cow enclosure",
+   {
+    "value": "{\"value\":\"牛の囲い\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pigs enclosure",
+   {
+    "value": "{\"value\":\"豚の囲い\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Composter",
+   {
+    "value": "{\"value\":\"堆肥\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Composter to make fertilizer that is needed to make beds and fields",
+   {
+    "value": "{\"value\":\"ベッドや畑を作るのに必要な肥料を作るための堆肥\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Feed Bowl",
+   {
+    "value": "{\"value\":\"飼料ボウル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The feed bowl is used to feed the animals",
+   {
+    "value": "{\"value\":\"フィードボウルは動物に餌を与えるために使用されます\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Animal feed",
+   {
+    "value": "{\"value\":\"動物飼料\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Animal feed animals must be fed with it",
+   {
+    "value": "{\"value\":\"動物飼料動物はそれを与えられなければなりません\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Milk",
+   {
+    "value": "{\"value\":\"牛乳\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Milk is needed for baking",
+   {
+    "value": "{\"value\":\"ベーキングにはミルクが必要です\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Mug of milk",
+   {
+    "value": "{\"value\":\"ミルクのマグカップ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:a cup of milk quenches thirst and tastes good",
+   {
+    "value": "{\"value\":\"一杯のミルクは喉の渇きを癒し、おいしいです\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Animals must be fed with animal feed. To give the animals the feed, use the feed bowl",
+   {
+    "value": "{\"value\":\"動物は動物飼料を与えられなければなりません。動物に飼料を与えるには、飼料ボウルを使用します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Anima Trap",
+   {
+    "value": "{\"value\":\"アニマトラップ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:a trap to catch animals. as soon as animals walk on the trap, the trap holds them in place.",
+   {
+    "value": "{\"value\":\"動物を捕まえるための罠。動物が罠の上を歩くとすぐに、罠は動物を所定の位置に保持します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Farmer Book",
+   {
+    "value": "{\"value\":\"ファーマーブック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:In the farmers book it is written how you produce seeds or seedlings",
+   {
+    "value": "{\"value\":\"農民の本には、どのように種や苗を生産するかが書かれています\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cookbook",
+   {
+    "value": "{\"value\":\"クックブック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The cookbook teaches you how to prepare delicious dishes. ",
+   {
+    "value": "{\"value\":\"クックブックは、おいしい料理の作り方を教えてくれます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Raw fish",
+   {
+    "value": "{\"value\":\"生の魚\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fertilizer is made in the composter",
+   {
+    "value": "{\"value\":\"肥料は堆肥で作られています\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Harvest 2 items from wild or planted crops. Craft seeds for flowers and decorative plants like goldenrod, chrysanthemum, aloe, Sunflower, Basil and yucca.\\nFarm plots cost 30% less to craft.",
+   {
+    "value": "{\"value\":\"野生または植えられた作物から2つのアイテムを収穫します。花やアキノキリンソウ、キク、アロエ、ヒマワリ、バジル、ユッカなどの装飾用植物の種を作ります。\\\\n農場の区画は、作るのに30％安くなります。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630848597209
+}

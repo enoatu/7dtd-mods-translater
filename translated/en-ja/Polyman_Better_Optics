@@ -1,0 +1,77 @@
+{
+ "cache": [
+  [
+   "keyv:PSO-1 Scope 8x Mod",
+   {
+    "value": "{\"value\":\"PSO-1スコープ8xMod\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Increases visual magnification when aiming.\\nInstalls into long rifles.",
+   {
+    "value": "{\"value\":\"照準を合わせるときの視覚倍率を上げます。\\\\n長いライフルに取り付けます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:PSO-1 Scope 8x Mod Schematic",
+   {
+    "value": "{\"value\":\"PSO-1スコープ8xMod回路図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:PK-A Sight 1x Mod",
+   {
+    "value": "{\"value\":\"PK-A Sight 1x Mod\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:PK-A Sight 1x Mod Schematic",
+   {
+    "value": "{\"value\":\"PK-A Sight 1xMod回路図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Kobra 1S-03 1x Mod",
+   {
+    "value": "{\"value\":\"Kobra 1S-03 1x Mod\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Kobra 1S-03 1x Mod Schematic",
+   {
+    "value": "{\"value\":\"Kobra 1S-03 1xMod回路図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:AN/PVS4 NV Scope 8x Mod",
+   {
+    "value": "{\"value\":\"AN / PVS4NVスコープ8xMod\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:AN/PVS4 NV Scope 8x Mod Schematic",
+   {
+    "value": "{\"value\":\"AN / PVS4NVスコープ8xMod回路図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:AN/Crossbow Scope 4x Mod",
+   {
+    "value": "{\"value\":\"AN /クロスボウスコープ4xMod\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Increases visual magnification when aiming.\\nInstalls into crossbows.",
+   {
+    "value": "{\"value\":\"照準時の視覚倍率を上げます。\\\\nクロスボウに取り付けます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:AN/Crossbow Scope 4x Mod Schematic",
+   {
+    "value": "{\"value\":\"AN /クロスボウスコープ4xMod回路図\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630848722805
+}

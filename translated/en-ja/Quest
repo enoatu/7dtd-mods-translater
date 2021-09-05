@@ -1,0 +1,161 @@
+{
+ "cache": [
+  [
+   "keyv:+10 HP Perk",
+   {
+    "value": "{\"value\":\"+ 10HP特典\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Get 10 First Aid Kit and 30 First Aid Bandage to learn this Perk.",
+   {
+    "value": "{\"value\":\"この特典を学ぶには、10個の応急処置キットと30個の応急処置包帯を入手してください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:+10 STAMINA Perk",
+   {
+    "value": "{\"value\":\"+10スタミナ特典\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Get 20 Jar of Coffee and 5 Mega Crush to learn this Perk.",
+   {
+    "value": "{\"value\":\"この特典を学ぶには、20瓶のコーヒーと5メガクラッシュを入手してください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:+25% Experience Perk",
+   {
+    "value": "{\"value\":\"+ 25％エクスペリエンス特典\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Get 1 Nerdy Glasses and 500 Paper to learn this Perk.",
+   {
+    "value": "{\"value\":\"この特典を学ぶには、1つのオタクグラスと500の紙を入手してください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:+5% Barter Perk ",
+   {
+    "value": "{\"value\":\"+ 5％物々交換特典\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Get 40000 Coins to learn this Perk.",
+   {
+    "value": "{\"value\":\"この特典を学ぶには、40000コインを入手してください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:+5% Barter Perk",
+   {
+    "value": "{\"value\":\"+ 5％物々交換特典\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:+50% Quest Bonus Perk",
+   {
+    "value": "{\"value\":\"+ 50％クエストボーナス特典\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Get 1 Raw Diamond and 5 Gold nugget and 10 Silver nugget to learn this Perk.",
+   {
+    "value": "{\"value\":\"この特典を学ぶには、生のダイヤモンド1個と金塊5個と銀塊10個を入手してください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:+5% LOOT Bonus Perk ",
+   {
+    "value": "{\"value\":\"+ 5％LOOTボーナス特典\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Get 1000 Brass and 500 Lead and 100 Polymers to learn this Perk.",
+   {
+    "value": "{\"value\":\"この特典を学ぶには、真ちゅう1000個、鉛500個、ポリマー100個を入手してください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:+5% LOOT Bonus Perk",
+   {
+    "value": "{\"value\":\"+ 5％LOOTボーナス特典\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:THE LEGENDARY HEALTH PERK BOOK",
+   {
+    "value": "{\"value\":\"伝説の健康特典ブック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Learn The book and become Stronger +10 HP.",
+   {
+    "value": "{\"value\":\"本を学び、より強く+ 10HPになります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:THE LEGENDARY STAMINA PERK BOOK",
+   {
+    "value": "{\"value\":\"伝説のスタミナパークブック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Learn The book and become Fit +10 STAMINA.",
+   {
+    "value": "{\"value\":\"本を学び、フィット+10スタミナになります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:THE LEGENDARY EXPERIENCE PERK BOOK",
+   {
+    "value": "{\"value\":\"伝説の体験特典ブック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Learn The book and become Smarter +25% XP.",
+   {
+    "value": "{\"value\":\"本を学び、よりスマートに+ 25％XPになります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:THE LEGENDARY TRADING PERK BOOK",
+   {
+    "value": "{\"value\":\"伝説のトレーディングパークブック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Learn The book and Be charming +5% BARTER.",
+   {
+    "value": "{\"value\":\"本を学び、魅力的な+ 5％物々交換をしてください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:THE LEGENDARY ADVENTURER PERK BOOK",
+   {
+    "value": "{\"value\":\"伝説の冒険者特典ブック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Learn The book and Be charming +50% Quest Bonus.",
+   {
+    "value": "{\"value\":\"本を学び、魅力的な+ 50％のクエストボーナスになりましょう。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:THE LEGENDARY LOOTER PERK BOOK",
+   {
+    "value": "{\"value\":\"伝説のルーター特典ブック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Learn The book and Get the perfect eye +5% LOOT Bonus.",
+   {
+    "value": "{\"value\":\"本を学び、完璧な目を+ 5％LOOTボーナスで手に入れましょう。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630848733847
+}

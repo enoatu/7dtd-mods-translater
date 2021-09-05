@@ -1,0 +1,209 @@
+{
+ "cache": [
+  [
+   "keyv:Lathe",
+   {
+    "value": "{\"value\":\"旋盤\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tools or certain striking weapons are made on the lathe",
+   {
+    "value": "{\"value\":\"工具または特定の印象的な武器は旋盤で作られています\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Recipe - lathe",
+   {
+    "value": "{\"value\":\"レシピ-旋盤\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Milling machine",
+   {
+    "value": "{\"value\":\"製粉機\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Mods are produced on the milling machine",
+   {
+    "value": "{\"value\":\"Modはフライス盤で製造されます\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Recipe - milling machine",
+   {
+    "value": "{\"value\":\"レシピ-フライス盤\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:drilling machine",
+   {
+    "value": "{\"value\":\"掘削機\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Ammunition for firearms is produced on the drill",
+   {
+    "value": "{\"value\":\"銃器用の弾薬はドリルで生成されます\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Recipe - drilling Machine",
+   {
+    "value": "{\"value\":\"レシピ-ボール盤\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Weapons workbench",
+   {
+    "value": "{\"value\":\"武器ワークベンチ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Firearms are made at the weapons workbench",
+   {
+    "value": "{\"value\":\"銃器は武器の作業台で作られています\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Recipe - Weapons Workbench",
+   {
+    "value": "{\"value\":\"レシピ-武器ワークベンチ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Steel workbench",
+   {
+    "value": "{\"value\":\"スチールワークベンチ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:At the steel workbench, objects are made from steel if they do not have to be turned",
+   {
+    "value": "{\"value\":\"スチールワークベンチでは、回転させる必要がない場合、オブジェクトはスチールで作られています\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Recipe - Steel workbench",
+   {
+    "value": "{\"value\":\"レシピ-スチールワークベンチ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Oil pump",
+   {
+    "value": "{\"value\":\"オイルポンプ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The oil pump delivers oil shale. Oil, gasoline or asphalt can be made from it",
+   {
+    "value": "{\"value\":\"オイルポンプはオイルシェールを供給します。石油、ガソリン、アスファルトはそれから作ることができます\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Recipe - Oil Pump",
+   {
+    "value": "{\"value\":\"レシピ-オイルポンプ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This item is made on the lathe",
+   {
+    "value": "{\"value\":\"このアイテムは旋盤で作られています\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This item is made on the Milling Machine",
+   {
+    "value": "{\"value\":\"このアイテムはフライス盤で作られています\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This item is made on the Drilling Machine",
+   {
+    "value": "{\"value\":\"このアイテムはボール盤で作られています\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This item is made on the Weapon Workbench",
+   {
+    "value": "{\"value\":\"このアイテムは武器ワークベンチで作られています\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This item is made on the Steel Workbench",
+   {
+    "value": "{\"value\":\"このアイテムはSteelWorkbenchで作成されています\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Make advanced workbenches to craft useful items",
+   {
+    "value": "{\"value\":\"高度なワークベンチを作成して、便利なアイテムを作成します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Learn These Perks to craft various workbenches",
+   {
+    "value": "{\"value\":\"これらの特典を学び、さまざまなワークベンチを作成します\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Lichtis Advanced Workbenches",
+   {
+    "value": "{\"value\":\"Lichtis Advanced Workbenches\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You are now a skilled craftsman and can make things out of wood, iron and other metals on the lathe. This also includes steel tools if you have found the right recipes",
+   {
+    "value": "{\"value\":\"あなたは今や熟練した職人であり、旋盤で木、鉄、その他の金属から物を作ることができます。適切なレシピを見つけた場合、これにはスチールツールも含まれます\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Drilling Machine",
+   {
+    "value": "{\"value\":\"掘削機\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:On the drilling machine cartridges are made with it are drilled the sleeves and you can also press the cartridges together",
+   {
+    "value": "{\"value\":\"掘削機では、カートリッジはスリーブに穴をあけて作られ、カートリッジを一緒に押すこともできます\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Steel workbench and oil pump",
+   {
+    "value": "{\"value\":\"スチールワークベンチとオイルポンプ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Now you have the opportunity to manufacture your researched steel objects. You also learned how to make an oil pump",
+   {
+    "value": "{\"value\":\"今、あなたはあなたの研究された鋼のオブジェクトを製造する機会があります。オイルポンプの作り方も学びました\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:With the milling machine you can carry out precise work. If you have found the right recipes, you can make the mods here",
+   {
+    "value": "{\"value\":\"フライス盤を使えば、精密な作業ができます。適切なレシピを見つけたら、ここで改造を行うことができます\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Weapon workbench",
+   {
+    "value": "{\"value\":\"武器ワークベンチ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You can make weapons at the weapons workbench if you have found the right recipes",
+   {
+    "value": "{\"value\":\"適切なレシピを見つけたら、武器ワークベンチで武器を作ることができます\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630876849297
+}

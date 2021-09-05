@@ -1,0 +1,41 @@
+{
+ "cache": [
+  [
+   "keyv:{Localized_Name_Eng}",
+   {
+    "value": "{\"value\":\"{Localized_Name_Eng}\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Water filter",
+   {
+    "value": "{\"value\":\"水フィルター\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The water filter will give you clean water. Right click with dirty water to get clean water.",
+   {
+    "value": "{\"value\":\"浄水器はあなたにきれいな水を与えます。汚れた水で右クリックすると、きれいな水が得られます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Activated Charcoal",
+   {
+    "value": "{\"value\":\"活性炭\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This resource is made from wood and is an ingrediant used in waterfilter's.",
+   {
+    "value": "{\"value\":\"この資源は木から作られ、浄水器で使用される成分です。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Water Filter Schematic",
+   {
+    "value": "{\"value\":\"水フィルターの概略図\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630849477869
+}

@@ -1,0 +1,53 @@
+{
+ "cache": [
+  [
+   "keyv:Scrubed 4x4",
+   {
+    "value": "{\"value\":\"スクラブ4x4\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:4x4, Blue",
+   {
+    "value": "{\"value\":\"4x4、青\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:4x4, Red",
+   {
+    "value": "{\"value\":\"4x4、赤\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:4x4, Spartan Black and Gold",
+   {
+    "value": "{\"value\":\"4x4、スパルタンブラックとゴールド\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:4x4, Miss Spartan's Pink Rider",
+   {
+    "value": "{\"value\":\"4x4、ミススパルタンのピンクライダー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:4x4, Patrol Blue",
+   {
+    "value": "{\"value\":\"4x4、パトロールブルー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:4x4, UV Map Test Pattern",
+   {
+    "value": "{\"value\":\"4x4、UVマップテストパターン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Motorcyle, UV Map Test Pattern",
+   {
+    "value": "{\"value\":\"モーターサイクル、UVマップテストパターン\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630848578154
+}

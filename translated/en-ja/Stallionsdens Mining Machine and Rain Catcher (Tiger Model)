@@ -1,0 +1,29 @@
+{
+ "cache": [
+  [
+   "keyv:Mining Machine",
+   {
+    "value": "{\"value\":\"マイニングマシン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Mining Machine Full",
+   {
+    "value": "{\"value\":\"マイニングマシンフル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Water Collecter ",
+   {
+    "value": "{\"value\":\"集水器\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Water Collecter Full",
+   {
+    "value": "{\"value\":\"集水器フル\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630848822817
+}

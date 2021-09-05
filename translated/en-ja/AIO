@@ -1,0 +1,35 @@
+{
+ "cache": [
+  [
+   "keyv:You have started on the path of science and are scholar. Craft chemistry stations and craft items with them 20% faster. Craft faulty solar cells and the solar bank.",
+   {
+    "value": "{\"value\":\"あなたは科学の道を歩み始め、学者です。化学ステーションとクラフトアイテムを20％速く作成します。欠陥のある太陽電池とソーラーバンクを作ります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You're now a professor and are learning practical science. Craft advanced medical items such as first aid bandages and plaster casts, cooking pot and pressure plate mines, gasoline & oil. Craft poor solar cells.  ",
+   {
+    "value": "{\"value\":\"あなたは現在教授であり、実践的な科学を学んでいます。応急処置の包帯や石膏ギプス、調理鍋やプレッシャープレート鉱山、ガソリンや石油などの高度な医療アイテムを作成します。貧弱な太陽電池を作ります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Your friends call you the chemist and your enemies go boom. Craft first aid kits, steroids, military fiber and hub cap mines.  Craft fair solar cells.",
+   {
+    "value": "{\"value\":\"あなたの友人はあなたを化学者と呼び、あなたの敵はブームになります。応急処置キット、ステロイド、軍用繊維、ハブキャップ鉱山を作成します。公正な太陽電池を作ります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You've advanced to research scientist. Craft antibiotics, battery banks, batteries and air filter mines. Craft good solar cells.",
+   {
+    "value": "{\"value\":\"あなたは科学者の研究に進んだ。抗生物質、バッテリーバンク、バッテリー、エアフィルター鉱山を作ります。良い太陽電池を作りましょう。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Nobody understands quantum physics but it sounds cool so you'll take the title. Craft fortbites and recog. Craft great solar cells.",
+   {
+    "value": "{\"value\":\"誰も量子物理学を理解していませんが、それはクールに聞こえるので、あなたはタイトルを取るでしょう。クラフトフォートバイトとレコグ。素晴らしい太陽電池を作りましょう。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630848008750
+}

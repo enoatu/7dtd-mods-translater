@@ -1,0 +1,23 @@
+{
+ "cache": [
+  [
+   "keyv:Beds Variant Block",
+   {
+    "value": "{\"value\":\"ベッドバリアントブロック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tables Variant Block",
+   {
+    "value": "{\"value\":\"テーブルバリアントブロック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sofas",
+   {
+    "value": "{\"value\":\"ソファ\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630848013265
+}

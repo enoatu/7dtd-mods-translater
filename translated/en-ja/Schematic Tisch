@@ -1,0 +1,131 @@
+{
+ "cache": [
+  [
+   "keyv:The Schematic Desk enables you craft schematics, assuming you already have at least one of the relevant items, or the requisite parts.\\nTo craft schematics here you must have all ingredients in your inventory.\\nHold E to pick up Workstations within your land claim area.",
+   {
+    "value": "{\"value\":\"Schematic Deskを使用すると、関連するアイテムまたは必要な部品が少なくとも1つあると仮定して、回路図を作成できます。\\\\nここで回路図を作成するには、インベントリにすべての材料が必要です。\\\\nEを押して、土地の請求内のワークステーションを取得します。範囲。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Schematics Desk",
+   {
+    "value": "{\"value\":\"回路図デスク\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Schematics Ink",
+   {
+    "value": "{\"value\":\"回路図面インク\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Ink used for creating schematics at a schematic desk.",
+   {
+    "value": "{\"value\":\"回路図面デスクで回路図面を作成するために使用されるインク。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Schematic Desk Schematic",
+   {
+    "value": "{\"value\":\"スケマティックデスクスケマティック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Schematic allowing you to build the special desk used for creating schematics.",
+   {
+    "value": "{\"value\":\"回路図を作成するために使用される特別なデスクを構築できるようにする回路図。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Schematic Desk",
+   {
+    "value": "{\"value\":\"回路図デスク\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Needed to create schematics.\\n\\nUnlocked at Advanced Engineering 3, or with the relevant schematic.",
+   {
+    "value": "{\"value\":\"回路図面を作成する必要があります。\\\\n\\\\nAdvanced Engineering 3で、または関連する回路図面でロックを解除します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Alcohol Ink",
+   {
+    "value": "{\"value\":\"アルコールインク\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Quill",
+   {
+    "value": "{\"value\":\"クイル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Quill used for creating schematics at the schematic desk.",
+   {
+    "value": "{\"value\":\"スケマティックデスクでスケマティックを作成するために使用されるクイル。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Special Ink used to create schematics.\\n\\nUnlocked via Advanced Engineering (L3), or with the relevant schematic",
+   {
+    "value": "{\"value\":\"回路図面の作成に使用される特殊なインク。\\\\n\\\\n高度なエンジニアリング（L3）を介して、または関連する回路図面を使用してロックを解除します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Miscellaneous",
+   {
+    "value": "{\"value\":\"その他\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Armor",
+   {
+    "value": "{\"value\":\"鎧\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Medical",
+   {
+    "value": "{\"value\":\"医学\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tools",
+   {
+    "value": "{\"value\":\"ツール\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Melee Weapons",
+   {
+    "value": "{\"value\":\"近接武器\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Ranged Weapons",
+   {
+    "value": "{\"value\":\"遠隔武器\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Electrical Items",
+   {
+    "value": "{\"value\":\"電気製品\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Traps and defensive items",
+   {
+    "value": "{\"value\":\"罠と防御アイテム\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Item and Armor Mods",
+   {
+    "value": "{\"value\":\"アイテムとアーマーの改造\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630848798923
+}

@@ -1,0 +1,3365 @@
+{
+ "cache": [
+  [
+   "keyv:Nuka Cola",
+   {
+    "value": "{\"value\":\"ヌカコーラ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The wastelander's favorite beverage! Helps recover stamina quicker and restore a small amount of max health and stamina. The small trace of radiation also allow for a slight movement speed boost for a limited time!",
+   {
+    "value": "{\"value\":\"荒れ地の人のお気に入りの飲み物！スタミナをより早く回復し、少量の最大の健康とスタミナを回復するのに役立ちます。わずかな放射線の痕跡も、限られた時間でわずかな移動速度のブーストを可能にします！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Nuka Cherry",
+   {
+    "value": "{\"value\":\"ヌカチェリー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Mmm...Nuka Cherry! Energizes you and helps you hit harder. Also restore a decent amount of max health and stamina. The traces of radiation also allow for a moderate movement speed boost for a limited time!",
+   {
+    "value": "{\"value\":\"うーん...ヌカチェリー！あなたにエネルギーを与え、あなたがより強く打つのを助けます。また、適度な量の最大体力とスタミナを回復します。放射線の痕跡はまた、限られた時間の間、適度な移動速度のブーストを可能にします！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Nuka Quantum",
+   {
+    "value": "{\"value\":\"ヌカクォンタム\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Nuka Quantum is totally safe! Boost yourself for a limited time but beware possible side effects!",
+   {
+    "value": "{\"value\":\"ヌカクォンタムは完全に安全です！限られた時間だけ自分を後押ししますが、起こりうる副作用に注意してください！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Nuka Quartz",
+   {
+    "value": "{\"value\":\"ヌカクォーツ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Doesn't look too good but beggars can't be choosers! Damage resistance is increased and health will regenerate but it does make you queasy!",
+   {
+    "value": "{\"value\":\"見た目はあまり良くありませんが、物乞いは選択者にはなれません！ダメージ耐性が増し、体力が回復しますが、それはあなたを不安にさせます！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sunset Sarsaparilla",
+   {
+    "value": "{\"value\":\"サンセットサルサパリラ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Probably not the freshest but it's still better than water. Helps recover stamina quicker and restore a small amount of health and stamina.",
+   {
+    "value": "{\"value\":\"おそらく最も新鮮ではありませんが、それでも水よりはましです。スタミナをより早く回復し、少量の健康とスタミナを回復するのに役立ちます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Nuka Base Ingredients",
+   {
+    "value": "{\"value\":\"ヌカベース成分\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Base ingredients used to brew different Nuka flavors.",
+   {
+    "value": "{\"value\":\"さまざまなヌカフレーバーを醸造するために使用される基本成分。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Nuka Recipes",
+   {
+    "value": "{\"value\":\"ヌカレシピ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This will teach you how to brew multiple flavors of Nuka Cola!",
+   {
+    "value": "{\"value\":\"これは、ヌカコーラの複数のフレーバーを醸造する方法を教えてくれます！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Nuka Nade (Ammo)",
+   {
+    "value": "{\"value\":\"なでぬか（弾薬）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Too scared to drink that Quantum? May as well make a boom can out of it then!",
+   {
+    "value": "{\"value\":\"そのクォンタムを飲むのが怖すぎますか？それでブーム缶を作ることもできます！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Overseer Office Key",
+   {
+    "value": "{\"value\":\"監督官庁の鍵\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Keycard needed to open the Overseer's office.",
+   {
+    "value": "{\"value\":\"監督官庁を開くために必要なキーカード。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Overseer Desk Key",
+   {
+    "value": "{\"value\":\"監督デスクキー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Keycard needed to unlock the Overseer's desk.",
+   {
+    "value": "{\"value\":\"監督者の机のロックを解除するために必要なキーカード。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Overseer Exit Key",
+   {
+    "value": "{\"value\":\"監督者出口キー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Keycard needed to unlock the Overseer's hidden exit door.",
+   {
+    "value": "{\"value\":\"監督者の隠された出口ドアのロックを解除するために必要なキーカード。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Overseer Office Key (B)",
+   {
+    "value": "{\"value\":\"監督官庁の鍵（B）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Keycard needed to open the Overseer's office. Right click on the door with this keycard equipped to unlock it.",
+   {
+    "value": "{\"value\":\"監督官庁を開くために必要なキーカード。このキーカードを装備したドアを右クリックして、ロックを解除します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Overseer Desk Key (B)",
+   {
+    "value": "{\"value\":\"監督デスクキー（B）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Keycard needed to unlock the Overseer's desk. Right click on the desk with this keycard equipped to unlock it.",
+   {
+    "value": "{\"value\":\"監督者の机のロックを解除するために必要なキーカード。このキーカードを装備した机を右クリックして、ロックを解除します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Overseer Exit Key (B)",
+   {
+    "value": "{\"value\":\"監督者出口キー（B）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Keycard needed to unlock the Overseer's hidden exit door. Right click on the door with this keycard equipped to unlock it.",
+   {
+    "value": "{\"value\":\"監督者の隠された出口ドアのロックを解除するために必要なキーカード。このキーカードを装備したドアを右クリックして、ロックを解除します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Nuka Truck",
+   {
+    "value": "{\"value\":\"ヌカトラック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Vault Tec Container",
+   {
+    "value": "{\"value\":\"VaultTecコンテナ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Storage container.",
+   {
+    "value": "{\"value\":\"貯蔵容器。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sealed Nuka Crate",
+   {
+    "value": "{\"value\":\"封印されたヌカの木枠\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Nuka Crate",
+   {
+    "value": "{\"value\":\"ヌカクレート\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Secure Nuka Safe",
+   {
+    "value": "{\"value\":\"安全なヌカセーフ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Nuka Safe.",
+   {
+    "value": "{\"value\":\"ヌカセーフ。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Nuka Safe",
+   {
+    "value": "{\"value\":\"ヌカセーフ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Broken Nuka Vending Machine",
+   {
+    "value": "{\"value\":\"壊れたヌカ自動販売機\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Broken Nuka Vending Machine.",
+   {
+    "value": "{\"value\":\"壊れたヌカ自動販売機。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Nuka Vending Machine",
+   {
+    "value": "{\"value\":\"ヌカ自動販売機\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Working Nuka Vending Machine.",
+   {
+    "value": "{\"value\":\"働くヌカ自動販売機。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Broken Sunset Sarsaparilla Vending Machine",
+   {
+    "value": "{\"value\":\"壊れたサンセットサルサパリラ自動販売機\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Broken Sunset Sarsaparilla Vending Machine.",
+   {
+    "value": "{\"value\":\"壊れたサンセットサルサパリラ自動販売機。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sunset Sarsaparilla Vending Machine",
+   {
+    "value": "{\"value\":\"サンセットサルサパリラ自動販売機\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Working Sunset Sarsaparilla Vending Machine.",
+   {
+    "value": "{\"value\":\"サンセットサルサパリラ自動販売機の動作。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Ammo Box",
+   {
+    "value": "{\"value\":\"弾薬箱\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Military ammo storage box.",
+   {
+    "value": "{\"value\":\"軍用弾薬収納ボックス。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Terminal",
+   {
+    "value": "{\"value\":\"ターミナル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old terminal that surprisingly still works.",
+   {
+    "value": "{\"value\":\"意外にもまだ機能している古い端末。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Broken Terminal",
+   {
+    "value": "{\"value\":\"壊れたターミナル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old terminal that no longer works.",
+   {
+    "value": "{\"value\":\"動作しなくなった古い端末。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old Telephone",
+   {
+    "value": "{\"value\":\"古い電話\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old telephone. Doesn't really matter if it works now, does it?",
+   {
+    "value": "{\"value\":\"古い電話。それが今機能するかどうかは本当に問題ではありませんか？\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:OV Glass",
+   {
+    "value": "{\"value\":\"OVガラス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Overseer office glass.",
+   {
+    "value": "{\"value\":\"監督官庁ガラス。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Vault Door",
+   {
+    "value": "{\"value\":\"ボールトドア\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Main Vault Door.",
+   {
+    "value": "{\"value\":\"メインボールトドア。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Broken Vault Door",
+   {
+    "value": "{\"value\":\"壊れた金庫室の扉\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Broken Vault Door.",
+   {
+    "value": "{\"value\":\"壊れた金庫室の扉。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Interior Vault Door.",
+   {
+    "value": "{\"value\":\"内部ボールトドア。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Small interior Vault Door.",
+   {
+    "value": "{\"value\":\"小さな内部の金庫室の扉。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bookcase",
+   {
+    "value": "{\"value\":\"本棚\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old bookcase.",
+   {
+    "value": "{\"value\":\"古い本棚。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bottle Carrier",
+   {
+    "value": "{\"value\":\"ボトルキャリア\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old crate for carrying bottles.",
+   {
+    "value": "{\"value\":\"ボトルを運ぶための古い木枠。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old Boxes",
+   {
+    "value": "{\"value\":\"古い箱\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old boxes.",
+   {
+    "value": "{\"value\":\"古い箱。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old Bunkbed",
+   {
+    "value": "{\"value\":\"古い二段ベッド\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old bunkbed.",
+   {
+    "value": "{\"value\":\"古い二段ベッド。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Case",
+   {
+    "value": "{\"value\":\"場合\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Case.",
+   {
+    "value": "{\"value\":\"場合。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old Chair",
+   {
+    "value": "{\"value\":\"古い椅子\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old chair.",
+   {
+    "value": "{\"value\":\"古い椅子。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old Retro Chair",
+   {
+    "value": "{\"value\":\"古いレトロな椅子\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old Cistern",
+   {
+    "value": "{\"value\":\"古い貯水槽\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old cistern.",
+   {
+    "value": "{\"value\":\"古い貯水槽。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old Curtain",
+   {
+    "value": "{\"value\":\"古いカーテン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old curtain.",
+   {
+    "value": "{\"value\":\"古いカーテン。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old Desk",
+   {
+    "value": "{\"value\":\"古い机\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old desk.",
+   {
+    "value": "{\"value\":\"古い机。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old Dresser",
+   {
+    "value": "{\"value\":\"オールドドレッサー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old dresser.",
+   {
+    "value": "{\"value\":\"古いドレッサー。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fat Man",
+   {
+    "value": "{\"value\":\"太った男\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Block that will give a Fat Man weapon when picked up.",
+   {
+    "value": "{\"value\":\"拾ったときにファットマンの武器を与えるブロック。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Nuke",
+   {
+    "value": "{\"value\":\"Nuke\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Block that will give a Nuke when picked up.",
+   {
+    "value": "{\"value\":\"拾ったときに核兵器を与えるブロック。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old Guitar",
+   {
+    "value": "{\"value\":\"古いギター\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old guitar.",
+   {
+    "value": "{\"value\":\"古いギター。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Industrial Fan",
+   {
+    "value": "{\"value\":\"産業用ファン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Large industrial fan.",
+   {
+    "value": "{\"value\":\"大型工業用ファン。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old Lamp",
+   {
+    "value": "{\"value\":\"古いランプ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old lamp.",
+   {
+    "value": "{\"value\":\"古いランプ。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Metal Box",
+   {
+    "value": "{\"value\":\"金属製の箱\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old metal box.",
+   {
+    "value": "{\"value\":\"古い金属製の箱。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Metal Container",
+   {
+    "value": "{\"value\":\"金属容器\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old metal container.",
+   {
+    "value": "{\"value\":\"古い金属製の容器。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Metal Shelves",
+   {
+    "value": "{\"value\":\"金属製の棚\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old metal shelves.",
+   {
+    "value": "{\"value\":\"古い金属製の棚。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:NCR Bobblehead",
+   {
+    "value": "{\"value\":\"NCRボブルヘッド人形\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old NCR bobblehead. Might be worth something.",
+   {
+    "value": "{\"value\":\"古いNCRボブルヘッド人形。何か価値があるかもしれません。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old Radio",
+   {
+    "value": "{\"value\":\"古いラジオ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old Radio. Doesn't appear to work anymore.",
+   {
+    "value": "{\"value\":\"古いラジオ。もう動作していないようです。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old Safe",
+   {
+    "value": "{\"value\":\"オールドセーフ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old safe.",
+   {
+    "value": "{\"value\":\"古い金庫。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old Server",
+   {
+    "value": "{\"value\":\"古いサーバー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old server.",
+   {
+    "value": "{\"value\":\"古いサーバー。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old TV",
+   {
+    "value": "{\"value\":\"古いテレビ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old tv.",
+   {
+    "value": "{\"value\":\"古いテレビ。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:PipBoy 3000",
+   {
+    "value": "{\"value\":\"PipBoy 3000\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A surprisingly still functional PipBoy.",
+   {
+    "value": "{\"value\":\"驚くほど機能的なPipBoy。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old Rug",
+   {
+    "value": "{\"value\":\"古い敷物\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old rug.",
+   {
+    "value": "{\"value\":\"古い敷物。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old Empty Server",
+   {
+    "value": "{\"value\":\"古い空のサーバー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old empty server.",
+   {
+    "value": "{\"value\":\"古い空のサーバー。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old Full Server",
+   {
+    "value": "{\"value\":\"古いフルサーバー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old full server.",
+   {
+    "value": "{\"value\":\"古いフルサーバー。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old Toolbox",
+   {
+    "value": "{\"value\":\"古いツールボックス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old toolbox.",
+   {
+    "value": "{\"value\":\"古いツールボックス。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old Transformer",
+   {
+    "value": "{\"value\":\"古いトランスフォーマー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old transformer.",
+   {
+    "value": "{\"value\":\"古い変圧器。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old Turbine",
+   {
+    "value": "{\"value\":\"古いタービン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old turbine.",
+   {
+    "value": "{\"value\":\"古いタービン。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Vault Boy Cutout",
+   {
+    "value": "{\"value\":\"ボールトボーイカットアウト\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Vault Boy Cutout.",
+   {
+    "value": "{\"value\":\"ボールトボーイカットアウト。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old Vent",
+   {
+    "value": "{\"value\":\"オールドベント\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old vent.",
+   {
+    "value": "{\"value\":\"古いベント。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old Vent (offset)",
+   {
+    "value": "{\"value\":\"オールドベント（オフセット）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old Warehouse Crates",
+   {
+    "value": "{\"value\":\"古い倉庫の木枠\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old warehouse crates.",
+   {
+    "value": "{\"value\":\"古い倉庫の木枠。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Weapon Case",
+   {
+    "value": "{\"value\":\"武器ケース\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Weapon case.",
+   {
+    "value": "{\"value\":\"武器ケース。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Overseer Glass",
+   {
+    "value": "{\"value\":\"監督ガラス\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Glass for the OV office.",
+   {
+    "value": "{\"value\":\"OVオフィス用ガラス。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Power Grid Display",
+   {
+    "value": "{\"value\":\"パワーグリッドディスプレイ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Power Grid Display for the OV office.",
+   {
+    "value": "{\"value\":\"OVオフィス用のパワーグリッドディスプレイ。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Overseer's Desk",
+   {
+    "value": "{\"value\":\"監督者の机\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Overseer's Desk.",
+   {
+    "value": "{\"value\":\"監督者の机。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Blood Splatter",
+   {
+    "value": "{\"value\":\"ブラッドスプラッター\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Chainlink Fence",
+   {
+    "value": "{\"value\":\"金網柵\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Regular fence with advanced rotations.",
+   {
+    "value": "{\"value\":\"高度な回転を備えた通常のフェンス。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Wall Console",
+   {
+    "value": "{\"value\":\"ウォールコンソール\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Wall Console.",
+   {
+    "value": "{\"value\":\"ウォールコンソール。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Metal Door (L)",
+   {
+    "value": "{\"value\":\"金属製のドア（L）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Heavy Metal Door.",
+   {
+    "value": "{\"value\":\"ヘビーメタルドア。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Metal Door (R)",
+   {
+    "value": "{\"value\":\"金属製のドア（R）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Security Door (L)",
+   {
+    "value": "{\"value\":\"セキュリティドア（L）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Heavy Security Door.",
+   {
+    "value": "{\"value\":\"重いセキュリティドア。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Security Door (R)",
+   {
+    "value": "{\"value\":\"セキュリティドア（R）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Espresso",
+   {
+    "value": "{\"value\":\"エスプレッソ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Medical Divider",
+   {
+    "value": "{\"value\":\"メディカルディバイダー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Medical Divider.",
+   {
+    "value": "{\"value\":\"医療ディバイダー。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Metal Drawer",
+   {
+    "value": "{\"value\":\"金属製の引き出し\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old metal drawer.",
+   {
+    "value": "{\"value\":\"古い金属製の引き出し。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Microscope",
+   {
+    "value": "{\"value\":\"顕微鏡\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Microscope.",
+   {
+    "value": "{\"value\":\"顕微鏡。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old Control Panel",
+   {
+    "value": "{\"value\":\"古いコントロールパネル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old control panel.",
+   {
+    "value": "{\"value\":\"古いコントロールパネル。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old Projector",
+   {
+    "value": "{\"value\":\"古いプロジェクター\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old projector.",
+   {
+    "value": "{\"value\":\"古いプロジェクター。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Stepladder",
+   {
+    "value": "{\"value\":\"踏み台\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Used stepladder.",
+   {
+    "value": "{\"value\":\"脚立を使用。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Welcome Mat",
+   {
+    "value": "{\"value\":\"ウェルカムマット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Welcome Mat.",
+   {
+    "value": "{\"value\":\"ウェルカムマット。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bulletproof Window",
+   {
+    "value": "{\"value\":\"防弾窓\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Three-sided",
+   {
+    "value": "{\"value\":\"三面\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Two-sided",
+   {
+    "value": "{\"value\":\"両面\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Window Frame",
+   {
+    "value": "{\"value\":\"窓枠\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bottlecap Mine (Ammo)",
+   {
+    "value": "{\"value\":\"ボトルキャップ鉱山（弾薬）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Homemade mine using an old lunchbox and some bottlecaps.",
+   {
+    "value": "{\"value\":\"古いお弁当といくつかのボトルキャップを使用した自家製の鉱山。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Kronkorkenmine ",
+   {
+    "value": "{\"value\":\"クロンコルケンミン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old Lunchbox",
+   {
+    "value": "{\"value\":\"古いお弁当箱\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Some old lunchbox. Might be useful for something...",
+   {
+    "value": "{\"value\":\"いくつかの古いお弁当。何かに役立つかもしれません...\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bottlecaps",
+   {
+    "value": "{\"value\":\"ボトルキャップ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bottlecaps left over from various Nuka Colas. Might be useful for something...",
+   {
+    "value": "{\"value\":\"さまざまなヌカコーラから残ったボトルキャップ。何かに役立つかもしれません...\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sunset Sarsaparilla Star Bottlecap",
+   {
+    "value": "{\"value\":\"サンセットサルサパリラスターボトルキャップ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Very rare Sunset Sarsaparilla cap. Probably worth some coin or collect 50 and craft a reward...",
+   {
+    "value": "{\"value\":\"非常に珍しいサンセットサルサパリラキャップ。おそらくコインの価値があるか、50を集めて報酬を作ります...\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Rad-B-Gone",
+   {
+    "value": "{\"value\":\"Rad-B-Gone\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Provides moderate relief from radiation poisoning.",
+   {
+    "value": "{\"value\":\"放射線中毒から中程度の救済を提供します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:10mm Pistol",
+   {
+    "value": "{\"value\":\"10mmピストル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Civilian pistol. Slightly stronger than regular 9mm.",
+   {
+    "value": "{\"value\":\"民間のピストル。通常の9mmより少し強いです。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:10mm Revolver",
+   {
+    "value": "{\"value\":\"10mmリボルバー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Civilian revolver. Slightly stronger than regular 9mm. 6 round capacity with a bit more stopping power than the 10mm Pistol.",
+   {
+    "value": "{\"value\":\"民間のリボルバー。通常の9mmより少し強いです。 10mmピストルよりも少し強力なストッピングパワーを備えた6ラウンドの容量。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:10mm SMG",
+   {
+    "value": "{\"value\":\"10mm SMG\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Civilian submachine gun. Slightly stronger than regular 9mm. High capacity magazine.",
+   {
+    "value": "{\"value\":\"民間の短機関銃。通常の9mmより少し強いです。大容量マガジン。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Scrap Laser Pistol",
+   {
+    "value": "{\"value\":\"スクラップレーザーピストル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Homemade laser weapon. Looks...safe. Scales with the Advanced Engineering perk.",
+   {
+    "value": "{\"value\":\"自家製のレーザー兵器。見えます...安全です。 AdvancedEngineeringの特典に合わせて拡張できます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Laser Pistol",
+   {
+    "value": "{\"value\":\"レーザーピストル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Experimental military-tech.",
+   {
+    "value": "{\"value\":\"実験的な軍事技術。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Laser Rifle",
+   {
+    "value": "{\"value\":\"レーザーライフル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Laser Shotgun",
+   {
+    "value": "{\"value\":\"レーザーショットガン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Experimental military-tech. Scales with the Advanced Engineering perk.",
+   {
+    "value": "{\"value\":\"実験的な軍事技術。 AdvancedEngineeringの特典に合わせて拡張できます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Plasma Pistol",
+   {
+    "value": "{\"value\":\"プラズマピストル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Plasma Rifle",
+   {
+    "value": "{\"value\":\"プラズマライフル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Flare Gun",
+   {
+    "value": "{\"value\":\"フレアガン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Emergency flare gun. Can be used to show your location to others or to simply provide some light.",
+   {
+    "value": "{\"value\":\"緊急フレアガン。他の人にあなたの場所を示すために、または単にいくつかの光を提供するために使用することができます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pipe Pistol",
+   {
+    "value": "{\"value\":\"パイプピストル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Weak homemade pistol. Uses 9mm. Low durability. Can break and disappear!",
+   {
+    "value": "{\"value\":\"弱い自家製ピストル。 9mmを使用しています。耐久性が低い。壊れて消えることができます！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pipe Rifle",
+   {
+    "value": "{\"value\":\"パイプライフル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Weak homemade rifle. Uses 9mm. Low durability. Can break and disappear!",
+   {
+    "value": "{\"value\":\"弱い自家製ライフル。 9mmを使用しています。耐久性が低い。壊れて消えることができます！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Short Pipe Shotgun",
+   {
+    "value": "{\"value\":\"ショートパイプショットガン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Homemade shotgun. A bit unwieldy. Short range and low durability. Can break and disappear!",
+   {
+    "value": "{\"value\":\"自家製ショットガン。少し扱いに​​くい。短距離で耐久性が低い。壊れて消えることができます！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Short Pipe Shotgun (Extended Mag)",
+   {
+    "value": "{\"value\":\"ショートパイプショットガン（拡張マグ）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Homemade shotgun. A bit unwieldy. Short range and low durability. Custom cylinder mag allows for 4 shots before reloading. Can break and disappear!",
+   {
+    "value": "{\"value\":\"自家製ショットガン。少し扱いに​​くい。短距離で耐久性が低い。カスタムシリンダーマグは、リロードする前に4ショットを可能にします。壊れて消えることができます！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Triple Barrel Shotgun",
+   {
+    "value": "{\"value\":\"トリプルバレルショットガン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Custom-made triple barrel shotgun.",
+   {
+    "value": "{\"value\":\"カスタムメイドのトリプルバレルショットガン。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Combat Shotgun",
+   {
+    "value": "{\"value\":\"戦闘用散弾銃\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Military tier shotgun.",
+   {
+    "value": "{\"value\":\"ミリタリーティアショットガン。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Heavy Sniper",
+   {
+    "value": "{\"value\":\"ヘビースナイ​​パー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Long range sniper rifle.",
+   {
+    "value": "{\"value\":\"長距離狙撃ライフル。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Service Rifle",
+   {
+    "value": "{\"value\":\"制式小銃\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Standard edition infantry service rifle.",
+   {
+    "value": "{\"value\":\"標準版歩兵制式小銃。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Lever Action Rifle",
+   {
+    "value": "{\"value\":\"レバーアクションライフル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:.44 Magnum and lever action. What more could you want?",
+   {
+    "value": "{\"value\":\".44マグナムとレバーアクション。これ以上何が欲しいですか？\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Railway Rifle",
+   {
+    "value": "{\"value\":\"鉄道ライフル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Custom made rifle that launches rail spikes. Fairly low durability due to the force of firing it.",
+   {
+    "value": "{\"value\":\"レールスパイクを発射するカスタムメイドのライフル。発射力により耐久性がかなり低い。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Left over military launcher that makes use of any mini nukes you can find. Can maybe use some other round object as ammo if you find the right one...",
+   {
+    "value": "{\"value\":\"あなたが見つけることができるどんなミニ核兵器も利用する残りの軍のランチャー。適切なものが見つかったら、他の丸いオブジェクトを弾薬として使用できます...\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Incinerator",
+   {
+    "value": "{\"value\":\"焼却炉\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Modified flamethrower. Semi-auto molotovs!",
+   {
+    "value": "{\"value\":\"火炎放射器を改造。半自動火炎瓶！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Minigun",
+   {
+    "value": "{\"value\":\"ミニガン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old well-used minigun. Not the most modern tech but will certainly still mow down anything in front of it.",
+   {
+    "value": "{\"value\":\"古くてよく使われているミニガン。最新の技術ではありませんが、それでもその前にあるものはすべて破壊されます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:BAR",
+   {
+    "value": "{\"value\":\"バー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:An old relic of a gun.",
+   {
+    "value": "{\"value\":\"銃の古い遺物。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:SCAR",
+   {
+    "value": "{\"value\":\"SCAR\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Military-issue assault rifle.",
+   {
+    "value": "{\"value\":\"軍事問題のアサルトライフル。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:M-79",
+   {
+    "value": "{\"value\":\"M-79\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Single-fire 40mm grenade launcher. Has AP HE and Smoke rounds",
+   {
+    "value": "{\"value\":\"単発40mmグレネードランチャー。 APHEとスモークラウンドがあります\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:40mm HE Grenade (Ammo)",
+   {
+    "value": "{\"value\":\"40mm HEグレネード（弾薬）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:High-explosive 40mm grenade used in the M-79 launcher.",
+   {
+    "value": "{\"value\":\"M-79ランチャーに使用されている爆発性の高い40mmグレネード。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:40mm Smoke Grenade(Ammo)",
+   {
+    "value": "{\"value\":\"40mm発煙手榴弾（弾薬）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Smoke 40mm grenade used in the M-79 launcher.",
+   {
+    "value": "{\"value\":\"M-79ランチャーで使用されている40mmグレネードの煙。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:40mm AP Grenade (Ammo)",
+   {
+    "value": "{\"value\":\"40mm APグレネード（弾薬）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:AP 40mm grenade used in the M-79 launcher. Lower entity damage with much lower block damage.",
+   {
+    "value": "{\"value\":\"M-79ランチャーで使用されるAP40mmグレネード。エンティティのダメージが低く、ブロックのダメージがはるかに低くなります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Nuke (Ammo)",
+   {
+    "value": "{\"value\":\"核（弾薬）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:These things caused all of this so surely they can fix it. Right? Will wreck everything so handle with caution. Not advised for indoor use.",
+   {
+    "value": "{\"value\":\"これらのことがこれらすべてを引き起こしたので、確実に修正することができます。右？すべてを破壊するので、注意して取り扱ってください。屋内での使用はお勧めしません。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Nuke AP (Ammo)",
+   {
+    "value": "{\"value\":\"核AP（弾薬）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Anti-Personnel version crafted from a scavenged mini nuke. Much lower block damage. Slightly lower enitity damage and slightly decreased AOE.",
+   {
+    "value": "{\"value\":\"清掃されたミニ核兵器から作られた対人バージョン。はるかに低いブロックダメージ。エンティティのダメージがわずかに低くなり、AOEがわずかに減少しました。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bowling Ball (Ammo)",
+   {
+    "value": "{\"value\":\"ボウリング球（弾薬）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Can't find any nukes to use with your shiny Fat Man? Use these! *Not PBA regulation*",
+   {
+    "value": "{\"value\":\"光沢のあるファットマンで使用する核兵器が見つかりませんか？これらを使用してください！ * PBA規制ではありません*\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Rail Spike (Ammo)",
+   {
+    "value": "{\"value\":\"レールスパイク（弾薬）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Normal puny bullets not stopping those pesky zeds? Try these!",
+   {
+    "value": "{\"value\":\"それらの厄介なゼズを止めない通常の小さな弾丸？これらを試してみてください！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Incinerator Fuel (Ammo)",
+   {
+    "value": "{\"value\":\"焼却炉燃料（弾薬）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Ammo used by the Incinerator.",
+   {
+    "value": "{\"value\":\"焼却炉で使用される弾薬。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Flare (Ammo)",
+   {
+    "value": "{\"value\":\"フレア（弾薬）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Ammo for the Flare Gun.",
+   {
+    "value": "{\"value\":\"フレアガンの弾薬。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:10mm (Ammo)",
+   {
+    "value": "{\"value\":\"10mm（弾薬）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Regular 10mm round. Marginally better than regular 9mm rounds.",
+   {
+    "value": "{\"value\":\"通常の10mmラウンド。通常の9mm弾よりもわずかに優れています。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:HP 10mm (Ammo)",
+   {
+    "value": "{\"value\":\"HP 10mm（弾薬）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:HP 10mm round. Best against soft targets. Marginally better than HP 9mm rounds.",
+   {
+    "value": "{\"value\":\"HP10mmラウンド。ソフトターゲットに対して最適です。 HP9mm弾よりわずかに優れています。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:AP 10mm (Ammo)",
+   {
+    "value": "{\"value\":\"AP 10mm（弾薬）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:AP 10mm round. Best against armored targets. Marginally better than AP 9mm rounds.",
+   {
+    "value": "{\"value\":\"AP10mmラウンド。装甲ターゲットに対して最適です。 AP9mm弾よりわずかに優れています。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Box of 10mm Ammo (100)",
+   {
+    "value": "{\"value\":\"10mm弾薬箱（100）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Box of HP 10mm Ammo (100)",
+   {
+    "value": "{\"value\":\"HP 10mm弾薬箱（100）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Box of AP 10mm Ammo (100)",
+   {
+    "value": "{\"value\":\"AP 10mm弾薬箱（100）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:5.56mm (Ammo)",
+   {
+    "value": "{\"value\":\"5.56mm（弾薬）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Regular 5.56mm round.",
+   {
+    "value": "{\"value\":\"通常の5.56mmラウンド。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:5.56mm HP (Ammo)",
+   {
+    "value": "{\"value\":\"5.56mm HP（弾薬）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:5.56mm HP round. Best against soft targets.",
+   {
+    "value": "{\"value\":\"5.56mmHPラウンド。ソフトターゲットに対して最適です。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:5.56mm AP (Ammo)",
+   {
+    "value": "{\"value\":\"5.56mm AP（弾薬）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:5.56mm AP round. Best against armored targets.",
+   {
+    "value": "{\"value\":\"5.56mmAPラウンド。装甲ターゲットに対して最適です。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Box of 5.56mm Ammo (100)",
+   {
+    "value": "{\"value\":\"5.56mm弾薬箱（100）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Box of HP 5.56mm Ammo (100)",
+   {
+    "value": "{\"value\":\"HP 5.56mm弾薬の箱（100）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Box of AP 5.56mm Ammo (100)",
+   {
+    "value": "{\"value\":\"AP 5.56mm弾薬の箱（100）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Alien Energy Cell (Ammo)",
+   {
+    "value": "{\"value\":\"エイリアンエナジーセル（弾薬）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Ammo used by the Alien Blaster.",
+   {
+    "value": "{\"value\":\"エイリアンブラスターが使用する弾薬。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Energy Cell (Ammo)",
+   {
+    "value": "{\"value\":\"エネルギーセル（弾薬）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Ammo used by the Laser Pistol.",
+   {
+    "value": "{\"value\":\"レーザーピストルで使用される弾薬。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Microfusion Cell (Ammo)",
+   {
+    "value": "{\"value\":\"マイクロフュージョンセル（弾薬）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Ammo used by the Laser Rifle.",
+   {
+    "value": "{\"value\":\"レーザーライフルで使用される弾薬。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Shotgun Microfusion Cell (Ammo)",
+   {
+    "value": "{\"value\":\"ショットガンマイクロフュージョンセル（弾薬）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Ammo used by the Laser Shotgun.",
+   {
+    "value": "{\"value\":\"レーザーショットガンで使用される弾薬。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Plasma Energy Cell (Ammo)",
+   {
+    "value": "{\"value\":\"プラズマエネルギーセル（弾薬）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Ammo used by the Plasma Pistol.",
+   {
+    "value": "{\"value\":\"プラズマピストルが使用する弾薬。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Plasma Microfusion Cell (Ammo)",
+   {
+    "value": "{\"value\":\"血漿マイクロフュージョンセル（弾薬）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Ammo used by the Plasma Rifle.",
+   {
+    "value": "{\"value\":\"プラズマライフルで使用される弾薬。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cryo Cell (Ammo)",
+   {
+    "value": "{\"value\":\"クライオセル（弾薬）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Ammo used by the Cryolator.",
+   {
+    "value": "{\"value\":\"クライオレーターが使用する弾薬。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cryo Grenade (Ammo)",
+   {
+    "value": "{\"value\":\"クライオグレネード（弾薬）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Experimental cryogenic grenade. Not as much upfront damage as a normal grenade but makes up for it with its slowing and weakness effects. Short fuse.",
+   {
+    "value": "{\"value\":\"実験的な極低温手榴弾。通常の手榴弾ほどの先行ダメージはありませんが、減速効果と弱点効果で補います。短いヒューズ。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Nuka Grenade (Ammo)",
+   {
+    "value": "{\"value\":\"ヌカグレネード（弾薬）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Experimental Nuka grenade. Short fuse. Highly effective against organic matter...",
+   {
+    "value": "{\"value\":\"実験的なヌカ手榴弾。短いヒューズ。有機物に対して非常に効果的です...\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Flashlight (Mod)",
+   {
+    "value": "{\"value\":\"懐中電灯（Mod）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Homemade flashlight attachment.",
+   {
+    "value": "{\"value\":\"自家製懐中電灯アタッチメント。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Oil Filter Suppressor",
+   {
+    "value": "{\"value\":\"オイルフィルターサプレッサー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Might make it hard to aim but at least they shouldn't hear all those misses...",
+   {
+    "value": "{\"value\":\"狙うのが難しくなるかもしれませんが、少なくとも彼らはそれらすべてのミスを聞くべきではありません...\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Extended Mag (Pipe Guns)",
+   {
+    "value": "{\"value\":\"拡張マグ（パイプガン）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Double the ammo capacity of your pipe guns.",
+   {
+    "value": "{\"value\":\"パイプガンの弾薬容量を2倍にします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Long Rifle Barrel (Pipe Rifle)",
+   {
+    "value": "{\"value\":\"ロングライフルバレル（パイプライフル）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Can be installed on a Pipe Rifle to increase range and damage at a cost to handling.",
+   {
+    "value": "{\"value\":\"パイプライフルに取り付けて射程とダメージを増やすことができますが、取り扱いにコストがかかります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Shotgun Cylinder Mag",
+   {
+    "value": "{\"value\":\"ショットガンシリンダーマグ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Custom made 4 round cylinder for the Pipe Shotgun.",
+   {
+    "value": "{\"value\":\"パイプショットガン用のカスタムメイドの4ラウンドシリンダー。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Long Shotgun Barrel(Pipe Shotgun)",
+   {
+    "value": "{\"value\":\"ロングショットガンバレル（パイプショットガン）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Can be installed on a Pipe Shotgun to increase range at a small cost to handling.",
+   {
+    "value": "{\"value\":\"パイプショットガンに取り付けて、わずかなコストで射程を伸ばすことができます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Overcharged Capacitor",
+   {
+    "value": "{\"value\":\"過充電コンデンサ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Can be installed on a Laser weapon to increase magazine size and damage. Increases weapon degradation.",
+   {
+    "value": "{\"value\":\"レーザー兵器に取り付けて、マガジンのサイズとダメージを増やすことができます。武器の劣化を増加させます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Laser Beam Splitter",
+   {
+    "value": "{\"value\":\"レーザービームスプリッター\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Can be installed on a Laser weapon. Splits the beam firing 2 ammo cells at once. Increases weapon degradation.",
+   {
+    "value": "{\"value\":\"レーザー兵器に搭載可能。一度に2つの弾薬セルを発射するビームを分割します。武器の劣化を増加させます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Laser Beam Focuser",
+   {
+    "value": "{\"value\":\"レーザービームフォーカサー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Can be installed on a Laser weapon to increase range and damage. Increases weapon degradation.",
+   {
+    "value": "{\"value\":\"レーザー兵器に取り付けて、射程とダメージを増やすことができます。武器の劣化を増加させます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Laser Rifle Scope",
+   {
+    "value": "{\"value\":\"レーザーライフルスコープ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Can be installed on a Laser Rifle to add greater sight range. Works best with a Focuser.",
+   {
+    "value": "{\"value\":\"レーザーライフルに取り付けて、視界を広げることができます。フォーカサーで最適に動作します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[FFC300]Silent But Deadly[-]",
+   {
+    "value": "{\"value\":\"[FFC300]サイレントだが致命的[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unique variant of the Pipe Pistol. Won't disappear upon breaking. Better stats and an included silencer for increased stealth!",
+   {
+    "value": "{\"value\":\"パイプピストルのユニークな変種。壊しても消えません。より良い統計とステルスを高めるための付属のサイレンサー！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[FFC300]Firestarter[-]",
+   {
+    "value": "{\"value\":\"[FFC300]ファイアスターター[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unique variant of the Pipe Shotgun. Won't disappear upon breaking. Better stats and makes every round act like Dragon's Breath!",
+   {
+    "value": "{\"value\":\"パイプショットガンのユニークな変種。壊しても消えません。より良い統計とすべてのラウンドをドラゴンの息のように振る舞わせます！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[FFC300]Long Distance[-]",
+   {
+    "value": "{\"value\":\"[FFC300]長距離[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unique variant of the Pipe Rifle. Won't disappear upon breaking. Hits harder and has a scope!",
+   {
+    "value": "{\"value\":\"パイプライフルのユニークな変種。壊しても消えません。より強くヒットし、スコープがあります！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[FFC300]Lincoln's Repeater[-]",
+   {
+    "value": "{\"value\":\"[FFC300]リンカーンのリピーター[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unique variant of the Lever Action Rifle. Hits harder and can penetrate multiple targets as well as dismember them. Has a variable zoom on the iron sights.",
+   {
+    "value": "{\"value\":\"レバーアクションライフルのユニークな変種。より強くヒットし、複数のターゲットを貫通するだけでなく、それらを解体することができます。鉄の照準器に可変ズームがあります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[FFC300]Le Fusil Terribles[-]",
+   {
+    "value": "{\"value\":\"[FFC300] Le Fusil Terribles [-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[FFC300]Arizona Campaign Scout Rifle[-]",
+   {
+    "value": "{\"value\":\"[FFC300]アリゾナキャンペーンスカウトライフル[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Modified long range sniper rifle.",
+   {
+    "value": "{\"value\":\"改良された長距離狙撃ライフル。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[FFC300]Maria[-]",
+   {
+    "value": "{\"value\":\"[FFC300]マリア[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unique variant of the 9mm pistol. Hits harder and can dismember targets.",
+   {
+    "value": "{\"value\":\"9mmピストルのユニークなバリエーション。より強くヒットし、ターゲットを解体することができます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[FFC300]Pew Pew[-]",
+   {
+    "value": "{\"value\":\"[FFC300]ピューピュー[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unique variant of the laser pistol. Some homemade tweaks have increased the damage output.",
+   {
+    "value": "{\"value\":\"レーザーピストルのユニークな変種。いくつかの自家製の調整により、ダメージ出力が増加しました。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[FFC300]AER15 Prototype[-]",
+   {
+    "value": "{\"value\":\"[FFC300] AER15プロトタイプ[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unique prototype variant of the laser rifle. Higher damage per beam and shoots 5 rounds in one trigger pull. Hip fire behaves more like a shotgun while aimed fire allows heavy damage to a single target.",
+   {
+    "value": "{\"value\":\"レーザーライフルのユニークなプロトタイプバリアント。ビームあたりのダメージが高く、1回のトリガープルで5ラウンドを撃ちます。ヒップファイアはショットガンのように動作しますが、照準ファイアは単一のターゲットに大きなダメージを与えます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[FFC300]Cryolator[-]",
+   {
+    "value": "{\"value\":\"[FFC300]クライオレーター[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Unique military prototype. Able to slow enemies when hit and has a chance to completely freeze targets.",
+   {
+    "value": "{\"value\":\"ユニークな軍事プロトタイプ。攻撃されたときに敵を遅くすることができ、ターゲットを完全にフリーズするチャンスがあります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[FFC300]Alien Blaster[-]",
+   {
+    "value": "{\"value\":\"[FFC300]エイリアンブラスター[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Not exactly sure how it works but it has a trigger and it kills things...",
+   {
+    "value": "{\"value\":\"それがどのように機能するかは正確にはわかりませんが、トリガーがあり、物事を殺します...\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[FFC300]Ashmaker[-]",
+   {
+    "value": "{\"value\":\"[FFC300]アッシュメーカー[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Slightly modified mingun that will set enemies on fire",
+   {
+    "value": "{\"value\":\"敵に火をつけるわずかに変更されたミンガン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Service Rifle Schematic",
+   {
+    "value": "{\"value\":\"制式小銃の概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Teaches you to craft the Service Rifle. Scales with the Machine Gunner perk.",
+   {
+    "value": "{\"value\":\"サービスライフルを作る方法を教えます。マシンガンナーの特典でスケーリングします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:10mm Pistol Schematic",
+   {
+    "value": "{\"value\":\"10mmピストルの概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Teaches you to craft the 10mm Pistol. Scales with the Gunslinger perk.",
+   {
+    "value": "{\"value\":\"10mmピストルを作る方法を教えます。ガンスリンガーの特典でスケーリングします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:10mm Revolver Schematic",
+   {
+    "value": "{\"value\":\"10mmリボルバーの概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Teaches you to craft the 10mm Revolver. Scales with the Gunslinger perk.",
+   {
+    "value": "{\"value\":\"10mmリボルバーを作る方法を教えます。ガンスリンガーの特典でスケーリングします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:10mm SMG Schematic",
+   {
+    "value": "{\"value\":\"10mmSMG回路図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Teaches you to craft the 10mm SMG. Scales with the Gunslinger perk.",
+   {
+    "value": "{\"value\":\"10mmSMGの製作方法を教えます。ガンスリンガーの特典でスケーリングします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Lever Action Rifle Schematic",
+   {
+    "value": "{\"value\":\"レバーアクションライフルの概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Teaches you to craft the Lever Action Rifle. Scales with the Deadeye perk.",
+   {
+    "value": "{\"value\":\"レバーアクションライフルを作る方法を教えます。 Deadeye特典に合わせて調整します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Maria Schematic",
+   {
+    "value": "{\"value\":\"マリア回路図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Teaches you to craft the Maria",
+   {
+    "value": "{\"value\":\"マリアを作る方法を教えます\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:LAR_Legendary Schematic",
+   {
+    "value": "{\"value\":\"LAR_Legendary回路図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Teaches you to craft the LAR Legendary",
+   {
+    "value": "{\"value\":\"LARレジェンダリーを作成する方法を教えます\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:HeavySniperGobi Schematic",
+   {
+    "value": "{\"value\":\"HeavySniperGobi回路図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Teaches you to craft the Sniper Gobi",
+   {
+    "value": "{\"value\":\"スナイパーゴビを作る方法を教えます\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:LeFusilTerribles Schematic",
+   {
+    "value": "{\"value\":\"LeFusilTerribles回路図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Teaches you to craft the Le Fusil Terrible",
+   {
+    "value": "{\"value\":\"Le FusilTerribleを作成する方法を教えます\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Ashmaker Schematic",
+   {
+    "value": "{\"value\":\"Ashmaker回路図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Teaches you to craft the Ashmaker",
+   {
+    "value": "{\"value\":\"Ashmakerを作る方法を教えます\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Heavy Sniper Rifle Schematic",
+   {
+    "value": "{\"value\":\"ヘビースナイ​​パーライフルの概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Teaches you to craft the Heavy Sniper Rifle. Scales with the Deadeye perk.",
+   {
+    "value": "{\"value\":\"ヘビースナイ​​パーライフルを作る方法を教えます。 Deadeye特典に合わせて調整します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Railway Rifle Schematic",
+   {
+    "value": "{\"value\":\"鉄道ライフルの概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Teaches you to craft the Railway Rifle. Scales with the Advanced Engineering perk.",
+   {
+    "value": "{\"value\":\"鉄道ライフルを作る方法を教えます。 AdvancedEngineeringの特典に合わせて拡張できます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Incinerator Schematic",
+   {
+    "value": "{\"value\":\"焼却炉の概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Teaches you to craft the Incinerator. Scales with the Demolitions Expert perk.",
+   {
+    "value": "{\"value\":\"焼却炉を作る方法を教えます。 DemolitionsExpert特典に合わせて拡張します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Triple Barrel Shotgun Schematic.",
+   {
+    "value": "{\"value\":\"トリプルバレルショットガンの概略図。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Teaches you to craft the Triple Barrel Shotgun. Scales with the Boomstick perk.",
+   {
+    "value": "{\"value\":\"トリプルバレルショットガンを作成する方法を教えます。ブームスティック特典でスケーリングします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Combat Shotgun Schematic.",
+   {
+    "value": "{\"value\":\"戦闘用散弾銃の概略図。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Teaches you to craft the Combat Shotgun. Scales with the Boomstick perk.",
+   {
+    "value": "{\"value\":\"戦闘用散弾銃を作る方法を教えます。ブームスティック特典でスケーリングします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Laser Pistol Schematic",
+   {
+    "value": "{\"value\":\"レーザーピストルの概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Teaches you to craft the Laser Pistol. Scales with the Advanced Engineering perk.",
+   {
+    "value": "{\"value\":\"レーザーピストルを作る方法を教えます。 AdvancedEngineeringの特典に合わせて拡張できます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Laser Rifle Schematic",
+   {
+    "value": "{\"value\":\"レーザーライフルの概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Teaches you to craft the Laser Rifle. Scales with the Advanced Engineering perk.",
+   {
+    "value": "{\"value\":\"レーザーライフルを作る方法を教えます。 AdvancedEngineeringの特典に合わせて拡張できます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Laser Shotgun Schematic.",
+   {
+    "value": "{\"value\":\"レーザーショットガンの概略図。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Plasma Pistol Schematic.",
+   {
+    "value": "{\"value\":\"プラズマピストルの概略図。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Teaches you to craft the Plasma Pistol. Scales with the Advanced Engineering perk.",
+   {
+    "value": "{\"value\":\"プラズマピストルを作る方法を教えます。 AdvancedEngineeringの特典に合わせて拡張できます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Plasma Rifle Schematic.",
+   {
+    "value": "{\"value\":\"プラズマライフルの概略図。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Teaches you to craft the Plasma Rifle. Scales with the Advanced Engineering perk.",
+   {
+    "value": "{\"value\":\"プラズマライフルを作る方法を教えます。 AdvancedEngineeringの特典に合わせて拡張できます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:BAR Schematic.",
+   {
+    "value": "{\"value\":\"BAR回路図。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Teaches you to craft the BAR. Scales with the Machine Gunner perk.",
+   {
+    "value": "{\"value\":\"BARを作成する方法を教えます。マシンガンナーの特典でスケーリングします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:SCAR Schematic",
+   {
+    "value": "{\"value\":\"SCAR回路図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Teaches you to craft the SCAR. Scales with the Machine Gunner perk.",
+   {
+    "value": "{\"value\":\"SCARを作成する方法を教えます。マシンガンナーの特典でスケーリングします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Minigun Schematic.",
+   {
+    "value": "{\"value\":\"ミニガンの概略図。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Teaches you to craft the Minigun. Scales with the Machine Gunner perk.",
+   {
+    "value": "{\"value\":\"ミニガンを作る方法を教えます。マシンガンナーの特典でスケーリングします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:M-79 Schematic.",
+   {
+    "value": "{\"value\":\"M-79回路図。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Teaches you to craft the M-79. Scales with the Demolitions Expert perk.",
+   {
+    "value": "{\"value\":\"M-79を作る方法を教えます。 DemolitionsExpert特典に合わせて拡張します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Scrap Laser Pistol Schematic.",
+   {
+    "value": "{\"value\":\"スクラップレーザーピストルの概略図。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Teaches you to craft the Scrap Laser Pistol. Scales with the Advanced Engineering perk.",
+   {
+    "value": "{\"value\":\"スクラップレーザーピストルを作る方法を教えます。 AdvancedEngineeringの特典に合わせて拡張できます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Overcharged Capacitor Schematic.",
+   {
+    "value": "{\"value\":\"過充電コンデンサの回路図。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Laser Splitter Schematic.",
+   {
+    "value": "{\"value\":\"レーザースプリッターの概略図。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Laser Focuser Schematic.",
+   {
+    "value": "{\"value\":\"レーザーフォーカサーの概略図。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Laser Rifle Scope Schematic.",
+   {
+    "value": "{\"value\":\"レーザーライフルスコープの概略図。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Vault Tec Storage Schematic.",
+   {
+    "value": "{\"value\":\"Vault Tec StorageSchematic。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Vault Tec Tall Storage Schematic.",
+   {
+    "value": "{\"value\":\"Vault Tec Tall StorageSchematic。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Banjo",
+   {
+    "value": "{\"value\":\"バンジョー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A melee weapon. A good choice when trying to win Zombie Kill of the Week!",
+   {
+    "value": "{\"value\":\"近接武器。ゾンビキルオブザウィークを勝ち取ろうとするときの良い選択です！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Baton",
+   {
+    "value": "{\"value\":\"バトン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A simple melee weapon.",
+   {
+    "value": "{\"value\":\"単純な近接武器。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cleaver",
+   {
+    "value": "{\"value\":\"クリーバー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Crowbar",
+   {
+    "value": "{\"value\":\"バール\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cue Stick",
+   {
+    "value": "{\"value\":\"突き棒\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A pool cue. Not the most effective, but it might keep you alive.",
+   {
+    "value": "{\"value\":\"プールのキュー。最も効果的ではありませんが、それはあなたを生かし続けるかもしれません。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Katana",
+   {
+    "value": "{\"value\":\"刀\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Meant for samurai warriors. But who's left to judge?",
+   {
+    "value": "{\"value\":\"武士のための意味。しかし、誰が判断するために残されていますか？\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Nail Board",
+   {
+    "value": "{\"value\":\"ネイルボード\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pipe Hammer",
+   {
+    "value": "{\"value\":\"パイプハンマー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A makeshift melee weapon.",
+   {
+    "value": "{\"value\":\"間に合わせの近接武器。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Pipe Wrench",
+   {
+    "value": "{\"value\":\"パイプレンチ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Rebar Club",
+   {
+    "value": "{\"value\":\"鉄筋クラブ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A heavy melee weapon. Scavenged from the rubble out in the wasteland...",
+   {
+    "value": "{\"value\":\"重い近接武器。荒れ地の瓦礫から清掃された...\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Rolling Pin",
+   {
+    "value": "{\"value\":\"麺棒\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A used kitchen utensil. Make Grandma proud!",
+   {
+    "value": "{\"value\":\"中古の台所用品。おばあちゃんを誇りに思ってください！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tire Iron",
+   {
+    "value": "{\"value\":\"タイヤアイアン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Heavy and metal? What else do you need?.",
+   {
+    "value": "{\"value\":\"重くて金属？他に何か要りますか？。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Supa Sledge",
+   {
+    "value": "{\"value\":\"スパスレッジ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Modified sledgehammer. Heavy and slow, but very powerful.",
+   {
+    "value": "{\"value\":\"変更されたハンマー。重くて遅いですが、非常に強力です。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Guitar",
+   {
+    "value": "{\"value\":\"ギター\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:An old guitar. Probably only good for cracking skulls at this point.",
+   {
+    "value": "{\"value\":\"古いギター。おそらく、この時点で頭蓋骨を割るのにのみ適しています。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Survival Machete",
+   {
+    "value": "{\"value\":\"サバイバルマチェーテ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A worn, short machete.",
+   {
+    "value": "{\"value\":\"磨耗した短いマチェーテ。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[FFC300]The Break[-]",
+   {
+    "value": "{\"value\":\"[FFC300]ブレイク[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A custom pool cue. Higher damage and dismemberment.",
+   {
+    "value": "{\"value\":\"カスタムプールキュー。より高いダメージと解体。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[FFC300]Duke's Judgement[-]",
+   {
+    "value": "{\"value\":\"[FFC300]デュークの判断[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A powerful supa sledge.",
+   {
+    "value": "{\"value\":\"強力なスーパースレッジ。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[FFC300]Mad Bean's Club[-]",
+   {
+    "value": "{\"value\":\"[FFC300]マッドビーンズクラブ[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A cobbled together melee weapon. Scavenged from the wasteland. Sure would hate to meet the maniac who made this thing...",
+   {
+    "value": "{\"value\":\"石畳の近接武器。荒れ地から清掃されました。確かに、このことを作ったマニアックに会うのは嫌いだろう...\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[FFC300]Navezgane Slugger[-]",
+   {
+    "value": "{\"value\":\"[FFC300]ナベズガネスラッガー[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Send those zombie heads out of the park!",
+   {
+    "value": "{\"value\":\"それらのゾンビの頭を公園から送り出してください！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[FFC300]Open Breaker[-]",
+   {
+    "value": "{\"value\":\"[FFC300]オープンブレーカー[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Zombie killing is a 24/7 business. And cousin, business is a-boomin'!",
+   {
+    "value": "{\"value\":\"ゾンビ殺害は24時間年中無休のビジネスです。そしていとこ、ビジネスはブーミンです！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Crashed UFO",
+   {
+    "value": "{\"value\":\"墜落したUFO\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:UFO block",
+   {
+    "value": "{\"value\":\"UFOブロック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Vertibird Chassis",
+   {
+    "value": "{\"value\":\"Vertibirdシャーシ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Parts needed to craft the Vertibird. Grease Monkey level 5 required.",
+   {
+    "value": "{\"value\":\"Vertibirdを作成するために必要なパーツ。グリースモンキーレベル5が必要です。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Vertibird Engines",
+   {
+    "value": "{\"value\":\"Vertibirdエンジン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Vertibird",
+   {
+    "value": "{\"value\":\"Vertibird\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old military transport chopper. Can hold up to 6 people.",
+   {
+    "value": "{\"value\":\"古い軍用輸送チョッパー。最大6人まで収容できます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Vertibird Chassis Schematic",
+   {
+    "value": "{\"value\":\"Vertibirdシャーシの概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Vertibird Engines Schematic",
+   {
+    "value": "{\"value\":\"Vertibirdエンジンの概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Leader's Loot",
+   {
+    "value": "{\"value\":\"リーダーの戦利品\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Ghoul's Loot",
+   {
+    "value": "{\"value\":\"グールの戦利品\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Power Armor Repair Kit",
+   {
+    "value": "{\"value\":\"パワーアーマー修理キット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Resource kit used to repair Power Armor.",
+   {
+    "value": "{\"value\":\"パワーアーマーの修理に使用されるリソースキット。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A piece of Power Armor. When anything less than a full set is equipped, there is a mobility penalty. But when a full set is worn, you will get a small movement bonus. Repairs with Power Armor Repair Kit.",
+   {
+    "value": "{\"value\":\"パワーアーマーの一部。フルセットに満たないものが装備されている場合、モビリティペナルティがあります。ただし、フルセットを着用すると、わずかな動きのボーナスが得られます。パワーアーマー修理キットで修理します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Power Armor (Helmet)",
+   {
+    "value": "{\"value\":\"パワーアーマー（ヘルメット）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Power Armor (Chest)",
+   {
+    "value": "{\"value\":\"パワーアーマー（チェスト）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Power Armor (Arms)",
+   {
+    "value": "{\"value\":\"パワーアーマー（武器）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Power Armor (Legs)",
+   {
+    "value": "{\"value\":\"パワーアーマー（脚）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Power Armor (Boots)",
+   {
+    "value": "{\"value\":\"パワーアーマー（ブーツ）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Power Armor Set",
+   {
+    "value": "{\"value\":\"パワーアーマーセット\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This bundle contains a full set of Power Armor.",
+   {
+    "value": "{\"value\":\"このバンドルには、パワーアーマーのフルセットが含まれています。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Power Armor Stand",
+   {
+    "value": "{\"value\":\"パワーアーマースタンド\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Power Armor Radar",
+   {
+    "value": "{\"value\":\"パワーアーマーレーダー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Can be installed in a Power Armor Helmet. Will show nearby enemies on the compass.",
+   {
+    "value": "{\"value\":\"パワーアーマーヘルメットに取り付けることができます。コンパスに近くの敵を表示します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Power Armor Radar MkII",
+   {
+    "value": "{\"value\":\"パワーアーマーレーダーMkII\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Can be installed in a Power Armor Helmet. Will show enemies on the compass.",
+   {
+    "value": "{\"value\":\"パワーアーマーヘルメットに取り付けることができます。コンパスに敵を表示します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Power Armor Oxygen Generator",
+   {
+    "value": "{\"value\":\"パワーアーマー酸素発生器\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Can be installed in a Power Armor Helmet. Allows you to remain underwater indefinitely.",
+   {
+    "value": "{\"value\":\"パワーアーマーヘルメットに取り付けることができます。水中に無期限に留まることができます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Power Armor Block Buster",
+   {
+    "value": "{\"value\":\"パワーアーマーブロックバスター\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Can be installed in Power Armor Arms. Increases melee block damage.",
+   {
+    "value": "{\"value\":\"パワーアーマーアームに取り付けることができます。近接ブロックのダメージが増加します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Power Armor Knuckles",
+   {
+    "value": "{\"value\":\"パワーアーマーナックル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Can be installed in a Power Armor Arms. Can cause enemies to bleed.",
+   {
+    "value": "{\"value\":\"パワーアーマーアームに取り付けることができます。敵を出血させる可能性があります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Power Armor Reinforced Plating",
+   {
+    "value": "{\"value\":\"パワーアーマー強化メッキ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Can be installed in Power Armor Chest. Reduces damage taken.",
+   {
+    "value": "{\"value\":\"パワーアーマーチェストに取り付けることができます。受けるダメージを軽減します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Power Armor Emergency Protocol",
+   {
+    "value": "{\"value\":\"パワーアーマー緊急プロトコル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Can be installed in a Power Armor Chest. Slowly regenerate health when below 50%.",
+   {
+    "value": "{\"value\":\"パワーアーマーチェストに取り付けることができます。 50％未満になると、ゆっくりとヘルスを回復します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Power Armor Sturdy Shocks",
+   {
+    "value": "{\"value\":\"パワーアーマー頑丈なショック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Can be installed in Power Armor Legs. Removes all encumbrance slots.",
+   {
+    "value": "{\"value\":\"パワーアーマーレッグに取り付けることができます。すべての邪魔スロットを削除します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Power Armor Jump Boost",
+   {
+    "value": "{\"value\":\"パワーアーマージャンプブースト\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Can be installed in Power Armor Legs. Increases jump height by 50%.",
+   {
+    "value": "{\"value\":\"パワーアーマーレッグに取り付けることができます。ジャンプの高さが50％増加します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Power Armor Enhanced Gyros",
+   {
+    "value": "{\"value\":\"パワーアーマー強化ジャイロ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Can be installed in Power Armor Boots. Allows you to run faster while using less stamina.",
+   {
+    "value": "{\"value\":\"パワーアーマーブーツに取り付けることができます。より少ないスタミナを使用しながら、より速く走ることができます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Power Armor Fall Dampener",
+   {
+    "value": "{\"value\":\"パワーアーマーフォールダンパー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Can be installed in Power Armor Boots. Reduces fall damage by 75%.",
+   {
+    "value": "{\"value\":\"パワーアーマーブーツに取り付けることができます。落下ダメージを75％減らします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Power Armor Rad Resistant",
+   {
+    "value": "{\"value\":\"パワーアーマーラッド耐性\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Can be installed in Power Armor. Makes you immune to radiation sickness from ghouls.",
+   {
+    "value": "{\"value\":\"パワーアーマーに取り付けることができます。グールからの放射線障害の影響を受けなくなります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Wild Wasteland",
+   {
+    "value": "{\"value\":\"ワイルドウェイストランド\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A collection of random knowledge to give you various benefits out in the Wasteland.",
+   {
+    "value": "{\"value\":\"荒れ地であなたに様々な利益を与えるためのランダムな知識のコレクション。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:White River Survival Guide",
+   {
+    "value": "{\"value\":\"ホワイトリバーサバイバルガイド\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A collection of survival knowledge to help you get by out in the Wasteland.",
+   {
+    "value": "{\"value\":\"荒れ地で抜け出すのに役立つサバイバル知識のコレクション。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Power Armor and You",
+   {
+    "value": "{\"value\":\"パワーアーマーとあなた\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A collection of tips and tricks to help you get the most out of your Power Armor while roaming the Wasteland.",
+   {
+    "value": "{\"value\":\"ウェイストランドを歩き回っている間、パワーアーマーを最大限に活用するのに役立つヒントとコツのコレクション。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Wild Wasteland Vol 1",
+   {
+    "value": "{\"value\":\"ワイルドウェイストランドVol1\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Wild Wasteland Vol 2",
+   {
+    "value": "{\"value\":\"ワイルドウェイストランドVol2\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Wild Wasteland Vol 3",
+   {
+    "value": "{\"value\":\"ワイルドウェイストランドVol3\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Wild Wasteland Vol 4",
+   {
+    "value": "{\"value\":\"ワイルドウェイストランドVol4\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Wild Wasteland Vol 5",
+   {
+    "value": "{\"value\":\"ワイルドウェイストランドVol5\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Wild Wasteland Vol 6",
+   {
+    "value": "{\"value\":\"ワイルドウェイストランドVol6\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Wild Wasteland Vol 7",
+   {
+    "value": "{\"value\":\"ワイルドウェイストランドVol7\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:White River Survival Guide Vol 1",
+   {
+    "value": "{\"value\":\"ホワイトリバーサバイバルガイドVol1\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:White River Survival Guide Vol 2",
+   {
+    "value": "{\"value\":\"ホワイトリバーサバイバルガイドVol2\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:White River Survival Guide Vol 3",
+   {
+    "value": "{\"value\":\"ホワイトリバーサバイバルガイドVol3\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:White River Survival Guide Vol 4",
+   {
+    "value": "{\"value\":\"ホワイトリバーサバイバルガイドVol4\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:White River Survival Guide Vol 5",
+   {
+    "value": "{\"value\":\"ホワイトリバーサバイバルガイドVol5\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:White River Survival Guide Vol 6",
+   {
+    "value": "{\"value\":\"ホワイトリバーサバイバルガイドVol6\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:White River Survival Guide Vol 7",
+   {
+    "value": "{\"value\":\"ホワイトリバーサバイバルガイドVol7\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Power Armor and You Vol 1",
+   {
+    "value": "{\"value\":\"パワーアーマーとあなたVol1\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Power Armor and You Vol 2",
+   {
+    "value": "{\"value\":\"パワーアーマーとあなた第2巻\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Power Armor and You Vol 3",
+   {
+    "value": "{\"value\":\"パワーアーマーとあなた第3巻\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Power Armor and You Vol 4",
+   {
+    "value": "{\"value\":\"パワーアーマーとあなた第4巻\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Power Armor and You Vol 5",
+   {
+    "value": "{\"value\":\"パワーアーマーとあなた第5巻\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Power Armor and You Vol 6",
+   {
+    "value": "{\"value\":\"パワーアーマーとあなた第6巻\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Power Armor and You Vol 7",
+   {
+    "value": "{\"value\":\"パワーアーマーとあなたVol7\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gain a small chance to knock an enemy down when using melee weapons.",
+   {
+    "value": "{\"value\":\"近接武器を使用しているときに敵をノックダウンする小さなチャンスを獲得します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Heavy Hands: You've learned to be more effective with your melee attacks, allowing you a chance to knock your enemy down.",
+   {
+    "value": "{\"value\":\"ヘビーハンズ：近接攻撃でより効果的になることを学び、敵を倒すチャンスを与えます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Adds a small chance to deal double damage in combat.",
+   {
+    "value": "{\"value\":\"戦闘で2倍のダメージを与える小さなチャンスを追加します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Precision Strike: Learning the art of combat has given you a small chance to deal double damage.",
+   {
+    "value": "{\"value\":\"プレシジョンストライク：戦闘の技術を学ぶことで、2倍のダメージを与えるチャンスが少し与えられました。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Increases damage to limbs.",
+   {
+    "value": "{\"value\":\"手足へのダメージを増加させます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Lord of the Limbs: The best way to deal with an enemy is to cripple their limbs. They can't catch you or hit you with the extra damage you now do to those appendages.",
+   {
+    "value": "{\"value\":\"手足の主：敵に対処する最良の方法は、手足を不自由にすることです。彼らはあなたを捕まえたり、あなたがそれらの付属肢に今与えている追加のダメージであなたを殴ったりすることはできません。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Adds 20% damage to the Cryolator.",
+   {
+    "value": "{\"value\":\"クライオレーターに20％のダメージを追加します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Deep Freeze: You have learned how to increase the damage output of the Cryolator.",
+   {
+    "value": "{\"value\":\"ディープフリーズ：クライオレーターのダメージ出力を増やす方法を学びました。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Adds 20% damage to the Alien Blaster.",
+   {
+    "value": "{\"value\":\"エイリアンブラスターに20％のダメージを追加します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Zap!: You have learned how to increase the damage output of the Alien Blaster.",
+   {
+    "value": "{\"value\":\"Zap !:エイリアンブラスターのダメージ出力を増やす方法を学びました。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Deal more 15% damage to Raiders.",
+   {
+    "value": "{\"value\":\"レイダースにさらに15％のダメージを与えます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Raider Bully: You've grown tired of the Raiders crap. Any Raider you come across will feel your wrath!",
+   {
+    "value": "{\"value\":\"レイダースのいじめっ子：あなたはレイダースのがらくたに飽きてきました。あなたが出くわすどんなレイダーもあなたの怒りを感じるでしょう！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Deal 10% more damage to Zeds.",
+   {
+    "value": "{\"value\":\"Zedsに10％多くのダメージを与えます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Zed the Impaler: The experience you've gained fighting zeds has taught you to be more effective against them.",
+   {
+    "value": "{\"value\":\"Zed the Impaler：zedsとの戦いで得た経験は、それらに対してより効果的であることを教えてくれました。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Learn how to craft energy ammo.",
+   {
+    "value": "{\"value\":\"エネルギー弾薬の作り方を学びましょう。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The Ammo of Tomorrow: With the growing threats out in the Wasteland, more powerful weaponry is needed to ensure your survival. You can now craft energy weapon ammo.",
+   {
+    "value": "{\"value\":\"明日の弾薬：荒れ地で脅威が増大しているため、生存を確保するには、より強力な武器が必要です。これで、エネルギー兵器の弾薬を作成できます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sell for 10% more and buy for 10% less.",
+   {
+    "value": "{\"value\":\"10％多い価格で販売し、10％少ない価格で購入します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The Haggler: Part of surviving is being able to get better deals with traders. Save a bit of coin when buying and line your pockets a little more when selling.",
+   {
+    "value": "{\"value\":\"ハグラー：生き残るための一部は、トレーダーとより良い取引をすることができることです。購入するときはコインを少し節約し、販売するときはポケットをもう少し並べてください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Lockpicks are 25% less likely to break.",
+   {
+    "value": "{\"value\":\"ロックピックは25％壊れにくいです。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tumblers of Tomorrow: Lockpicking is now a bit easier for you.",
+   {
+    "value": "{\"value\":\"明日のタンブラー：ロックピッキングが少し簡単になりました。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Slows water and food loss. Lessens the chance of getting dysentery.",
+   {
+    "value": "{\"value\":\"水と食品ロスを遅くします。赤痢になる可能性を減らします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Iron Gut: Over time you have learned to be able to go longer between meals. You also won't get dysentery as easily.",
+   {
+    "value": "{\"value\":\"鉄の腸：時間の経過とともに、食事の合間に長く行くことができるようになりました。また、赤痢はそれほど簡単には起こりません。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Adds a 20% resistance to most negative effects.",
+   {
+    "value": "{\"value\":\"ほとんどの悪影響に対して20％の耐性を追加します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tis But A Scratch: All those injuries have increased your resistance to most negative effects.",
+   {
+    "value": "{\"value\":\"Tis But A Scratch：これらすべての怪我は、ほとんどの悪影響に対する抵抗力を高めています。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Regenerate a small amount of health over time.",
+   {
+    "value": "{\"value\":\"時間の経過とともに少量のヘルスを再生します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Recovery: Your body has learned how to heal on its own. You will slowly gain health.",
+   {
+    "value": "{\"value\":\"回復：あなたの体はそれ自身で癒す方法を学びました。あなたはゆっくりと健康になります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Use 10% less stamina when running.",
+   {
+    "value": "{\"value\":\"ランニング時に使用するスタミナを10％減らします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sprinter Weekly: Just keep running! You use less stamina when running.",
+   {
+    "value": "{\"value\":\"Sprinter Weekly：走り続けてください！ランニング時のスタミナ使用量が少なくなります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Adds 15% to your gamestage.",
+   {
+    "value": "{\"value\":\"ゲームステージに15％を追加します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Keen Eyes: The experience you've gained scrounging through the wastes has honed your eyes, making it easier to find better loot.",
+   {
+    "value": "{\"value\":\"キーンアイズ：あなたが無駄を探し回って得た経験はあなたの目を研ぎ澄まし、より良い戦利品を見つけるのをより簡単にします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Learn how to craft various furniture.",
+   {
+    "value": "{\"value\":\"さまざまな家具の作り方を学びましょう。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Survive and Thrive: The next step after surviving is thriving. That means making your living space more comfortable. You may now craft an assortment of furniture and storage containers.",
+   {
+    "value": "{\"value\":\"生き残り、繁栄する：生き残った後の次のステップは繁栄です。それはあなたの生活空間をより快適にすることを意味します。これで、さまざまな家具や保管容器を作成できます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Craft repair kits for Power Armor 50% faster with less materials.",
+   {
+    "value": "{\"value\":\"パワーアーマーの修理キットをより少ない材料で50％速く作成します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Master Repair: Maintaining your Power Armor is vital. Spend less time and materials making Power Armor repair kits.",
+   {
+    "value": "{\"value\":\"マスターリペア：パワーアーマーを維持することは非常に重要です。パワーアーマー修理キットを作るのにかかる時間と材料を減らします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Power Armor degrades 20% slower.",
+   {
+    "value": "{\"value\":\"パワーアーマーの劣化は20％遅くなります。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Extra Plating: Install some extra plating so your Power Armor lasts longer.",
+   {
+    "value": "{\"value\":\"追加のメッキ：パワーアーマーが長持ちするように、追加のメッキを取り付けます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Steady your aim when wearing Power Armor.",
+   {
+    "value": "{\"value\":\"パワーアーマーを身に着けているとき、あなたの目的を着実に。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Steady Hands: Learn how to use Power Armor to increase your accuracy.",
+   {
+    "value": "{\"value\":\"安定した手：パワーアーマーを使用して精度を上げる方法を学びます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Running into zeds while wearing Power Armor will knock them down.",
+   {
+    "value": "{\"value\":\"パワーアーマーを着用しているときにゼッドにぶつかると、ゼッドが倒されます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bull Rush: Put that extra weight to use and charge right through your enemies.",
+   {
+    "value": "{\"value\":\"ブルラッシュ：その余分な重量を使用して、敵に直接チャージします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Use less stamina when wearing Power Armor.",
+   {
+    "value": "{\"value\":\"パワーアーマーを着用するときは、スタミナの使用量を減らしてください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Efficient Movement: Learn how to make the Power Armor work for you to save stamina.",
+   {
+    "value": "{\"value\":\"効率的な動き：スタミナを節約するためにパワーアーマーを機能させる方法を学びます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Use less stamina and move faster when crouch running.",
+   {
+    "value": "{\"value\":\"しゃがんで走っているときは、スタミナの使用量を減らし、動きを速くします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Stealth Crouch: Move stealthily, faster! Run faster and use less stamina when crouching.",
+   {
+    "value": "{\"value\":\"ステルスクラウチ：ステルスに、より速く移動します！しゃがむときは、より速く走り、より少ないスタミナを使用します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Reflect 25 damage onto your attacker.",
+   {
+    "value": "{\"value\":\"攻撃者に25のダメージを反映させます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Reflect: You can now literally watch your enemies kill themselves with each swing! Just know if it kills them you'll get no XP.",
+   {
+    "value": "{\"value\":\"リフレクト：スイングするたびに敵が自殺するのを文字通り見ることができます！それが彼らを殺すかどうかだけを知ってください、あなたはXPを取得しません。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Raise your max Health and Stamina.",
+   {
+    "value": "{\"value\":\"最大体力とスタミナを上げます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Walking Tank: You have unlocked the full potential of the Power Armor.",
+   {
+    "value": "{\"value\":\"ウォーキングタンク：パワーアーマーの可能性を最大限に引き出しました。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Sunset Sarsaparilla flier",
+   {
+    "value": "{\"value\":\"サンセットサルサパリラフライヤー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:A flier for the Star Bottlecap giveaway. Read it to learn where to go to claim your prize!",
+   {
+    "value": "{\"value\":\"スターボトルキャッププレゼントのチラシ。あなたの賞品を請求するためにどこに行くべきかを学ぶためにそれを読んでください！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old Map",
+   {
+    "value": "{\"value\":\"古い地図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:An old map the trader gave me to show where the fool's stash is. Read it to learn where the prize should be.",
+   {
+    "value": "{\"value\":\"トレーダーが私にくれた古い地図は、愚か者の隠し場所がどこにあるかを示しています。賞品がどこにあるべきかを学ぶためにそれを読んでください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Old Letter",
+   {
+    "value": "{\"value\":\"古い手紙\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Some old letter that didn't make it to its intended target.",
+   {
+    "value": "{\"value\":\"意図した目標に到達しなかった古い手紙。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Hidden Stash",
+   {
+    "value": "{\"value\":\"隠された隠し場所\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This weapon doesn't have enough cells to fire. Reload with more ammo for it function correctly.",
+   {
+    "value": "{\"value\":\"この武器には発砲するのに十分なセルがありません。正しく機能するために、より多くの弾薬をリロードします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Cure Radiation",
+   {
+    "value": "{\"value\":\"放射線を治す\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have treated mild radiation sickness. Continue anti-radiation medication until the poisoning is cleared up.",
+   {
+    "value": "{\"value\":\"あなたは軽度の放射線障害を治療しました。中毒が解消されるまで対レーダーミサイルを続けます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Treated Mild Radiation Poisoning",
+   {
+    "value": "{\"value\":\"治療された軽度の放射線中毒\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have mild radiation poisoning. It will get worse wuickly if you don't find some anti-radiation medicine.",
+   {
+    "value": "{\"value\":\"軽度の放射線中毒があります。対レーダーミサイルを見つけないと、ひどく悪化します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Mild Radiation Poisoning",
+   {
+    "value": "{\"value\":\"軽度の放射線中毒\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You are sick. Take anti-radiation medicine to avoid symptoms.",
+   {
+    "value": "{\"value\":\"あなたは病気だ。症状を避けるために対レーダー薬を服用してください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have treated serious radiation poisoning. Continue anti-radiation medication.",
+   {
+    "value": "{\"value\":\"あなたは深刻な放射線中毒を治療しました。対レーダーミサイルの投薬を続けます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Treated Radiation Poisoning",
+   {
+    "value": "{\"value\":\"治療された放射線中毒\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have serious radiation poisoning. If left untreated it could lead to severe radiation poisoning which can cause death. Take anti-radiation medication as soon as possible.",
+   {
+    "value": "{\"value\":\"あなたは深刻な放射線中毒を患っています。治療せずに放置すると、重度の放射線中毒を引き起こし、死に至る可能性があります。できるだけ早く対レーダー薬を服用してください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Radiation Poisoning",
+   {
+    "value": "{\"value\":\"放射線中毒\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have treated life threatening severe radiation poisoning. Continue anti-radiation medication and avoid contact with infectious substances.",
+   {
+    "value": "{\"value\":\"あなたは生命を脅かす重度の放射線中毒を治療しました。対レーダー薬を継続し、感染性物質との接触を避けてください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Treated Severe Radiation Poisoning",
+   {
+    "value": "{\"value\":\"治療された重度の放射線中毒\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have life threatening severe radiation poisoning. Take anti-radiation medication immediately.",
+   {
+    "value": "{\"value\":\"あなたは生命を脅かす重度の放射線中毒を患っています。すぐに対レーダー薬を服用してください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Severe Radiation Poisoning",
+   {
+    "value": "{\"value\":\"重度の放射線中毒\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have died from radiation poisoning.",
+   {
+    "value": "{\"value\":\"あなたは放射線中毒で亡くなりました。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:You have taken anti-radiation medication which will reduce radiation poisoning that you may be suffering. You can stack anti-radiation medication to increase duration.",
+   {
+    "value": "{\"value\":\"あなたはあなたが苦しんでいるかもしれない放射線中毒を減らすであろう抗放射線薬を服用しました。対レーダー薬を積み重ねて、持続時間を増やすことができます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Anti-radiation Medication",
+   {
+    "value": "{\"value\":\"対レーダー薬\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Your radiation poisoning will no longer heal on its own.",
+   {
+    "value": "{\"value\":\"あなたの放射線中毒はもはやそれ自体で治癒することはありません。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630848826503
+}

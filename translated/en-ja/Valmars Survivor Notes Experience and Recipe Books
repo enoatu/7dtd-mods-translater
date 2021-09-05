@@ -1,0 +1,29 @@
+{
+ "cache": [
+  [
+   "keyv:Survivor Notes",
+   {
+    "value": "{\"value\":\"サバイバーノート\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gather enough of these to craft skill books at the Study Desk.",
+   {
+    "value": "{\"value\":\"スタディデスクでスキルブックを作成するのに十分な数を集めてください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Study Desk",
+   {
+    "value": "{\"value\":\"学習デスク\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This workstation is used for turning your Survivor Notes into recipe books.",
+   {
+    "value": "{\"value\":\"このワークステーションは、サバイバーノートをレシピブックに変えるために使用されます。\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630849474086
+}

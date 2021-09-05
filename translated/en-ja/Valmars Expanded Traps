@@ -1,0 +1,215 @@
+{
+ "cache": [
+  [
+   "keyv:Trap Schematic",
+   {
+    "value": "{\"value\":\"トラップの概略図\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Teaches you how to craft the various traps.",
+   {
+    "value": "{\"value\":\"さまざまなトラップの作り方を教えます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Fire Trap",
+   {
+    "value": "{\"value\":\"ファイアトラップ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This trap sets whatever walks over it on fire. When it goes out you can refill it using gasoline.",
+   {
+    "value": "{\"value\":\"この罠は、その上を歩くものすべてに火を放ちます。それが消えるとき、あなたはガソリンを使ってそれを補充することができます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Adhesive Knockdown Trap",
+   {
+    "value": "{\"value\":\"粘着ノックダウントラップ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This trap doesn't deal damage but will knock any enemy down that walks over it.",
+   {
+    "value": "{\"value\":\"この罠はダメージを与えませんが、その上を歩く敵を倒します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Adhesive Shocked Trap",
+   {
+    "value": "{\"value\":\"接着剤ショックトラップ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This trap deals shock damage to any enemy that walks over it.",
+   {
+    "value": "{\"value\":\"この罠は、その上を歩く敵に衝撃ダメージを与えます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Adhesive Burning Trap",
+   {
+    "value": "{\"value\":\"接着剤燃焼トラップ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This trap sets any enemy on fire that walks over it.",
+   {
+    "value": "{\"value\":\"この罠は、その上を歩く敵に火を放ちます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Adhesive Stunned Trap",
+   {
+    "value": "{\"value\":\"粘着性の唖然とした罠\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This trap doesn't deal damage but will slow/stun any enemy that walks over it.",
+   {
+    "value": "{\"value\":\"この罠はダメージを与えませんが、その上を歩く敵を遅く/気絶させます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Long Plate Adhesive Knockdown Trap",
+   {
+    "value": "{\"value\":\"ロングプレート接着剤ノックダウントラップ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Long Plate Adhesive Shocked Trap",
+   {
+    "value": "{\"value\":\"ロングプレート接着剤ショックトラップ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Long Plate Adhesive Burning Trap",
+   {
+    "value": "{\"value\":\"ロングプレート接着剤燃焼トラップ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Long Plate Adhesive Stunned Trap",
+   {
+    "value": "{\"value\":\"ロングプレート接着剤スタントラップ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Adhesive Knockdown Spike",
+   {
+    "value": "{\"value\":\"接着剤ノックダウンスパイク\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This logspike has been coated with adhesive to knock enemies over when the try to cross it.",
+   {
+    "value": "{\"value\":\"このログスパイクは、それを越えようとしたときに敵を倒すために接着剤でコーティングされています。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Adhesive Shocked Spike",
+   {
+    "value": "{\"value\":\"接着剤ショックスパイク\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This logspike has been coated with adhesive to shock enemies when the try to cross it.",
+   {
+    "value": "{\"value\":\"このログスパイクは、それを越えようとしたときに敵に衝撃を与えるために接着剤でコーティングされています。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Adhesive Burning Spike",
+   {
+    "value": "{\"value\":\"接着剤燃焼スパイク\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This logspike has been coated with adhesive to make enemies burn when the try to cross it.",
+   {
+    "value": "{\"value\":\"このログスパイクは接着剤でコーティングされており、通過しようとしたときに敵を燃やします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Adhesive Stunned Spike",
+   {
+    "value": "{\"value\":\"接着剤の唖然としたスパイク\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This logspike has been coated with adhesive to stun enemies when the try to cross it.",
+   {
+    "value": "{\"value\":\"このログスパイクは、それを越えようとしたときに敵を気絶させるために接着剤でコーティングされています。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Miner's TNT",
+   {
+    "value": "{\"value\":\"マイナーのTNT\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This TNT was specially crafted by a miner to ensure optimum block damage.",
+   {
+    "value": "{\"value\":\"このTNTは、最適なブロックダメージを確保するために鉱夫によって特別に作成されました。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Steel Fire Spike",
+   {
+    "value": "{\"value\":\"鋼の火のスパイク\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This Trap sets targets on fire.",
+   {
+    "value": "{\"value\":\"このトラップはターゲットに火をつけます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Nail Mine",
+   {
+    "value": "{\"value\":\"ネイルマイン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This trap deals damage to anyone who triggers it but doesn't deal any damage to surrounding blocks.",
+   {
+    "value": "{\"value\":\"このトラップは、それをトリガーした人にはダメージを与えますが、周囲のブロックにはダメージを与えません。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:gun Trap Nailgun",
+   {
+    "value": "{\"value\":\"ガントラップネイルガン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:To refuel the fire traps.",
+   {
+    "value": "{\"value\":\"火の罠に燃料を補給するため。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:trap Gas Can",
+   {
+    "value": "{\"value\":\"トラップガス缶\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Used to refill the gun Trap Nailgun.",
+   {
+    "value": "{\"value\":\"ガントラップネイルガンを補充するために使用されます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Empty Fire Trap",
+   {
+    "value": "{\"value\":\"空の火の罠\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630849387785
+}

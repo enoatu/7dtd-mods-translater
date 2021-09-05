@@ -1,0 +1,359 @@
+{
+ "cache": [
+  [
+   "keyv:class Key",
+   {
+    "value": "{\"value\":\"クラスキー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Used to unlock your starter class you chose.",
+   {
+    "value": "{\"value\":\"選択したスタータークラスのロックを解除するために使用されます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:class Selection",
+   {
+    "value": "{\"value\":\"クラスの選択\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Craft this into any of the Class System you desire.",
+   {
+    "value": "{\"value\":\"これをあなたが望むクラスシステムのいずれかに作り上げてください。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Class Hunter (Locked)",
+   {
+    "value": "{\"value\":\"クラスハンター（ロック）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gifts you the items of a Hunter.",
+   {
+    "value": "{\"value\":\"ハンターのアイテムをプレゼントします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Class Hunter",
+   {
+    "value": "{\"value\":\"クラスハンター\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Class Builder (Locked)",
+   {
+    "value": "{\"value\":\"クラスビルダー（ロック）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gifts you the items of a Builder.",
+   {
+    "value": "{\"value\":\"ビルダーのアイテムをプレゼントします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Class Builder",
+   {
+    "value": "{\"value\":\"クラスビルダー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Class Rifleman (Locked)",
+   {
+    "value": "{\"value\":\"クラスライフルマン（ロック）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gifts you the items of a Rifleman.",
+   {
+    "value": "{\"value\":\"ライフルマンのアイテムをプレゼントします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Class - Rifleman",
+   {
+    "value": "{\"value\":\"クラス-ライフルマン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Class Gunman (Locked)",
+   {
+    "value": "{\"value\":\"クラスガンマン（ロック）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gifts you the items of a Gunman.",
+   {
+    "value": "{\"value\":\"ガンマンのアイテムをプレゼントします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Class Gunman",
+   {
+    "value": "{\"value\":\"クラスガンマン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Class Veteran (Locked)",
+   {
+    "value": "{\"value\":\"クラスベテラン（ロック）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gifts you the items of a Veteran.",
+   {
+    "value": "{\"value\":\"ベテランのアイテムをプレゼントします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Class Veteran",
+   {
+    "value": "{\"value\":\"クラスベテラン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Class Bruiser (Locked)",
+   {
+    "value": "{\"value\":\"クラスブルーザー（ロック）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gifts you the items of a Bruiser.",
+   {
+    "value": "{\"value\":\"ブルーザーのアイテムをプレゼントします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Class Bruiser",
+   {
+    "value": "{\"value\":\"クラスブルーザー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Class Miner (Locked)",
+   {
+    "value": "{\"value\":\"クラスマイナー（ロック）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gifts you the items of a Miner.",
+   {
+    "value": "{\"value\":\"鉱夫のアイテムをプレゼントします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Class Miner",
+   {
+    "value": "{\"value\":\"クラスマイナー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Class Survivor (Locked)",
+   {
+    "value": "{\"value\":\"クラスサバイバー（ロック）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gifts you the items of a Survivor.",
+   {
+    "value": "{\"value\":\"サバイバーのアイテムをプレゼントします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Class Survivor",
+   {
+    "value": "{\"value\":\"クラスサバイバー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Class Medic (Locked)",
+   {
+    "value": "{\"value\":\"クラスメディック（ロック）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gifts you the items of a Medic.",
+   {
+    "value": "{\"value\":\"メディックのアイテムをプレゼントします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Class Medic",
+   {
+    "value": "{\"value\":\"クラスメディック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Class Mechanic (Locked)",
+   {
+    "value": "{\"value\":\"クラスメカニック（ロック）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gifts you the items of a Mechanic.",
+   {
+    "value": "{\"value\":\"メカニックのアイテムをプレゼントします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Class Mechanic",
+   {
+    "value": "{\"value\":\"クラスメカニック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Class Engineer (Locked)",
+   {
+    "value": "{\"value\":\"クラスエンジニア（ロック）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gifts you the items of a Engineer.",
+   {
+    "value": "{\"value\":\"エンジニアのアイテムをプレゼントします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Class Engineer",
+   {
+    "value": "{\"value\":\"クラスエンジニア\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Class Farmer (Locked)",
+   {
+    "value": "{\"value\":\"クラスファーマー（ロック）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gifts you the items of a Farmer.",
+   {
+    "value": "{\"value\":\"農夫のアイテムをプレゼントします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Class Farmer",
+   {
+    "value": "{\"value\":\"クラスファーマー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Class Terrorist (Locked)",
+   {
+    "value": "{\"value\":\"クラステロリスト（ロック）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gifts you the items of a Terrorist.",
+   {
+    "value": "{\"value\":\"テロリストのアイテムをプレゼントします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Class Terrorist",
+   {
+    "value": "{\"value\":\"クラステロリスト\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Class Machine Gunner (Locked)",
+   {
+    "value": "{\"value\":\"クラスマシンガンナー（ロック）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gifts you the items of a Machine Gunner.",
+   {
+    "value": "{\"value\":\"マシンガンナーのアイテムをプレゼントします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Class Machine Gunner",
+   {
+    "value": "{\"value\":\"クラスマシンガンナー\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Class Marine (Locked)",
+   {
+    "value": "{\"value\":\"クラスマリン（ロック）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gifts you the items of a Marine.",
+   {
+    "value": "{\"value\":\"海兵隊のアイテムをプレゼントします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Class Marine",
+   {
+    "value": "{\"value\":\"クラスマリン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Class Assassin (Locked)",
+   {
+    "value": "{\"value\":\"クラスアサシン（ロック）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Gifts you the items of a Assassin.",
+   {
+    "value": "{\"value\":\"暗殺者のアイテムをプレゼントします。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Class Assassin",
+   {
+    "value": "{\"value\":\"クラスアサシン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Holding Bow",
+   {
+    "value": "{\"value\":\"弓を持って\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Holding Crossbow",
+   {
+    "value": "{\"value\":\"クロスボウを持っています\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Holding Bow or Crossbow",
+   {
+    "value": "{\"value\":\"ホールドボウまたはクロスボウ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Holding Club",
+   {
+    "value": "{\"value\":\"ホールディングクラブ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Holding Pistol or Magnum",
+   {
+    "value": "{\"value\":\"ピストルまたはマグナムを保持している\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Holding Bolt Rifle or Hunting Rifle",
+   {
+    "value": "{\"value\":\"ボルトライフルまたはハンティングライフルを保持する\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Holding SMG or Assault Rifle",
+   {
+    "value": "{\"value\":\"SMGまたはアサルトライフルを持っている\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630849421290
+}

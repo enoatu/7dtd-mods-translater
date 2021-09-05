@@ -1,0 +1,89 @@
+{
+ "cache": [
+  [
+   "keyv:Microwave (Powered)",
+   {
+    "value": "{\"value\":\"電子レンジ（パワード）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:This microwave is powered already and can be used to heat up bowls of canned food to gain the maximum benefits from them.",
+   {
+    "value": "{\"value\":\"この電子レンジはすでに電力が供給されており、缶詰のボウルを加熱して最大の利益を得るのに使用できます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bowl (Empty)",
+   {
+    "value": "{\"value\":\"ボウル（空）\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Use this empty bowl to heat up foods in the microwave.",
+   {
+    "value": "{\"value\":\"この空のボウルを使用して、電子レンジで食品を加熱します。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bowl of Chicken Soup",
+   {
+    "value": "{\"value\":\"チキンスープのボウル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Using your saved canned food with bowls in the microwave can give you additional benefits. Nothing beats a warm bowl of food.",
+   {
+    "value": "{\"value\":\"保存した缶詰を電子レンジでボウルと一緒に使用すると、追加のメリットが得られます。温かい料理に勝るものはありません。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bowl of Pasta",
+   {
+    "value": "{\"value\":\"パスタのボウル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bowl of Chili",
+   {
+    "value": "{\"value\":\"チリのボウル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bowl of Beef Stew",
+   {
+    "value": "{\"value\":\"ビーフシチューのボウル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Bowl of Lamb Soup",
+   {
+    "value": "{\"value\":\"ラムスープのボウル\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Tuna Sandwich",
+   {
+    "value": "{\"value\":\"ツナサンドイッチ\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Making a delicious tuna sandwich will give you some extra benefits.",
+   {
+    "value": "{\"value\":\"おいしいツナサンドイッチを作ることはあなたにいくつかの追加の利益を与えるでしょう。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:The microwave can be placed and used to heat canned food recipes. Canned food recipes offer slightly more benefits to them than if you eat them in singles so save those cans when you can. Bowls can be found in loot and are used with the canned foods.",
+   {
+    "value": "{\"value\":\"電子レンジを配置して、缶詰のレシピを加熱するために使用できます。缶詰のレシピは、シングルで食べる場合よりもわずかに多くの利点を提供するので、できる限りそれらの缶を保存してください。ボウルは戦利品で見つけることができ、缶詰食品と一緒に使用されます。\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Microwave",
+   {
+    "value": "{\"value\":\"電子レンジ\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630848709820
+}

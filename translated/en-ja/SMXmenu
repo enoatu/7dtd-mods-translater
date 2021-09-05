@@ -371,7 +371,31 @@
    {
     "value": "{\"value\":\"ゾンビヘルスバーを表示します。\",\"expires\":null}"
    }
+  ],
+  [
+   "keyv:ChangeLog - SMXmenu...",
+   {
+    "value": "{\"value\":\"ChangeLog-SMXmenu .. ..\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[AF1E19]*[-] Stepped away from build numbers in version numbering.\\n[AF1E19]*[-] Added: Twitch Integration options window.\\n",
+   {
+    "value": "{\"value\":\"[AF1E19] * [-]バージョン番号のビルド番号から離れました。\\\\n[AF1E19] * [-]追加：Twitch統合オプションウィンドウ。\\\\n\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:CURRENT STABLE VERSION",
+   {
+    "value": "{\"value\":\"現在の安定バージョン\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Zombiedayz",
+   {
+    "value": "{\"value\":\"Zombiedayz\",\"expires\":null}"
+   }
   ]
  ],
- "lastExpire": 1630412121271
+ "lastExpire": 1630848790351
 }

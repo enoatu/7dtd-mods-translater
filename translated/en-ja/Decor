@@ -1,0 +1,83 @@
+{
+ "cache": [
+  [
+   "keyv:HN Kitchen Blocks",
+   {
+    "value": "{\"value\":\"HNキッチンブロック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Don't let the zombie apocalypse keep you from having nice things!",
+   {
+    "value": "{\"value\":\"ゾンビの黙示録があなたに素敵なものを持たせないようにしないでください！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:HN Bathroom Blocks",
+   {
+    "value": "{\"value\":\"HNバスルームブロック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:HN Sofa Blocks",
+   {
+    "value": "{\"value\":\"HNソファブロック\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:HN Windows/Glass Doors",
+   {
+    "value": "{\"value\":\"HN窓/ガラスドア\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:HN Doors",
+   {
+    "value": "{\"value\":\"HNドア\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:HN Decor",
+   {
+    "value": "{\"value\":\"HNの装飾\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:HN Pool/Outdoor Furniture",
+   {
+    "value": "{\"value\":\"HNプール/屋外用家具\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:HN Tables/Chairs",
+   {
+    "value": "{\"value\":\"HNテーブル/チェア\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:HN Electronics",
+   {
+    "value": "{\"value\":\"HNElectronics\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:HN Kitchen Appliances",
+   {
+    "value": "{\"value\":\"HNキッチン家電\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:HN Lights",
+   {
+    "value": "{\"value\":\"HNライト\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:HN Bedroom Blocks/Racks",
+   {
+    "value": "{\"value\":\"HNベッドルームブロック/ラック\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630848585490
+}
