@@ -1,0 +1,83 @@
+{
+ "cache": [
+  [
+   "keyv:Rip off ",
+   {
+    "value": "{\"value\":\"騙し取る\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Turn On",
+   {
+    "value": "{\"value\":\"オンにする\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Turn Off",
+   {
+    "value": "{\"value\":\"消す\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Master of disguse",
+   {
+    "value": "{\"value\":\"嫌悪感の達人\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Read this to reset your faction!",
+   {
+    "value": "{\"value\":\"あなたの派閥をリセットするためにこれを読んでください！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Read this to switch over to the bandit faction!",
+   {
+    "value": "{\"value\":\"これを読んで、盗賊派に切り替えてください！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Read this to switch over to the undead faction!",
+   {
+    "value": "{\"value\":\"これを読んで、アンデッドの派閥に切り替えてください！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Read this to switch over to the White River faction!",
+   {
+    "value": "{\"value\":\"これを読んで、ホワイトリバー派に切り替えてください！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Read this to switch over to the Duke faction!",
+   {
+    "value": "{\"value\":\"これを読んで、デューク派に切り替えてください！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Peace and Love to the Undead",
+   {
+    "value": "{\"value\":\"アンデッドへの平和と愛\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Read this to spread the message of the undead! Increase your standings with the undead!",
+   {
+    "value": "{\"value\":\"アンデッドのメッセージを広めるためにこれを読んでください！アンデッドで順位を上げましょう！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Undead: Unreliable! Untrustworthy!",
+   {
+    "value": "{\"value\":\"アンデッド：信頼できない！信頼できない！\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:Read this to spread lies and fake news about the undead! Decrease your standings with the undead!",
+   {
+    "value": "{\"value\":\"これを読んで、アンデッドに関する嘘や偽のニュースを広めましょう！アンデッドで順位を下げましょう！\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630882799790
+}
