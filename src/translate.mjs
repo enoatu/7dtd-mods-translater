@@ -2,6 +2,21 @@
 
 $.verbose = true
 
+const getModDir = () => {
+  const { modname, modversion } = argv
+  if (!['Ravenhearst', 'ZombieDayz'].includes(modname)) {
+    console.error('undefined modname: ' + modname)
+    process.exit(0)
+  }
+  if (!modversion) {
+    console.error('undefined modversion: ' + modversion)
+    process.exit(0)
+  }
+  return `resource/${modname}/${modversion}`
+}
+
+const modDir = getModDir()
+
 const csvParse = require('csv-parse/lib/sync')
 const csvStringifySync = require('csv-stringify/lib/sync')
 const Config = require('./config')
@@ -9,7 +24,7 @@ const Config = require('./config')
 await $`cd $(dirname $0)`
 await $`rm -rf ./${Config.outputFileName}`
 await $`mkdir ./${Config.outputFileName}`
-await $`cp -rf ./resource/* ./${Config.outputFileName}`
+await $`cp -rf ./${modDir}/* ./${Config.outputFileName}`
 
 const utilsString = require('./utils/string')
 const Counter = require('./counter')
@@ -19,14 +34,14 @@ const counter = new Counter()
 const translateCacher = new TranslateCacher()
 
 const paths = await globby([
-  './resource/*/config/localization.txt',
-  './resource/*/config/Localization.txt',
-  './resource/*/Config/Localization.txt',
-  './resource/*/Config/localization.txt',
+  `./${modDir}/*/config/localization.txt`,
+  `./${modDir}/*/config/Localization.txt`,
+  `./${modDir}/*/Config/Localization.txt`,
+  `./${modDir}/*/Config/localization.txt`,
 ])
 
 for (const [pathIndex, path] of paths.entries()) {
-  const modName = path.split('/')[2]
+  const modName = path.split('/')[4]
   console.info(`--- start input: ${path} ---`)
   // parse
   let rows = fs.readFileSync(path)
@@ -58,7 +73,7 @@ for (const [pathIndex, path] of paths.entries()) {
   }
   counter.add('localzationNeedPaths', path)
 
-  const resultPath = path.replace('./resource/', `./${Config.outputFileName}/`)
+  const resultPath = path.replace(`./${modDir}/`, `./${Config.outputFileName}/`)
   rows[0][targetLangColumnIndex] = targetLangColumnName // add columns (header)
 
   for (let index = 0; rows.length > index; index++) {
@@ -97,6 +112,8 @@ for (const [pathIndex, path] of paths.entries()) {
       rows[index][targetLangColumnIndex] = cache
       continue
     } else {
+      console.log(modName, source)
+      process.exit(0)
       const params = {
         text: source,
         source: Config.sourceLangNames.short,
