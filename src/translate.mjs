@@ -2,29 +2,26 @@
 
 $.verbose = true
 
-const getModDir = () => {
-  const { modname, modversion } = argv
-  if (!['Ravenhearst', 'ZombieDayz'].includes(modname)) {
-    console.error('undefined modname: ' + modname)
-    process.exit(0)
-  }
-  if (!modversion) {
-    console.error('undefined modversion: ' + modversion)
-    process.exit(0)
-  }
-  return `resource/${modname}/${modversion}`
+const { modname, modversion } = argv
+if (!['Ravenhearst', 'ZombieDayz'].includes(modname)) {
+  console.error('undefined modname: ' + modname)
+  process.exit(0)
 }
-
-const modDir = getModDir()
+if (!modversion) {
+  console.error('undefined modversion: ' + modversion)
+  process.exit(0)
+}
+const modDir = `resource/${modname}/${modversion}`
+const outputFileName = `output/7dtd-${modname}-${modversion}`
 
 const csvParse = require('csv-parse/lib/sync')
 const csvStringifySync = require('csv-stringify/lib/sync')
 const Config = require('./config')
 
 await $`cd $(dirname $0)`
-await $`rm -rf ./${Config.outputFileName}`
-await $`mkdir ./${Config.outputFileName}`
-await $`cp -rf ./${modDir}/* ./${Config.outputFileName}`
+await $`rm -rf ./${outputFileName}`
+await $`mkdir ./${outputFileName}`
+await $`cp -rf ./${modDir}/* ./${outputFileName}`
 
 const utilsString = require('./utils/string')
 const Counter = require('./counter')
@@ -61,7 +58,7 @@ for (const [pathIndex, path] of paths.entries()) {
     isTranslated,
   } = getFirstRowInfo(path, rows)
   if (err) {
-    console.err(err)
+    console.error(err)
     continue
   }
   if (isTranslated) {
@@ -73,7 +70,7 @@ for (const [pathIndex, path] of paths.entries()) {
   }
   counter.add('localzationNeedPaths', path)
 
-  const resultPath = path.replace(`./${modDir}/`, `./${Config.outputFileName}/`)
+  const resultPath = path.replace(`./${modDir}/`, `./${outputFileName}/`)
   rows[0][targetLangColumnIndex] = targetLangColumnName // add columns (header)
 
   for (let index = 0; rows.length > index; index++) {
@@ -141,7 +138,7 @@ for (const [pathIndex, path] of paths.entries()) {
   console.info(`--- end output: ${resultPath} ---`)
 }
 
-await $`zip -r ${Config.outputFileName}.zip ${Config.outputFileName}/ && rm -fr ${Config.outputFileName}`
+await $`zip -rq ${outputFileName}.zip ${outputFileName}/`
 
 counter.output()
 
@@ -150,7 +147,9 @@ function getFirstRowInfo(path, rows) {
   // Source check
   const lowerSourceColumnIndex = rows[0].indexOf(Config.sourceLangNames.lower)
   const upperSourceColumnIndex = rows[0].indexOf(Config.sourceLangNames.upper)
-  if (lowerSourceColumnIndex === -1 && upperSourceColumnIndex === -1) {
+  const englischSourceColumnIndex = rows[0].indexOf('Englisch')
+
+  if (lowerSourceColumnIndex === -1 && upperSourceColumnIndex === -1 && englischSourceColumnIndex === -1) {
     return {
       err: `${path}, source lang column not found (${rows[0]}). skip`,
       sourceColumnName: null,
@@ -160,13 +159,19 @@ function getFirstRowInfo(path, rows) {
       isTranslated: false,
     }
   }
-  const isLower = lowerSourceColumnIndex > -1
-  const sourceColumnName = isLower
+  let isLower = lowerSourceColumnIndex > -1
+  let sourceColumnName = isLower
     ? Config.sourceLangNames.lower
     : Config.sourceLangNames.upper
-  const sourceColumnIndex = isLower
+  let sourceColumnIndex = isLower
     ? lowerSourceColumnIndex
     : upperSourceColumnIndex
+
+  if (englischSourceColumnIndex > -1) {
+    isLower = false
+    sourceColumnName = 'Englisch'
+    sourceColumnIndex = englischSourceColumnIndex
+  }
 
   // Target lang check
   const lowerIndex = rows[0].indexOf(Config.targetLangNames.lower)

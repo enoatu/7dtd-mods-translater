@@ -12,7 +12,6 @@ module.exports = {
   api: {
     url: 'https://script.google.com/macros/s/AKfycbzerVkq29n38TSic4_AS-WsltYMOwS2oglae0XalzzKAF4u6XoTMIRcN42acrtV9U046g/exec',
   },
-  outputFileName: '7dtda19_6-b8-rh7_6_1_2-japanese',
   defaultCacheFile: './translated/en-ja/default.json',
   cacheDir: './translated/en-ja',
 }
