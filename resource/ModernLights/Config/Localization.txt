@@ -1,7 +1,0 @@
-﻿Key,Source,Context,English
-modernLightCeiling,blocks,Block,Modern Ceiling Light,,,,,
-modernLightCeilingRed,blocks,Block,Modern Ceiling Light (Red),,,,,
-modernLightCeilingGreen,blocks,Block,Modern Ceiling Light (Green),,,,,
-modernLightCeilingBlue,blocks,Block,Modern Ceiling Light (Blue),,,,,
-modernLightCeilingViolet,blocks,Block,Modern Ceiling Light (Violet),,,,,
-modernLightCeilingWhite,blocks,Block,Modern Ceiling Light (White),,,,,

@@ -1,5 +1,0 @@
-﻿Key,Source,Context,English
-breweryStationRH,blocks,Workstation,Brewery,,,,,
-breweryStationRHDesc,blocks,Workstation,"Make fermented liquor and beer.",,,,,
-breweryStationRHSchematic,blocks,Workstation,Brewery Schematic,,,,,
-

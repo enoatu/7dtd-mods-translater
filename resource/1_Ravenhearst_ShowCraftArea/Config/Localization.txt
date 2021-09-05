@@ -1,7 +1,0 @@
-﻿Key,Source,Context,English
-CraftingArea,items,Item,Crafting Area,,,,,
-Tool,items,Item,Tool,,,,,
-Slots,items,Item,Slots,,,,,
-tanningRack,items,Item,Tanning Rack,,,,,
-survivalCampfire,items,Item,Survival Campfire,,,,,
-personalWorkbenchRH,items,Item,Personal Bench,,,,,

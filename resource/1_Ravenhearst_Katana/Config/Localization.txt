@@ -1,4 +1,0 @@
-﻿Key,Source,Context,English
-meleeWpnBladeT3Katana,items,Melee,Katana,,,,,
-meleeWpnBladeT3KatanaDesc,items,Melee,"Great for slashing zombies and gutting animals for meat.\nRegular attacks cause 1 Bleeding Wound and power attacks at least 2.\nRepair with an Advanced Repair Kit.\nScrap to Iron.",,,,,
-meleeWpnBladeT3KatanaSchematic,items,Melee,Katana Schematic,,,,,

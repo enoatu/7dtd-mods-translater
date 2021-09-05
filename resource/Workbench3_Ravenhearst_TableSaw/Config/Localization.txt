@@ -1,7 +1,0 @@
-﻿Key,Source,Context,English
-tableSawRH,blocks,Workstation,Table Saw,,,,,
-tableSawRHDesc,blocks,Workstation,"Create furniture, advanced shapes and decorations for your base.",,,,,
-tableSawRHSchematic,blocks,Workstation,Table Saw Schematic,,,,,
-tableSawBladeRH,items,Item,Saw Blade,,,,,
-tableSawBladeRHDesc,items,Item,A sharp blade from a table saw. You can use this later on to make your own table saw.,,,,,
-

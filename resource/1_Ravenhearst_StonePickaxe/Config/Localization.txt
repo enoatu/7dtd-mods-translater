@@ -1,7 +1,0 @@
-﻿Key,Source,Context,English
-meleeToolPickT0StonePickaxeRH,items,Tool,Stone Pickaxe,,,,,
-meleeToolPickT0StonePickaxeRHDesc,items,Tool,"A primitive tool useful for mining stone. Not the best weapon.\nRepair with Primitive Repair Kit.",,,,,
-meleeToolRepairT0StoneAxeRHDesc,items,Tool,"A primitive tool useful for cutting wood, repairing & upgrading walls, doors & windows. Not the best weapon.\nRepair with Primitive Repair Kit.",,,,,
-meleeToolPickT0TazasStonePickaxeRH,items,Tool,Taza's Stone Pickaxe,,,,,
-meleeToolPickT0TazasStonePickaxeRHDesc,items,Tool,"Taza's stone pick axe is a rare, powerful, ancient Indian artifact. The Apache believed those who wielded it could tear through stone.\nRepair with Small Stone.",,,,,
-

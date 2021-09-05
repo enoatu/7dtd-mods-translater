@@ -1,3 +1,0 @@
-Key,Source,Context,Changes,English,Russian
-HJ_Door_PR,blocks,Block,New,"Modern doors","Современные двери"
-HJ_Door2_PR,blocks,Block,New,"Modern doors 2","Современные двери 2"

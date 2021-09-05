@@ -1,4 +1,0 @@
-Key,Source,Context,English
-maVehicleMotorcycleNoSpikePlaceable,blocks,Block,"Motorcyle, spikes removed"
-maVehicleMotorcycleNoShieldPlaceable,blocks,Block,"Motorcyle, shield removed"
-maVehicleMotorcycleNoHoodPlaceable,blocks,Block,"Motorcyle, hood removed"

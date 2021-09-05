@@ -1,6 +1,0 @@
-﻿Key,Source,Context,English
-foodPrepTableRH,blocks,Workstation,Food Prep Table,,,,,
-foodPrepTableRHDesc,blocks,Workstation,"Everyone needs a food preparation area and you are no exception. BAM baby.",,,,,
-foodSlicedRedMeatRH,items,Food,Sliced Red Meat,,,,,
-foodSlicedWhiteMeatRH,items,Food,Sliced White Meat,,,,,
-

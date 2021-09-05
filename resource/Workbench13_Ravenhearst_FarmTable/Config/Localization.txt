@@ -1,4 +1,0 @@
-﻿Key,Source,Context,English
-farmTableRH,blocks,Workstation,Farming Table,,,,,
-farmTableRHDesc,blocks,Workstation,"Your farming table will make fertilizer and seeds.",,,,,
-farmTableRHSchematic,blocks,Workstation,Farming Table Schematic,,,,,

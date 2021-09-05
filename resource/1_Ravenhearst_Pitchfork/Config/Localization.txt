@@ -1,3 +1,0 @@
-﻿Key,Source,Context,English
-meleeWpnSpearT3PitchforkRH,items,Tool,Pitchfork,,,,,
-meleeWpnSpearT3PitchforkRHDesc,items,Tool,"A farmer and his pitchfork are nothing to be messed with.\nRepair with Repair Kit.",,,,,

@@ -1,4 +1,0 @@
-﻿Key,Source,Context,English
-survivalCampfireRH,blocks,Block,Survival Campfire,,,,,
-survivalCampfireRHDesc,blocks,Block,The survival campfire can cook more advanced meals than a normal campfire.,,,,,
-

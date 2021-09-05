@@ -1,9 +1,0 @@
-﻿Key,Source,Context,English
-resourceForgingPlateRH,items,Item,Forging Plate,,,,,
-resourceForgingPlateRHDesc,items,Item,"Heated plate that allows for smelting. A part used in a forge.",,,,,
-resourceForgingTunnelRH,items,Item,Casting Tunnel,,,,,
-resourceForgingTunnelRHDesc,items,Item,"Allow hot metals to be poured. A part used in a forge.",,,,,
-toolBunsenBurnerRH,items,Item,Bunsen Burner,,,,,
-toolBunsenBurnerRHDesc,items,Item,"If you wish to mix chemicals you need a strong burner. A part used in a chemistry station.",,,,,
-toolViseRH,items,Item,Vise,,,,,
-toolViseRHDesc,items,Item,"Able to clamp down items so you can get a firm grip, A part used in a workbench.",,,,,

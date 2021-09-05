@@ -1,5 +1,0 @@
-﻿Key,Source,Context,English
-resourceElectricalWireRH,items,Tool,Electrical Wires,,,,,
-resourceElectricalWireRHDesc,items,Tool,"Electrical wires are used in to fuse together items with working electrical components.",,,,,
-resourceLightbulbRH,items,Tool,Light Bulb,,,,,
-resourceLightbulbRHDesc,items,Tool,"Light bulbs are a necessity in this apocalypse to shed light in dark corners.",,,,,

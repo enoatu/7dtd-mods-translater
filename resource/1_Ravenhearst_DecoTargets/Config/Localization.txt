@@ -1,4 +1,0 @@
-﻿Key,Source,Context,English
-
-decoLargeTargetRH,blocks,Block,Large Target,,,,,
-decoLargeTargetRHDesc,blocks,Block,This can be used to practice your aim. Just dont shit your pants when the real thing comes at you.,,,,,

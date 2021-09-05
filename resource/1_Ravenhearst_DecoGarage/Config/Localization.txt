@@ -1,8 +1,0 @@
-﻿Key,Source,Context,English
-
-cntGarageShelfFullRH,blocks,Container,Garage Shelf (Storage),,,,,
-cntOldToolboxRH,blocks,Container,Old Toolbox (Storage),,,,,
-cntOldToolboxRHDesc,blocks,Container,This rusty toolbox has seen better days but can hold a quite a few tools.,,,,,
-cntOldToolboxInsecuredRH,blocks,Container,Old Toolbox (Storage),,,,,
-cntOldToolboxSecuredRH,blocks,Container,Old Toolbox (Storage),,,,,
-

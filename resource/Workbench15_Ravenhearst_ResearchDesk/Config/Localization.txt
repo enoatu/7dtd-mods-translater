@@ -1,8 +1,0 @@
-Key,Source,Context,English
-researchDeskRH,blocks,Block,Research Desk,,,,,
-researchDeskRHDesc,blocks,Block,"Study recipes and schematics at this desk.",,,,,
-researchDeskRHSchematic,blocks,Workstation,Research Desk Schematic,,,,,
-resourceKnowledgePointsRH,items,Item,Knowledge Point,,,,,
-resourceKnowledgePointsRHDesc,items,Item,Knowledge Points are gained by using collections of schematics and books in the Research Desk. You can also find them in the world.,,,,,
-resourceInkRH,items,Item,Ink,,,,,
-resourceInkRHDesc,items,Item,Ink is used in the crafting of classes and quests.,,,,,

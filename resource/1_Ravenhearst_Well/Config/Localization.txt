@@ -1,3 +1,0 @@
-﻿Key,Source,Context,English
-oldStoneWellRH,blocks,Block,Stone Well,,,,,
-oldStoneWellRHDesc,blocks,Block,This stone well can be use on your property to produce a water source.,,,,,

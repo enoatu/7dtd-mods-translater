@@ -1,4 +1,0 @@
-﻿Key,Source,Context,English
-steelBars,blocks,Block,Steel Bars,,,,,
-steelBarsCentered,blocks,Block,Steel Bars (Centered),,,,,
-steelBarsDesc,blocks,Block,You can see and shoot through steel bars and they offer decent protection,,,,,

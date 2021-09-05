@@ -1,3 +1,0 @@
-﻿Key,Source,Context,English
-toolRemoteRH,items,Tool,Universal Remote,,,,,
-toolRemoteRHDesc,items,Tool,This old remote still seems to work. I wonder what I can use this on.,,,,,

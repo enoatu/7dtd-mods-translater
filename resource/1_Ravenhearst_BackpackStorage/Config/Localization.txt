@@ -1,8 +1,0 @@
-﻿Key,Source,Context,English
-cntBackpack01RH,blocks,Container,Weathered Backpack (Storage)
-cntBackpack03RH,blocks,Container,Moldy Backpack (Storage)
-cntDuffle01RH,blocks,Container,Duffle Bag (Storage)
-cntSportsBag01RH,blocks,Container,Rotting Sports Bag (Storage)
-cntSportsBag02RH,blocks,Container,Weathered Sports Bag (Storage)
-cntPurse01RH,blocks,Container,Purse (Storage)
-bagsDescRH,blocks,Container,The perfect grab bag for storing essentials on the run.

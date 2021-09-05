@@ -1,6 +1,0 @@
-﻿Key,Source,Context,English
-tv70LargePrefabRH,blocks,Block,Floor Model TV,,,,,
-tvFloorLargePrefabRH,blocks,Block,Retro Television,,,,,
-tvStandPrefabRH,blocks,Block,TV with Stand,,,,,
-tvBlockVariantHelperRH,blocks,Variant,Television Block,,,,,
-tvRHSchematic,items,Item,TV Schematic,,,,,

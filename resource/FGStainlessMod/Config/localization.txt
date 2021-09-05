@@ -1,5 +1,0 @@
-Key,Source,Context,Changes,English
-steelPolish,items,Item,New,Steel Polish
-steelPolishDesc,items,Item,New,"Polish used to upgrade steel blocks to Stainless Steel. This will greatly increase the durability of the block and make it shine."
-steelPolishBundle,items,Item,New,Box of Steel Polish
-steelPolishBundleDesc,items,Item,New,"Box of Steel Polish that will produce bottles when opened."

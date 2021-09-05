@@ -1,3 +1,0 @@
-﻿Key,Source,Context,English
-latheRH,blocks,Workstation,Lathe,,,,,
-latheRHDesc,blocks,Workstation,"The electrician table is used to construct electrical items such as doors and lights.",,,,,

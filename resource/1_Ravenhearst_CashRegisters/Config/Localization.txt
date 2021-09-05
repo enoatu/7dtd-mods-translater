@@ -1,4 +1,0 @@
-﻿Key,Source,Context,English
-cntCashRegister01,blocks,Block,Retro Cash Register,,,,,
-cntCashRegister02,blocks,Block,Retro Cash Register,,,,,
-cntCashRegister03,blocks,Block,Retro Cash Register,,,,,

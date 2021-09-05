@@ -1,3 +1,0 @@
-﻿Key,Source,Context,English
-personalWorkbenchRH,blocks,Workstation,Personal Craft Station,,,,,
-personalWorkbenchRHDesc,blocks,Workstation,"Your main crafting station. To pick it back up just destroy it.",,,,,

@@ -1,3 +1,0 @@
-Key,Source,Context,English
-resourceScrewsRH,items,Item,Screws,,,,,
-resourceScrewsRHDesc,items,Item,"Screws are needed in crafting metal objects",,,,,

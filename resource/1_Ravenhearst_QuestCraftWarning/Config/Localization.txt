@@ -1,2 +1,0 @@
-﻿Key,Source,Context,English
-questItemCrafting,Quest,Quest Info,[FF0000]WARNING[-] - You are currently crafting a quest item in that workstation you just closed!,,,,,

@@ -1,3 +1,0 @@
-﻿Key,Source,Context,English
-workingWoodBurningStove,blocks,Block,Wood Burning Stove,,,,,
-

@@ -1,6 +1,0 @@
-﻿Key,Source,Context,English
-autoWorkbenchRH,blocks,Workstation,Mechanic Workbench,,,,,
-autoWorkbenchRHDesc,blocks,Workstation,"The mechanic bench can be used to fix up vehicles and create brand new rides to cruise the apocalypse in.",,,,,
-autoWorkbenchRHSchematic,blocks,Workstation,Mechanic Workbench Schematic,,,,,
-toolSocketRH,items,Item,Socket,,,,,
-toolSocketRHDesc,items,Item,Sockets are essential for crafting engines and car parts.,,,,,

@@ -1,3 +1,0 @@
-﻿Key,Source,Context,English
-foodMRERH,items,Food,MRE,,,,,
-foodMRERHDesc,items,Food,A Military grade meal that will go a long way in nourishing you. This comes with no food poisoning chances. Find more in military loot..,,,,,

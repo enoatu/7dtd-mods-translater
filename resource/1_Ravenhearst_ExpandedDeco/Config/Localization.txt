@@ -1,7 +1,0 @@
-﻿Key,Source,Context,English
-Expanded_Doors,blocks,Variant,Doors Block,,,,,
-Expanded_KitchenFurniture,blocks,Variant,Kitchen Furniture Block,,,,,
-Expanded_HomeFurniture,blocks,Variant,Home Furniture Block,,,,,
-Expanded_Construction,blocks,Variant,Construction Block,,,,,
-Expanded_Technology,blocks,Variant,Technology Block,,,,,
-wallHungSink,blocks,Block,Pedestal Sink,,,,,

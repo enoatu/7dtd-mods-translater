@@ -1,3 +1,0 @@
-﻿Key,Source,Context,English
-resourceToiletPaperRH,items,Item,Toilet Paper,,,,,
-resourceToiletPaperRHDesc,items,Item,"Score! Make sure you take it all just to be safe.",,,,,

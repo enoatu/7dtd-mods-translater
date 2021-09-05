@@ -1,3 +1,0 @@
-﻿Key,Source,Context,English
-resourceWoodLogRH,items,Item,Wood Log,,,,,
-resourceWoodLogRHDesc,items,Item,"Wood logs can be broken down into wood in your bench or use the tree splitter for more efficiency.",,,,,

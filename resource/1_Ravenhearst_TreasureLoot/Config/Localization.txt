@@ -1,3 +1,0 @@
-﻿Key,Source,Context,English
-cntLootChestHero1,blocks,Container,Reinforced Chest,,,,,
-cntLootChestHeroInsecure1,blocks,Container,Reinforced Chest,,,,,
