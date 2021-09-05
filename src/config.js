@@ -1,4 +1,9 @@
 module.exports = {
+  modnames: [
+    'Ravenhearst',
+    'ZombieDayz',
+    'DarknessFalls',
+  ],
   sourceLangNames: {
     lower: 'english',
     upper: 'English',

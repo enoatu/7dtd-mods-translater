@@ -2,8 +2,15 @@
 
 $.verbose = true
 
+const Config = require('./config')
+const csvParse = require('csv-parse/lib/sync')
+const csvStringifySync = require('csv-stringify/lib/sync')
+const utilsString = require('./utils/string')
+const Counter = require('./counter')
+const TranslateCacher = require('./translate_cacher')
+
 const { modname, modversion } = argv
-if (!['Ravenhearst', 'ZombieDayz'].includes(modname)) {
+if (!Config.modnames.includes(modname)) {
   console.error('undefined modname: ' + modname)
   process.exit(0)
 }
@@ -14,18 +21,10 @@ if (!modversion) {
 const modDir = `resource/${modname}/${modversion}`
 const outputFileName = `output/7dtd-${modname}-${modversion}`
 
-const csvParse = require('csv-parse/lib/sync')
-const csvStringifySync = require('csv-stringify/lib/sync')
-const Config = require('./config')
-
 await $`cd $(dirname $0)`
 await $`rm -rf ./${outputFileName}`
 await $`mkdir ./${outputFileName}`
 await $`cp -rf ./${modDir}/* ./${outputFileName}`
-
-const utilsString = require('./utils/string')
-const Counter = require('./counter')
-const TranslateCacher = require('./translate_cacher')
 
 const counter = new Counter()
 const translateCacher = new TranslateCacher()
