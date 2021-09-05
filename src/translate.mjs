@@ -112,8 +112,6 @@ for (const [pathIndex, path] of paths.entries()) {
       rows[index][targetLangColumnIndex] = cache
       continue
     } else {
-      console.log(modName, source)
-      process.exit(0)
       const params = {
         text: source,
         source: Config.sourceLangNames.short,
