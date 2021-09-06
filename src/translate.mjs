@@ -22,9 +22,9 @@ const modDir = `resource/${modname}/${modversion}`
 const outputFileName = `output/7dtd-${modname}-${modversion}`
 
 await $`cd $(dirname $0)`
-await $`rm -rf ./${outputFileName}`
-await $`mkdir ./${outputFileName}`
-await $`cp -rf ./${modDir}/* ./${outputFileName}`
+await $`rm -rf ./tmp-${outputFileName}`
+await $`mkdir -p ./tmp-${outputFileName}`
+await $`cp -rf ./${modDir}/* ./tmp-${outputFileName}`
 
 const counter = new Counter()
 const translateCacher = new TranslateCacher()
@@ -69,7 +69,7 @@ for (const [pathIndex, path] of paths.entries()) {
   }
   counter.add('localzationNeedPaths', path)
 
-  const resultPath = path.replace(`./${modDir}/`, `./${outputFileName}/`)
+  const resultPath = path.replace(`./${modDir}/`, `./tmp-${outputFileName}/`)
   rows[0][targetLangColumnIndex] = targetLangColumnName // add columns (header)
 
   for (let index = 0; rows.length > index; index++) {
@@ -141,7 +141,7 @@ for (const [pathIndex, path] of paths.entries()) {
   console.info(`--- end output: ${resultPath} ---`)
 }
 
-await $`zip -rq ${outputFileName}.zip ${outputFileName}/`
+await $`zip -rq ${outputFileName}.zip tmp-${outputFileName}/`
 
 counter.output()
 
