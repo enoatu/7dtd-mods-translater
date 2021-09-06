@@ -9,7 +9,7 @@ const utilsString = require('./utils/string')
 const Counter = require('./counter')
 const TranslateCacher = require('./translate_cacher')
 
-const { modname, modversion } = argv
+const { modname, modversion, useOnlyCache } = argv
 if (!Config.modnames.includes(modname)) {
   console.error('undefined modname: ' + modname)
   process.exit(0)
@@ -108,6 +108,10 @@ for (const [pathIndex, path] of paths.entries()) {
       rows[index][targetLangColumnIndex] = cache
       continue
     } else {
+      if (useOnlyCache) {
+        console.log({ modName, source })
+        process.exit(0)
+      }
       const params = {
         text: source,
         source: Config.sourceLangNames.short,

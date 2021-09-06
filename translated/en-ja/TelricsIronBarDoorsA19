@@ -1,0 +1,17 @@
+{
+ "cache": [
+  [
+   "keyv:[e7a729]2x2 Iron Bar Door[-]",
+   {
+    "value": "{\"value\":\"[e7a729] 2x2鉄棒ドア[-]\",\"expires\":null}"
+   }
+  ],
+  [
+   "keyv:[e7a729]A 2x2 iron bar door. Both doors will open at the same time. Can be locked and passcoded. Places towards you, unless you rotate it.[-]",
+   {
+    "value": "{\"value\":\"[e7a729] 2x2の鉄製のバードア。両方のドアが同時に開きます。ロックしてパスコード化できます。あなたがそれを回転させない限り、あなたの方に配置します。[-]\",\"expires\":null}"
+   }
+  ]
+ ],
+ "lastExpire": 1630893459799
+}
