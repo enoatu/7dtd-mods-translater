@@ -19,12 +19,12 @@ by enoatu
 
 mod をダウンロードし、"Mods" に移動し，ディレクトリ構造を保ったままコピーする
 ```
-gfind . -type f -name "*ocalization*" | gsed "s/ /\\\ /g" | gsed "s/'/\\\'/g" | gxargs -i rsync -R {}  ../7dtd-mods-translater/resource/ZombieDayz/a19.6b-V9.2
+gfind . -type f -name "*ocalization*" | gsed "s/ /\\\ /g" | gsed "s/'/\\\'/g" | gxargs -i rsync -R {}  ../7dtd-mods-translater/resource/ZombieDayz/a19.6-V9.2
 ```
 
 実行する(すでに翻訳されていない場合はGoogle翻訳で翻訳される)
 ```
-./src/translate.mjs --modname=Ravenhearst --modversion=a19.6b-7.6.1.2
-./src/translate.mjs --modname=ZombieDayz --modversion=a19.6b-V9.2
-./src/translate.mjs --modname=DarknessFalls --modversion=a19.6b-V3.6
+./src/translate.mjs --modname=Ravenhearst --modversion=a19.6-7.6.1.2
+./src/translate.mjs --modname=ZombieDayz --modversion=a19.6-V9.2
+./src/translate.mjs --modname=DarknessFalls --modversion=a19.6-V3.6
 ```

@@ -64,10 +64,16 @@ for (const [pathIndex, path] of paths.entries()) {
     // console.info(
     //   `${path}, ${targetLangColumnName} (index=${foundTargetLangColumnIndex}) exist. skip`
     // )
-    counter.add('localzationUnNeedPaths', { path, example: rows[1][targetLangColumnIndex] })
+    counter.add('isTranslated', {
+      path,
+      example1: rows[1][targetLangColumnIndex],
+      example2: rows[2][targetLangColumnIndex],
+      example3: rows[3][targetLangColumnIndex],
+      example4: rows[4][targetLangColumnIndex],
+      example5: rows[5][targetLangColumnIndex],
+    })
     continue
   }
-  counter.add('localzationNeedPaths', path)
 
   const resultPath = path.replace(`./${modDir}/`, `./tmp-${outputFileName}/`)
   rows[0][targetLangColumnIndex] = targetLangColumnName // add columns (header)
@@ -101,6 +107,13 @@ for (const [pathIndex, path] of paths.entries()) {
     const source = rows[index][sourceColumnIndex]
     if (!source) {
       continue
+    }
+    if (isTranslated) {
+      // 抜け確認
+      if (utilsString.isTranslated(Config.targetLangNames.short, rows[index][targetLangColumnIndex])) {
+        continue
+      }
+      console.log(`path ${path}: ${Config.sourceLangNames.short} Found`)
     }
     let cache = await translateCacher.get(modName, source)
     if (cache) {
@@ -151,8 +164,13 @@ function getFirstRowInfo(path, rows) {
   const lowerSourceColumnIndex = rows[0].indexOf(Config.sourceLangNames.lower)
   const upperSourceColumnIndex = rows[0].indexOf(Config.sourceLangNames.upper)
   const englischSourceColumnIndex = rows[0].indexOf('Englisch')
+  let isTranslated = false
 
-  if (lowerSourceColumnIndex === -1 && upperSourceColumnIndex === -1 && englischSourceColumnIndex === -1) {
+  if (
+    lowerSourceColumnIndex === -1 &&
+    upperSourceColumnIndex === -1 &&
+    englischSourceColumnIndex === -1
+  ) {
     return {
       err: `${path}, source lang column not found (${rows[0]}). skip`,
       sourceColumnName: null,
@@ -180,43 +198,75 @@ function getFirstRowInfo(path, rows) {
   const lowerIndex = rows[0].indexOf(Config.targetLangNames.lower)
   const upperIndex = rows[0].indexOf(Config.targetLangNames.upper)
 
+  let targetLangColumnIndex = -1
+
   if (lowerIndex > -1) {
-    const isTranslated =
-      rows[1] && utilsString.isTranslated(Config.targetLangNames.short, rows[1][lowerIndex]) ||
-      rows[2] && utilsString.isTranslated(Config.targetLangNames.short, rows[2][lowerIndex]) ||
-      rows[3] && utilsString.isTranslated(Config.targetLangNames.short, rows[3][lowerIndex]) ||
-      rows[4] && utilsString.isTranslated(Config.targetLangNames.short, rows[4][lowerIndex])
-    return {
-      err: null,
-      sourceColumnName,
-      sourceColumnIndex,
-      targetLangColumnIndex: lowerIndex,
-      targetLangColumnName: Config.targetLangNames.lower,
-      isTranslated,
-    }
+    targetLangColumnIndex = lowerIndex
+    isTranslated =
+      (rows[1] &&
+        utilsString.isTranslated(
+          Config.targetLangNames.short,
+          rows[1][lowerIndex]
+        )) ||
+      (rows[2] &&
+        utilsString.isTranslated(
+          Config.targetLangNames.short,
+          rows[2][lowerIndex]
+        )) ||
+      (rows[3] &&
+        utilsString.isTranslated(
+          Config.targetLangNames.short,
+          rows[3][lowerIndex]
+        )) ||
+      (rows[4] &&
+        utilsString.isTranslated(
+          Config.targetLangNames.short,
+          rows[4][lowerIndex]
+        )) ||
+      (rows[5] &&
+        utilsString.isTranslated(
+          Config.targetLangNames.short,
+          rows[5][lowerIndex]
+        ))
   }
   if (upperIndex > -1) {
-    const isTranslated =
-      rows[1] && utilsString.isTranslated(Config.targetLangNames.short, rows[1][lowerIndex]) ||
-      rows[2] && utilsString.isTranslated(Config.targetLangNames.short, rows[2][lowerIndex]) ||
-      rows[3] && utilsString.isTranslated(Config.targetLangNames.short, rows[3][lowerIndex]) ||
-      rows[4] && utilsString.isTranslated(Config.targetLangNames.short, rows[4][lowerIndex])
-    return {
-      err: null,
-      sourceColumnName,
-      sourceColumnIndex,
-      targetLangColumnIndex: upperIndex,
-      targetLangColumnName: Config.targetLangNames.upper,
-      isTranslated,
-    }
+    targetLangColumnIndex = upperIndex
+    isTranslated =
+      (rows[1] &&
+        utilsString.isTranslated(
+          Config.targetLangNames.short,
+          rows[1][lowerIndex]
+        )) ||
+      (rows[2] &&
+        utilsString.isTranslated(
+          Config.targetLangNames.short,
+          rows[2][lowerIndex]
+        )) ||
+      (rows[3] &&
+        utilsString.isTranslated(
+          Config.targetLangNames.short,
+          rows[3][lowerIndex]
+        )) ||
+      (rows[4] &&
+        utilsString.isTranslated(
+          Config.targetLangNames.short,
+          rows[4][lowerIndex]
+        )) ||
+      (rows[5] &&
+        utilsString.isTranslated(
+          Config.targetLangNames.short,
+          rows[5][lowerIndex]
+        ))
   }
 
   // Not found target lang
 
-  // get empty lang index or last lang index
-  let targetLangColumnIndex = rows[0].findIndex((row) => !row)
-  if (targetLangColumnIndex == -1) {
-    targetLangColumnIndex = rows[0].length
+  if (targetLangColumnIndex === -1) {
+    // get empty lang index or last lang index
+    targetLangColumnIndex = rows[0].findIndex((row) => !row)
+    if (targetLangColumnIndex == -1) {
+      targetLangColumnIndex = rows[0].length
+    }
   }
   return {
     err: null,
@@ -226,7 +276,7 @@ function getFirstRowInfo(path, rows) {
       ? Config.targetLangNames.lower
       : Config.targetLangNames.upper,
     targetLangColumnIndex,
-    isTranslated: false,
+    isTranslated,
   }
 }
 
