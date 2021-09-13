@@ -18,13 +18,15 @@ if (!modversion) {
   console.error('undefined modversion: ' + modversion)
   process.exit(0)
 }
-const modDir = `resource/${modname}/${modversion}`
-const outputFileName = `output/7dtd-${modname}-${modversion}`
+const modDir = `resource/${modname}/${modversion}` // ex) resource/Ravenhearst/a19.6-7.6.1.2
+const outputDirName = Config.outputDirName
+const tmpOutputDirName = Config.tmpOutputDirName
+const outputFile = `7dtd-${modname}-${modversion}` // ex) 7dtd-Ravenhearst-a19.6-7.6.1.2
 
 await $`cd $(dirname $0)`
-await $`rm -rf ./tmp-${outputFileName}`
-await $`mkdir -p ./tmp-${outputFileName}`
-await $`cp -rf ./${modDir}/* ./tmp-${outputFileName}`
+await $`rm -rf ./${outputDirName}/${outputFile}`   // ex) rm -rf ./output/7dtd-Ravenhearst-a19.6-7.6.1.2
+await $`mkdir -p ./${outputDirName}/${outputFile}`       // ex) mkdir -p ./output/7dtd-Ravenhearst-a19.6-7.6.1.2
+await $`cp -rf ./${modDir}/* ./${outputDirName}/${outputFile}`
 
 const counter = new Counter()
 const translateCacher = new TranslateCacher()
@@ -75,7 +77,7 @@ for (const [pathIndex, path] of paths.entries()) {
     continue
   }
 
-  const resultPath = path.replace(`./${modDir}/`, `./tmp-${outputFileName}/`)
+  const resultPath = path.replace(`./${modDir}/`, `./${outputDirName}/${outputFile}/`)
   rows[0][targetLangColumnIndex] = targetLangColumnName // add columns (header)
 
   for (let index = 0; rows.length > index; index++) {
@@ -154,7 +156,10 @@ for (const [pathIndex, path] of paths.entries()) {
   console.info(`--- end output: ${resultPath} ---`)
 }
 
-await $`zip -rq ${outputFileName}.zip tmp-${outputFileName}/`
+// zip compress
+await $`cd ${tmpOutputDirName} && zip -rq ../${outputDirName}/${outputFile}.zip ${outputFile}/`
+
+await $`mv ./${outputDirName}/${outputFile} ./${tmpOutputDirName}/${outputFile}`
 
 counter.output()
 
