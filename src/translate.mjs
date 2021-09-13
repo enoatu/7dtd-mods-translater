@@ -156,7 +156,7 @@ for (const [pathIndex, path] of paths.entries()) {
 }
 
 // zip compress
-await $`cd ${tmpOutputDirName} && zip -rq ../${outputDirName}/${outputFile}.zip ${outputFile}/`
+await $`cd ${outputDirName} && zip -rq ${outputFile}.zip ${outputFile}/`
 
 await $`mv ./${outputDirName}/${outputFile} ./${tmpOutputDirName}/${outputFile}`
 
