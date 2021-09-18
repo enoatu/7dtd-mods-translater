@@ -24,7 +24,7 @@ const tmpOutputDirName = Config.tmpOutputDirName
 const outputFile = `7dtd-${modname}-${modversion}` // ex) 7dtd-Ravenhearst-a19.6-7.6.1.2
 
 await $`rm -rf ./${outputDirName}/${outputFile}`   // ex) rm -rf ./output/7dtd-Ravenhearst-a19.6-7.6.1.2
-await $`mkdir -p ./${outputDirName}/${outputFile}`       // ex) mkdir -p ./output/7dtd-Ravenhearst-a19.6-7.6.1.2
+await $`mkdir -p ./${outputDirName}/${outputFile}` // ex) mkdir -p ./output/7dtd-Ravenhearst-a19.6-7.6.1.2
 await $`cp -rf ./${modDir}/* ./${outputDirName}/${outputFile}`
 
 const counter = new Counter()

@@ -8499,13 +8499,13 @@
   [
    "keyv:Bent Nails",
    {
-    "value": "{\"value\":\"曲がった爪\",\"expires\":null}"
+    "value": "{\"value\":\"曲がった釘\",\"expires\":null}"
    }
   ],
   [
    "keyv:You have some bent nails, you can probably straighten them out.",
    {
-    "value": "{\"value\":\"あなたはいくつかの曲がった爪を持っています、あなたはおそらくそれらをまっすぐにすることができます。\",\"expires\":null}"
+    "value": "{\"value\":\"あなたはいくつかの曲がった釘を持っています、あなたはおそらくそれらをまっすぐにすることができます。\",\"expires\":null}"
    }
   ],
   [
