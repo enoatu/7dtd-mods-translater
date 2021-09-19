@@ -285,7 +285,7 @@
   [
    "keyv:Bladed weapons such as knives and machetes are best at harvesting meat, hide and bones from animals and remains.\\nThese  weapons will cause a bleed debuff on every hit, which can be increased by leveling your skill in Blades.",
    {
-    "value": "{\"value\":\"ナイフやマチェーテなどのブレード付き武器は、動物や遺体から肉、皮、骨を収穫するのに最適です。\\\\nこれらの武器は、ヒットするたびにブリードデバフを引き起こします。これは、ブレードのスキルを平準化することで増やすことができます。\",\"expires\":null}"
+    "value": "{\"value\":\"ナイフやマチェーテなどのブレード付き武器は、動物や遺体から肉、皮、骨を収穫するのに最適です。\\\\nこれらの武器は、ヒットするたびに出血デバフを引き起こします。これは、ブレードのスキルを平準化することで増やすことができます。\",\"expires\":null}"
    }
   ],
   [
